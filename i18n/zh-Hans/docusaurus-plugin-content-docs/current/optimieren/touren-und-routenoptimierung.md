@@ -25,7 +25,5 @@ sidebar_position: 1
 
 ![Timeline-Ansicht für die Tourenplanung](/img/app-timeline-de.png)
 
-*截图为德语界面 — 应用本身提供德语、英语、法语和意大利语版本。*
-
 ---
 *立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
