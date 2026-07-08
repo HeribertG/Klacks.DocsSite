@@ -1,0 +1,64 @@
+name: Deploy Klacks.DocsSite to Hetzner
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-klacks-docs-site-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Deploy to server
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: ${{ secrets.SSH_USERNAME }}
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        port: 22
+        script: |
+          set -e
+          echo "Deploying Klacks.DocsSite..."
+
+          cd /root/apps
+
+          if [ -d "Klacks.DocsSite" ]; then
+            echo "Updating source checkout..."
+            cd Klacks.DocsSite
+            git remote set-url origin https://github.com/HeribertG/Klacks.DocsSite.git 2>/dev/null || true
+            git fetch origin
+            git reset --hard origin/main
+          else
+            echo "Cloning source checkout..."
+            git clone https://github.com/HeribertG/Klacks.DocsSite.git
+            cd Klacks.DocsSite
+          fi
+
+          echo "Installing dependencies..."
+          npm ci
+
+          echo "Building static site..."
+          npm run build
+
+          echo "Syncing build output into serving directory..."
+          mkdir -p /root/apps/klacks-docs-site/docs
+          rsync -a --delete build/ /root/apps/klacks-docs-site/docs/
+
+          cd ..
+
+          echo "Health check..."
+          sleep 2
+          if curl -sk -o /dev/null -w "%{http_code}" https://localhost/docs/ | grep -q "200"; then
+            echo "Docs site responds with 200"
+          else
+            echo "Docs site did not respond with 200"
+            curl -sk -o /dev/null -w "%{http_code}\n" https://localhost/docs/
+            exit 1
+          fi
+
+          echo "Klacks.DocsSite deployment completed!"
