@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation und Playground
 
-Klacks probieren Sie in einer Minute aus — und installieren es in fünf. Keine Registrierung, keine Verkaufsgespräche.
+Klacks probieren Sie in einer Minute aus — und installieren es in wenigen Minuten. Keine Registrierung, keine Verkaufsgespräche.
 
 ## Variante 1: Playground (nichts installieren)
 
@@ -29,7 +29,7 @@ Unter Windows: `install.ps1` statt `install.sh`. Der Installer erzeugt Passwört
 
 - Ein mitgelieferter Update-Dienst hält Ihre Installation automatisch aktuell — mit Backup vor jedem Update und automatischem Rollback bei Problemen.
 - Ihre Daten bleiben vollständig auf Ihrer Infrastruktur; Klacks funkt nicht nach Hause.
-- Voraussetzung ist lediglich ein Server mit Docker.
+- Voraussetzung ist ein Server mit Docker, ausgehendem Internetzugriff (für Docker-Images und Updates) und offenen Ports 80/443.
 
 ---
 *Fragen zur Installation? [Klacks-Community auf Discord](https://discord.gg/YRP8p2abVC).*

@@ -17,7 +17,7 @@ Ferien, Krankheit, Weiterbildung, Militär — wer wann fehlt, sehen Sie in Klac
 
 - Die Gantt-Übersicht eignet sich gut für die Ferienplanung im Team: Engpässe eines ganzen Sommers auf einen Blick.
 - Fällt jemand kurzfristig aus, zeigt Klacks sofort qualifizierten, verfügbaren Ersatz — ohne den ganzen Plan zu kippen.
-- Absenz-Salden (z.B. Ferienguthaben) fliessen in die Stunden-Auswertungen ein.
+- Absenz-Werte (z.B. eine ganze oder halbe Ferientageintragung) fliessen als Summe in die Stunden-Auswertungen der Berichte ein.
 
 ![Timeline-Ansicht in Klacks](/img/app-timeline-de.png)
 

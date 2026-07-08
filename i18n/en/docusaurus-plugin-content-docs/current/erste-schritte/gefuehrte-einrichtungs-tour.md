@@ -10,11 +10,11 @@ New to Klacks? There's nothing to hunt for: Klacksy, the built-in assistant, wal
 
 You start the tour right in the chat with Klacksy (for example by typing "Show me the app", or via the suggestion shown on first launch). From there it moves station by station through the most important areas:
 
-- Klacksy **explains each area** in a few sentences — from the employee directory through groups and contracts to holidays and settings.
+- Klacksy **explains each area** in a few sentences — from the basic company settings and address through calendar, user management and groups to employees, shifts, availability, absences, holidays, period closing, email setup, and the Klacksy/plugin settings — 16 stations in total.
 - The **matching navigation icon pulses** in the sidebar as you go, so you always know where you are.
-- You set the pace: next, back, or end the tour — at any time.
+- You set the pace: continue, skip a station, or end the tour — at any time.
 
-In about fifteen minutes you get an overview of the entire application, no manual required.
+Step by step, this builds a complete overview of the application, no manual required.
 
 ## Good to know
 

@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## How it works
 
-Klacksy understands what you want and translates it into concrete actions — with more than **170 capabilities** at the ready:
+Klacksy understands what you want and translates it into concrete actions — with more than **250 capabilities** at the ready:
 
 - **Scheduling:** fill shifts, replace no-shows, rebook assignments
 - **Managing:** create employees, maintain groups, set permissions

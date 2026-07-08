@@ -9,7 +9,7 @@ Der Periodenabschluss ist Ihr Monatsabschluss-Arbeitsplatz: Sie geben einzelne T
 Die Seite ist in drei Tabs gegliedert: **Perioden**, **Exporte** und **Protokoll**.
 
 1. **Periode wählen:** Sie grenzen den Zeitraum über Start- und Enddatum ein und filtern bei Bedarf auf eine Gruppe (oder «Alle Gruppen»). Als Zahlungsintervall stehen wöchentlich, zweiwöchentlich, monatlich oder individuell zur Verfügung.
-2. **Versiegeln:** Mit *Periode versiegeln* (oder *Alle versiegeln*) schliessen Sie die Einträge ab. Ein Bestätigungsdialog zeigt vorher, wie viele Einträge betroffen sind.
+2. **Versiegeln:** Als Administrator schliessen Sie mit *Periode versiegeln* (oder *Alle versiegeln*) die Einträge ab. Ein Bestätigungsdialog zeigt vorher, wie viele Einträge betroffen sind.
 3. **Exportieren:** Aus versiegelten Perioden erzeugen Sie Exporte — als CSV, JSON, XML, DATEV oder BMD NTCS, mit wählbarer Sprache und Währung; bei Bedarf bezogen auf eine bestimmte Bestellung. Der Tab *Exporte* listet alle erzeugten Dateien mit Zeitraum, Erstellungsdatum und erstellender Person.
 4. **Wieder öffnen:** Als Administrator können Sie eine versiegelte Periode bei Bedarf wieder öffnen (*Periode wieder öffnen* bzw. *Alle entsiegeln*). Dabei ist eine **Begründung Pflicht**.
 5. **Protokoll:** Jedes Versiegeln und Wiederöffnen wird im Tab *Protokoll* festgehalten — mit Aktion, Zeitpunkt und ausführender Person.

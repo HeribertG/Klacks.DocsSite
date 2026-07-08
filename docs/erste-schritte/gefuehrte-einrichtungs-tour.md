@@ -10,11 +10,11 @@ Neu in Klacks? Sie müssen nichts suchen: Klacksy, der eingebaute Assistent, fü
 
 Die Tour starten Sie direkt im Chat mit Klacksy (zum Beispiel mit „Zeig mir die App" oder über den Vorschlag beim ersten Start). Danach geht es Station für Station durch die wichtigsten Bereiche:
 
-- Klacksy **erklärt jeden Bereich** in wenigen Sätzen — vom Mitarbeiter-Stamm über Gruppen und Verträge bis zu Feiertagen und Einstellungen.
+- Klacksy **erklärt jeden Bereich** in wenigen Sätzen — von den Firmen-Grundeinstellungen und der Adresse über Kalender, Benutzerverwaltung und Gruppen bis zu Mitarbeitenden, Diensten, Verfügbarkeiten, Absenzen, Feiertagen, Periodenabschluss, E-Mail-Einrichtung und den Klacksy-/Plugin-Einstellungen — insgesamt 16 Stationen.
 - Das **passende Navigations-Symbol pulsiert** dabei in der Seitenleiste, damit Sie immer sehen, wo Sie gerade sind.
-- Sie bestimmen das Tempo: weiter, zurück oder Tour beenden — jederzeit.
+- Sie bestimmen das Tempo: weiter, eine Station überspringen oder die Tour jederzeit beenden.
 
-So entsteht in rund einer Viertelstunde ein Überblick über die ganze Anwendung, ohne Handbuch-Lektüre.
+So entsteht Schritt für Schritt ein vollständiger Überblick über die Anwendung, ganz ohne Handbuch-Lektüre.
 
 ## Gut zu wissen
 

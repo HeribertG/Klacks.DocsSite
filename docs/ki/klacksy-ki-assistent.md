@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## So funktioniert es
 
-Klacksy versteht Ihre Anliegen und übersetzt sie in konkrete Aktionen — über **170 Fähigkeiten** stehen bereit:
+Klacksy versteht Ihre Anliegen und übersetzt sie in konkrete Aktionen — über **250 Fähigkeiten** stehen bereit:
 
 - **Planen:** Schichten füllen, Ausfälle ersetzen, Dienste umbuchen
 - **Verwalten:** Mitarbeitende anlegen, Gruppen pflegen, Berechtigungen setzen

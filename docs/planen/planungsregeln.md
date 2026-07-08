@@ -9,7 +9,7 @@ Planungsregeln definieren die Rahmenbedingungen für die automatische Dienstplan
 Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte gelten damit für alle Mitarbeitenden mit diesem Vertrag. Jede Regel umfasst vier Bereiche:
 
 **Arbeitstage & Ruhezeiten**
-- Max. Arbeitstage pro Woche
+- Max. Arbeitstage: weiche Regel für die bevorzugte Blocklänge, bevor ein Ruhetag eingeplant wird (z. B. „5 Tage arbeiten, dann Ruhe") — ein Verstoss macht den Plan nicht ungültig, nur weniger optimal
 - Min. Ruhetage zwischen zwei Arbeitsblöcken
 - Min. Freistunden zwischen zwei Arbeitstagen (Ruhezeit vom Ende eines Arbeitstages bis zum Beginn des nächsten)
 - Max. optimale Lücke zwischen Schichten in Stunden
@@ -33,6 +33,7 @@ Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte
 - Beim Erstellen einer neuen Regel werden die **Standardwerte aus den Einstellungen** (Planungsregeln — Standardwerte) automatisch übernommen; Sie können jeden Wert anschliessend individuell anpassen.
 - Planungsregeln wirken über den Vertrag — Sie müssen sie nicht pro Person pflegen. Ändert sich eine Regel, betrifft das alle Mitarbeitenden mit diesem Vertrag.
 - Die Überstundengrenze und die Sollzeit sind zwei verschiedene Dinge: Die Sollzeit ist der Standard pro Tag, die Überstundengrenze der Schwellwert pro Woche.
+- "Max. Arbeitstage" (weiche Vorliebe für die Blocklänge) und "Max. aufeinanderfolgende Arbeitstage" (harte, nie überschreitbare Obergrenze) sind zwei unterschiedliche Regeln — nicht verwechseln.
 
 ---
 *Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

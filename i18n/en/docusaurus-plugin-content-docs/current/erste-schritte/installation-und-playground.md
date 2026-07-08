@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Installation and Playground
 
-You can try Klacks in one minute — and install it in five. No registration, no sales calls.
+You can try Klacks in one minute — and install it in just a few minutes. No registration, no sales calls.
 
 ## Option 1: Playground (nothing to install)
 
@@ -29,7 +29,7 @@ On Windows: run `install.ps1` instead of `install.sh`. The installer generates p
 
 - A bundled update service keeps your installation up to date automatically — with a backup before every update and automatic rollback if anything goes wrong.
 - Your data stays entirely on your own infrastructure; Klacks never phones home.
-- All you need is a server with Docker.
+- All you need is a server with Docker, outbound internet access (for Docker images and updates), and open ports 80/443.
 
 ---
 *Questions about the installation? [Klacks community on Discord](https://discord.gg/YRP8p2abVC).*

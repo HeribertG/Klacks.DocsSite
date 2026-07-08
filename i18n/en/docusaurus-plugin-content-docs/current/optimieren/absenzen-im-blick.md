@@ -17,7 +17,7 @@ Vacation, sickness, training, military service — Klacks shows you who is away 
 
 - The Gantt overview is great for team vacation planning: an entire summer's bottlenecks at a glance.
 - If someone drops out at short notice, Klacks immediately shows qualified, available replacements — without upending the whole schedule.
-- Absence balances (e.g. remaining vacation) flow into the hours evaluations.
+- Absence values (e.g. a full or half vacation day entry) are summed up in the reports' hours evaluations.
 
 ![Timeline view in Klacks](/img/app-timeline-de.png)
 *Screenshot shown in German — the app itself is available in English.*

@@ -15,7 +15,11 @@ The schedule passes through four stages:
 3. **Approved** — the responsible authority has signed off
 4. **Closed** — the schedule is sealed and binding
 
-Each stage **locks editing** accordingly: once something is approved, nobody changes it accidentally with drag & drop. Who may set which stage is governed by group-based access rights.
+Each stage **locks editing** accordingly: once something is approved, nobody changes it accidentally with drag & drop. Who may set which stage is clearly defined:
+
+- **Confirming** can be done by any logged-in person.
+- **Approving** (and revoking an approval) requires the **Supervisor** or **Admin** role — scoped per day and group.
+- **Closing** a period (and later reopening it) is reserved **exclusively for Admin**.
 
 ## Good to know
 

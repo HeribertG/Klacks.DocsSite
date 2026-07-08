@@ -9,7 +9,7 @@ Scheduling rules define the framework for automatic shift planning — working h
 A scheduling rule is assigned to a **contract**. The limits it defines then apply to all employees with that contract. Each rule covers four areas:
 
 **Working days & rest periods**
-- Max. working days per week
+- Max. working days: a soft preference for the block length before a rest day is scheduled (e.g. "5 days on, then rest") — violating it doesn't invalidate the plan, it's just less optimal
 - Min. rest days between two work blocks
 - Min. free hours between two working days (rest period from the end of one working day to the start of the next)
 - Max. optimal gap between shifts in hours
@@ -33,6 +33,7 @@ A scheduling rule is assigned to a **contract**. The limits it defines then appl
 - When you create a new rule, the **default values from the settings** (Scheduling Rules — Defaults) are applied automatically; you can then adjust each value individually.
 - Scheduling rules take effect through the contract — you don't have to maintain them per person. If a rule changes, it affects all employees with that contract.
 - The overtime threshold and the target hours are two different things: target hours are the daily standard, the overtime threshold is the weekly cutoff.
+- "Max. working days" (a soft preference for block length) and "Max. consecutive working days" (a hard limit that's never exceeded) are two different rules — don't confuse them.
 
 ---
 *Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

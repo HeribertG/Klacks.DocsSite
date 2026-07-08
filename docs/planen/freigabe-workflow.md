@@ -15,7 +15,11 @@ Der Plan wandert durch vier Stufen:
 3. **Genehmigt** — die verantwortliche Stelle hat freigegeben
 4. **Abgeschlossen** — der Plan ist versiegelt und verbindlich
 
-Jede Stufe **sperrt die Bearbeitung** entsprechend: Was genehmigt ist, verändert niemand mehr versehentlich per Drag & Drop. Wer welche Stufe setzen darf, steuern gruppenbasierte Zugriffsrechte.
+Jede Stufe **sperrt die Bearbeitung** entsprechend: Was genehmigt ist, verändert niemand mehr versehentlich per Drag & Drop. Wer welche Stufe setzen darf, ist klar geregelt:
+
+- **Bestätigen** darf jede angemeldete Person.
+- **Genehmigen** (und die Genehmigung zurückziehen) braucht die Rolle **Supervisor** oder **Admin** — jeweils pro Tag und Gruppe.
+- **Abschliessen** einer Periode (und das spätere Wiederöffnen) ist **ausschliesslich Admin** vorbehalten.
 
 ## Gut zu wissen
 

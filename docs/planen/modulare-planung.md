@@ -12,7 +12,7 @@ Statt einen unübersichtlichen Riesenplan zu jonglieren, zerlegen Sie ihn in kle
 2. **Einmal einplanen** — Wer in mehreren Bereichen arbeitet, wird nur einmal eingeplant und erscheint überall automatisch richtig.
 3. **Automatisch synchron** — Eine Änderung ist sofort überall aktuell.
 
-Der Trick dahinter: Planblätter halten **Verweise statt Kopien**. Ein Dienst existiert nur einmal — egal, in wie vielen Teilplänen er sichtbar ist. Doppelbuchungen werden dadurch nicht nur erkannt, sondern sind **strukturell unmöglich**.
+Der Trick dahinter: Planblätter halten **Verweise statt Kopien**. Ein Dienst existiert nur einmal — egal, in wie vielen Teilplänen er sichtbar ist. Dadurch kann eine Doppelbuchung nirgends unbemerkt bleiben: Eine laufende Kollisionsprüfung erkennt Überschneidungen sofort, bevor sie endgültig gespeichert werden.
 
 ## Gut zu wissen
 

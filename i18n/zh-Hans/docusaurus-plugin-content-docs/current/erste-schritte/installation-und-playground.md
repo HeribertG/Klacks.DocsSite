@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 安装与 Playground
 
-试用 Klacks 只需一分钟 — 安装也只要五分钟。无需注册，没有销售环节。
+试用 Klacks 只需一分钟 — 安装也只需几分钟。无需注册，没有销售环节。
 
 ## 方式一：Playground（无需安装）
 
@@ -29,7 +29,7 @@ unzip klacks-onprem.zip && cd onprem && ./install.sh
 
 - 随附的更新服务会让您的安装始终保持最新 — 每次更新前自动备份，出现问题时自动回滚。
 - 您的数据完全保留在您自己的基础设施上；Klacks 不会向外发送任何数据。
-- 唯一的前提是一台安装了 Docker 的服务器。
+- 前提条件是一台安装了 Docker 的服务器、可访问外网（用于拉取 Docker 镜像和更新）以及开放的 80/443 端口。
 
 ---
 *安装方面有疑问？欢迎加入 [Discord 上的 Klacks 社区](https://discord.gg/YRP8p2abVC)。*

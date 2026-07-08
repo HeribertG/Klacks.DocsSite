@@ -9,7 +9,7 @@ Period closing is your month-end workspace: you release individual days, close t
 The page is organized into three tabs: **Periods**, **Exports**, and **Log**.
 
 1. **Choose the period:** Narrow down the time range with a start and end date and, if needed, filter to a group (or "All groups"). Available payment intervals are weekly, biweekly, monthly, or custom.
-2. **Seal:** With *Seal period* (or *Seal all*) you close the entries. A confirmation dialog first shows how many entries are affected.
+2. **Seal:** As an administrator, use *Seal period* (or *Seal all*) to close the entries. A confirmation dialog first shows how many entries are affected.
 3. **Export:** From sealed periods you generate exports — as CSV, JSON, XML, DATEV, or BMD NTCS, with selectable language and currency; optionally scoped to a specific order. The *Exports* tab lists all generated files with time range, creation date, and creator.
 4. **Reopen:** As an administrator you can reopen a sealed period if necessary (*Reopen period* or *Unseal all*). A **justification is mandatory**.
 5. **Log:** Every sealing and reopening is recorded in the *Log* tab — with the action, timestamp, and the person who performed it.

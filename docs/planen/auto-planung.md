@@ -8,12 +8,12 @@ Der mühsamste Teil der Dienstplanung — das Zuordnen von Menschen zu Schichten
 
 ## So funktioniert es
 
-Hinter der 1-Klick-Auto-Planung steckt ein **evolutionärer Algorithmus**: Er erzeugt tausende Plan-Varianten, bewertet sie und kombiniert die besten weiter — so lange, bis eine ausgewogene Lösung steht. Bewertet wird nach mehreren Zielen gleichzeitig:
+Hinter der 1-Klick-Auto-Planung steckt ein **genetischer Algorithmus**: Er erzeugt tausende Plan-Varianten, bewertet sie und kombiniert die besten weiter — so lange, bis eine ausgewogene Lösung steht. Harte Regeln haben dabei immer Vorrang, erst danach zählen weitere Ziele:
 
-- **Abdeckung** — jede Schicht ist besetzt, mit der geforderten Anzahl Personen
-- **Regeln** — Arbeitsrecht, Ruhezeiten, Qualifikationen und Verfügbarkeiten werden eingehalten
-- **Fairness** — Wochenend- und Nachtdienste verteilen sich ausgewogen
-- **Wege** — bei mobilen Einsätzen fliessen die Distanzen mit ein
+- **Regeln** — Arbeitsrecht, Ruhezeiten, Qualifikationen und Verfügbarkeiten sind nicht verhandelbar: Kein noch so gutes Ergebnis darf eine harte Regel verletzen
+- **Abdeckung** — jede Schicht wird mit der geforderten Anzahl Personen besetzt
+- **Fairness** — Arbeitsstunden verteilen sich gleichmässig, und die Schichtfolge pro Person folgt wo möglich dem Muster Früh → Spät → Nacht
+- **Kontinuität** — wo möglich bleiben Mitarbeitende an ihrem gewohnten Einsatzort
 
 Sie starten die Auto-Planung direkt aus dem Dienstplan für den gewählten Zeitraum. Das Ergebnis erscheint als normaler Planentwurf: Alles bleibt von Hand nachjustierbar, nichts wird ungefragt festgeschrieben.
 

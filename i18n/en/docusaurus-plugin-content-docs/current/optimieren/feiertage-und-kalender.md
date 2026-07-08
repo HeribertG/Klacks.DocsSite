@@ -23,6 +23,7 @@ For each rule you also record a name and description (multilingual), country and
 - SubRules are mainly intended for moving holidays from the weekend to the next working day.
 - The **Paid** checkbox is relevant for payroll calculation.
 - Country and canton/state let you handle regional differences — Good Friday, for example, does not apply in all Swiss cantons (exceptions: VS, TI).
+- The pre-installed calendar packages for countries and Swiss cantons are locked against deletion; your own, self-created calendar selections can be deleted at any time.
 
 ![Holiday rules in Klacks](/img/app-calendar-de.png)
 *Screenshot shown in German — the app itself is available in English.*

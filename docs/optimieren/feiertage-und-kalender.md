@@ -23,6 +23,7 @@ Pro Regel erfassen Sie ausserdem Name und Beschreibung (mehrsprachig), Land und 
 - SubRules sind vor allem dafür gedacht, Feiertage vom Wochenende auf den nächsten Werktag zu verschieben.
 - Die Checkbox **Bezahlt** ist für die Lohnberechnung relevant.
 - Über Land und Kanton/Bundesland steuern Sie regionale Unterschiede — der Karfreitag gilt z. B. in der Schweiz nicht in allen Kantonen (Ausnahmen: VS, TI).
+- Die vorinstallierten Kalender-Pakete für Länder und Schweizer Kantone sind gegen Löschen gesperrt; eigene, selbst angelegte Kalenderauswahlen können Sie jederzeit löschen.
 
 ![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
 

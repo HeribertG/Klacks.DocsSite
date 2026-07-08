@@ -8,12 +8,12 @@ The most tedious part of shift scheduling — assigning people to shifts — Kla
 
 ## How it works
 
-Behind the 1-click auto-planning sits an **evolutionary algorithm**: it generates thousands of schedule variants, scores them, and keeps combining the best ones — until a well-balanced solution emerges. Scoring runs against several goals at once:
+Behind the 1-click auto-planning sits a **genetic algorithm**: it generates thousands of schedule variants, scores them, and keeps combining the best ones — until a well-balanced solution emerges. Hard rules always take priority; only after that do further goals count:
 
-- **Coverage** — every shift is staffed, with the required number of people
-- **Rules** — labor law, rest periods, qualifications, and availability are respected
-- **Fairness** — weekend and night shifts are distributed evenly
-- **Travel** — for mobile assignments, distances are factored in
+- **Rules** — labor law, rest periods, qualifications, and availability are non-negotiable: no matter how good the rest of a schedule is, it can never win by breaking a hard rule
+- **Coverage** — every shift is staffed with the required number of people
+- **Fairness** — working hours are distributed evenly, and each person's shift sequence follows the early → late → night pattern where possible
+- **Continuity** — where possible, employees stay at their usual work location
 
 You launch auto-planning directly from the schedule for the selected period. The result appears as a normal draft: everything remains adjustable by hand, and nothing gets locked in without asking.
 

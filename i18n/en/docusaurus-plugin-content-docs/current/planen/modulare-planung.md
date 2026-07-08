@@ -12,7 +12,7 @@ Instead of juggling one sprawling mega-schedule, you break it into small, clear 
 2. **Schedule once** — Anyone working in several areas is scheduled only once and automatically shows up correctly everywhere.
 3. **Automatically in sync** — One change is instantly reflected everywhere.
 
-The trick behind it: schedule sheets hold **references instead of copies**. A shift exists only once — no matter how many sub-schedules it appears in. Double bookings aren't just detected — they're **structurally impossible**.
+The trick behind it: schedule sheets hold **references instead of copies**. A shift exists only once — no matter how many sub-schedules it appears in. That means a double booking can never stay hidden anywhere: an ongoing collision check catches overlaps immediately, before they are saved for good.
 
 ## Good to know
 

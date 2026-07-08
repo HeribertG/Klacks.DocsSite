@@ -23,6 +23,7 @@ sidebar_position: 4
 - SubRules 主要用于将落在周末的假日顺延到下一个工作日。
 - **带薪**复选框与工资计算相关。
 - 通过国家与州/联邦州可以处理地区差异 — 例如耶稣受难日在瑞士并非所有州都适用（例外：VS、TI）。
+- 预安装的国家与瑞士各州历法套件被锁定，无法删除；您自行创建的日历选择则可随时删除。
 
 ![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
 
