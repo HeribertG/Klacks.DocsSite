@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Über Klacks": {
+    "message": "عن Klacks",
+    "description": "The label for category 'Über Klacks' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Erste Schritte": {
+    "message": "الخطوات الأولى",
+    "description": "The label for category 'Erste Schritte' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planen": {
+    "message": "التخطيط",
+    "description": "The label for category 'Planen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Optimieren & Auswerten": {
+    "message": "التحسين والتحليل",
+    "description": "The label for category 'Optimieren & Auswerten' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.KI-Assistent": {
+    "message": "مساعد الذكاء الاصطناعي",
+    "description": "The label for category 'KI-Assistent' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Einstellungen": {
+    "message": "الإعدادات",
+    "description": "The label for category 'Einstellungen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Stammdaten & Organisation": {
+    "message": "البيانات الأساسية والتنظيم",
+    "description": "The label for category 'Stammdaten & Organisation' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planung & Automatisierung": {
+    "message": "التخطيط والأتمتة",
+    "description": "The label for category 'Planung & Automatisierung' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Klacksy-Konfiguration": {
+    "message": "إعدادات Klacksy",
+    "description": "The label for category 'Klacksy-Konfiguration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Kommunikation & Integration": {
+    "message": "التواصل والتكامل",
+    "description": "The label for category 'Kommunikation & Integration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.System & Sicherheit": {
+    "message": "النظام والأمان",
+    "description": "The label for category 'System & Sicherheit' in sidebar 'docsSidebar'"
+  }
+}

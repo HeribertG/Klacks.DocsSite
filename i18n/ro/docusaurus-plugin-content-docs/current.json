@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Über Klacks": {
+    "message": "Despre Klacks",
+    "description": "The label for category 'Über Klacks' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Erste Schritte": {
+    "message": "Primii pași",
+    "description": "The label for category 'Erste Schritte' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planen": {
+    "message": "Planificare",
+    "description": "The label for category 'Planen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Optimieren & Auswerten": {
+    "message": "Optimizare și analiză",
+    "description": "The label for category 'Optimieren & Auswerten' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.KI-Assistent": {
+    "message": "Asistent AI",
+    "description": "The label for category 'KI-Assistent' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Einstellungen": {
+    "message": "Setări",
+    "description": "The label for category 'Einstellungen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Stammdaten & Organisation": {
+    "message": "Date de bază și organizare",
+    "description": "The label for category 'Stammdaten & Organisation' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planung & Automatisierung": {
+    "message": "Planificare și automatizare",
+    "description": "The label for category 'Planung & Automatisierung' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Klacksy-Konfiguration": {
+    "message": "Configurare Klacksy",
+    "description": "The label for category 'Klacksy-Konfiguration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Kommunikation & Integration": {
+    "message": "Comunicare și integrare",
+    "description": "The label for category 'Kommunikation & Integration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.System & Sicherheit": {
+    "message": "Sistem și securitate",
+    "description": "The label for category 'System & Sicherheit' in sidebar 'docsSidebar'"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Über Klacks": {
+    "message": "Informazioni su Klacks",
+    "description": "The label for category 'Über Klacks' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Erste Schritte": {
+    "message": "Primi passi",
+    "description": "The label for category 'Erste Schritte' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planen": {
+    "message": "Pianificare",
+    "description": "The label for category 'Planen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Optimieren & Auswerten": {
+    "message": "Ottimizzare e analizzare",
+    "description": "The label for category 'Optimieren & Auswerten' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.KI-Assistent": {
+    "message": "Assistente IA",
+    "description": "The label for category 'KI-Assistent' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Einstellungen": {
+    "message": "Impostazioni",
+    "description": "The label for category 'Einstellungen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Stammdaten & Organisation": {
+    "message": "Anagrafiche e organizzazione",
+    "description": "The label for category 'Stammdaten & Organisation' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planung & Automatisierung": {
+    "message": "Pianificazione e automazione",
+    "description": "The label for category 'Planung & Automatisierung' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Klacksy-Konfiguration": {
+    "message": "Configurazione di Klacksy",
+    "description": "The label for category 'Klacksy-Konfiguration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Kommunikation & Integration": {
+    "message": "Comunicazione e integrazione",
+    "description": "The label for category 'Kommunikation & Integration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.System & Sicherheit": {
+    "message": "Sistema e sicurezza",
+    "description": "The label for category 'System & Sicherheit' in sidebar 'docsSidebar'"
+  }
+}

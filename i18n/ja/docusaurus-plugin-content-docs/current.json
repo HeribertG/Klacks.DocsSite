@@ -1,0 +1,50 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Über Klacks": {
+    "message": "Klacksについて",
+    "description": "The label for category 'Über Klacks' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Erste Schritte": {
+    "message": "はじめに",
+    "description": "The label for category 'Erste Schritte' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planen": {
+    "message": "計画",
+    "description": "The label for category 'Planen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Optimieren & Auswerten": {
+    "message": "最適化と分析",
+    "description": "The label for category 'Optimieren & Auswerten' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.KI-Assistent": {
+    "message": "AIアシスタント",
+    "description": "The label for category 'KI-Assistent' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Einstellungen": {
+    "message": "設定",
+    "description": "The label for category 'Einstellungen' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Stammdaten & Organisation": {
+    "message": "マスターデータと組織",
+    "description": "The label for category 'Stammdaten & Organisation' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Planung & Automatisierung": {
+    "message": "計画と自動化",
+    "description": "The label for category 'Planung & Automatisierung' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Klacksy-Konfiguration": {
+    "message": "Klacksy設定",
+    "description": "The label for category 'Klacksy-Konfiguration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Kommunikation & Integration": {
+    "message": "コミュニケーションと連携",
+    "description": "The label for category 'Kommunikation & Integration' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.System & Sicherheit": {
+    "message": "システムとセキュリティ",
+    "description": "The label for category 'System & Sicherheit' in sidebar 'docsSidebar'"
+  }
+}
