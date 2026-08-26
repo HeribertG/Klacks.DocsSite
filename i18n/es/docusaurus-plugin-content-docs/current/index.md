@@ -28,6 +28,7 @@ Este wiki explica en pequeñas píldoras cómo funciona Klacks. Cada página se 
 - [El tour guiado de configuración](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy le guía por los ajustes básicos
 - [Empleados y datos maestros](./erste-schritte/mitarbeiter-und-stammdaten.md) — El fundamento de toda planificación
 - [Roles y permisos](./erste-schritte/rollen-und-rechte.md) — Supervisor y Admin, claramente diferenciados
+- [Su panel de control: todo de un vistazo](./erste-schritte/ihr-dashboard.md) — La página de inicio de Klacks con cuatro secciones reordenables libremente: Resumen, Cobertura y confirmación, Recursos y Ubicaciones
 
 **Planificar**
 - [Planificación automática: el plan en segundos](./planen/auto-planung.md) — El plan en segundos, con un clic
@@ -36,6 +37,8 @@ Este wiki explica en pequeñas píldoras cómo funciona Klacks. Cada página se 
 - [Flujo de aprobación: del borrador al plan vinculante](./planen/freigabe-workflow.md) — Del borrador al plan sellado
 - [Reglas de planificación](./planen/planungsregeln.md) — Tiempos de descanso, límites y días laborables
 - [Cierre de periodo](./planen/periodenabschluss.md) — Cerrar meses de forma vinculante
+- [La cuadrícula de disponibilidad: quién está disponible y cuándo](./planen/verfuegbarkeits-raster.md) — Registrado con precisión horaria o diaria, para personal propio y externo
+- [El ciclo de vida de un turno: del pedido al segmento](./planen/schicht-lebenszyklus.md) — Del pedido editable al contrato sellado y al turno planificable
 
 **Optimizar y evaluar**
 - [Optimización de rutas](./optimieren/touren-und-routenoptimierung.md) — La mejor ruta, automáticamente
@@ -44,14 +47,17 @@ Este wiki explica en pequeñas píldoras cómo funciona Klacks. Cada página se 
 - [Días festivos y calendario](./optimieren/feiertage-und-kalender.md) — Con precisión hasta el municipio
 - [Relaciones entre habilidades](./optimieren/skill-beziehungen.md) — Klacksy aprende por sí mismo qué habilidades suyas están relacionadas
 - [Diseñador de informes](./optimieren/report-designer.md) — Crear informes propios
+- [Comprobar la calidad de la planificación: infracciones, brechas y omisiones](./optimieren/planungsqualitaet-pruefen.md) — Las tres tablas de diagnóstico tras la ejecución de un asistente
+- [Escalado y guardia localizada](./optimieren/eskalation-rufbereitschaft.md) — Quién es contactado y en qué orden cuando alguien falta
 
 **El asistente de IA**
 - [Klacksy: su asistente de IA para la planificación](./ki/klacksy-ki-assistent.md) — Planificación por voz, con libre elección de modelo
+- [Klacksy como miembro proactivo del equipo](./ki/klacksy-proaktiv.md) — Lo que Klacksy detecta por sí mismo — y hasta dónde puede llegar
 
 **Configuración**
 
 *Datos maestros y organización*
-- [Sucursales](./einstellungen/stammdaten-organisation/branches.md), [Países](./einstellungen/stammdaten-organisation/laender.md), [Dirección del operador](./einstellungen/stammdaten-organisation/owner-address.md), [Ajustes básicos de trabajo](./einstellungen/stammdaten-organisation/work-setting.md), [Catálogo de calificaciones](./einstellungen/stammdaten-organisation/qualifikationen.md), [Plantillas de contrato](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Sucursales](./einstellungen/stammdaten-organisation/branches.md), [Países](./einstellungen/stammdaten-organisation/laender.md), [Dirección del operador](./einstellungen/stammdaten-organisation/owner-address.md), [Ajustes básicos de trabajo](./einstellungen/stammdaten-organisation/work-setting.md), [Catálogo de calificaciones](./einstellungen/stammdaten-organisation/qualifikationen.md), [Plantillas de contrato](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Horas extra](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Planificación y automatización*
 - [Valores predeterminados de las reglas de planificación](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Selección de calendario](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Ajustes del asistente](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API de optimización de rutas](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Visibilidad de grupos](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Este wiki explica en pequeñas píldoras cómo funciona Klacks. Cada página se 
 - [Proveedor de LLM y modelos](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personalidad](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Entrada/salida de voz](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Niveles de autonomía](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Prueba de conexión del modelo](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Sugerencias de habilidades](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Macros](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Comunicación e integración*
-- [Envío de correo electrónico](./einstellungen/kommunikation-integration/email-versand.md), [Recepción de correo electrónico](./einstellungen/kommunikation-integration/email-empfang.md), [Traducción DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Proveedor de identidad](./einstellungen/kommunikation-integration/identity-provider.md), [Puntos de traspaso ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canales de mensajería](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Envío de correo electrónico](./einstellungen/kommunikation-integration/email-versand.md), [Recepción de correo electrónico](./einstellungen/kommunikation-integration/email-empfang.md), [Traducción DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Proveedor de identidad](./einstellungen/kommunikation-integration/identity-provider.md), [Puntos de traspaso ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canales de mensajería](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Entrega de la exportación de nómina](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Sistema y seguridad*
 - [Administración de usuarios](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Tokens de acceso personal](./einstellungen/system-sicherheit/personal-access-tokens.md), [Retención de datos](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Actualizaciones](./einstellungen/system-sicherheit/updates.md), [Plugins de funciones](./einstellungen/system-sicherheit/feature-plugins.md), [Plugins de idioma](./einstellungen/system-sicherheit/sprach-plugins.md), [Reglas de spam](./einstellungen/system-sicherheit/spam-regeln.md), [Ajustes generales](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

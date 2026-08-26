@@ -28,6 +28,7 @@ slug: /
 - [引導式設定導覽](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy 帶您完成基礎設定
 - [員工與基礎資料](./erste-schritte/mitarbeiter-und-stammdaten.md) — 一切排班的根基
 - [角色與權限](./erste-schritte/rollen-und-rechte.md) — 主管與管理員，界線分明
+- [您的儀表板：一覽無遺](./erste-schritte/ihr-dashboard.md) — Klacks 的首頁，包含四個可自由排序的區塊：總覽、覆蓋率與確認、資源與地點
 
 **排班**
 - [自動排班：秒速產生班表](./planen/auto-planung.md) — 一鍵即可秒速產生班表
@@ -36,6 +37,8 @@ slug: /
 - [核准流程：從草稿到具約束力的排班表](./planen/freigabe-workflow.md) — 從草稿到封存生效的排班表
 - [排班規則](./planen/planungsregeln.md) — 休息時間、工時上限與工作日
 - [期間結算](./planen/periodenabschluss.md) — 對月份進行具約束力的結算
+- [可用時間網格：誰在何時有空](./planen/verfuegbarkeits-raster.md) — 精確記錄到小時或到天，適用於自有與外部員工
+- [班次的生命週期：從訂單到分段](./planen/schicht-lebenszyklus.md) — 從可編輯的訂單，到封存的合約，再到可排班的班次
 
 **優化與分析**
 - [巡迴與路線最佳化](./optimieren/touren-und-routenoptimierung.md) — 自動找出最佳路線
@@ -44,14 +47,17 @@ slug: /
 - [假日與日曆](./optimieren/feiertage-und-kalender.md) — 精確到市鎮層級
 - [技能關聯](./optimieren/skill-beziehungen.md) — Klacksy 自行學習哪些技能彼此相關
 - [報表設計器](./optimieren/report-designer.md) — 打造專屬報表
+- [檢查排班品質：違規、缺口與被跳過的項目](./optimieren/planungsqualitaet-pruefen.md) — 助理執行後的三張診斷表格
+- [升級與待命](./optimieren/eskalation-rufbereitschaft.md) — 有人缺勤時，依什麼順序聯絡誰
 
 **AI 助手**
 - [Klacksy：您的排班 AI 助手](./ki/klacksy-ki-assistent.md) — 用自然語言排班，模型自由選擇
+- [Klacksy：主動出擊的團隊成員](./ki/klacksy-proaktiv.md) — Klacksy 自己會注意到什麼 — 以及他能做到什麼程度
 
 **設定**
 
 *主檔資料與組織*
-- [分店](./einstellungen/stammdaten-organisation/branches.md)、[國家](./einstellungen/stammdaten-organisation/laender.md)、[營運商地址](./einstellungen/stammdaten-organisation/owner-address.md)、[工作基本設定](./einstellungen/stammdaten-organisation/work-setting.md)、[資格目錄](./einstellungen/stammdaten-organisation/qualifikationen.md)、[合約範本](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [分店](./einstellungen/stammdaten-organisation/branches.md)、[國家](./einstellungen/stammdaten-organisation/laender.md)、[營運商地址](./einstellungen/stammdaten-organisation/owner-address.md)、[工作基本設定](./einstellungen/stammdaten-organisation/work-setting.md)、[資格目錄](./einstellungen/stammdaten-organisation/qualifikationen.md)、[合約範本](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)、[加班](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *排班與自動化*
 - [排班規則預設值](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md)、[日曆選擇](./einstellungen/planung-automatisierung/kalenderauswahl.md)、[精靈設定](./einstellungen/planung-automatisierung/wizard-einstellungen.md)、[路線最佳化 API](./einstellungen/planung-automatisierung/routenoptimierung-api.md)、[群組可見性](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [LLM 供應商與模型](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md)、[個性設定](./einstellungen/klacksy-konfiguration/persoenlichkeit.md)、[語音輸入／輸出](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md)、[自主等級](./einstellungen/klacksy-konfiguration/autonomie-stufen.md)、[模型連線測試](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md)、[技能建議](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md)、[巨集](./einstellungen/klacksy-konfiguration/makros.md)
 
 *通訊與整合*
-- [電子郵件寄送](./einstellungen/kommunikation-integration/email-versand.md)、[電子郵件接收](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL 翻譯](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[身分識別提供者](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP 匯入端點](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[訊息通道](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [電子郵件寄送](./einstellungen/kommunikation-integration/email-versand.md)、[電子郵件接收](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL 翻譯](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[身分識別提供者](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP 匯入端點](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[訊息通道](./einstellungen/kommunikation-integration/messaging-kanaele.md)、[薪資匯出交接](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *系統與安全*
 - [使用者管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人存取權杖](./einstellungen/system-sicherheit/personal-access-tokens.md)、[資料保留](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[更新](./einstellungen/system-sicherheit/updates.md)、[功能外掛](./einstellungen/system-sicherheit/feature-plugins.md)、[語言外掛](./einstellungen/system-sicherheit/sprach-plugins.md)、[垃圾郵件規則](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

@@ -28,6 +28,7 @@ slug: /
 - [引导式设置导览](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy 带您完成基础设置
 - [员工与基础数据](./erste-schritte/mitarbeiter-und-stammdaten.md) — 一切排班的基石
 - [角色与权限](./erste-schritte/rollen-und-rechte.md) — 清晰区分 Supervisor 与 Admin
+- [您的仪表盘](./erste-schritte/ihr-dashboard.md) — 一目了然
 
 **排班**
 - [自动排班](./planen/auto-planung.md) — 一键生成排班表，数秒完成
@@ -36,6 +37,8 @@ slug: /
 - [审批流程](./planen/freigabe-workflow.md) — 从草稿到封存生效的排班表
 - [排班规则](./planen/planungsregeln.md) — 休息时间、工时上限与工作日
 - [期间结算](./planen/periodenabschluss.md) — 对月度数据进行有约束力的结算
+- [可用性网格](./planen/verfuegbarkeits-raster.md) — 谁何时有空，精确到小时或天
+- [班次的生命周期](./planen/schicht-lebenszyklus.md) — 从订单到分段
 
 **优化与分析**
 - [路线与巡回优化](./optimieren/touren-und-routenoptimierung.md) — 最佳路线，自动生成
@@ -44,14 +47,17 @@ slug: /
 - [法定假日与日历](./optimieren/feiertage-und-kalender.md) — 精确到市镇一级
 - [技能关联](./optimieren/skill-beziehungen.md) — Klacksy 自主学习哪些技能彼此相关
 - [报表设计器](./optimieren/report-designer.md) — 打造您自己的报表
+- [检查排班质量](./optimieren/planungsqualitaet-pruefen.md) — 违规、缺口与被跳过项
+- [升级与待命](./optimieren/eskalation-rufbereitschaft.md) — 有人缺勤时，按顺序逐一联系
 
 **AI 助手**
 - [Klacksy AI 助手](./ki/klacksy-ki-assistent.md) — 用自然语言排班，模型自由选择
+- [Klacksy 作为主动团队成员](./ki/klacksy-proaktiv.md) — 它会主动注意到什么，又能走多远
 
 **设置**
 
 *基础数据与组织架构*
-- [分支机构](./einstellungen/stammdaten-organisation/branches.md)、[国家](./einstellungen/stammdaten-organisation/laender.md)、[运营方地址](./einstellungen/stammdaten-organisation/owner-address.md)、[工作基础设置](./einstellungen/stammdaten-organisation/work-setting.md)、[资质目录](./einstellungen/stammdaten-organisation/qualifikationen.md)、[合同模板](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [分支机构](./einstellungen/stammdaten-organisation/branches.md)、[国家](./einstellungen/stammdaten-organisation/laender.md)、[运营方地址](./einstellungen/stammdaten-organisation/owner-address.md)、[工作基础设置](./einstellungen/stammdaten-organisation/work-setting.md)、[资质目录](./einstellungen/stammdaten-organisation/qualifikationen.md)、[合同模板](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)、[加班](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *排班与自动化*
 - [排班规则默认值](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md)、[日历选择](./einstellungen/planung-automatisierung/kalenderauswahl.md)、[向导设置](./einstellungen/planung-automatisierung/wizard-einstellungen.md)、[路线优化 API](./einstellungen/planung-automatisierung/routenoptimierung-api.md)、[群组可见性](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [LLM 提供商与模型](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md)、[个性设置](./einstellungen/klacksy-konfiguration/persoenlichkeit.md)、[语音输入/输出](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md)、[自主性级别](./einstellungen/klacksy-konfiguration/autonomie-stufen.md)、[模型连接测试](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md)、[技能建议](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md)、[宏](./einstellungen/klacksy-konfiguration/makros.md)
 
 *通信与集成*
-- [邮件发送](./einstellungen/kommunikation-integration/email-versand.md)、[邮件接收](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL 翻译](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[身份提供商](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP 接入点](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[消息渠道](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [邮件发送](./einstellungen/kommunikation-integration/email-versand.md)、[邮件接收](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL 翻译](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[身份提供商](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP 接入点](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[消息渠道](./einstellungen/kommunikation-integration/messaging-kanaele.md)、[薪资导出交接](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *系统与安全*
 - [用户管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[个人访问令牌](./einstellungen/system-sicherheit/personal-access-tokens.md)、[数据保留](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[更新](./einstellungen/system-sicherheit/updates.md)、[功能插件](./einstellungen/system-sicherheit/feature-plugins.md)、[语言插件](./einstellungen/system-sicherheit/sprach-plugins.md)、[垃圾邮件规则](./einstellungen/system-sicherheit/spam-regeln.md)、[常规设置](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

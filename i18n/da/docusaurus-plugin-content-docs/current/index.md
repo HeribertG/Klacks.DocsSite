@@ -28,6 +28,7 @@ Denne wiki forklarer i små bidder, hvordan Klacks fungerer. Hver side læses p�
 - [Den guidede opsætningstur](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy guider dig gennem grundindstillingerne
 - [Medarbejdere og stamdata](./erste-schritte/mitarbeiter-und-stammdaten.md) — Fundamentet for enhver planlægning
 - [Roller og rettigheder](./erste-schritte/rollen-und-rechte.md) — Supervisor og Admin, klart adskilt
+- [Dit dashboard: Alt på et øjekast](./erste-schritte/ihr-dashboard.md) — Startsiden med fire ombytbare afsnit: Oversigt, Dækning & bekræftelse, Ressourcer og Lokationer
 
 **Planlægning**
 - [Autoplanlægning: Planen på sekunder](./planen/auto-planung.md) — Planen på sekunder, med et klik
@@ -36,6 +37,8 @@ Denne wiki forklarer i små bidder, hvordan Klacks fungerer. Hver side læses p�
 - [Godkendelsesworkflow: Fra udkast til bindende plan](./planen/freigabe-workflow.md) — Fra udkast til forseglet plan
 - [Planlægningsregler](./planen/planungsregeln.md) — Hviletider, grænser og arbejdsdage
 - [Periodeafslutning](./planen/periodenabschluss.md) — Afslut måneder bindende
+- [Tilgængeligheds-gitteret: Hvem er tilgængelig hvornår](./planen/verfuegbarkeits-raster.md) — Registreret ned til timen eller dagen, for egne og eksterne medarbejdere
+- [En vagts livscyklus: Fra ordre til segment](./planen/schicht-lebenszyklus.md) — Fra redigerbar ordre over forseglet kontrakt til planlægbar vagt
 
 **Optimér og evaluér**
 - [Tur- og ruteoptimering](./optimieren/touren-und-routenoptimierung.md) — Den bedste rute, automatisk
@@ -44,14 +47,17 @@ Denne wiki forklarer i små bidder, hvordan Klacks fungerer. Hver side læses p�
 - [Helligdage og kalender](./optimieren/feiertage-und-kalender.md) — Helt ned på kommuneniveau
 - [Skill-relationer](./optimieren/skill-beziehungen.md) — Klacksy lærer selv, hvilke af sine evner der hører sammen
 - [Rapport-designer](./optimieren/report-designer.md) — Byg egne rapporter
+- [Tjek planlægningskvaliteten: Overtrædelser, huller og oversprungne placeringer](./optimieren/planungsqualitaet-pruefen.md) — De tre diagnose-tabeller efter et assistent-forløb
+- [Eskalering og tilkaldevagt](./optimieren/eskalation-rufbereitschaft.md) — Hvem der ringes op i hvilken rækkefølge, når nogen falder fra
 
 **AI-assistenten**
 - [Klacksy: Din AI-assistent til planlægningen](./ki/klacksy-ki-assistent.md) — Planlægning via tale, med frit modelvalg
+- [Klacksy som et proaktivt teammedlem](./ki/klacksy-proaktiv.md) — Hvad Klacksy selv bemærker — og hvor langt han må gå
 
 **Indstillinger**
 
 *Stamdata & organisation*
-- [Filialer](./einstellungen/stammdaten-organisation/branches.md), [Lande](./einstellungen/stammdaten-organisation/laender.md), [Ejer-adresse](./einstellungen/stammdaten-organisation/owner-address.md), [Grundindstillinger for arbejde](./einstellungen/stammdaten-organisation/work-setting.md), [Kvalifikationskatalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Kontraktskabeloner](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Filialer](./einstellungen/stammdaten-organisation/branches.md), [Lande](./einstellungen/stammdaten-organisation/laender.md), [Ejer-adresse](./einstellungen/stammdaten-organisation/owner-address.md), [Grundindstillinger for arbejde](./einstellungen/stammdaten-organisation/work-setting.md), [Kvalifikationskatalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Kontraktskabeloner](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Overarbejde](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Planlægning & automatisering*
 - [Standardværdier for planlægningsregler](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Kalendervalg](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Wizard-indstillinger](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [Ruteoptimering-API](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Gruppesynlighed](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Denne wiki forklarer i små bidder, hvordan Klacks fungerer. Hver side læses p�
 - [LLM-udbyder og modeller](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personlighed](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Tale ind-/udgang](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Autonominiveauer](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Modelforbindelsestest](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Skill-forslag](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makroer](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Kommunikation & integration*
-- [E-mail-afsendelse](./einstellungen/kommunikation-integration/email-versand.md), [E-mail-modtagelse](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-oversættelse](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-overtagelsespunkter](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Meddelelseskanaler](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [E-mail-afsendelse](./einstellungen/kommunikation-integration/email-versand.md), [E-mail-modtagelse](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-oversættelse](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-overtagelsespunkter](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Meddelelseskanaler](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Løneksport-overdragelse](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *System & sikkerhed*
 - [Brugerstyring](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Dataopbevaring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Opdateringer](./einstellungen/system-sicherheit/updates.md), [Feature-plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Sprog-plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam-regler](./einstellungen/system-sicherheit/spam-regeln.md), [Generelle indstillinger](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

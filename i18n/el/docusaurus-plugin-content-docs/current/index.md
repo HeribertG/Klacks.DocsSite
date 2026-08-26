@@ -28,6 +28,7 @@ slug: /
 - [Η καθοδηγούμενη περιήγηση εγκατάστασης](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Ο Klacksy σας καθοδηγεί στις βασικές ρυθμίσεις
 - [Προσωπικό και βασικά δεδομένα](./erste-schritte/mitarbeiter-und-stammdaten.md) — Το θεμέλιο κάθε προγραμματισμού
 - [Ρόλοι και δικαιώματα](./erste-schritte/rollen-und-rechte.md) — Supervisor και Admin, σαφώς διαχωρισμένοι
+- [Ο πίνακας ελέγχου σας: Όλα με μια ματιά](./erste-schritte/ihr-dashboard.md) — Η αρχική σελίδα του Klacks με τέσσερις ελεύθερα ταξινομήσιμες ενότητες: Επισκόπηση, Κάλυψη & Επιβεβαίωση, Πόροι και Τοποθεσίες
 
 **Προγραμματισμός**
 - [Αυτόματος προγραμματισμός: Το πρόγραμμα σε δευτερόλεπτα](./planen/auto-planung.md) — Το πρόγραμμα σε δευτερόλεπτα, με ένα κλικ
@@ -36,6 +37,8 @@ slug: /
 - [Ροή έγκρισης: Από το προσχέδιο στο δεσμευτικό πρόγραμμα](./planen/freigabe-workflow.md) — Από το προσχέδιο μέχρι το σφραγισμένο πρόγραμμα
 - [Κανόνες προγραμματισμού](./planen/planungsregeln.md) — Χρόνοι ανάπαυσης, όρια και εργάσιμες ημέρες
 - [Κλείσιμο περιόδου](./planen/periodenabschluss.md) — Δεσμευτικό κλείσιμο μηνών
+- [Το πλέγμα διαθεσιμότητας: Ποιος είναι διαθέσιμος πότε](./planen/verfuegbarkeits-raster.md) — Καταγεγραμμένο με ακρίβεια ώρας ή ημέρας, για δικό σας και εξωτερικό προσωπικό
+- [Ο κύκλος ζωής μιας υπηρεσίας: Από την παραγγελία στο τμήμα](./planen/schicht-lebenszyklus.md) — Από την επεξεργάσιμη παραγγελία στη σφραγισμένη σύμβαση και στην προγραμματίσιμη υπηρεσία
 
 **Βελτιστοποίηση & Ανάλυση**
 - [Βελτιστοποίηση διαδρομών και τουρ](./optimieren/touren-und-routenoptimierung.md) — Η καλύτερη διαδρομή, αυτόματα
@@ -44,14 +47,17 @@ slug: /
 - [Αργίες και ημερολόγιο](./optimieren/feiertage-und-kalender.md) — Με ακρίβεια μέχρι τον δήμο
 - [Σχέσεις δεξιοτήτων](./optimieren/skill-beziehungen.md) — Ο Klacksy μαθαίνει μόνος του ποιες από τις ικανότητές του συνδέονται μεταξύ τους
 - [Σχεδιαστής αναφορών](./optimieren/report-designer.md) — Δημιουργήστε δικές σας αναφορές
+- [Έλεγχος ποιότητας προγραμματισμού: Παραβάσεις, κενά και παραλείψεις](./optimieren/planungsqualitaet-pruefen.md) — Οι τρεις πίνακες διάγνωσης μετά από μια εκτέλεση βοηθού
+- [Κλιμάκωση και ετοιμότητα κλήσης](./optimieren/eskalation-rufbereitschaft.md) — Ποιος καλείται με ποια σειρά όταν κάποιος αποχωρήσει
 
 **Ο βοηθός AI**
 - [Klacksy: Ο βοηθός AI σας για τον προγραμματισμό](./ki/klacksy-ki-assistent.md) — Προγραμματισμός μέσω ομιλίας, με ελεύθερη επιλογή μοντέλου
+- [Ο Klacksy ως προορατικό μέλος της ομάδας](./ki/klacksy-proaktiv.md) — Τι παρατηρεί ο Klacksy μόνος του — και πόσο μακριά επιτρέπεται να πάει
 
 **Ρυθμίσεις**
 
 *Βασικά δεδομένα & Οργάνωση*
-- [Υποκαταστήματα](./einstellungen/stammdaten-organisation/branches.md), [Χώρες](./einstellungen/stammdaten-organisation/laender.md), [Διεύθυνση φορέα εκμετάλλευσης](./einstellungen/stammdaten-organisation/owner-address.md), [Βασικές ρυθμίσεις εργασίας](./einstellungen/stammdaten-organisation/work-setting.md), [Κατάλογος προσόντων](./einstellungen/stammdaten-organisation/qualifikationen.md), [Πρότυπα συμβάσεων](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Υποκαταστήματα](./einstellungen/stammdaten-organisation/branches.md), [Χώρες](./einstellungen/stammdaten-organisation/laender.md), [Διεύθυνση φορέα εκμετάλλευσης](./einstellungen/stammdaten-organisation/owner-address.md), [Βασικές ρυθμίσεις εργασίας](./einstellungen/stammdaten-organisation/work-setting.md), [Κατάλογος προσόντων](./einstellungen/stammdaten-organisation/qualifikationen.md), [Πρότυπα συμβάσεων](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Υπερωρίες](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Προγραμματισμός & Αυτοματισμός*
 - [Προεπιλεγμένες τιμές κανόνων προγραμματισμού](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Επιλογή ημερολογίου](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Ρυθμίσεις οδηγού](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API βελτιστοποίησης διαδρομών](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Ορατότητα ομάδων](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [Πάροχοι LLM και μοντέλα](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Προσωπικότητα](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Είσοδος/έξοδος ομιλίας](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Επίπεδα αυτονομίας](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Δοκιμή σύνδεσης μοντέλου](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Προτάσεις δεξιοτήτων](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Μακροεντολές](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Επικοινωνία & Ενσωμάτωση*
-- [Αποστολή email](./einstellungen/kommunikation-integration/email-versand.md), [Λήψη email](./einstellungen/kommunikation-integration/email-empfang.md), [Μετάφραση DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Πάροχος ταυτότητας](./einstellungen/kommunikation-integration/identity-provider.md), [Σημεία ανάληψης ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Κανάλια μηνυμάτων](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Αποστολή email](./einstellungen/kommunikation-integration/email-versand.md), [Λήψη email](./einstellungen/kommunikation-integration/email-empfang.md), [Μετάφραση DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Πάροχος ταυτότητας](./einstellungen/kommunikation-integration/identity-provider.md), [Σημεία ανάληψης ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Κανάλια μηνυμάτων](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Μεταφορά εξαγωγής μισθοδοσίας](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Σύστημα & Ασφάλεια*
 - [Διαχείριση χρηστών](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Προσωπικά διακριτικά πρόσβασης](./einstellungen/system-sicherheit/personal-access-tokens.md), [Διατήρηση δεδομένων](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Ενημερώσεις](./einstellungen/system-sicherheit/updates.md), [Πρόσθετα λειτουργιών](./einstellungen/system-sicherheit/feature-plugins.md), [Γλωσσικά πρόσθετα](./einstellungen/system-sicherheit/sprach-plugins.md), [Κανόνες spam](./einstellungen/system-sicherheit/spam-regeln.md), [Γενικές ρυθμίσεις](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

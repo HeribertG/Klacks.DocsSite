@@ -10,9 +10,9 @@ La pagina è suddivisa in tre schede: **Periodi**, **Esportazioni** e **Registro
 
 1. **Selezionare il periodo:** delimitate l'intervallo tramite data di inizio e fine e, se necessario, filtrate per un gruppo (oppure «Tutti i gruppi»). Come intervallo di pagamento sono disponibili settimanale, bisettimanale, mensile o personalizzato.
 2. **Sigillare:** come amministratore, con *Sigilla periodo* (oppure *Sigilla tutto*) chiudete le voci. Una finestra di conferma mostra in anticipo quante voci sono interessate.
-3. **Esportare:** dai periodi sigillati generate esportazioni — come CSV, JSON, XML, DATEV o BMD NTCS, con lingua e valuta selezionabili; se necessario riferite a un ordine specifico. La scheda *Esportazioni* elenca tutti i file generati con periodo, data di creazione e persona che li ha creati.
+3. **Esportare:** dai periodi sigillati generate nella scheda *Esportazioni* i file di esportazione — come CSV, JSON, XML, DATEV o BMD NTCS, con lingua e valuta selezionabili; se necessario riferiti a un ordine specifico.
 4. **Riaprire:** come amministratore potete, se necessario, riaprire un periodo sigillato (*Riapri periodo* oppure *Dissigilla tutto*). In tal caso è **obbligatoria una motivazione**.
-5. **Registro:** ogni sigillatura e riapertura viene registrata nella scheda *Registro* — con azione, momento e persona esecutrice.
+5. **Registro:** ogni sigillatura e riapertura viene registrata nella scheda *Registro* — con azione, momento e persona esecutrice. La stessa scheda elenca anche tutti i file di esportazione generati, con periodo, data di creazione e persona che li ha creati.
 
 ## Da sapere
 

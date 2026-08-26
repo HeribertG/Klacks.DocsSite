@@ -28,6 +28,7 @@ slug: /
 - [סיור ההגדרה המודרך](./erste-schritte/gefuehrte-einrichtungs-tour.md) - Klacksy מלווה אתכם דרך ההגדרות הבסיסיות
 - [עובדים ונתוני יסוד](./erste-schritte/mitarbeiter-und-stammdaten.md) - היסוד של כל תכנון
 - [תפקידים והרשאות](./erste-schritte/rollen-und-rechte.md) - Supervisor ו-Admin, מובחנים בבירור
+- [לוח הבקרה שלכם: הכול במבט אחד](./erste-schritte/ihr-dashboard.md) - עמוד הבית של Klacks עם ארבעה אזורים הניתנים לסידור מחדש: סקירה, כיסוי ואישור, משאבים ומיקומים
 
 **תכנון**
 - [תכנון אוטומטי: התוכנית תוך שניות](./planen/auto-planung.md) - התוכנית תוך שניות, בלחיצה אחת
@@ -36,6 +37,8 @@ slug: /
 - [תהליך אישור: מהטיוטה לתוכנית מחייבת](./planen/freigabe-workflow.md) - מהטיוטה ועד לתוכנית החתומה
 - [כללי תכנון](./planen/planungsregeln.md) - זמני מנוחה, מגבלות וימי עבודה
 - [סגירת תקופה](./planen/periodenabschluss.md) - סגירת חודשים באופן מחייב
+- [רשת הזמינות: מי זמין ומתי](./planen/verfuegbarkeits-raster.md) - מתועד עד רמת השעה או היום, עבור צוות פנימי וחיצוני
+- [מחזור החיים של משמרת: מהזמנה לקטע](./planen/schicht-lebenszyklus.md) - מהזמנה הניתנת לעריכה, דרך החוזה החתום, ועד למשמרת הניתנת לתכנון
 
 **אופטימיזציה וניתוח**
 - [אופטימיזציית מסלולים וטורים](./optimieren/touren-und-routenoptimierung.md) - המסלול הטוב ביותר, אוטומטית
@@ -44,14 +47,17 @@ slug: /
 - [חגים ולוח שנה](./optimieren/feiertage-und-kalender.md) - מדויק עד רמת הרשות המקומית
 - [קשרי מיומנויות](./optimieren/skill-beziehungen.md) - Klacksy לומד בעצמו אילו מהיכולות שלו קשורות זו לזו
 - [Report Designer](./optimieren/report-designer.md) - בניית דוחות משלכם
+- [בדיקת איכות התכנון: הפרות, פערים ושיבוצים שדולגו](./optimieren/planungsqualitaet-pruefen.md) - שלוש טבלאות האבחון לאחר הרצת עוזר
+- [הסלמה וכוננות](./optimieren/eskalation-rufbereitschaft.md) - מי מקבל שיחה ובאיזה סדר כשמישהו נופל
 
 **עוזר הבינה המלאכותית**
 - [Klacksy: עוזר הבינה המלאכותית שלכם לתכנון](./ki/klacksy-ki-assistent.md) - תכנון בשפה חופשית, עם בחירת מודל חופשית
+- [Klacksy כחבר צוות פרואקטיבי](./ki/klacksy-proaktiv.md) - מה Klacksy שם לב אליו בעצמו - ועד כמה הוא רשאי להתקדם
 
 **הגדרות**
 
 *נתוני יסוד וארגון*
-- [סניפים](./einstellungen/stammdaten-organisation/branches.md), [מדינות](./einstellungen/stammdaten-organisation/laender.md), [כתובת המפעיל](./einstellungen/stammdaten-organisation/owner-address.md), [הגדרות בסיס לעבודה](./einstellungen/stammdaten-organisation/work-setting.md), [קטלוג כישורים](./einstellungen/stammdaten-organisation/qualifikationen.md), [תבניות חוזה](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [סניפים](./einstellungen/stammdaten-organisation/branches.md), [מדינות](./einstellungen/stammdaten-organisation/laender.md), [כתובת המפעיל](./einstellungen/stammdaten-organisation/owner-address.md), [הגדרות בסיס לעבודה](./einstellungen/stammdaten-organisation/work-setting.md), [קטלוג כישורים](./einstellungen/stammdaten-organisation/qualifikationen.md), [תבניות חוזה](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [שעות נוספות](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *תכנון ואוטומציה*
 - [ערכי ברירת מחדל לכללי תכנון](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [בחירת לוח שנה](./einstellungen/planung-automatisierung/kalenderauswahl.md), [הגדרות אשף](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API לאופטימיזציית מסלולים](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [נראות קבוצות](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [ספק LLM ומודלים](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [אישיות](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [קלט/פלט קולי](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [רמות אוטונומיה](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [בדיקת חיבור מודל](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [הצעות מיומנויות](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [מאקרואים](./einstellungen/klacksy-konfiguration/makros.md)
 
 *תקשורת ואינטגרציה*
-- [שליחת דוא"ל](./einstellungen/kommunikation-integration/email-versand.md), [קבלת דוא"ל](./einstellungen/kommunikation-integration/email-empfang.md), [תרגום DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [ספק זהות](./einstellungen/kommunikation-integration/identity-provider.md), [נקודות קליטת ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [ערוצי הודעות](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [שליחת דוא"ל](./einstellungen/kommunikation-integration/email-versand.md), [קבלת דוא"ל](./einstellungen/kommunikation-integration/email-empfang.md), [תרגום DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [ספק זהות](./einstellungen/kommunikation-integration/identity-provider.md), [נקודות קליטת ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [ערוצי הודעות](./einstellungen/kommunikation-integration/messaging-kanaele.md), [מסירת ייצוא השכר](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *מערכת ואבטחה*
 - [ניהול משתמשים](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [שמירת נתונים](./einstellungen/system-sicherheit/datenaufbewahrung.md), [עדכונים](./einstellungen/system-sicherheit/updates.md), [תוספי תכונות](./einstellungen/system-sicherheit/feature-plugins.md), [תוספי שפה](./einstellungen/system-sicherheit/sprach-plugins.md), [כללי ספאם](./einstellungen/system-sicherheit/spam-regeln.md), [הגדרות כלליות](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

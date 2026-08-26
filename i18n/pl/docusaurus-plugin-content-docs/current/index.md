@@ -28,6 +28,7 @@ Ta wiki wyjaśnia w małych porcjach, jak działa Klacks. Każdą stronę przecz
 - [Przewodnik po wstępnej konfiguracji](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy przeprowadzi Cię przez ustawienia podstawowe
 - [Pracownicy i dane podstawowe](./erste-schritte/mitarbeiter-und-stammdaten.md) — Fundament każdego planowania
 - [Role i uprawnienia](./erste-schritte/rollen-und-rechte.md) — Supervisor i Admin, jasno rozróżnione
+- [Twój Dashboard: wszystko na pierwszy rzut oka](./erste-schritte/ihr-dashboard.md) — Strona startowa Klacks z czterema sekcjami do dowolnego uporządkowania: Przegląd, Obłożenie i potwierdzenie, Zasoby oraz Lokalizacje
 
 **Planowanie**
 - [Autoplanowanie: Plan w kilka sekund](./planen/auto-planung.md) — Plan w kilka sekund, jednym kliknięciem
@@ -36,6 +37,8 @@ Ta wiki wyjaśnia w małych porcjach, jak działa Klacks. Każdą stronę przecz
 - [Workflow zatwierdzania: Od projektu do wiążącego planu](./planen/freigabe-workflow.md) — Od projektu do zapieczętowanego planu
 - [Reguły planowania](./planen/planungsregeln.md) — Czasy odpoczynku, limity i dni robocze
 - [Zamknięcie okresu](./planen/periodenabschluss.md) — Wiążące zamykanie miesięcy
+- [Siatka dostępności: kto i kiedy jest gotowy do pracy](./planen/verfuegbarkeits-raster.md) — Rejestrowana co do godziny lub co do dnia, dla własnych i zewnętrznych pracowników
+- [Cykl życia dyżuru: od zlecenia do segmentu](./planen/schicht-lebenszyklus.md) — Od edytowalnego zlecenia przez zapieczętowaną umowę do planowalnego dyżuru
 
 **Optymalizacja i analiza**
 - [Optymalizacja tras i objazdów](./optimieren/touren-und-routenoptimierung.md) — Najlepsza trasa, automatycznie
@@ -44,14 +47,17 @@ Ta wiki wyjaśnia w małych porcjach, jak działa Klacks. Każdą stronę przecz
 - [Święta i kalendarz](./optimieren/feiertage-und-kalender.md) — Dokładnie co do gminy
 - [Relacje umiejętności](./optimieren/skill-beziehungen.md) — Klacksy sam uczy się, które jego umiejętności do siebie pasują
 - [Kreator raportów](./optimieren/report-designer.md) — Buduj własne raporty
+- [Sprawdzanie jakości planu: naruszenia, luki i pominięcia](./optimieren/planungsqualitaet-pruefen.md) — Trzy tabele diagnostyczne po przebiegu asystenta planowania
+- [Eskalacja i dyżur telefoniczny](./optimieren/eskalation-rufbereitschaft.md) — Kto jest wzywany w jakiej kolejności, gdy ktoś wypada
 
 **Asystent AI**
 - [Klacksy: Twój asystent AI do planowania](./ki/klacksy-ki-assistent.md) — Planowanie głosem, z dowolnym wyborem modelu
+- [Klacksy jako proaktywny członek zespołu](./ki/klacksy-proaktiv.md) — Co Klacksy zauważa sam z siebie — i jak daleko może się przy tym posunąć
 
 **Ustawienia**
 
 *Dane podstawowe i organizacja*
-- [Filie](./einstellungen/stammdaten-organisation/branches.md), [Kraje](./einstellungen/stammdaten-organisation/laender.md), [Adres operatora](./einstellungen/stammdaten-organisation/owner-address.md), [Podstawowe ustawienia pracy](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog kwalifikacji](./einstellungen/stammdaten-organisation/qualifikationen.md), [Szablony umów](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Filie](./einstellungen/stammdaten-organisation/branches.md), [Kraje](./einstellungen/stammdaten-organisation/laender.md), [Adres operatora](./einstellungen/stammdaten-organisation/owner-address.md), [Podstawowe ustawienia pracy](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog kwalifikacji](./einstellungen/stammdaten-organisation/qualifikationen.md), [Szablony umów](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Nadgodziny](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Planowanie i automatyzacja*
 - [Wartości domyślne reguł planowania](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Wybór kalendarza](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Ustawienia kreatora](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API optymalizacji tras](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Widoczność grup](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Ta wiki wyjaśnia w małych porcjach, jak działa Klacks. Każdą stronę przecz
 - [Dostawca LLM i modele](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Osobowość](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Wejście/wyjście głosowe](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Poziomy autonomii](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Test połączenia z modelem](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Sugestie umiejętności](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makra](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Komunikacja i integracja*
-- [Wysyłanie e-maili](./einstellungen/kommunikation-integration/email-versand.md), [Odbieranie e-maili](./einstellungen/kommunikation-integration/email-empfang.md), [Tłumaczenie DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Dostawca tożsamości](./einstellungen/kommunikation-integration/identity-provider.md), [Punkty przejęcia ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Kanały komunikacji](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Wysyłanie e-maili](./einstellungen/kommunikation-integration/email-versand.md), [Odbieranie e-maili](./einstellungen/kommunikation-integration/email-empfang.md), [Tłumaczenie DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Dostawca tożsamości](./einstellungen/kommunikation-integration/identity-provider.md), [Punkty przejęcia ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Kanały komunikacji](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Przekazanie eksportu płac](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *System i bezpieczeństwo*
 - [Zarządzanie użytkownikami](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Osobiste tokeny dostępu](./einstellungen/system-sicherheit/personal-access-tokens.md), [Przechowywanie danych](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Aktualizacje](./einstellungen/system-sicherheit/updates.md), [Wtyczki funkcjonalne](./einstellungen/system-sicherheit/feature-plugins.md), [Wtyczki językowe](./einstellungen/system-sicherheit/sprach-plugins.md), [Reguły antyspamowe](./einstellungen/system-sicherheit/spam-regeln.md), [Ustawienia ogólne](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

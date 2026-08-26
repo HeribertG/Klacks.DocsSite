@@ -28,6 +28,7 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 - [The Guided Setup Tour](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy walks you through the basic setup
 - [Employees and Master Data](./erste-schritte/mitarbeiter-und-stammdaten.md) — The foundation of every schedule
 - [Roles and Permissions](./erste-schritte/rollen-und-rechte.md) — Supervisor and Admin, clearly distinguished
+- [Your Dashboard: Everything at a Glance](./erste-schritte/ihr-dashboard.md) — Klacks' home page with four reorderable sections: Overview, Coverage & Confirmation, Resources and Locations
 
 **Scheduling**
 - [Auto-Planning: A Schedule in Seconds](./planen/auto-planung.md) — A full schedule in seconds, with one click
@@ -36,6 +37,8 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 - [Approval Workflow: From Draft to Binding Schedule](./planen/freigabe-workflow.md) — From draft to sealed schedule
 - [Scheduling Rules](./planen/planungsregeln.md) — Rest periods, limits, and working days
 - [Period Closing](./planen/periodenabschluss.md) — Close months with binding effect
+- [The Availability Grid: Who's Available, and When](./planen/verfuegbarkeits-raster.md) — Recorded down to the hour or the day, for internal and external staff
+- [The Life Cycle of a Shift: From Order to Segment](./planen/schicht-lebenszyklus.md) — From editable order to sealed contract to plannable shift
 
 **Optimize & analyze**
 - [Tour and Route Optimization](./optimieren/touren-und-routenoptimierung.md) — The best route, automatically
@@ -44,14 +47,17 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 - [Holidays and Calendars](./optimieren/feiertage-und-kalender.md) — Accurate down to the municipality
 - [Skill Relations](./optimieren/skill-beziehungen.md) — Klacksy learns on its own which of its abilities belong together
 - [Report Designer](./optimieren/report-designer.md) — Build your own reports
+- [Checking Schedule Quality: Violations, Gaps, and Skipped Placements](./optimieren/planungsqualitaet-pruefen.md) — The three diagnostic tables after an assistant run
+- [Escalation and On-Call](./optimieren/eskalation-rufbereitschaft.md) — Who gets called in what order when someone drops out
 
 **The AI assistant**
 - [Klacksy: Your AI Assistant for Scheduling](./ki/klacksy-ki-assistent.md) — Scheduling by voice or text, with free choice of model
+- [Klacksy as a Proactive Team Member](./ki/klacksy-proaktiv.md) — What Klacksy notices on its own — and how far it may go
 
 **Settings**
 
 *Master Data & Organization*
-- [Branches](./einstellungen/stammdaten-organisation/branches.md), [Countries](./einstellungen/stammdaten-organisation/laender.md), [Head Office Address](./einstellungen/stammdaten-organisation/owner-address.md), [Work Basics](./einstellungen/stammdaten-organisation/work-setting.md), [Qualification Catalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Contract Templates](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Branches](./einstellungen/stammdaten-organisation/branches.md), [Countries](./einstellungen/stammdaten-organisation/laender.md), [Head Office Address](./einstellungen/stammdaten-organisation/owner-address.md), [Work Basics](./einstellungen/stammdaten-organisation/work-setting.md), [Qualification Catalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Contract Templates](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Overtime](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Scheduling & Automation*
 - [Scheduling Rule Defaults](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Calendar Selection](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Wizard Settings](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [Route Optimization API](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Group Visibility](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 - [LLM Providers and Models](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personality](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Speech Input/Output](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Autonomy Levels](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Model Connectivity Check](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Skill Suggestions](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Macros](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Communication & Integration*
-- [Outgoing Email](./einstellungen/kommunikation-integration/email-versand.md), [Incoming Email](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL Translation](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP Drop Points](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Messaging Channels](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Outgoing Email](./einstellungen/kommunikation-integration/email-versand.md), [Incoming Email](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL Translation](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP Drop Points](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Messaging Channels](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Payroll Export Handover](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *System & Security*
 - [User Administration](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Data Retention](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Updates](./einstellungen/system-sicherheit/updates.md), [Feature Plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Language Plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam Rules](./einstellungen/system-sicherheit/spam-regeln.md), [General Settings](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

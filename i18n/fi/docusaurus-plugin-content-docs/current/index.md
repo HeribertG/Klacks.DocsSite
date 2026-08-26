@@ -28,6 +28,7 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [Ohjattu käyttöönottokierros](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy opastaa sinut perusasetusten läpi
 - [Henkilöstö ja perustiedot](./erste-schritte/mitarbeiter-und-stammdaten.md) — Kaiken suunnittelun perusta
 - [Roolit ja käyttöoikeudet](./erste-schritte/rollen-und-rechte.md) — Supervisor ja Admin, selkeästi eroteltuna
+- [Kojelautasi: kaikki yhdellä silmäyksellä](./erste-schritte/ihr-dashboard.md) — Klacksin aloitussivu neljällä uudelleenjärjesteltävällä osiolla: Yleiskatsaus, Kattavuus ja vahvistus, Resurssit ja Sijainnit
 
 **Suunnittelu**
 - [Automaattinen suunnittelu: suunnitelma sekunneissa](./planen/auto-planung.md) — Suunnitelma sekunneissa, yhdellä klikkauksella
@@ -36,6 +37,8 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [Hyväksymisprosessi: luonnoksesta sitovaan suunnitelmaan](./planen/freigabe-workflow.md) — Luonnoksesta sinetöityyn suunnitelmaan
 - [Suunnittelusäännöt](./planen/planungsregeln.md) — Lepoajat, rajat ja työpäivät
 - [Jakson päättäminen](./planen/periodenabschluss.md) — Kuukausien sitova päättäminen
+- [Saatavuusruudukko: kuka on käytettävissä ja milloin](./planen/verfuegbarkeits-raster.md) — Kirjattuna tunnin tai päivän tarkkuudella, omalle ja ulkopuoliselle henkilöstölle
+- [Työvuoron elinkaari: tilauksesta segmenttiin](./planen/schicht-lebenszyklus.md) — Muokattavasta tilauksesta sinetöidyn sopimuksen kautta suunniteltavaan työvuoroon
 
 **Optimointi ja seuranta**
 - [Tour- ja reittioptimointi](./optimieren/touren-und-routenoptimierung.md) — Paras reitti, automaattisesti
@@ -44,14 +47,17 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [Pyhäpäivät ja kalenteri](./optimieren/feiertage-und-kalender.md) — Tarkkuudella kuntaa myöten
 - [Taitojen väliset suhteet](./optimieren/skill-beziehungen.md) — Klacksy oppii itse, mitkä sen kyvyistä kuuluvat yhteen
 - [Raporttisuunnittelija](./optimieren/report-designer.md) — Rakenna omia raportteja
+- [Suunnittelun laadun tarkistaminen: rikkomukset, aukot ja ohitetut sijoitukset](./optimieren/planungsqualitaet-pruefen.md) — Kolme diagnoosi-taulukkoa avustajan ajon jälkeen
+- [Eskalaatio ja päivystys](./optimieren/eskalation-rufbereitschaft.md) — Kuka soitetaan ja missä järjestyksessä, kun joku on estynyt
 
 **Tekoälyavustaja**
 - [Klacksy: tekoälyavustajasi suunnitteluun](./ki/klacksy-ki-assistent.md) — Suunnittelu puheella, vapaalla mallivalinnalla
+- [Klacksy proaktiivisena tiiminjäsenenä](./ki/klacksy-proaktiv.md) — Mitä Klacksy huomaa itse — ja kuinka pitkälle hän saa mennä
 
 **Asetukset**
 
 *Perustiedot ja organisaatio*
-- [Toimipisteet](./einstellungen/stammdaten-organisation/branches.md), [Maat](./einstellungen/stammdaten-organisation/laender.md), [Ylläpitäjän osoite](./einstellungen/stammdaten-organisation/owner-address.md), [Työn perusasetukset](./einstellungen/stammdaten-organisation/work-setting.md), [Pätevyysluettelo](./einstellungen/stammdaten-organisation/qualifikationen.md), [Sopimusmallit](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Toimipisteet](./einstellungen/stammdaten-organisation/branches.md), [Maat](./einstellungen/stammdaten-organisation/laender.md), [Ylläpitäjän osoite](./einstellungen/stammdaten-organisation/owner-address.md), [Työn perusasetukset](./einstellungen/stammdaten-organisation/work-setting.md), [Pätevyysluettelo](./einstellungen/stammdaten-organisation/qualifikationen.md), [Sopimusmallit](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Ylityöt](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Suunnittelu ja automaatio*
 - [Suunnittelusääntöjen oletusarvot](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Kalenterin valinta](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Ohjatun toiminnon asetukset](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [Reittioptimoinnin API](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Ryhmien näkyvyys](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [LLM-tarjoajat ja mallit](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Persoonallisuus](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Puheen syöttö/tuotto](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Autonomia-tasot](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Mallin yhteystesti](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Taitoehdotukset](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makrot](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Viestintä ja integraatio*
-- [Sähköpostin lähetys](./einstellungen/kommunikation-integration/email-versand.md), [Sähköpostin vastaanotto](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-käännös](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identiteetintarjoaja](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-siirtopisteet](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Viestintäkanavat](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Sähköpostin lähetys](./einstellungen/kommunikation-integration/email-versand.md), [Sähköpostin vastaanotto](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-käännös](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identiteetintarjoaja](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-siirtopisteet](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Viestintäkanavat](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Palkkaviennin luovutus](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Järjestelmä ja tietoturva*
 - [Käyttäjähallinta](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Henkilökohtaiset käyttöoikeustunnukset](./einstellungen/system-sicherheit/personal-access-tokens.md), [Tietojen säilytys](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Päivitykset](./einstellungen/system-sicherheit/updates.md), [Ominaisuuslaajennukset](./einstellungen/system-sicherheit/feature-plugins.md), [Kielilaajennukset](./einstellungen/system-sicherheit/sprach-plugins.md), [Roskapostisäännöt](./einstellungen/system-sicherheit/spam-regeln.md), [Yleiset asetukset](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

@@ -28,6 +28,7 @@ slug: /
 - [ทัวร์แนะนำการตั้งค่าเบื้องต้น](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy พาคุณตั้งค่าเบื้องต้น
 - [พนักงานและข้อมูลหลัก](./erste-schritte/mitarbeiter-und-stammdaten.md) — รากฐานของการวางแผนทุกรูปแบบ
 - [บทบาทและสิทธิ์การเข้าถึง](./erste-schritte/rollen-und-rechte.md) — Supervisor และ Admin แยกความแตกต่างชัดเจน
+- [แดชบอร์ดของคุณ: มองเห็นทุกอย่างในพริบตาเดียว](./erste-schritte/ihr-dashboard.md) — หน้าแรกของ Klacks พร้อมสี่ส่วนที่จัดเรียงลำดับได้อย่างอิสระ: ภาพรวม, ความครอบคลุมและการยืนยัน, ทรัพยากร และสถานที่
 
 **การวางแผน**
 - [วางแผนอัตโนมัติ: แผนงานเสร็จในไม่กี่วินาที](./planen/auto-planung.md) — แผนงานเสร็จในไม่กี่วินาที เพียงคลิกเดียว
@@ -36,6 +37,8 @@ slug: /
 - [ขั้นตอนการอนุมัติ: จากร่างสู่แผนที่มีผลผูกพัน](./planen/freigabe-workflow.md) — จากร่างจนถึงแผนที่ปิดผนึกแล้ว
 - [กฎการวางแผน](./planen/planungsregeln.md) — เวลาพัก ข้อจำกัด และวันทำงาน
 - [การปิดรอบระยะเวลา](./planen/periodenabschluss.md) — ปิดเดือนอย่างเป็นทางการ
+- [กริดความพร้อมทำงาน: ใครพร้อมทำงานเมื่อไร](./planen/verfuegbarkeits-raster.md) — บันทึกได้ละเอียดถึงระดับชั่วโมงหรือวัน สำหรับพนักงานของบริษัทเองและพนักงานภายนอก
+- [วงจรชีวิตของกะงาน: จากคำสั่งซื้อสู่ส่วนย่อย](./planen/schicht-lebenszyklus.md) — จากคำสั่งซื้อที่แก้ไขได้ สู่สัญญาที่ปิดผนึกแล้ว และกะงานที่วางแผนได้
 
 **ปรับปรุงและวิเคราะห์**
 - [การปรับปรุงเส้นทางและทัวร์](./optimieren/touren-und-routenoptimierung.md) — เส้นทางที่ดีที่สุด โดยอัตโนมัติ
@@ -44,14 +47,17 @@ slug: /
 - [วันหยุดและปฏิทิน](./optimieren/feiertage-und-kalender.md) — ละเอียดถึงระดับเทศบาล
 - [ความสัมพันธ์ของทักษะ](./optimieren/skill-beziehungen.md) — Klacksy เรียนรู้เองว่าความสามารถใดของมันเกี่ยวข้องกัน
 - [ตัวออกแบบรายงาน](./optimieren/report-designer.md) — สร้างรายงานของคุณเอง
+- [ตรวจสอบคุณภาพการวางแผน: การละเมิด ช่องว่าง และรายการที่ถูกข้าม](./optimieren/planungsqualitaet-pruefen.md) — สามตารางวินิจฉัยหลังจากผู้ช่วยวางแผนทำงานเสร็จ
+- [การเรียกทดแทนและเวรสำรอง](./optimieren/eskalation-rufbereitschaft.md) — ใครจะถูกเรียกก่อนตามลำดับใด เมื่อมีคนขาดงานกะทันหัน
 
 **ผู้ช่วย AI**
 - [Klacksy: ผู้ช่วย AI สำหรับการวางแผนของคุณ](./ki/klacksy-ki-assistent.md) — วางแผนด้วยเสียงพูด พร้อมอิสระในการเลือกโมเดล
+- [Klacksy ในฐานะสมาชิกทีมเชิงรุก](./ki/klacksy-proaktiv.md) — สิ่งที่ Klacksy สังเกตเห็นได้เอง — และสามารถลงมือทำได้มากแค่ไหน
 
 **การตั้งค่า**
 
 *ข้อมูลหลักและองค์กร*
-- [สาขา](./einstellungen/stammdaten-organisation/branches.md), [ประเทศ](./einstellungen/stammdaten-organisation/laender.md), [ที่อยู่ผู้ประกอบการ](./einstellungen/stammdaten-organisation/owner-address.md), [การตั้งค่าพื้นฐานของงาน](./einstellungen/stammdaten-organisation/work-setting.md), [แคตตาล็อกคุณสมบัติ](./einstellungen/stammdaten-organisation/qualifikationen.md), [แม่แบบสัญญา](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [สาขา](./einstellungen/stammdaten-organisation/branches.md), [ประเทศ](./einstellungen/stammdaten-organisation/laender.md), [ที่อยู่ผู้ประกอบการ](./einstellungen/stammdaten-organisation/owner-address.md), [การตั้งค่าพื้นฐานของงาน](./einstellungen/stammdaten-organisation/work-setting.md), [แคตตาล็อกคุณสมบัติ](./einstellungen/stammdaten-organisation/qualifikationen.md), [แม่แบบสัญญา](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [ค่าล่วงเวลา](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *การวางแผนและระบบอัตโนมัติ*
 - [ค่าเริ่มต้นของกฎการวางแผน](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [การเลือกปฏิทิน](./einstellungen/planung-automatisierung/kalenderauswahl.md), [การตั้งค่า Wizard](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API ปรับปรุงเส้นทาง](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [การมองเห็นกลุ่ม](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [ผู้ให้บริการ LLM และโมเดล](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [บุคลิกภาพ](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [การรับ-ส่งเสียงพูด](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [ระดับความเป็นอิสระ](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [ทดสอบการเชื่อมต่อโมเดล](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [คำแนะนำทักษะ](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [มาโคร](./einstellungen/klacksy-konfiguration/makros.md)
 
 *การสื่อสารและการเชื่อมต่อ*
-- [การส่งอีเมล](./einstellungen/kommunikation-integration/email-versand.md), [การรับอีเมล](./einstellungen/kommunikation-integration/email-empfang.md), [การแปล DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [จุดรับข้อมูล ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [ช่องทางการส่งข้อความ](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [การส่งอีเมล](./einstellungen/kommunikation-integration/email-versand.md), [การรับอีเมล](./einstellungen/kommunikation-integration/email-empfang.md), [การแปล DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [จุดรับข้อมูล ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [ช่องทางการส่งข้อความ](./einstellungen/kommunikation-integration/messaging-kanaele.md), [การส่งมอบข้อมูลส่งออกเงินเดือน](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *ระบบและความปลอดภัย*
 - [การจัดการผู้ใช้งาน](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [การเก็บรักษาข้อมูล](./einstellungen/system-sicherheit/datenaufbewahrung.md), [การอัปเดต](./einstellungen/system-sicherheit/updates.md), [ปลั๊กอินฟีเจอร์](./einstellungen/system-sicherheit/feature-plugins.md), [ปลั๊กอินภาษา](./einstellungen/system-sicherheit/sprach-plugins.md), [กฎสแปม](./einstellungen/system-sicherheit/spam-regeln.md), [การตั้งค่าทั่วไป](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

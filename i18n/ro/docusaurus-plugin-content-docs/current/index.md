@@ -28,6 +28,7 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Turul ghidat de configurare](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy vă ghidează prin setările de bază
 - [Angajați și date de bază](./erste-schritte/mitarbeiter-und-stammdaten.md) — fundamentul oricărei planificări
 - [Roluri și drepturi](./erste-schritte/rollen-und-rechte.md) — Supervisor și Admin, clar delimitați
+- [Tabloul dumneavoastră de bord: totul dintr-o privire](./erste-schritte/ihr-dashboard.md) — patru secțiuni reordonabile: Prezentare generală, Acoperire și confirmare, Resurse și Locații
 
 **Planificare**
 - [Auto-planificare: planul în câteva secunde](./planen/auto-planung.md) — planul în câteva secunde, printr-un click
@@ -36,6 +37,8 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Flux de aprobare: de la ciornă la plan obligatoriu](./planen/freigabe-workflow.md) — de la ciornă la planul sigilat
 - [Reguli de planificare](./planen/planungsregeln.md) — perioade de repaus, limite și zile lucrătoare
 - [Închiderea perioadei](./planen/periodenabschluss.md) — încheiați lunile în mod obligatoriu
+- [Grila de disponibilitate: cine este disponibil și când](./planen/verfuegbarkeits-raster.md) — înregistrată pe oră sau pe zi, pentru personal propriu și extern
+- [Ciclul de viață al unei ture: de la comandă la segment](./planen/schicht-lebenszyklus.md) — de la comanda editabilă, prin comanda sigilată, la tura planificabilă
 
 **Optimizare și evaluare**
 - [Optimizarea turelor și traseelor](./optimieren/touren-und-routenoptimierung.md) — cel mai bun traseu, automat
@@ -44,14 +47,17 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Sărbători și calendare](./optimieren/feiertage-und-kalender.md) — precis până la nivel de comună
 - [Relații între abilități](./optimieren/skill-beziehungen.md) — Klacksy învață singur care dintre abilitățile sale se potrivesc împreună
 - [Report Designer](./optimieren/report-designer.md) — construiți-vă propriile rapoarte
+- [Verificarea calității planificării: încălcări, lacune și plasări omise](./optimieren/planungsqualitaet-pruefen.md) — cele trei tabele de diagnostic după o rulare a asistentului
+- [Escaladare și gardă](./optimieren/eskalation-rufbereitschaft.md) — cine este apelat, în ce ordine, când cineva lipsește
 
 **Asistentul AI**
 - [Klacksy: asistentul dumneavoastră AI pentru planificare](./ki/klacksy-ki-assistent.md) — planificare prin voce, cu alegere liberă a modelului
+- [Klacksy ca membru proactiv al echipei](./ki/klacksy-proaktiv.md) — ce observă Klacksy de la sine — și cât de departe are voie să meargă
 
 **Setări**
 
 *Date de bază și organizație*
-- [Filiale](./einstellungen/stammdaten-organisation/branches.md), [Țări](./einstellungen/stammdaten-organisation/laender.md), [Adresa operatorului](./einstellungen/stammdaten-organisation/owner-address.md), [Setări de bază pentru muncă](./einstellungen/stammdaten-organisation/work-setting.md), [Catalog de calificări](./einstellungen/stammdaten-organisation/qualifikationen.md), [Modele de contract](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Filiale](./einstellungen/stammdaten-organisation/branches.md), [Țări](./einstellungen/stammdaten-organisation/laender.md), [Adresa operatorului](./einstellungen/stammdaten-organisation/owner-address.md), [Setări de bază pentru muncă](./einstellungen/stammdaten-organisation/work-setting.md), [Catalog de calificări](./einstellungen/stammdaten-organisation/qualifikationen.md), [Modele de contract](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Ore suplimentare](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Planificare și automatizare*
 - [Valori standard pentru regulile de planificare](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Selecție calendar](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Setări Wizard](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API optimizare rute](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Vizibilitate grupuri](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Furnizori LLM și modele](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personalitate](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Intrare/ieșire vocală](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Niveluri de autonomie](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Test de conexiune model](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Sugestii de abilități](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Macrouri](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Comunicare și integrare*
-- [Trimitere e-mail](./einstellungen/kommunikation-integration/email-versand.md), [Primire e-mail](./einstellungen/kommunikation-integration/email-empfang.md), [Traducere DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Puncte de preluare ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canale de mesagerie](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Trimitere e-mail](./einstellungen/kommunikation-integration/email-versand.md), [Primire e-mail](./einstellungen/kommunikation-integration/email-empfang.md), [Traducere DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Puncte de preluare ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canale de mesagerie](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Predarea exportului de salarii](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Sistem și securitate*
 - [Administrarea utilizatorilor](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Token-uri de acces personale](./einstellungen/system-sicherheit/personal-access-tokens.md), [Păstrarea datelor](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Actualizări](./einstellungen/system-sicherheit/updates.md), [Plugin-uri de funcții](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin-uri lingvistice](./einstellungen/system-sicherheit/sprach-plugins.md), [Reguli spam](./einstellungen/system-sicherheit/spam-regeln.md), [Setări generale](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

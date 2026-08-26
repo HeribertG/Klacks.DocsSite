@@ -28,6 +28,7 @@ Questo wiki spiega in piccoli passi come funziona Klacks. Ogni pagina si legge i
 - [Il tour guidato di configurazione](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy vi guida attraverso le impostazioni di base
 - [Collaboratori e dati anagrafici](./erste-schritte/mitarbeiter-und-stammdaten.md) — Il fondamento di ogni pianificazione
 - [Ruoli e permessi](./erste-schritte/rollen-und-rechte.md) — Supervisor e Admin, chiaramente distinti
+- [La vostra dashboard: tutto a colpo d'occhio](./erste-schritte/ihr-dashboard.md) — La pagina iniziale di Klacks con quattro sezioni riordinabili: Panoramica, Copertura & Conferma, Risorse e Ubicazioni
 
 **Pianificare**
 - [Pianificazione automatica: il piano in pochi secondi](./planen/auto-planung.md) — Il piano in pochi secondi, con un clic
@@ -36,6 +37,8 @@ Questo wiki spiega in piccoli passi come funziona Klacks. Ogni pagina si legge i
 - [Workflow di approvazione: dalla bozza al piano vincolante](./planen/freigabe-workflow.md) — Dalla bozza al piano sigillato
 - [Regole di pianificazione](./planen/planungsregeln.md) — Tempi di riposo, limiti e giorni lavorativi
 - [Chiusura del periodo](./planen/periodenabschluss.md) — Chiudere i mesi in modo vincolante
+- [La griglia di disponibilità: chi è disponibile e quando](./planen/verfuegbarkeits-raster.md) — Registrazione con precisione oraria o giornaliera, per collaboratori interni ed esterni
+- [Il ciclo di vita di un turno: dall'ordine al segmento](./planen/schicht-lebenszyklus.md) — Dall'ordine modificabile al contratto sigillato, fino al turno pianificabile
 
 **Ottimizzare e valutare**
 - [Ottimizzazione di tour e percorsi](./optimieren/touren-und-routenoptimierung.md) — Il percorso migliore, automaticamente
@@ -44,14 +47,17 @@ Questo wiki spiega in piccoli passi come funziona Klacks. Ogni pagina si legge i
 - [Festività e calendario](./optimieren/feiertage-und-kalender.md) — Precisione fino al comune
 - [Relazioni tra competenze](./optimieren/skill-beziehungen.md) — Klacksy impara da solo quali delle sue capacità appartengono insieme
 - [Report Designer](./optimieren/report-designer.md) — Creare report personalizzati
+- [Verificare la qualità della pianificazione: violazioni, lacune e collocazioni saltate](./optimieren/planungsqualitaet-pruefen.md) — Le tre tabelle diagnostiche dopo un'esecuzione dell'assistente
+- [Escalation e servizio di picchetto](./optimieren/eskalation-rufbereitschaft.md) — Chi viene chiamato e in quale ordine in caso di assenza
 
 **L'assistente IA**
 - [Klacksy: il vostro assistente IA per la pianificazione](./ki/klacksy-ki-assistent.md) — Pianificazione a voce, con libera scelta del modello
+- [Klacksy come membro proattivo del team](./ki/klacksy-proaktiv.md) — Ciò che Klacksy nota da solo — e fin dove può spingersi
 
 **Impostazioni**
 
 *Dati anagrafici e organizzazione*
-- [Filiali](./einstellungen/stammdaten-organisation/branches.md), [Paesi](./einstellungen/stammdaten-organisation/laender.md), [Indirizzo del gestore](./einstellungen/stammdaten-organisation/owner-address.md), [Impostazioni di base del lavoro](./einstellungen/stammdaten-organisation/work-setting.md), [Catalogo delle qualifiche](./einstellungen/stammdaten-organisation/qualifikationen.md), [Modelli di contratto](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Filiali](./einstellungen/stammdaten-organisation/branches.md), [Paesi](./einstellungen/stammdaten-organisation/laender.md), [Indirizzo del gestore](./einstellungen/stammdaten-organisation/owner-address.md), [Impostazioni di base del lavoro](./einstellungen/stammdaten-organisation/work-setting.md), [Catalogo delle qualifiche](./einstellungen/stammdaten-organisation/qualifikationen.md), [Modelli di contratto](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Straordinari](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Pianificazione e automazione*
 - [Valori standard delle regole di pianificazione](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Selezione del calendario](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Impostazioni Wizard](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API di ottimizzazione dei percorsi](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Visibilità dei gruppi](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Questo wiki spiega in piccoli passi come funziona Klacks. Ogni pagina si legge i
 - [Provider LLM e modelli](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personalità](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Input/output vocale](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Livelli di autonomia](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Test di connessione del modello](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Suggerimenti di competenze](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Macro](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Comunicazione e integrazione*
-- [Invio e-mail](./einstellungen/kommunikation-integration/email-versand.md), [Ricezione e-mail](./einstellungen/kommunikation-integration/email-empfang.md), [Traduzione DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Punti di ripresa ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canali di messaggistica](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Invio e-mail](./einstellungen/kommunikation-integration/email-versand.md), [Ricezione e-mail](./einstellungen/kommunikation-integration/email-empfang.md), [Traduzione DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Punti di ripresa ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Canali di messaggistica](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Trasferimento dell'esportazione paghe](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Sistema e sicurezza*
 - [Gestione utenti](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Token](./einstellungen/system-sicherheit/personal-access-tokens.md), [Conservazione dei dati](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Aggiornamenti](./einstellungen/system-sicherheit/updates.md), [Plugin di funzionalità](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin linguistici](./einstellungen/system-sicherheit/sprach-plugins.md), [Regole antispam](./einstellungen/system-sicherheit/spam-regeln.md), [Impostazioni generali](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

@@ -28,6 +28,7 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 - [Lawatan Persediaan Berpandu](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy membimbing anda melalui Tetapan Asas
 - [Pekerja dan Data Induk](./erste-schritte/mitarbeiter-und-stammdaten.md) — Asas bagi setiap perancangan
 - [Peranan dan Hak](./erste-schritte/rollen-und-rechte.md) — Supervisor dan Admin, dibezakan dengan jelas
+- [Dashboard Anda: Semuanya pada Pandangan Sekali Imbas](./erste-schritte/ihr-dashboard.md) — Halaman utama Klacks dengan empat bahagian yang boleh disusun semula
 
 **Perancangan**
 - [Auto-Perancangan: Jadual dalam Beberapa Saat](./planen/auto-planung.md) — Jadual dalam beberapa saat, dengan satu klik
@@ -36,6 +37,8 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 - [Aliran Kerja Kelulusan: Dari Draf kepada Jadual Mengikat](./planen/freigabe-workflow.md) — Dari draf hingga jadual termeterai
 - [Peraturan Perancangan](./planen/planungsregeln.md) — Waktu rehat, had dan hari kerja
 - [Penutupan Tempoh](./planen/periodenabschluss.md) — Menutup bulan secara mengikat
+- [Grid Ketersediaan: Siapa Bersedia Bila](./planen/verfuegbarkeits-raster.md) — Direkodkan hingga ke jam atau ke hari, untuk Pekerja sendiri dan luaran
+- [Kitaran Hayat Tugasan: Dari Pesanan kepada Segmen](./planen/schicht-lebenszyklus.md) — Daripada Pesanan boleh disunting kepada kontrak termeterai kepada Tugasan boleh dirancang
 
 **Optimumkan & Analisis**
 - [Pengoptimuman Perjalanan dan Laluan](./optimieren/touren-und-routenoptimierung.md) — Laluan terbaik, secara automatik
@@ -44,14 +47,17 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 - [Cuti Umum dan Kalendar](./optimieren/feiertage-und-kalender.md) — Tepat hingga ke peringkat daerah
 - [Hubungan Skill](./optimieren/skill-beziehungen.md) — Klacksy belajar sendiri kemahiran mana yang saling berkaitan
 - [Report Designer](./optimieren/report-designer.md) — Bina laporan anda sendiri
+- [Menyemak Kualiti Perancangan: Pelanggaran, Jurang dan Perkara yang Dilangkau](./optimieren/planungsqualitaet-pruefen.md) — Tiga jadual diagnostik selepas satu larian pembantu
+- [Eskalasi dan Kesediaan Panggilan](./optimieren/eskalation-rufbereitschaft.md) — Siapa dipanggil mengikut susunan apa apabila seseorang tidak dapat hadir
 
 **Pembantu AI**
 - [Klacksy: Pembantu AI Anda untuk Perancangan](./ki/klacksy-ki-assistent.md) — Perancangan melalui suara, dengan pilihan model bebas
+- [Klacksy sebagai Ahli Pasukan Proaktif](./ki/klacksy-proaktiv.md) — Apa yang Klacksy sedari sendiri — dan sejauh mana dia boleh bertindak
 
 **Tetapan**
 
 *Data Induk & Organisasi*
-- [Cawangan](./einstellungen/stammdaten-organisation/branches.md), [Negara](./einstellungen/stammdaten-organisation/laender.md), [Alamat Pengendali](./einstellungen/stammdaten-organisation/owner-address.md), [Tetapan Asas Kerja](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog Kelayakan](./einstellungen/stammdaten-organisation/qualifikationen.md), [Templat Kontrak](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Cawangan](./einstellungen/stammdaten-organisation/branches.md), [Negara](./einstellungen/stammdaten-organisation/laender.md), [Alamat Pengendali](./einstellungen/stammdaten-organisation/owner-address.md), [Tetapan Asas Kerja](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog Kelayakan](./einstellungen/stammdaten-organisation/qualifikationen.md), [Templat Kontrak](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Kerja Lebih Masa](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Perancangan & Automasi*
 - [Nilai Lalai Peraturan Perancangan](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Pemilihan Kalendar](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Tetapan Wizard](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API Pengoptimuman Laluan](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Keterlihatan Kumpulan](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 - [Penyedia LLM dan Model](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personaliti](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Input/Output Suara](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Tahap Autonomi](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Ujian Sambungan Model](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Cadangan Skill](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makro](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Komunikasi & Integrasi*
-- [Penghantaran E-mel](./einstellungen/kommunikation-integration/email-versand.md), [Penerimaan E-mel](./einstellungen/kommunikation-integration/email-empfang.md), [Terjemahan DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Titik Pengambilalihan ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Saluran Pemesejan](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Penghantaran E-mel](./einstellungen/kommunikation-integration/email-versand.md), [Penerimaan E-mel](./einstellungen/kommunikation-integration/email-empfang.md), [Terjemahan DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Titik Pengambilalihan ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Saluran Pemesejan](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Serahan Eksport Gaji](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Sistem & Keselamatan*
 - [Pengurusan Pengguna](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Pengekalan Data](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Kemas Kini](./einstellungen/system-sicherheit/updates.md), [Plugin Ciri](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin Bahasa](./einstellungen/system-sicherheit/sprach-plugins.md), [Peraturan Spam](./einstellungen/system-sicherheit/spam-regeln.md), [Tetapan Umum](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

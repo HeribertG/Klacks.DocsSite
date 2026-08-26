@@ -28,6 +28,7 @@ slug: /
 - [ガイド付きセットアップ・ツアー](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksyが基本設定を案内します
 - [従業員とマスターデータ](./erste-schritte/mitarbeiter-und-stammdaten.md) — あらゆる計画の基盤
 - [役割と権限](./erste-schritte/rollen-und-rechte.md) — SupervisorとAdmin、明確に区別
+- [あなたのダッシュボード: すべてを一目で](./erste-schritte/ihr-dashboard.md) — 自由に並び替えられる4つのセクション: 概要、カバー率と確定、リソース、拠点
 
 **計画する**
 - [自動計画: 数秒でできるプラン](./planen/auto-planung.md) — ワンクリックで数秒のうちにプランを作成
@@ -36,6 +37,8 @@ slug: /
 - [承認ワークフロー: 下書きから確定プランへ](./planen/freigabe-workflow.md) — 下書きから封印されたプランまで
 - [計画ルール](./planen/planungsregeln.md) — 休息時間、上限、勤務日
 - [期間締め](./planen/periodenabschluss.md) — 月を確定的に締める
+- [空き状況グリッド: 誰がいつ対応可能か](./planen/verfuegbarkeits-raster.md) — 時間単位または日単位で記録、自社および外部スタッフに対応
+- [勤務のライフサイクル: 注文からセグメントまで](./planen/schicht-lebenszyklus.md) — 編集可能な注文から、封印された契約を経て計画可能な勤務へ
 
 **最適化・分析**
 - [ツアー・ルート最適化](./optimieren/touren-und-routenoptimierung.md) — 最適なルートを自動で
@@ -44,14 +47,17 @@ slug: /
 - [祝日とカレンダー](./optimieren/feiertage-und-kalender.md) — 自治体単位まで正確に
 - [スキル関連性](./optimieren/skill-beziehungen.md) — Klacksyが、どの能力同士が関連するかを自ら学習します
 - [レポートデザイナー](./optimieren/report-designer.md) — 独自のレポートを作成
+- [計画品質を確認する: 違反・ギャップ・見送られた配置](./optimieren/planungsqualitaet-pruefen.md) — アシスタント実行後に表示される3つの診断テーブル
+- [エスカレーションとオンコール](./optimieren/eskalation-rufbereitschaft.md) — 欠勤時に誰がどの順番で呼ばれるか
 
 **AIアシスタント**
 - [Klacksy: 計画のためのAIアシスタント](./ki/klacksy-ki-assistent.md) — 自由なモデル選択で、音声による計画操作
+- [自発的なチームメンバーとしてのKlacksy](./ki/klacksy-proaktiv.md) — Klacksyが自ら気づくこと — そして、どこまで踏み込んでよいか
 
 **設定**
 
 *マスターデータと組織*
-- [支店](./einstellungen/stammdaten-organisation/branches.md)、[国](./einstellungen/stammdaten-organisation/laender.md)、[運営者住所](./einstellungen/stammdaten-organisation/owner-address.md)、[勤務基本設定](./einstellungen/stammdaten-organisation/work-setting.md)、[資格カタログ](./einstellungen/stammdaten-organisation/qualifikationen.md)、[契約テンプレート](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [支店](./einstellungen/stammdaten-organisation/branches.md)、[国](./einstellungen/stammdaten-organisation/laender.md)、[運営者住所](./einstellungen/stammdaten-organisation/owner-address.md)、[勤務基本設定](./einstellungen/stammdaten-organisation/work-setting.md)、[資格カタログ](./einstellungen/stammdaten-organisation/qualifikationen.md)、[契約テンプレート](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)、[残業](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *計画と自動化*
 - [計画ルールの初期値](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md)、[カレンダー選択](./einstellungen/planung-automatisierung/kalenderauswahl.md)、[ウィザード設定](./einstellungen/planung-automatisierung/wizard-einstellungen.md)、[ルート最適化API](./einstellungen/planung-automatisierung/routenoptimierung-api.md)、[グループ表示設定](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [LLMプロバイダーとモデル](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md)、[パーソナリティ](./einstellungen/klacksy-konfiguration/persoenlichkeit.md)、[音声入出力](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md)、[自律レベル](./einstellungen/klacksy-konfiguration/autonomie-stufen.md)、[モデル接続テスト](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md)、[スキル提案](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md)、[マクロ](./einstellungen/klacksy-konfiguration/makros.md)
 
 *コミュニケーションと連携*
-- [メール送信](./einstellungen/kommunikation-integration/email-versand.md)、[メール受信](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL翻訳](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP連携ポイント](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[メッセージング・チャネル](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [メール送信](./einstellungen/kommunikation-integration/email-versand.md)、[メール受信](./einstellungen/kommunikation-integration/email-empfang.md)、[DeepL翻訳](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)、[Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md)、[ERP連携ポイント](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)、[メッセージング・チャネル](./einstellungen/kommunikation-integration/messaging-kanaele.md)、[給与エクスポート連携](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *システムとセキュリティ*
 - [ユーザー管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人アクセストークン](./einstellungen/system-sicherheit/personal-access-tokens.md)、[データ保持](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[アップデート](./einstellungen/system-sicherheit/updates.md)、[機能プラグイン](./einstellungen/system-sicherheit/feature-plugins.md)、[言語プラグイン](./einstellungen/system-sicherheit/sprach-plugins.md)、[スパムルール](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

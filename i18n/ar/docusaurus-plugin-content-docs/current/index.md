@@ -28,6 +28,7 @@ slug: /
 - [جولة الإعداد الموجَّهة](./erste-schritte/gefuehrte-einrichtungs-tour.md) — يرشدكم Klacksy خلال الإعدادات الأساسية
 - [الموظفون والبيانات الأساسية](./erste-schritte/mitarbeiter-und-stammdaten.md) — أساس كل تخطيط
 - [الأدوار والصلاحيات](./erste-schritte/rollen-und-rechte.md) — مشرف ومدير، بتمييز واضح
+- [لوحة المعلومات الخاصة بكم: كل شيء بنظرة واحدة](./erste-schritte/ihr-dashboard.md) — الصفحة الرئيسية لـ Klacks بأربعة أقسام قابلة لإعادة الترتيب: نظرة عامة، التغطية والتأكيد، الموارد والمواقع
 
 **التخطيط**
 - [التخطيط التلقائي: الخطة في ثوانٍ](./planen/auto-planung.md) — الخطة في ثوانٍ، بنقرة واحدة
@@ -36,6 +37,8 @@ slug: /
 - [سير عمل الاعتماد: من المسودة إلى الخطة الملزمة](./planen/freigabe-workflow.md) — من المسودة إلى الخطة المختومة
 - [قواعد التخطيط](./planen/planungsregeln.md) — أوقات الراحة والحدود القصوى وأيام العمل
 - [إقفال الفترات](./planen/periodenabschluss.md) — إقفال الأشهر بشكل ملزم
+- [شبكة التوافر: من متاح ومتى](./planen/verfuegbarkeits-raster.md) — مسجَّلة بدقة الساعة أو اليوم، للموظفين الداخليين والخارجيين
+- [دورة حياة الدوام: من الطلب إلى المقطع](./planen/schicht-lebenszyklus.md) — من الطلب القابل للتحرير إلى العقد المختوم إلى الدوام القابل للتخطيط
 
 **التحسين والتحليل**
 - [تحسين الجولات والطرق](./optimieren/touren-und-routenoptimierung.md) — أفضل طريق، تلقائيًا
@@ -44,14 +47,17 @@ slug: /
 - [العطلات الرسمية والتقويم](./optimieren/feiertage-und-kalender.md) — بدقة تصل إلى مستوى البلدية
 - [علاقات المهارات](./optimieren/skill-beziehungen.md) — يتعلم Klacksy بنفسه أي مهاراته مرتبطة ببعضها
 - [مصمم التقارير](./optimieren/report-designer.md) — إنشاء تقارير خاصة بكم
+- [فحص جودة التخطيط: المخالفات والفجوات والتخصيصات المتخطّاة](./optimieren/planungsqualitaet-pruefen.md) — الجداول التشخيصية الثلاثة بعد تشغيل أحد المساعدين
+- [التصعيد وخدمة الاستدعاء](./optimieren/eskalation-rufbereitschaft.md) — من يُستدعى وبأي ترتيب عند تغيّب أحدهم
 
 **المساعد الذكي**
 - [Klacksy: مساعدكم الذكي للتخطيط](./ki/klacksy-ki-assistent.md) — التخطيط بالصوت، مع حرية اختيار النموذج
+- [Klacksy كعضو استباقي في الفريق](./ki/klacksy-proaktiv.md) — ما يلاحظه Klacksy من تلقاء نفسه — وإلى أي مدى يُسمح له بالتصرف
 
 **الإعدادات**
 
 *البيانات الأساسية والتنظيم*
-- [الفروع](./einstellungen/stammdaten-organisation/branches.md)، [الدول](./einstellungen/stammdaten-organisation/laender.md)، [عنوان المشغّل](./einstellungen/stammdaten-organisation/owner-address.md)، [الإعدادات الأساسية للعمل](./einstellungen/stammdaten-organisation/work-setting.md)، [كتالوج المؤهلات](./einstellungen/stammdaten-organisation/qualifikationen.md)، [قوالب العقود](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [الفروع](./einstellungen/stammdaten-organisation/branches.md)، [الدول](./einstellungen/stammdaten-organisation/laender.md)، [عنوان المشغّل](./einstellungen/stammdaten-organisation/owner-address.md)، [الإعدادات الأساسية للعمل](./einstellungen/stammdaten-organisation/work-setting.md)، [كتالوج المؤهلات](./einstellungen/stammdaten-organisation/qualifikationen.md)، [قوالب العقود](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)، [الساعات الإضافية](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *التخطيط والأتمتة*
 - [القيم الافتراضية لقواعد التخطيط](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md)، [اختيار التقويم](./einstellungen/planung-automatisierung/kalenderauswahl.md)، [إعدادات المعالج (Wizard)](./einstellungen/planung-automatisierung/wizard-einstellungen.md)، [واجهة برمجة تحسين الطرق](./einstellungen/planung-automatisierung/routenoptimierung-api.md)، [رؤية المجموعات](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ slug: /
 - [مزودو ونماذج LLM](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md)، [الشخصية](./einstellungen/klacksy-konfiguration/persoenlichkeit.md)، [الإدخال/الإخراج الصوتي](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md)، [مستويات الاستقلالية](./einstellungen/klacksy-konfiguration/autonomie-stufen.md)، [اختبار اتصال النموذج](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md)، [اقتراحات المهارات](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md)، [الماكرو](./einstellungen/klacksy-konfiguration/makros.md)
 
 *التواصل والتكامل*
-- [إرسال البريد الإلكتروني](./einstellungen/kommunikation-integration/email-versand.md)، [استقبال البريد الإلكتروني](./einstellungen/kommunikation-integration/email-empfang.md)، [ترجمة DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)، [موفر الهوية](./einstellungen/kommunikation-integration/identity-provider.md)، [نقاط استلام ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)، [قنوات المراسلة](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [إرسال البريد الإلكتروني](./einstellungen/kommunikation-integration/email-versand.md)، [استقبال البريد الإلكتروني](./einstellungen/kommunikation-integration/email-empfang.md)، [ترجمة DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md)، [موفر الهوية](./einstellungen/kommunikation-integration/identity-provider.md)، [نقاط استلام ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md)، [قنوات المراسلة](./einstellungen/kommunikation-integration/messaging-kanaele.md)، [تسليم تصدير الرواتب](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *النظام والأمان*
 - [إدارة المستخدمين](./einstellungen/system-sicherheit/benutzerverwaltung.md)، [رموز الوصول الشخصية](./einstellungen/system-sicherheit/personal-access-tokens.md)، [الاحتفاظ بالبيانات](./einstellungen/system-sicherheit/datenaufbewahrung.md)، [التحديثات](./einstellungen/system-sicherheit/updates.md)، [إضافات الميزات](./einstellungen/system-sicherheit/feature-plugins.md)، [إضافات اللغات](./einstellungen/system-sicherheit/sprach-plugins.md)، [قواعد البريد المزعج](./einstellungen/system-sicherheit/spam-regeln.md)، [الإعدادات العامة](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

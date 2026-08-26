@@ -10,9 +10,9 @@ La page est organisée en trois onglets : **Périodes**, **Exports** et **Journa
 
 1. **Choisir la période :** vous délimitez la période via une date de début et de fin, et filtrez si besoin sur un groupe (ou « Tous les groupes »). Les intervalles de paiement disponibles sont hebdomadaire, bihebdomadaire, mensuel ou personnalisé.
 2. **Sceller :** en tant qu'administrateur, vous clôturez les entrées avec *Sceller la période* (ou *Tout sceller*). Une boîte de dialogue de confirmation indique au préalable le nombre d'entrées concernées.
-3. **Exporter :** à partir des périodes scellées, vous générez des exports — au format CSV, JSON, XML, DATEV ou BMD NTCS, avec langue et devise au choix ; le cas échéant rattachés à une commande précise. L'onglet *Exports* liste tous les fichiers générés avec leur période, leur date de création et la personne qui les a créés.
+3. **Exporter :** à partir des périodes scellées, vous générez dans l'onglet *Exports* des fichiers d'export — au format CSV, JSON, XML, DATEV ou BMD NTCS, avec langue et devise au choix ; le cas échéant rattachés à une commande précise.
 4. **Rouvrir :** en tant qu'administrateur, vous pouvez si nécessaire rouvrir une période scellée (*Rouvrir la période* ou *Desceller tout*). Un **motif est alors obligatoire**.
-5. **Journal :** chaque scellement et chaque réouverture est consigné dans l'onglet *Journal* — avec l'action, l'horodatage et la personne qui l'a exécutée.
+5. **Journal :** chaque scellement et chaque réouverture est consigné dans l'onglet *Journal* — avec l'action, l'horodatage et la personne qui l'a exécutée. Ce même onglet liste aussi tous les fichiers d'export générés, avec leur période, leur date de création et la personne qui les a créés.
 
 ## Bon à savoir
 

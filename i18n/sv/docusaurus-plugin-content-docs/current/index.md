@@ -28,6 +28,7 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [Den guidade installationsturen](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy guidar dig genom grundinställningarna
 - [Medarbetare och stamdata](./erste-schritte/mitarbeiter-und-stammdaten.md) — Grunden för all planering
 - [Roller och rättigheter](./erste-schritte/rollen-und-rechte.md) — Supervisor och Admin, tydligt åtskilda
+- [Din Dashboard: allt på en blick](./erste-schritte/ihr-dashboard.md) — Klacks startsida med fyra omsorterbara avsnitt: Översikt, Täckning och bekräftelse, Resurser och Platser
 
 **Planera**
 - [Autoplanering: Schemat på sekunder](./planen/auto-planung.md) — Schemat på sekunder, med ett klick
@@ -36,6 +37,8 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [Godkännandeflöde: från utkast till bindande schema](./planen/freigabe-workflow.md) — Från utkast till förseglat schema
 - [Planeringsregler](./planen/planungsregeln.md) — Vilotider, gränser och arbetsdagar
 - [Periodavslut](./planen/periodenabschluss.md) — Avsluta månader bindande
+- [Tillgänglighetsrutnätet: vem som är tillgänglig, och när](./planen/verfuegbarkeits-raster.md) — Registrerat ner till timmen eller dagen, för egen och extern personal
+- [Ett skifts livscykel: från beställning till segment](./planen/schicht-lebenszyklus.md) — Från redigerbar beställning via förseglat avtal till planeringsbart skift
 
 **Optimera och utvärdera**
 - [Tur- och ruttoptimering](./optimieren/touren-und-routenoptimierung.md) — Den bästa rutten, automatiskt
@@ -44,14 +47,17 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [Helgdagar och kalender](./optimieren/feiertage-und-kalender.md) — Ner på kommunnivå
 - [Kvalifikationsrelationer](./optimieren/skill-beziehungen.md) — Klacksy lär sig själv vilka av sina förmågor som hör ihop
 - [Rapportdesigner](./optimieren/report-designer.md) — Bygg egna rapporter
+- [Kontrollera planeringskvaliteten: överträdelser, luckor och överhoppat](./optimieren/planungsqualitaet-pruefen.md) — De tre diagnostabellerna efter en assistentkörning
+- [Eskalering och jour](./optimieren/eskalation-rufbereitschaft.md) — Vem som rings upp i vilken ordning när någon blir frånvarande
 
 **KI-assistenten**
 - [Klacksy: din KI-assistent för planering](./ki/klacksy-ki-assistent.md) — Planering med tal, med fritt modellval
+- [Klacksy som proaktiv teammedlem](./ki/klacksy-proaktiv.md) — Vad Klacksy lägger märke till på egen hand — och hur långt den får gå
 
 **Inställningar**
 
 *Stamdata och organisation*
-- [Filialer](./einstellungen/stammdaten-organisation/branches.md), [Länder](./einstellungen/stammdaten-organisation/laender.md), [Ägaradress](./einstellungen/stammdaten-organisation/owner-address.md), [Grundinställningar för arbete](./einstellungen/stammdaten-organisation/work-setting.md), [Kvalifikationskatalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Avtalsmallar](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Filialer](./einstellungen/stammdaten-organisation/branches.md), [Länder](./einstellungen/stammdaten-organisation/laender.md), [Ägaradress](./einstellungen/stammdaten-organisation/owner-address.md), [Grundinställningar för arbete](./einstellungen/stammdaten-organisation/work-setting.md), [Kvalifikationskatalog](./einstellungen/stammdaten-organisation/qualifikationen.md), [Avtalsmallar](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Övertid](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Planering och automatisering*
 - [Standardvärden för planeringsregler](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Kalenderval](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Wizard-inställningar](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [Ruttoptimerings-API](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Gruppsynlighet](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [LLM-leverantör och modeller](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Personlighet](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Röstin-/utmatning](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Autonominivåer](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Modellanslutningstest](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Skill-förslag](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makron](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Kommunikation och integration*
-- [E-postutskick](./einstellungen/kommunikation-integration/email-versand.md), [E-postmottagning](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-översättning](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-övertagningspunkter](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Meddelandekanaler](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [E-postutskick](./einstellungen/kommunikation-integration/email-versand.md), [E-postmottagning](./einstellungen/kommunikation-integration/email-empfang.md), [DeepL-översättning](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP-övertagningspunkter](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Meddelandekanaler](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Löneexport-överlämning](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *System och säkerhet*
 - [Användarhantering](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Datalagring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Uppdateringar](./einstellungen/system-sicherheit/updates.md), [Funktions-plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Språk-plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam-regler](./einstellungen/system-sicherheit/spam-regeln.md), [Allmänna inställningar](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

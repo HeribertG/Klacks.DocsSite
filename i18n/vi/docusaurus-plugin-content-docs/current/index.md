@@ -28,6 +28,7 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Chuyến tham quan thiết lập có hướng dẫn](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy hướng dẫn bạn qua các cài đặt cơ bản
 - [Nhân viên và dữ liệu gốc](./erste-schritte/mitarbeiter-und-stammdaten.md) — Nền tảng của mọi kế hoạch
 - [Vai trò và quyền hạn](./erste-schritte/rollen-und-rechte.md) — Supervisor và Admin, phân biệt rõ ràng
+- [Dashboard của bạn: Mọi thứ trong một cái nhìn](./erste-schritte/ihr-dashboard.md) — Trang chủ của Klacks với bốn phần có thể sắp xếp tự do: Tổng quan, Độ bao phủ & Xác nhận, Tài nguyên và Địa điểm
 
 **Lập kế hoạch**
 - [Tự động lập kế hoạch: Kế hoạch trong vài giây](./planen/auto-planung.md) — Kế hoạch trong vài giây, chỉ với một cú nhấp chuột
@@ -36,6 +37,8 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Quy trình phê duyệt: Từ bản nháp đến kế hoạch ràng buộc](./planen/freigabe-workflow.md) — Từ bản nháp đến kế hoạch đã niêm phong
 - [Quy tắc lập kế hoạch](./planen/planungsregeln.md) — Thời gian nghỉ, giới hạn và ngày làm việc
 - [Chốt kỳ](./planen/periodenabschluss.md) — Chốt các tháng một cách ràng buộc
+- [Lưới tình trạng sẵn sàng: Ai sẵn sàng làm việc khi nào](./planen/verfuegbarkeits-raster.md) — Ghi nhận chính xác theo giờ hoặc theo ngày, cho nhân viên nội bộ và nhân viên bên ngoài
+- [Vòng đời của một dịch vụ: Từ đơn hàng đến đoạn dịch vụ](./planen/schicht-lebenszyklus.md) — Từ đơn hàng có thể chỉnh sửa đến hợp đồng đã niêm phong và dịch vụ có thể lập kế hoạch
 
 **Tối ưu hóa & Đánh giá**
 - [Tối ưu hóa tuyến đường và chuyến đi](./optimieren/touren-und-routenoptimierung.md) — Tuyến đường tốt nhất, tự động
@@ -44,14 +47,17 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Ngày lễ và lịch](./optimieren/feiertage-und-kalender.md) — Chính xác đến từng địa phương
 - [Mối quan hệ kỹ năng](./optimieren/skill-beziehungen.md) — Klacksy tự học những kỹ năng nào của nó thuộc về nhau
 - [Trình thiết kế báo cáo](./optimieren/report-designer.md) — Tự xây dựng báo cáo riêng
+- [Kiểm tra chất lượng lập kế hoạch: Vi phạm, thiếu hụt và phần bị bỏ qua](./optimieren/planungsqualitaet-pruefen.md) — Ba bảng chẩn đoán sau một lượt chạy trợ lý
+- [Leo thang và trực gọi](./optimieren/eskalation-rufbereitschaft.md) — Ai được gọi theo thứ tự nào khi có người vắng mặt đột xuất
 
 **Trợ lý AI**
 - [Klacksy: Trợ lý AI của bạn cho việc lập kế hoạch](./ki/klacksy-ki-assistent.md) — Lập kế hoạch bằng giọng nói, với lựa chọn mô hình tự do
+- [Klacksy: Thành viên chủ động trong nhóm](./ki/klacksy-proaktiv.md) — Những gì Klacksy tự nhận thấy — và nó được phép đi xa đến đâu
 
 **Cài đặt**
 
 *Dữ liệu gốc & Tổ chức*
-- [Chi nhánh](./einstellungen/stammdaten-organisation/branches.md), [Quốc gia](./einstellungen/stammdaten-organisation/laender.md), [Địa chỉ chủ sở hữu](./einstellungen/stammdaten-organisation/owner-address.md), [Cài đặt cơ bản công việc](./einstellungen/stammdaten-organisation/work-setting.md), [Danh mục trình độ chuyên môn](./einstellungen/stammdaten-organisation/qualifikationen.md), [Mẫu hợp đồng](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Chi nhánh](./einstellungen/stammdaten-organisation/branches.md), [Quốc gia](./einstellungen/stammdaten-organisation/laender.md), [Địa chỉ chủ sở hữu](./einstellungen/stammdaten-organisation/owner-address.md), [Cài đặt cơ bản công việc](./einstellungen/stammdaten-organisation/work-setting.md), [Danh mục trình độ chuyên môn](./einstellungen/stammdaten-organisation/qualifikationen.md), [Mẫu hợp đồng](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Giờ làm thêm](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Lập kế hoạch & Tự động hóa*
 - [Giá trị mặc định quy tắc lập kế hoạch](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Lựa chọn lịch](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Cài đặt Wizard](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API tối ưu hóa tuyến đường](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Hiển thị nhóm](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Nhà cung cấp LLM và mô hình](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Tính cách](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Đầu vào/đầu ra giọng nói](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Các mức độ tự chủ](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Kiểm tra kết nối mô hình](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Đề xuất kỹ năng](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Macro](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Giao tiếp & Tích hợp*
-- [Gửi email](./einstellungen/kommunikation-integration/email-versand.md), [Nhận email](./einstellungen/kommunikation-integration/email-empfang.md), [Dịch DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Điểm tiếp nhận ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Kênh nhắn tin](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Gửi email](./einstellungen/kommunikation-integration/email-versand.md), [Nhận email](./einstellungen/kommunikation-integration/email-empfang.md), [Dịch DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [Điểm tiếp nhận ERP](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Kênh nhắn tin](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Bàn giao xuất lương](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Hệ thống & Bảo mật*
 - [Quản lý người dùng](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Lưu trữ dữ liệu](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Cập nhật](./einstellungen/system-sicherheit/updates.md), [Plugin tính năng](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin ngôn ngữ](./einstellungen/system-sicherheit/sprach-plugins.md), [Quy tắc chống spam](./einstellungen/system-sicherheit/spam-regeln.md), [Cài đặt chung](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)

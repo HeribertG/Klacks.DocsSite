@@ -28,6 +28,7 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [Průvodce úvodním nastavením](./erste-schritte/gefuehrte-einrichtungs-tour.md) — Klacksy vás provede základním nastavením
 - [Zaměstnanci a kmenová data](./erste-schritte/mitarbeiter-und-stammdaten.md) — Základ každého plánování
 - [Role a oprávnění](./erste-schritte/rollen-und-rechte.md) — Supervisor a Admin, jasně odlišené
+- [Váš dashboard: Vše na jeden pohled](./erste-schritte/ihr-dashboard.md) — Startovní stránka Klacks se čtyřmi volně řaditelnými oddíly: Přehled, Pokrytí a potvrzení, Zdroje a Lokality
 
 **Plánování**
 - [Automatické plánování: Rozvrh za pár sekund](./planen/auto-planung.md) — Rozvrh za pár sekund, jedním kliknutím
@@ -36,6 +37,8 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [Schvalovací proces: Od návrhu k závaznému plánu](./planen/freigabe-workflow.md) — Od návrhu až po zapečetěný plán
 - [Plánovací pravidla](./planen/planungsregeln.md) — Doby odpočinku, limity a pracovní dny
 - [Uzávěrka období](./planen/periodenabschluss.md) — Závazné uzavření měsíců
+- [Mřížka dostupnosti: Kdo je kdy k dispozici](./planen/verfuegbarkeits-raster.md) — Zaznamenáno s přesností na hodinu nebo na den, pro vlastní i externí zaměstnance
+- [Životní cyklus služby: Od objednávky k segmentu](./planen/schicht-lebenszyklus.md) — Od upravitelné objednávky přes zapečetěnou smlouvu k plánovatelné službě
 
 **Optimalizace a vyhodnocení**
 - [Optimalizace tras a maršrut](./optimieren/touren-und-routenoptimierung.md) — Nejlepší trasa automaticky
@@ -44,14 +47,17 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [Svátky a kalendář](./optimieren/feiertage-und-kalender.md) — Přesně až na úroveň obce
 - [Vztahy mezi dovednostmi](./optimieren/skill-beziehungen.md) — Klacksy se sám učí, které jeho schopnosti patří k sobě
 - [Návrhář reportů](./optimieren/report-designer.md) — Tvorba vlastních reportů
+- [Kontrola kvality plánování: Porušení, mezery a přeskočená umístění](./optimieren/planungsqualitaet-pruefen.md) — Tři diagnostické tabulky po běhu asistenta
+- [Eskalace a pohotovost](./optimieren/eskalation-rufbereitschaft.md) — Kdo je při výpadku probuzen a v jakém pořadí
 
 **AI asistent**
 - [Klacksy: Váš AI asistent pro plánování](./ki/klacksy-ki-assistent.md) — Plánování hlasem, se svobodnou volbou modelu
+- [Klacksy jako proaktivní člen týmu](./ki/klacksy-proaktiv.md) — Co si Klacksy všimne sám od sebe — a jak daleko přitom smí zajít
 
 **Nastavení**
 
 *Kmenová data a organizace*
-- [Pobočky](./einstellungen/stammdaten-organisation/branches.md), [Země](./einstellungen/stammdaten-organisation/laender.md), [Adresa provozovatele](./einstellungen/stammdaten-organisation/owner-address.md), [Základní pracovní nastavení](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog kvalifikací](./einstellungen/stammdaten-organisation/qualifikationen.md), [Šablony smluv](./einstellungen/stammdaten-organisation/vertragsvorlagen.md)
+- [Pobočky](./einstellungen/stammdaten-organisation/branches.md), [Země](./einstellungen/stammdaten-organisation/laender.md), [Adresa provozovatele](./einstellungen/stammdaten-organisation/owner-address.md), [Základní pracovní nastavení](./einstellungen/stammdaten-organisation/work-setting.md), [Katalog kvalifikací](./einstellungen/stammdaten-organisation/qualifikationen.md), [Šablony smluv](./einstellungen/stammdaten-organisation/vertragsvorlagen.md), [Přesčasy](./einstellungen/stammdaten-organisation/ueberstunden.md)
 
 *Plánování a automatizace*
 - [Výchozí hodnoty plánovacích pravidel](./einstellungen/planung-automatisierung/planungsregeln-standardwerte.md), [Výběr kalendáře](./einstellungen/planung-automatisierung/kalenderauswahl.md), [Nastavení průvodce](./einstellungen/planung-automatisierung/wizard-einstellungen.md), [API pro optimalizaci tras](./einstellungen/planung-automatisierung/routenoptimierung-api.md), [Viditelnost skupin](./einstellungen/planung-automatisierung/gruppen-sichtbarkeit.md)
@@ -60,7 +66,7 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [LLM poskytovatelé a modely](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle.md), [Osobnost](./einstellungen/klacksy-konfiguration/persoenlichkeit.md), [Vstup/výstup hlasu](./einstellungen/klacksy-konfiguration/sprachein-ausgabe.md), [Úrovně autonomie](./einstellungen/klacksy-konfiguration/autonomie-stufen.md), [Test připojení modelu](./einstellungen/klacksy-konfiguration/modell-verbindungstest.md), [Návrhy dovedností](./einstellungen/klacksy-konfiguration/skill-vorschlaege.md), [Makra](./einstellungen/klacksy-konfiguration/makros.md)
 
 *Komunikace a integrace*
-- [Odesílání e-mailů](./einstellungen/kommunikation-integration/email-versand.md), [Příjem e-mailů](./einstellungen/kommunikation-integration/email-empfang.md), [Překlad DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP přebírací body](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Komunikační kanály](./einstellungen/kommunikation-integration/messaging-kanaele.md)
+- [Odesílání e-mailů](./einstellungen/kommunikation-integration/email-versand.md), [Příjem e-mailů](./einstellungen/kommunikation-integration/email-empfang.md), [Překlad DeepL](./einstellungen/kommunikation-integration/deepl-uebersetzung.md), [Identity Provider](./einstellungen/kommunikation-integration/identity-provider.md), [ERP přebírací body](./einstellungen/kommunikation-integration/erp-uebernahmepunkte.md), [Komunikační kanály](./einstellungen/kommunikation-integration/messaging-kanaele.md), [Předání mzdového exportu](./einstellungen/kommunikation-integration/lohnexport-uebergabe.md)
 
 *Systém a bezpečnost*
 - [Správa uživatelů](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Uchovávání dat](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Aktualizace](./einstellungen/system-sicherheit/updates.md), [Funkční pluginy](./einstellungen/system-sicherheit/feature-plugins.md), [Jazykové pluginy](./einstellungen/system-sicherheit/sprach-plugins.md), [Pravidla proti spamu](./einstellungen/system-sicherheit/spam-regeln.md), [Obecná nastavení](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
