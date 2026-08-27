@@ -31,7 +31,7 @@ slug: /
 - [대시보드: 한눈에 보는 모든 것](./erste-schritte/ihr-dashboard.md) — 개요, 충원 및 확정, 리소스, 위치라는 네 개의 자유롭게 순서를 바꿀 수 있는 섹션으로 구성된 Klacks의 시작 페이지
 
 **계획**
-- [자동 계획: 몇 초 만에 완성되는 계획](./planen/auto-planung.md) — 클릭 한 번으로 몇 초 만에 완성되는 계획
+- [자동 계획: 클릭 한 번, 나머지는 백그라운드에서](./planen/auto-planung.md) — 계산은 백그라운드에서 진행되어, 그 사이 다른 일에 신경 쓸 수 있습니다
 - [계획 그리드: 인터랙티브 시간 매트릭스](./planen/plan-raster.md) — 드래그 앤 드롭이 가능한 인터랙티브 시간 매트릭스
 - [모듈형 계획: 분할 정복](./planen/modulare-planung.md) — 중복 배정 없이 큰 계획을 나누기
 - [승인 워크플로: 초안에서 확정 계획까지](./planen/freigabe-workflow.md) — 초안부터 봉인된 계획까지

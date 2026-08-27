@@ -18,7 +18,7 @@ Los tres informes aparecen en el diálogo del asistente de planificación corres
 
 **Las colocaciones omitidas** solo existen en el asistente de planificación de turnos, también después de aplicar el resultado — y siempre en rojo. Columnas: fecha, empleado, turno, motivo. Aquí no figura lo que se planificó, sino lo que Klacks deliberadamente **no** escribió: asignaciones que habrían infringido una regla gestionada en modo de bloqueo. El motivo aparece como una categoría breve («Tiempo de descanso demasiado corto», «Demasiados días de trabajo consecutivos», «Colisión horaria»…). Según la situación, Klacks ofrece debajo a las personas autorizadas la posibilidad de aplicar la ejecución igualmente mediante anulación (override); el resto recibe la indicación de repetir el asistente con la anulación activada o de pedírselo a una persona autorizada. Cada anulación queda registrada.
 
-Qué reglas se comprueban y con qué grado de exigencia se aplican lo define en las [Reglas de planificación](../planen/planungsregeln.md); cómo se genera el plan en sí lo describe [Planificación automática: el plan en segundos](../planen/auto-planung.md).
+Qué reglas se comprueban y con qué grado de exigencia se aplican lo define en las [Reglas de planificación](../planen/planungsregeln.md); cómo se genera el plan en sí lo describe [Planificación automática: un clic, el resto se ejecuta en segundo plano](../planen/auto-planung.md).
 
 ## Bueno saberlo
 

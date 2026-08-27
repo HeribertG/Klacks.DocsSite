@@ -13,7 +13,7 @@ O plano percorre quatro fases:
 1. **Rascunho** — a fase de trabalho: tudo ainda pode ser alterado
 2. **Confirmado** — o plano está definido tecnicamente; as alterações passam a ser controladas
 3. **Aprovado** — a entidade responsável autorizou-o
-4. **Concluído** — o plano está selado e é vinculativo
+4. **Concluído** — o plano está selado e é vinculativo para a operação; o fecho contabilístico decorre separadamente através do [Fecho de Período](../planen/periodenabschluss.md)
 
 Cada fase **bloqueia a edição** de forma correspondente: o que está aprovado deixa de poder ser alterado por acidente por arrastar e largar. Está claramente definido quem pode aplicar cada fase:
 
@@ -23,7 +23,7 @@ Cada fase **bloqueia a edição** de forma correspondente: o que está aprovado 
 
 ## Bom saber
 
-- Os bloqueios aplicam-se em todo o lado — também o [Planeamento Automático: O Plano em Segundos](../planen/auto-planung.md) e o [Klacksy](../ki/klacksy-ki-assistent.md) respeitam o estado de aprovação.
+- Os bloqueios aplicam-se em todo o lado — também o [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md) e o [Klacksy](../ki/klacksy-ki-assistent.md) respeitam o estado de aprovação.
 - As alterações de última hora após a aprovação (casos de doença!) decorrem como correções conscientes e rastreáveis, e não como um replaneamento silencioso.
 - Para o fecho contabilístico de um mês existe ainda o [Fecho de Período](../planen/periodenabschluss.md).
 

@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Jak to działa
 
-Klacksy rozumie Państwa potrzeby i przekłada je na konkretne działania — dostępnych jest ponad **250 umiejętności**:
+Klacksy rozumie Państwa potrzeby i przekłada je na konkretne działania — dostępnych jest ponad **300 umiejętności**:
 
 - **Planowanie:** wypełnianie zmian, zastępowanie nieobecności, przenoszenie dyżurów
 - **Zarządzanie:** tworzenie pracowników, prowadzenie grup, ustawianie uprawnień

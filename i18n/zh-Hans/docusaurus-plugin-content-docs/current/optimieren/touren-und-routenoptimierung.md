@@ -23,7 +23,7 @@ sidebar_position: 1
 - 每条巡回都可以单独选择交通方式 — 城市骑行巡回与乡村驾车巡回并行不悖。
 - 如果有人临时缺勤，Klacks 会立即显示谁既有资质又有空。
 
-![Timeline-Ansicht für die Tourenplanung](/img/app-timeline-de.png)
+![用于巡回规划的时间轴视图](/img/app-timeline-de.png)
 
 ---
 *立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

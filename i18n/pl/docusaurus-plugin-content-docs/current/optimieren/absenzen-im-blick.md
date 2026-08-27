@@ -11,7 +11,7 @@ Urlop, choroba, szkolenie, służba wojskowa — kto i kiedy jest nieobecny, zob
 - Każda nieobecność pojawia się jako kolorowy pasek na osi czasu danej osoby — nakładania się i kumulacje rzucają się w oczy od razu.
 - **Własne rodzaje nieobecności** definiujesz samodzielnie, wraz z kolorem i zachowaniem (płatna/niepłatna, z wpływem na godziny lub bez).
 - Eksport do formatu **PDF** wykonasz jednym kliknięciem — przydatne przy wywieszkach lub archiwizacji.
-- Nieobecności wpływają bezpośrednio na planowanie: osoba nieobecna nie zostanie uwzględniona przez [Planowanie automatyczne: plan w kilka sekund](../planen/auto-planung.md), a w [Siatka planu: Twoja interaktywna macierz czasu](../planen/plan-raster.md) konflikt jest widoczny natychmiast.
+- Nieobecności wpływają bezpośrednio na planowanie: osoba nieobecna nie zostanie uwzględniona przez [Planowanie automatyczne: jedno kliknięcie, reszta w tle](../planen/auto-planung.md), a w [Siatka planu: Twoja interaktywna macierz czasu](../planen/plan-raster.md) konflikt jest widoczny natychmiast.
 
 ## Warto wiedzieć
 

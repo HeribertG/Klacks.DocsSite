@@ -18,7 +18,7 @@ Ba báo cáo này xuất hiện trong hộp thoại của trợ lý lập kế h
 
 **Các vị trí bị bỏ qua** chỉ có ở trợ lý lập kế hoạch ca làm việc, cũng xuất hiện sau khi nhận kết quả — và luôn có màu đỏ. Các cột: Ngày, Nhân viên, Ca làm việc, Lý do. Ở đây không ghi những gì đã được lập kế hoạch, mà là những gì Klacks cố ý **không** ghi: những phân công lẽ ra sẽ vi phạm một quy tắc được quản lý ở chế độ Block. Lý do xuất hiện dưới dạng một danh mục ngắn ("Thời gian nghỉ quá ngắn", "Quá nhiều ngày làm việc liên tiếp", "Xung đột thời gian" …). Tùy tình huống, bên dưới đó Klacks có thể đề nghị người có thẩm quyền vẫn nhận lượt chạy này bằng Override; tất cả những người khác nhận được gợi ý lặp lại trợ lý với Override đã kích hoạt hoặc nhờ một người có thẩm quyền thực hiện việc đó. Mỗi lần Override đều được ghi lại.
 
-Những quy tắc nào được kiểm tra và mức độ nghiêm ngặt của chúng được xác định trong [Quy tắc lập kế hoạch](../planen/planungsregeln.md); cách kế hoạch được tạo ra ngay từ đầu được mô tả trong [Tự động lập kế hoạch: Bản kế hoạch trong vài giây](../planen/auto-planung.md).
+Những quy tắc nào được kiểm tra và mức độ nghiêm ngặt của chúng được xác định trong [Quy tắc lập kế hoạch](../planen/planungsregeln.md); cách kế hoạch được tạo ra ngay từ đầu được mô tả trong [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md).
 
 ## Điều cần biết
 

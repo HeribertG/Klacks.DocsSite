@@ -16,6 +16,8 @@ Zarządzanie adresami i osobami to serce Twoich danych podstawowych: pracownicy,
 
 **Umowy:** Każda osoba może mieć kilka umów, na przykład przy zmianie wymiaru etatu. Same szablony umów są dowolnie definiowalne: w sekcji Ustawienia > Umowy tworzysz własne umowy z nazwą, wymiarem etatu, godzinami docelowymi/maksymalnymi/minimalnymi, dodatkami (nocny, niedzielny i świąteczny) oraz interwałem wypłat; każdej umowie można dodatkowo przypisać własny kalendarz świąt, dzięki czemu można odwzorować np. różne święta kantonalne. Każda umowa obowiązuje przez określony czas lub bezterminowo.
 
+**Kwalifikacje:** Każdej osobie można przypisać dowolną liczbę kwalifikacji z ogólnofirmowego [Katalogu kwalifikacji](../einstellungen/stammdaten-organisation/qualifikationen.md), każdą z określonym poziomem (od niskiego do eksperckiego). Dyżury z kolei mogą wymagać kwalifikacji z minimalnym poziomem — planowanie automatyczne uwzględnia to przy obsadzaniu.
+
 **Import:** Import danych podstawowych z pliku CSV nie istnieje. Istniejące katalogi przejmujesz automatycznie przez synchronizację LDAP/Active Directory za pośrednictwem dostawcy tożsamości (Identity Provider); pojedyncze osoby dodajesz ręcznie lub za pomocą Klacksy.
 
 **Wyszukiwanie i filtrowanie:** Wyszukiwanie pełnotekstowe znajduje osoby po nazwisku, imieniu, firmie lub numerze personalnym, a także po numerze telefonu/kodzie pocztowym; dodatkowo możesz filtrować po kantonie, statusie (Aktywni/Byli/Przyszli) i grupie.

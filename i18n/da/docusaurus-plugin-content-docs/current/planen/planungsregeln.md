@@ -8,7 +8,7 @@ Planlægningsregler definerer rammebetingelserne for den automatiske vagtplanlæ
 
 ## Sådan fungerer det
 
-En planlægningsregel tilknyttes en **kontrakt**. De definerede grænseværdier gælder dermed for alle medarbejdere med denne kontrakt. Hver regel omfatter fire områder:
+En planlægningsregel tilknyttes en **kontrakt**. De definerede grænseværdier gælder dermed for alle medarbejdere med denne kontrakt. Hver regel omfatter tre områder:
 
 **Arbejdsdage & hviletider**
 - Maks. arbejdsdage: blød regel for den foretrukne blok-længde, før en hviledag planlægges ind (f.eks. "5 dage arbejde, så hvile") — en overtrædelse gør ikke planen ugyldig, kun mindre optimal
@@ -27,12 +27,10 @@ En planlægningsregel tilknyttes en **kontrakt**. De definerede grænseværdier 
 - Minimum og maksimum timer pr. måned
 - Fuldtidstimer (månedligt timeantal svarende til en fuldtidsstilling)
 
-**Ferie**
-- Feriedage pr. kalenderår
-
 ## Godt at vide
 
 - Ved oprettelse af en ny regel overtages automatisk **standardværdierne fra indstillingerne** (Planlægningsregler — standardværdier); du kan efterfølgende tilpasse hver værdi individuelt.
+- Ved den indledende opsætning foreslår Klacks en skabelon for disse værdier, der passer til land og branche (helligdage, tillæg, planlægningsregler); skabelonen er et udgangspunkt — den tilpasses ikke løbende automatisk til lovændringer og forbliver fuldt redigerbar for admin.
 - Planlægningsregler virker via kontrakten — du behøver ikke vedligeholde dem pr. person. Ændres en regel, berører det alle medarbejdere med denne kontrakt.
 - Overtidsgrænsen og normtiden er to forskellige ting: Normtiden er standarden pr. dag, overtidsgrænsen tærskelværdien pr. uge.
 - "Maks. arbejdsdage" (blød præference for blok-længden) og "Maks. sammenhængende arbejdsdage" (hård, aldrig overskridelig øvre grænse) er to forskellige regler — må ikke forveksles.

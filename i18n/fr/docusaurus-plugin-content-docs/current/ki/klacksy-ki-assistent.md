@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Comment ça marche
 
-Klacksy comprend vos demandes et les traduit en actions concrètes — plus de **250 compétences** sont à disposition :
+Klacksy comprend vos demandes et les traduit en actions concrètes — plus de **300 compétences** sont à disposition :
 
 - **Planifier :** remplir les services, remplacer les absences, réorganiser les affectations
 - **Gérer :** créer des collaborateurs, entretenir les groupes, définir les autorisations

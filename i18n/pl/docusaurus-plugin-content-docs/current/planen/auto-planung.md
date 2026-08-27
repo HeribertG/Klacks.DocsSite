@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Planowanie automatyczne: plan w kilka sekund
+# Planowanie automatyczne: jedno kliknięcie, reszta w tle
 
-Najbardziej żmudną część planowania dyżurów — przypisywanie osób do zmian — Klacks wykonuje za jednym kliknięciem.
+Najbardziej żmudną część planowania dyżurów — przypisywanie osób do zmian — Klacks wykonuje za jednym kliknięciem. Samo obliczenie wymaga czasu, ale toczy się w tle: nie musisz czekać i możesz w tym czasie zająć się czymś innym.
 
 ## Jak to działa
 
@@ -22,6 +22,7 @@ Planowanie automatyczne uruchamiasz bezpośrednio z grafiku dyżurów dla wybran
 - Kwalifikacje działają jak rzeczywista granica: kto nie ma wymaganej kwalifikacji, nie zostanie zaplanowany.
 - Planowanie automatyczne respektuje już istniejące wpisy — możesz więc najpierw ustawić punkty stałe, a resztę wypełnić automatycznie.
 - Jeśli wynik Ci nie odpowiada, po prostu zaplanuj ponownie: algorytm znajdzie równoważne alternatywy.
+- Możesz tworzyć równolegle kilka scenariuszy, nie zmieniając przy tym istniejącego planu: każdy scenariusz to osobna kopia typu „co, jeśli", którą możesz porównać, odrzucić lub przejąć. Dzięki temu jesteś przygotowany na krótkoterminowe zmiany, zamiast dopiero wtedy liczyć wszystko od nowa.
 
 ![Siatka grafiku dyżurów w Klacks](/img/app-schedule-de.png)
 

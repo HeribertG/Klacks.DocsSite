@@ -16,6 +16,8 @@ Adresse- og personhåndteringen er hjertet i dine stamdata: medarbejdere, kunder
 
 **Kontrakter:** Hver person kan have flere kontrakter, f.eks. ved et beskæftigelsesgrad-skifte. Selve kontraktskabelonerne er frit definerbare: Under Indstillinger > Kontrakter opretter du dine egne kontrakter med navn, beskæftigelsesgrad, plan-/maksimum-/minimumtimer, tillæg (nat-, søn- og helligdagstillæg) og betalingsinterval; hver kontrakt kan desuden tildeles sin egen helligdagskalender, hvilket f.eks. gør det muligt at afbilde kantonalt forskellige helligdage. Hver kontrakt gælder tidsbegrænset eller tidsubegrænset.
 
+**Kvalifikationer:** Enhver person kan tildeles et vilkårligt antal kvalifikationer fra det virksomhedsdækkende [kvalifikationskatalog](../einstellungen/stammdaten-organisation/qualifikationen.md), hver med et niveau (Lav til Ekspert). Omvendt kan vagter kræve kvalifikationer med et minimumsniveau — det tager Auto-planlægningen højde for ved besættelsen.
+
 **Import:** Der findes ingen CSV-import til stamdata. Eksisterende kataloger overtager du automatisk via LDAP-/Active Directory-synkronisering gennem en identity provider; enkeltpersoner opretter du manuelt eller via Klacksy.
 
 **Søge og filtrere:** Fritekstsøgningen finder personer efter navn, fornavn, firma eller personalenummer samt via telefonnummer/postnummer; derudover kan du filtrere efter kanton, status (Aktive/Tidligere/Fremtidige) og gruppe.

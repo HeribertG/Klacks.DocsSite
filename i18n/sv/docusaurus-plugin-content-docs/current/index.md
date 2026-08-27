@@ -31,7 +31,7 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [Din Dashboard: allt på en blick](./erste-schritte/ihr-dashboard.md) — Klacks startsida med fyra omsorterbara avsnitt: Översikt, Täckning och bekräftelse, Resurser och Platser
 
 **Planera**
-- [Autoplanering: Schemat på sekunder](./planen/auto-planung.md) — Schemat på sekunder, med ett klick
+- [Autoplanering: ett klick, resten körs i bakgrunden](./planen/auto-planung.md) — Beräkningen sker i bakgrunden, medan du ägnar dig åt annat
 - [Planeringsrutnätet: din interaktiva tidsmatris](./planen/plan-raster.md) — Den interaktiva tidsmatrisen med dra och släpp
 - [Modulär planering: dela och härska](./planen/modulare-planung.md) — Dela upp stora scheman utan dubbelbokningar
 - [Godkännandeflöde: från utkast till bindande schema](./planen/freigabe-workflow.md) — Från utkast till förseglat schema

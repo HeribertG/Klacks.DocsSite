@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Automatické plánování: Plán během sekund
+# Automatické plánování: Jedno kliknutí, zbytek běží na pozadí
 
-Nejnáročnější část plánování služeb — přiřazení lidí ke směnám — zvládne Klacks jedním kliknutím.
+Nejnáročnější část plánování služeb — přiřazení lidí ke směnám — zvládne Klacks jedním kliknutím. Samotný výpočet chvíli trvá, ale běží dál na pozadí: nemusíte čekat a mezitím se můžete věnovat jiným věcem.
 
 ## Jak to funguje
 
@@ -22,6 +22,7 @@ Automatické plánování spouštíte přímo z plánu služeb pro zvolené obdo
 - Kvalifikace fungují jako skutečná hranice: kdo nemá požadovanou kvalifikaci, nebude naplánován.
 - Automatické plánování respektuje již existující záznamy — můžete tedy nejprve stanovit pevné body a zbytek nechat doplnit.
 - Pokud se vám výsledek nelíbí, jednoduše naplánujte znovu: algoritmus najde rovnocenné alternativy.
+- Můžete vytvořit více scénářů souběžně, aniž byste měnili stávající plán: každý scénář je samostatná kopie typu „co kdyby", kterou můžete porovnat, zahodit nebo převzít. Díky tomu jste připraveni na krátkodobé změny, místo abyste je teprve pak museli přepočítávat znovu.
 
 ![Mřížka plánu služeb v Klacks](/img/app-schedule-de.png)
 

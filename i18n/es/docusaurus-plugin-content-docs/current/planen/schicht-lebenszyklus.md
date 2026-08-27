@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Antes de que un turno pueda siquiera cubrirse, atraviesa cuatro etapas — desde el pedido libremente editable, pasando por el pedido sellado e inmutable, hasta el turno planificable y sus segmentos. El sentido de todo ello: lo que se acordó permanece siempre consultable; lo que el día a día replanifica después, sigue siendo flexible.
 
+Un turno no está necesariamente vinculado a un pedido: Klacks representa tanto turnos internos y regulares sin relación con un cliente como pedidos complejos con numerosas entregas o intervenciones divididas en varios segmentos de contenedor.
+
 ## Cómo funciona
 
 **1. Pedido — libremente editable.** Cada turno nuevo empieza aquí. En la página de turnos, el botón **+ nuevo pedido** abre el formulario; puede revisar el pedido tantas veces como quiera, todos los campos están abiertos. Todavía no aparece en el plan de servicio, por lo que tampoco se puede asignar personal a él. Aun así, no es un mero boceto — es un pedido real, solo que todavía no sellado. En la lista de turnos, Klacks lleva esta etapa bajo **Pedidos**. Si cambia allí a **Turnos planificables**, el botón se llama **+ nuevo turno**: crea un pedido sin vínculo a un cliente — para trabajo general que nadie externo encarga ni paga. En ese caso, la tarjeta *Dirección* desaparece; este turno también atraviesa las cuatro etapas.
@@ -33,7 +35,7 @@ Antes de que un turno pueda siquiera cubrirse, atraviesa cuatro etapas — desde
 - **Características especiales** (modo experto) — servicio esporádico con su periodicidad, briefing y debriefing, tiempo de desplazamiento de ida y vuelta, así como el número de empleados y de tareas por turno.
 - **Gastos estándar** (modo experto) — gastos que se producen regularmente en este turno, cada uno con denominación, importe e indicación de si están sujetos a impuestos.
 
-Cómo se cubren después los turnos planificables lo describen [Planificación automática: el plan en segundos](../planen/auto-planung.md) y [La cuadrícula del plan: su matriz de tiempo interactiva](../planen/plan-raster.md).
+Cómo se cubren después los turnos planificables lo describen [Planificación automática: un clic, el resto se ejecuta en segundo plano](../planen/auto-planung.md) y [La cuadrícula del plan: su matriz de tiempo interactiva](../planen/plan-raster.md).
 
 ## Bueno saberlo
 

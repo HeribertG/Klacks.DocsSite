@@ -16,6 +16,8 @@ Pengurusan alamat dan orang adalah teras Data Induk anda: Pekerja, pelanggan ser
 
 **Kontrak:** Setiap orang boleh mempunyai beberapa kontrak, contohnya semasa perubahan peratusan waktu bekerja. Templat kontrak itu sendiri boleh ditakrifkan secara bebas: Di bawah Tetapan > Kontrak, anda mencipta kontrak sendiri dengan nama, peratusan waktu bekerja, jam sasaran/maksimum/minimum, elaun tambahan (malam, hari Ahad dan cuti umum) serta selang pembayaran; setiap kontrak juga boleh diperuntukkan Kalendar cuti umum tersendiri, membolehkan contohnya cuti umum yang berbeza mengikut kanton dipetakan. Setiap kontrak berkuat kuasa untuk tempoh terhad atau tidak terhad.
 
+**Kelayakan:** Setiap orang boleh diperuntukkan seberapa banyak Kelayakan yang dikehendaki daripada [Katalog Kelayakan](../einstellungen/stammdaten-organisation/qualifikationen.md) peringkat syarikat, masing-masing dengan satu Tahap (Rendah hingga Pakar). Tugasan pula boleh menuntut Kelayakan dengan Tahap minimum — Auto-Perancangan mengambil kira hal ini semasa pengisian kakitangan.
+
 **Import:** Import CSV untuk Data Induk tidak wujud. Direktori sedia ada diambil alih secara automatik melalui penyegerakan LDAP/Active Directory melalui Identity Provider; individu tunggal dicipta secara manual atau melalui Klacksy.
 
 **Mencari dan Menapis:** Carian teks bebas mencari orang mengikut nama, nama pertama, syarikat atau nombor kakitangan serta melalui nombor telefon/poskod; anda juga boleh menapis mengikut kanton, status (Aktif/Bekas/Akan Datang) dan Kumpulan.

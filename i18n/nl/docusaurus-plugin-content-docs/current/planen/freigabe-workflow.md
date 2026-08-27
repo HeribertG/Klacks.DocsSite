@@ -13,7 +13,7 @@ De planning doorloopt vier fasen:
 1. **Concept** — de werkfase: alles mag nog veranderen
 2. **Bevestigd** — de planning staat inhoudelijk vast; wijzigingen alleen nog gecontroleerd
 3. **Goedgekeurd** — de verantwoordelijke instantie heeft vrijgegeven
-4. **Afgesloten** — de planning is verzegeld en bindend
+4. **Afgesloten** — de planning is verzegeld en bindend voor de bedrijfsvoering; de boekhoudkundige afhandeling verloopt afzonderlijk via de [Periodeafsluiting](../planen/periodenabschluss.md)
 
 Elke fase **vergrendelt de bewerking** dienovereenkomstig: wat is goedgekeurd, wijzigt niemand meer per ongeluk via drag-and-drop. Wie welke fase mag instellen, is duidelijk geregeld:
 
@@ -23,7 +23,7 @@ Elke fase **vergrendelt de bewerking** dienovereenkomstig: wat is goedgekeurd, w
 
 ## Goed om te weten
 
-- De vergrendelingen gelden overal — ook de [Auto-planning: het plan in seconden](../planen/auto-planung.md) en [Klacksy](../ki/klacksy-ki-assistent.md) respecteren de goedkeuringsstatus.
+- De vergrendelingen gelden overal — ook de [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md) en [Klacksy](../ki/klacksy-ki-assistent.md) respecteren de goedkeuringsstatus.
 - Kortetermijnwijzigingen na de goedkeuring (ziektegevallen!) verlopen als bewuste, traceerbare correcties, niet als stilzwijgend herplannen.
 - Voor de boekhoudkundige afsluiting van een maand is er bovendien de [Periodeafsluiting](../planen/periodenabschluss.md).
 

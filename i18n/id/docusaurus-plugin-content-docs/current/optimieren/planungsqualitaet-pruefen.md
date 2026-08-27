@@ -18,7 +18,7 @@ Ketiga laporan ini muncul di dialog asisten perencanaan yang bersangkutan — bu
 
 **Penempatan yang Dilewati** hanya ada pada asisten untuk perencanaan shift, juga setelah penerapan — dan seluruhnya berwarna merah. Kolom: Tanggal, Karyawan, Shift, Alasan. Di sini yang tercantum bukan apa yang direncanakan, melainkan apa yang secara sengaja **tidak** dituliskan oleh Klacks: penugasan yang akan melanggar suatu aturan yang dikelola dalam mode blok. Alasannya muncul sebagai kategori singkat ("Waktu istirahat terlalu singkat", "Terlalu banyak hari kerja berturut-turut", "Bentrok waktu" …). Tergantung situasinya, di bawahnya Klacks menawarkan kepada orang yang berwenang untuk tetap menerapkan hasil proses tersebut dengan Override; yang lain mendapat petunjuk untuk mengulangi asisten dengan Override diaktifkan atau meminta orang yang berwenang untuk melakukannya. Setiap Override dicatat dalam log.
 
-Aturan mana yang diperiksa dan seberapa ketat aturan tersebut berlaku, Anda tetapkan di [Aturan Perencanaan](../planen/planungsregeln.md); bagaimana rencana itu sendiri terbentuk, dijelaskan di [Auto-Perencanaan: Rencana dalam hitungan detik](../planen/auto-planung.md).
+Aturan mana yang diperiksa dan seberapa ketat aturan tersebut berlaku, Anda tetapkan di [Aturan Perencanaan](../planen/planungsregeln.md); bagaimana rencana itu sendiri terbentuk, dijelaskan di [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md).
 
 ## Baik untuk Diketahui
 

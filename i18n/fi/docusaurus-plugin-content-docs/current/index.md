@@ -31,7 +31,7 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [Kojelautasi: kaikki yhdellä silmäyksellä](./erste-schritte/ihr-dashboard.md) — Klacksin aloitussivu neljällä uudelleenjärjesteltävällä osiolla: Yleiskatsaus, Kattavuus ja vahvistus, Resurssit ja Sijainnit
 
 **Suunnittelu**
-- [Automaattinen suunnittelu: suunnitelma sekunneissa](./planen/auto-planung.md) — Suunnitelma sekunneissa, yhdellä klikkauksella
+- [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](./planen/auto-planung.md) — Laskenta taustalla, sillä välin ehdit muuhun
 - [Suunnitteluruudukko: interaktiivinen aikamatriisisi](./planen/plan-raster.md) — Interaktiivinen aikamatriisi vedä ja pudota -toiminnolla
 - [Modulaarinen suunnittelu: hajota ja hallitse](./planen/modulare-planung.md) — Suurten suunnitelmien jakaminen ilman päällekkäisyyksiä
 - [Hyväksymisprosessi: luonnoksesta sitovaan suunnitelmaan](./planen/freigabe-workflow.md) — Luonnoksesta sinetöityyn suunnitelmaan

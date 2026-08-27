@@ -11,7 +11,7 @@ Ferie, sykdom, videreutdanning, militærtjeneste — hvem som er borte når, ser
 - Hvert fravær vises som en fargelagt stolpe på tidslinjen til den aktuelle personen — overlapp og opphopninger fanges umiddelbart øyet.
 - **Egne fraværstyper** definerer du selv, med farge og oppførsel (betalt/ubetalt, med/uten timeeffekt).
 - Eksport som **PDF** gjøres med ett klikk — praktisk for oppslag eller arkivering.
-- Fravær påvirker planleggingen direkte: Den som er borte, blir ikke lagt inn av [Autoplanlegging: Planen på sekunder](../planen/auto-planung.md), og i [Planrutenettet: din interaktive tidsmatrise](../planen/plan-raster.md) vises konflikten umiddelbart.
+- Fravær påvirker planleggingen direkte: Den som er borte, blir ikke lagt inn av [Autoplanlegging: Ett klikk, resten kjører i bakgrunnen](../planen/auto-planung.md), og i [Planrutenettet: din interaktive tidsmatrise](../planen/plan-raster.md) vises konflikten umiddelbart.
 
 ## Greit å vite
 

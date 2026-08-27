@@ -18,7 +18,7 @@ Die drei Berichte erscheinen im Dialog des jeweiligen Planungsassistenten — ni
 
 **Übersprungene Platzierungen** gibt es nur beim Assistenten für die Schichtplanung, ebenfalls nach dem Übernehmen — und durchgehend rot. Spalten: Datum, Mitarbeiter, Schicht, Grund. Hier steht nicht, was geplant wurde, sondern was Klacks bewusst **nicht** geschrieben hat: Zuweisungen, die eine im Block-Modus geführte Regel verletzt hätten. Der Grund erscheint als kurze Kategorie („Ruhezeit zu kurz", „Zu viele aufeinanderfolgende Arbeitstage", „Zeitkollision" …). Je nach Situation bietet Klacks berechtigten Personen darunter an, den Lauf mit Override doch noch zu übernehmen; alle anderen erhalten den Hinweis, den Assistenten mit aktiviertem Override zu wiederholen oder eine berechtigte Person darum zu bitten. Jeder Override wird protokolliert.
 
-Welche Regeln geprüft werden und wie streng sie gelten, legen Sie in den [Planungsregeln](../planen/planungsregeln.md) fest; wie der Plan überhaupt entsteht, beschreibt [Auto-Planung: Der Plan in Sekunden](../planen/auto-planung.md).
+Welche Regeln geprüft werden und wie streng sie gelten, legen Sie in den [Planungsregeln](../planen/planungsregeln.md) fest; wie der Plan überhaupt entsteht, beschreibt [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md).
 
 ## Gut zu wissen
 

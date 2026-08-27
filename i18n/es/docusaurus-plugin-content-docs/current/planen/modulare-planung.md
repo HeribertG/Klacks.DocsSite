@@ -18,7 +18,7 @@ El truco detrás de esto: las hojas de plan mantienen **referencias en lugar de 
 
 - Los desplazamientos de una persona compartida fuera de su área aparecen en el subplan como entradas bloqueadas — así, cada planificadora ve cuándo "sus" personas están ocupadas en otro lugar, sin poder modificar planes ajenos.
 - La visibilidad de los subplanes se controla mediante derechos de acceso basados en grupos.
-- La planificación modular y [la planificación automática: el plan en segundos](../planen/auto-planung.md) se complementan: cada área se puede planificar automáticamente por separado.
+- La planificación modular y [la planificación automática: un clic, el resto se ejecuta en segundo plano](../planen/auto-planung.md) se complementan: cada área se puede planificar automáticamente por separado.
 
 ---
 *Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

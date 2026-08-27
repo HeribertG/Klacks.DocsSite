@@ -18,7 +18,7 @@ Trzy raporty pojawiają się w oknie dialogowym danego asystenta planowania — 
 
 **Pominięte przydziały** występują tylko przy asystencie planowania dyżurów, również po przejęciu — i konsekwentnie na czerwono. Kolumny: Data, Pracownik, Zmiana, Powód. Nie ma tu informacji, co zostało zaplanowane, lecz co Klacks świadomie **nie** zapisał: przydziały, które naruszyłyby regułę prowadzoną w trybie blokującym. Powód pojawia się jako krótka kategoria („zbyt krótki czas odpoczynku", „zbyt wiele kolejnych dni roboczych", „kolizja czasowa" …). W zależności od sytuacji Klacks oferuje poniżej uprawnionym osobom możliwość przejęcia przebiegu mimo to, za pomocą override; wszyscy pozostali otrzymują wskazówkę, by powtórzyć przebieg asystenta z aktywnym override lub poprosić o to uprawnioną osobę. Każdy override jest rejestrowany.
 
-Które reguły są sprawdzane i jak surowo obowiązują, ustalasz na stronie [Reguły planowania](../planen/planungsregeln.md); jak w ogóle powstaje plan, opisuje [Planowanie automatyczne: plan w kilka sekund](../planen/auto-planung.md).
+Które reguły są sprawdzane i jak surowo obowiązują, ustalasz na stronie [Reguły planowania](../planen/planungsregeln.md); jak w ogóle powstaje plan, opisuje [Planowanie automatyczne: jedno kliknięcie, reszta w tle](../planen/auto-planung.md).
 
 ## Warto wiedzieć
 

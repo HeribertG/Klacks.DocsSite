@@ -8,7 +8,7 @@ Le regole di pianificazione definiscono le condizioni quadro per la pianificazio
 
 ## Come funziona
 
-Una regola di pianificazione viene assegnata a un **contratto**. I valori limite definiti valgono quindi per tutti i collaboratori con questo contratto. Ogni regola comprende quattro aree:
+Una regola di pianificazione viene assegnata a un **contratto**. I valori limite definiti valgono quindi per tutti i collaboratori con questo contratto. Ogni regola comprende tre aree:
 
 **Giorni lavorativi e tempi di riposo**
 - Max. giorni lavorativi: regola flessibile per la lunghezza preferita del blocco, prima che venga pianificato un giorno di riposo (ad es. «5 giorni di lavoro, poi riposo») — una violazione non rende invalido il piano, lo rende solo meno ottimale
@@ -27,12 +27,10 @@ Una regola di pianificazione viene assegnata a un **contratto**. I valori limite
 - Ore minime e massime per mese
 - Ore a tempo pieno (numero di ore mensili corrispondente a un'occupazione a tempo pieno)
 
-**Ferie**
-- Giorni di ferie per anno solare
-
 ## Da sapere
 
 - Alla creazione di una nuova regola vengono ripresi automaticamente i **valori predefiniti dalle impostazioni** (Regole di pianificazione — Valori predefiniti); potete poi adattare individualmente ogni valore.
+- Nella configurazione iniziale, Klacks propone un modello per questi valori in base a paese e settore (festività, supplementi, regole di pianificazione); il modello è un punto di partenza — non viene adattato automaticamente e in modo continuativo alle modifiche legislative e resta interamente modificabile dall'Admin.
 - Le regole di pianificazione agiscono tramite il contratto — non è necessario gestirle per singola persona. Se una regola cambia, questo interessa tutti i collaboratori con quel contratto.
 - La soglia per gli straordinari e l'orario previsto sono due cose diverse: l'orario previsto è lo standard giornaliero, la soglia per gli straordinari è il valore limite settimanale.
 - "Max. giorni lavorativi" (preferenza flessibile per la lunghezza del blocco) e "Max. giorni lavorativi consecutivi" (limite massimo rigido, mai superabile) sono due regole distinte — da non confondere.

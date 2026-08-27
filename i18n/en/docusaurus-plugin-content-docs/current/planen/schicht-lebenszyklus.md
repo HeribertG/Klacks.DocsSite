@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Before a shift can be staffed at all, it passes through four stages — from the freely editable order, via the immutable sealed order, to the plannable shift and its segments. The point of it: what was agreed stays readable for good, while what daily business replans afterwards stays movable.
 
+A shift is not necessarily tied to an order — Klacks maps internal, recurring shifts with no client attached just as well as complex orders with many deliveries, or assignments split into several container segments.
+
 ## How it works
 
 **1. Order — freely editable.** Every new shift starts here. On the services page, the button **+ New Order** opens the entry form; you rework the order as often as you like, every field is open. It does not show up in the schedule yet — which also means nobody can be scheduled on it. It is not a mere draft, though: it is a real order, just not sealed yet. In the shift list, Klacks files this stage under **Orders**. Switch to **Plannable Services** and the button reads **+ New Service**: it creates an order with no client attached — for general work that nobody orders or pays for from outside. The *Address* card then disappears; this shift runs through the same four stages.
@@ -33,7 +35,7 @@ Before a shift can be staffed at all, it passes through four stages — from the
 - **Special Features** (expert mode) — sporadic use with its periodicity, briefing and debriefing, travel time before and after, and the number of employees and tasks per shift.
 - **Default Expenses** (expert mode) — expenses that regularly come with this shift, each with a description, an amount, and whether it is taxable.
 
-How the plannable shifts are then staffed is covered by [Auto-Planning: A Schedule in Seconds](../planen/auto-planung.md) and [The Schedule Grid: Your Interactive Time Matrix](../planen/plan-raster.md).
+How the plannable shifts are then staffed is covered by [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md) and [The Schedule Grid: Your Interactive Time Matrix](../planen/plan-raster.md).
 
 ## Good to know
 

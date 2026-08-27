@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Come funziona
 
-Klacksy comprende le vostre richieste e le traduce in azioni concrete — sono disponibili oltre **250 capacità**:
+Klacksy comprende le vostre richieste e le traduce in azioni concrete — sono disponibili oltre **300 capacità**:
 
 - **Pianificare:** riempire turni, sostituire assenze, spostare servizi
 - **Amministrare:** creare collaboratori, gestire gruppi, impostare permessi

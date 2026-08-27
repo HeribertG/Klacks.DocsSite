@@ -16,6 +16,8 @@ Quản lý địa chỉ và con người là trung tâm của dữ liệu gốc:
 
 **Hợp đồng:** Mỗi người có thể có nhiều hợp đồng, ví dụ khi thay đổi tỷ lệ làm việc. Bản thân các mẫu hợp đồng có thể được tự do định nghĩa: Trong Cài đặt > Hợp đồng, bạn tạo các hợp đồng riêng với tên, tỷ lệ làm việc, số giờ định mức/tối đa/tối thiểu, phụ cấp (đêm, chủ nhật và ngày lễ) và chu kỳ thanh toán; ngoài ra mỗi hợp đồng có thể được gán một lịch ngày lễ riêng, nhờ đó có thể thể hiện được ví dụ như sự khác biệt về ngày lễ theo từng bang/tỉnh. Mỗi hợp đồng có thể có thời hạn xác định hoặc không xác định.
 
+**Trình độ chuyên môn:** Mỗi người có thể được gán bất kỳ số lượng trình độ chuyên môn nào từ [Danh mục trình độ chuyên môn](../einstellungen/stammdaten-organisation/qualifikationen.md) áp dụng cho toàn công ty, mỗi trình độ kèm một bậc (Thấp đến Chuyên gia). Ngược lại, dịch vụ có thể yêu cầu trình độ chuyên môn với bậc tối thiểu — tính năng tự động lập kế hoạch sẽ xem xét điều này khi bố trí nhân sự.
+
 **Nhập dữ liệu:** Không có chức năng nhập dữ liệu gốc bằng CSV. Các danh bạ hiện có sẽ được tự động chuyển vào thông qua đồng bộ hóa LDAP/Active Directory qua một Identity Provider; từng cá nhân riêng lẻ được tạo thủ công hoặc thông qua Klacksy.
 
 **Tìm kiếm và lọc:** Tìm kiếm văn bản tự do tìm người theo họ, tên, công ty hoặc mã số nhân viên cũng như qua số điện thoại/mã bưu điện; ngoài ra bạn có thể lọc theo bang/tỉnh, trạng thái (Đang hoạt động/Trước đây/Sắp tới) và nhóm.

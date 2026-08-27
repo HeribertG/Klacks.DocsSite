@@ -20,11 +20,11 @@ Klacks là mã nguồn mở theo giấy phép MIT — backend, frontend và các
 
 ## Dành cho ai
 
-Klacks hướng đến các tổ chức có lập kế hoạch ca và phân công công việc, những đơn vị coi trọng ba điểm nói trên — đặc biệt là các tổ chức dịch vụ chăm sóc tại nhà (Spitex), bệnh viện, dịch vụ an ninh, cũng như các doanh nghiệp vệ sinh và logistics. Điểm chung: phủ sóng 24/7, các yêu cầu phức tạp về thời gian nghỉ ngơi và trình độ chuyên môn, cùng với đòi hỏi về bảo mật dữ liệu mà một giải pháp đám mây có thể thay thế bất kỳ lúc nào không phải lúc nào cũng đáp ứng được.
+Klacks thể hiện được mọi hình thức lập kế hoạch ca và phân công công việc — từ các dịch vụ đơn giản, định kỳ cho đến các dịch vụ phức tạp có nhiều đợt giao hàng hoặc các đơn hàng được chia thành nhiều đoạn dịch vụ. Một dịch vụ không nhất thiết phải gắn với một đơn hàng. Klacks đặc biệt phù hợp với các tổ chức coi trọng ba điểm nói trên — đặc biệt là các tổ chức dịch vụ chăm sóc tại nhà (Spitex), bệnh viện, dịch vụ an ninh, các doanh nghiệp vệ sinh và logistics, cũng như các doanh nghiệp khách sạn và nhà hàng. Điểm chung ở đó: phủ sóng 24/7, các yêu cầu phức tạp về thời gian nghỉ ngơi và trình độ chuyên môn, cùng với đòi hỏi về bảo mật dữ liệu mà một giải pháp đám mây có thể thay thế bất kỳ lúc nào không phải lúc nào cũng đáp ứng được.
 
 ## Điều này có ý nghĩa gì trong thực tế
 
-- Bạn có thể dùng thử Klacks miễn phí trong [Playground](https://klacks-software.ch:7643), không cần đăng ký hay trao đổi bán hàng.
+- Klacks luôn hoàn toàn miễn phí cho tất cả mọi người — không cần đăng ký, không cần trao đổi bán hàng. [Playground](https://klacks-software.ch:7643) chỉ đơn giản là một cách để bạn thử nghiệm không ràng buộc và làm quen với cách sử dụng.
 - Bạn có thể vận hành nó bằng một gói On-Premise (Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS, cập nhật tự động) trên chính máy chủ của mình.
 - Bạn có thể xem mã nguồn và tự thực hiện các thay đổi — Klacks vẫn luôn là của bạn, ngay cả khi bạn tiếp tục phát triển nó.
 

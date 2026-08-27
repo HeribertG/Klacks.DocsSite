@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Cómo funciona
 
-Klacksy entiende sus solicitudes y las traduce en acciones concretas — hay más de **250 habilidades** disponibles:
+Klacksy entiende sus solicitudes y las traduce en acciones concretas — hay más de **300 habilidades** disponibles:
 
 - **Planificar:** rellenar turnos, sustituir ausencias, reasignar servicios
 - **Administrar:** crear empleados, mantener grupos, definir permisos

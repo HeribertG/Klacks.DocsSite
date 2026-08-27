@@ -11,7 +11,7 @@ Dovolená, nemoc, další vzdělávání, vojenská služba — kdo kdy chybí, 
 - Každá absence se zobrazí jako barevný pruh na časové ose dané osoby — překryvy a nahromadění jsou na první pohled zřejmé.
 - **Vlastní typy absencí** si definujete sami, včetně barvy a chování (placená/neplacená, s/bez vlivu na hodiny).
 - Export do **PDF** zvládnete jedním kliknutím — praktické pro nástěnky nebo archivaci.
-- Absence se přímo promítají do plánování: kdo chybí, toho [Automatické plánování: Plán během sekund](../planen/auto-planung.md) nezařadí, a v [Plánovací mřížka: vaše interaktivní časová matice](../planen/plan-raster.md) je konflikt ihned viditelný.
+- Absence se přímo promítají do plánování: kdo chybí, toho [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](../planen/auto-planung.md) nezařadí, a v [Plánovací mřížka: vaše interaktivní časová matice](../planen/plan-raster.md) je konflikt ihned viditelný.
 
 ## Dobré vědět
 

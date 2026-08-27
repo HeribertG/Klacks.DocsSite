@@ -16,6 +16,8 @@ La gestion des adresses et des personnes est le cœur de vos données de base : 
 
 **Contrats :** chaque personne peut avoir plusieurs contrats, par exemple lors d'un changement de taux d'occupation. Les modèles de contrat eux-mêmes sont entièrement personnalisables : sous Paramètres > Contrats, vous créez vos propres contrats avec un nom, un taux d'occupation, des heures cibles/maximales/minimales, des majorations (nuit, dimanche et jours fériés) et un intervalle de paiement ; chaque contrat peut en outre se voir attribuer son propre calendrier de jours fériés, ce qui permet par exemple de refléter des jours fériés différents selon le canton. Chaque contrat est valable pour une durée déterminée ou indéterminée.
 
+**Qualifications :** chaque personne peut se voir attribuer un nombre illimité de qualifications issues du [Catalogue de qualifications](../einstellungen/stammdaten-organisation/qualifikationen.md) commun à toute l'entreprise, chacune avec un niveau (de Faible à Expert). Inversement, les services peuvent exiger des qualifications avec un niveau minimal — la planification automatique en tient compte lors de l'affectation.
+
 **Import :** il n'existe pas d'import CSV pour les données de base. Les répertoires existants sont repris automatiquement via une synchronisation LDAP/Active Directory par le biais d'un fournisseur d'identité (Identity Provider) ; les personnes individuelles sont créées manuellement ou via Klacksy.
 
 **Recherche et filtrage :** la recherche en texte libre trouve les personnes par nom, prénom, entreprise ou numéro de personnel, ainsi que par numéro de téléphone/code postal ; vous pouvez en outre filtrer par canton, statut (Actifs/Anciens/Futurs) et groupe.

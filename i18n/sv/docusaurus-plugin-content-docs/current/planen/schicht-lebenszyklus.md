@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Innan ett skift över huvud taget kan bemannas genomgår det fyra steg — från den fritt redigerbara beställningen via den oföränderliga förseglade beställningen till det planeringsbara skiftet och dess segment. Tanken bakom detta: Det som avtalats förblir varaktigt läsbart; det som vardagen därefter planerar om förblir ändå rörligt.
 
+Ett skift är därvid inte nödvändigtvis kopplat till en beställning — Klacks avbildar såväl interna, regelbundna skift utan kundkoppling som komplexa beställningar med många leveranser eller insatser uppdelade i flera container-segment.
+
 ## Så fungerar det
 
 **1. Beställning — fritt redigerbar.** Varje nytt skift börjar här. På skiftsidan öppnar knappen **+ ny beställning** registreringsformuläret; du bearbetar beställningen så ofta du vill, alla fält står öppna. I schemat visas den ännu inte, och därmed kan heller inga medarbetare schemaläggas på den. En ren skiss är den ändå inte — den är en riktig beställning, bara ännu inte förseglad. I skiftlistan listar Klacks detta steg under **Beställningar**. Växlar du där till **Planeringsbara skift** heter knappen **+ nytt skift**: Den skapar en beställning utan kundkoppling — för allmänt arbete som ingen extern part beställer och betalar för. Kortet *Adress* utgår då; de fyra stegen genomgår även det här skiftet.
@@ -33,7 +35,7 @@ Innan ett skift över huvud taget kan bemannas genomgår det fyra steg — från
 - **Särskilda kännetecken** (expertläge) — sporadisk insats samt periodicitet, briefing och debriefing, res- och returtid samt antalet medarbetare och uppgifter per skift.
 - **Standardutlägg** (expertläge) — utlägg som regelbundet uppstår vid det här skiftet, vardera med beteckning, belopp och uppgift om huruvida de är skattepliktiga.
 
-Hur de planeringsbara skiften därefter bemannas beskrivs i [Autoplanering: schemat på sekunder](../planen/auto-planung.md) och [Planeringsrutnätet: din interaktiva tidsmatris](../planen/plan-raster.md).
+Hur de planeringsbara skiften därefter bemannas beskrivs i [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md) och [Planeringsrutnätet: din interaktiva tidsmatris](../planen/plan-raster.md).
 
 ## Bra att veta
 

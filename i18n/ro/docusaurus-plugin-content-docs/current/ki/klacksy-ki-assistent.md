@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Cum funcționează
 
-Klacksy vă înțelege cerințele și le traduce în acțiuni concrete — sunt disponibile peste **250 de abilități**:
+Klacksy vă înțelege cerințele și le traduce în acțiuni concrete — sunt disponibile peste **300 de abilități**:
 
 - **Planificare:** completarea turelor, înlocuirea absențelor, mutarea serviciilor
 - **Administrare:** crearea angajaților, gestionarea grupurilor, setarea drepturilor

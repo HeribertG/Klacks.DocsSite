@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Anda boleh mencuba Klacks dalam masa seminit — dan memasangnya dalam beberapa minit. Tiada pendaftaran, tiada perbualan jualan.
 
-## Pilihan 1: Playground (tiada pemasangan)
+## Playground: ruang percubaan untuk berkenalan
 
-Satu instans Klacks awam dengan data contoh berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground bukanlah satu pilihan pemasangan, sebaliknya satu instans Klacks awam dengan data contoh untuk bermain-main tanpa sebarang komitmen — itulah sebabnya ia dinamakan sedemikian. Ia berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Log masuk:** `admin@test.com` · **Kata laluan:** `P@ssw0rt1`
 - Anda mempunyai hak Admin penuh — cuba apa sahaja.
 - Semua data **ditetapkan semula secara automatik setiap hari**. Jangan masukkan data peribadi sebenar.
 
-## Pilihan 2: Di pelayan sendiri (On-Premise)
+## Pemasangan: Di pelayan sendiri (On-Premise)
 
 Pakej On-Premise membawa segala-galanya: imej Docker, pemasang, pangkalan data, HTTPS dan kemas kini automatik.
 

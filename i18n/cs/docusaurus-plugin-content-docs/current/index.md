@@ -31,7 +31,7 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [Váš dashboard: Vše na jeden pohled](./erste-schritte/ihr-dashboard.md) — Startovní stránka Klacks se čtyřmi volně řaditelnými oddíly: Přehled, Pokrytí a potvrzení, Zdroje a Lokality
 
 **Plánování**
-- [Automatické plánování: Rozvrh za pár sekund](./planen/auto-planung.md) — Rozvrh za pár sekund, jedním kliknutím
+- [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](./planen/auto-planung.md) — Výpočet běží na pozadí, zatímco se věnujete jiným věcem
 - [Plánovací mřížka: Vaše interaktivní časová matice](./planen/plan-raster.md) — Interaktivní časová matice s drag & drop
 - [Modulární plánování: Rozděl a panuj](./planen/modulare-planung.md) — Rozdělení velkých plánů bez dvojitých rezervací
 - [Schvalovací proces: Od návrhu k závaznému plánu](./planen/freigabe-workflow.md) — Od návrhu až po zapečetěný plán

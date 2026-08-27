@@ -16,6 +16,8 @@ A gestão de moradas e pessoas é o coração dos seus dados mestre: colaborador
 
 **Contratos:** Cada pessoa pode ter vários contratos, por exemplo numa mudança de percentagem de ocupação. Os próprios modelos de contrato são de definição livre: em Definições > Contratos cria contratos próprios com nome, percentagem de ocupação, horas previstas/máximas/mínimas, suplementos (noturno, dominical e de feriado) e intervalo de pagamento; a cada contrato pode ainda associar-se um calendário de feriados próprio, permitindo, por exemplo, refletir feriados diferentes consoante o cantão. Cada contrato é válido por tempo limitado ou indeterminado.
 
+**Qualificações:** Pode atribuir a cada pessoa um número ilimitado de qualificações do [Catálogo de qualificações](../einstellungen/stammdaten-organisation/qualifikationen.md) válido para toda a empresa, cada uma com um nível (Baixo a Especialista). Os turnos, por sua vez, podem exigir qualificações com um nível mínimo — o planeamento automático tem isso em conta ao escalar.
+
 **Importação:** Não existe uma importação CSV para dados mestre. Diretórios existentes são assumidos automaticamente por sincronização LDAP/Active Directory através de um Identity Provider; pessoas individuais são criadas manualmente ou através do Klacksy.
 
 **Pesquisar e filtrar:** A pesquisa de texto livre encontra pessoas por nome, nome próprio, empresa ou número de colaborador, bem como por número de telefone/código postal; adicionalmente, pode filtrar por cantão, estado (Ativos/Antigos/Futuros) e grupo.

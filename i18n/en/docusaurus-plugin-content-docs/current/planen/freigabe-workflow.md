@@ -13,7 +13,7 @@ The schedule passes through four stages:
 1. **Draft** — the working phase: everything can still change
 2. **Confirmed** — the schedule is settled on the planning side; changes only happen in a controlled way
 3. **Approved** — the responsible authority has signed off
-4. **Closed** — the schedule is sealed and binding
+4. **Closed** — the schedule is sealed and binding for operations; the accounting settlement runs separately via [Period Closing](../planen/periodenabschluss.md)
 
 Each stage **locks editing** accordingly: once something is approved, nobody changes it accidentally with drag & drop. Who may set which stage is clearly defined:
 
@@ -23,9 +23,9 @@ Each stage **locks editing** accordingly: once something is approved, nobody cha
 
 ## Good to know
 
-- The locks apply everywhere — [Auto-Planning: A Schedule in Seconds](../planen/auto-planung.md) and [Klacksy](../ki/klacksy-ki-assistent.md) respect the approval status too.
+- The locks apply everywhere — [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md) and [Klacksy](../ki/klacksy-ki-assistent.md) respect the approval status too.
 - Short-notice changes after approval (sick calls!) run as deliberate, traceable corrections, not as silent replanning.
-- For the accounting close of a month there is additionally the [EN Period Closing](../planen/periodenabschluss.md).
+- For the accounting close of a month there is additionally [Period Closing](../planen/periodenabschluss.md).
 
 ---
 *Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

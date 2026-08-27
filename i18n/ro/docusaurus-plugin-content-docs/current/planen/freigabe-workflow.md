@@ -13,7 +13,7 @@ Planul parcurge patru etape:
 1. **Ciornă** — faza de lucru: totul se mai poate schimba
 2. **Confirmat** — planul este stabilit din punct de vedere tehnic; modificările se mai fac doar controlat
 3. **Aprobat** — persoana responsabilă a dat aprobarea
-4. **Încheiat** — planul este sigilat și obligatoriu
+4. **Încheiat** — planul este sigilat și obligatoriu pentru activitatea operațională; decontarea contabilă se face separat, prin [Închiderea perioadei](../planen/periodenabschluss.md)
 
 Fiecare etapă **blochează editarea** în mod corespunzător: ce este aprobat, nimeni nu mai modifică din greșeală prin drag & drop. Cine are voie să seteze care etapă este clar reglementat:
 
@@ -23,7 +23,7 @@ Fiecare etapă **blochează editarea** în mod corespunzător: ce este aprobat, 
 
 ## Bine de știut
 
-- Blocajele se aplică peste tot — inclusiv [Planificare automată: planul în câteva secunde](../planen/auto-planung.md) și [Klacksy](../ki/klacksy-ki-assistent.md) respectă statusul de aprobare.
+- Blocajele se aplică peste tot — inclusiv [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md) și [Klacksy](../ki/klacksy-ki-assistent.md) respectă statusul de aprobare.
 - Modificările de ultim moment după aprobare (cazuri de boală!) se desfășoară ca și corecții conștiente, trasabile, nu ca replanificări silențioase.
 - Pentru încheierea contabilă a unei luni există în plus [Închiderea perioadei](../planen/periodenabschluss.md).
 

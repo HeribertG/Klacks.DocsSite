@@ -18,7 +18,7 @@ Sztuczka polega na tym, że arkusze planów przechowują **odniesienia, a nie ko
 
 - Zadania spoza danego obszaru przypisane do osoby współdzielonej pojawiają się w planie częściowym jako zablokowane wpisy — dzięki temu każda osoba planująca widzi, kiedy „jej" ludzie są zajęci gdzie indziej, nie mogąc przy tym zmieniać cudzych planów.
 - Widoczność planów częściowych kontrolujesz za pomocą uprawnień dostępu opartych na grupach.
-- Planowanie modułowe i [Planowanie automatyczne: plan w kilka sekund](../planen/auto-planung.md) uzupełniają się: każdy obszar może być planowany automatycznie osobno.
+- Planowanie modułowe i [Planowanie automatyczne: jedno kliknięcie, reszta w tle](../planen/auto-planung.md) uzupełniają się: każdy obszar może być planowany automatycznie osobno.
 
 ---
 *Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

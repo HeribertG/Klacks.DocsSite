@@ -11,7 +11,7 @@ Vacation, sickness, training, military service — Klacks shows you who is away 
 - Every absence appears as a colored bar on the person's timeline — overlaps and clusters jump out immediately.
 - You define **your own absence types**, with color and behavior (paid/unpaid, with/without effect on hours).
 - Exporting to **PDF** takes one click — handy for notice boards or filing.
-- Absences feed directly into planning: anyone who is away is not scheduled by [Auto-Planning: A Schedule in Seconds](../planen/auto-planung.md), and the conflict is immediately visible in the [The Schedule Grid: Your Interactive Time Matrix](../planen/plan-raster.md).
+- Absences feed directly into planning: anyone who is away is not scheduled by [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md), and the conflict is immediately visible in the [The Schedule Grid: Your Interactive Time Matrix](../planen/plan-raster.md).
 
 ## Good to know
 

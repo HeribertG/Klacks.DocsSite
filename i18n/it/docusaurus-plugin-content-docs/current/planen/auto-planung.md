@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Pianificazione automatica: il piano in pochi secondi
+# Pianificazione automatica: un clic, il resto gira in background
 
-La parte più faticosa della pianificazione dei turni — l'assegnazione delle persone ai turni — la svolge Klacks con un clic.
+La parte più faticosa della pianificazione dei turni — l'assegnazione delle persone ai turni — la svolge Klacks con un clic. Il calcolo in sé richiede il suo tempo, ma continua a girare in background: non dovete aspettare e nel frattempo potete dedicarvi ad altro.
 
 ## Come funziona
 
@@ -22,6 +22,7 @@ Avviate la pianificazione automatica direttamente dal piano di servizio per il p
 - Le qualifiche agiscono come un limite reale: chi non possiede una qualifica richiesta non viene inserito nel piano.
 - La pianificazione automatica rispetta le voci già presenti — potete quindi fissare prima i punti fermi e lasciare che il resto venga riempito automaticamente.
 - Se un risultato non convince, pianificate semplicemente di nuovo: l'algoritmo trova alternative equivalenti.
+- Potete creare più scenari in parallelo senza modificare il piano esistente: ogni scenario è una copia ipotetica indipendente, che potete confrontare, scartare o applicare. Così siete preparati per cambiamenti a breve termine, invece di doverli ricalcolare solo quando si presentano.
 
 ![Griglia del piano di servizio Klacks](/img/app-schedule-de.png)
 

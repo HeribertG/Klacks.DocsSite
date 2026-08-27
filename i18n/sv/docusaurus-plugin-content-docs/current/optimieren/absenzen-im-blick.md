@@ -11,7 +11,7 @@ Semester, sjukdom, vidareutbildning, militärtjänst — vem som är frånvarand
 - Varje frånvaro visas som en färgad stapel på tidsaxeln för respektive person — överlappningar och anhopningar syns direkt.
 - **Egna frånvarotyper** definierar du själv, med färg och beteende (betald/obetald, med/utan timpåverkan).
 - Export som **PDF** görs med ett klick — praktiskt för anslag eller arkivering.
-- Frånvaro påverkar planeringen direkt: Den som är frånvarande schemaläggs inte av [Autoplanering: schemat på sekunder](../planen/auto-planung.md), och i [Planeringsrutnätet: din interaktiva tidsmatris](../planen/plan-raster.md) syns konflikten omedelbart.
+- Frånvaro påverkar planeringen direkt: Den som är frånvarande schemaläggs inte av [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md), och i [Planeringsrutnätet: din interaktiva tidsmatris](../planen/plan-raster.md) syns konflikten omedelbart.
 
 ## Bra att veta
 

@@ -16,6 +16,8 @@ La gestione di indirizzi e persone è il cuore dei vostri dati anagrafici: colla
 
 **Contratti:** Ogni persona può avere più contratti, ad esempio in caso di cambio del grado di occupazione. I modelli di contratto stessi sono liberamente definibili: in Impostazioni > Contratti create i vostri contratti con nome, grado di occupazione, ore dovute/massime/minime, supplementi (notturno, domenicale e festivo) e intervallo di pagamento; a ogni contratto può inoltre essere associato un proprio calendario delle festività, in modo da poter rappresentare, ad esempio, festività diverse a livello cantonale. Ogni contratto vale per un periodo limitato o a tempo indeterminato.
 
+**Qualifiche:** A ogni persona si possono assegnare quante qualifiche si vuole dal [Catalogo delle qualifiche](../einstellungen/stammdaten-organisation/qualifikationen.md) valido per l'intera azienda, ciascuna con un livello (da Basso a Esperto). I turni, viceversa, possono richiedere qualifiche con un livello minimo — la pianificazione automatica ne tiene conto nell'assegnazione.
+
 **Importazione:** Non esiste un'importazione CSV per i dati anagrafici. Le directory esistenti vengono recepite automaticamente tramite sincronizzazione LDAP/Active Directory via un Identity Provider; le singole persone si creano manualmente o tramite Klacksy.
 
 **Ricerca e filtro:** La ricerca a testo libero trova le persone per nome, cognome, azienda o numero di matricola, nonché per numero di telefono/CAP; inoltre potete filtrare per cantone, stato (Attivi/Ex collaboratori/Futuri) e gruppo.

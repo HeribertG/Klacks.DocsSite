@@ -11,7 +11,7 @@ Liburan, sakit, pelatihan lanjutan, wajib militer — siapa yang tidak hadir dan
 - Setiap absensi muncul sebagai batang berwarna pada garis waktu orang yang bersangkutan — tumpang tindih dan penumpukan langsung terlihat.
 - **Jenis absensi kustom** dapat Anda definisikan sendiri, lengkap dengan warna dan perilaku (dibayar/tidak dibayar, dengan/tanpa efek jam kerja).
 - Ekspor sebagai **PDF** dapat dilakukan dengan satu klik — praktis untuk pengumuman atau pengarsipan.
-- Absensi berpengaruh langsung pada perencanaan: Siapa yang tidak hadir, tidak akan dijadwalkan oleh [Perencanaan Otomatis: Jadwal dalam Hitungan Detik](../planen/auto-planung.md), dan di [Kisi Jadwal: Matriks Waktu Interaktif Anda](../planen/plan-raster.md) konflik tersebut langsung terlihat.
+- Absensi berpengaruh langsung pada perencanaan: Siapa yang tidak hadir, tidak akan dijadwalkan oleh [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md), dan di [Kisi Jadwal: Matriks Waktu Interaktif Anda](../planen/plan-raster.md) konflik tersebut langsung terlihat.
 
 ## Baik untuk Diketahui
 

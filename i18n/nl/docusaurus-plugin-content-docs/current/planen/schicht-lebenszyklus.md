@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Voordat een dienst überhaupt bezet kan worden, doorloopt hij vier fasen — van de vrij bewerkbare opdracht via de onveranderlijke verzegelde opdracht naar de planbare dienst en diens deelstukken. De zin daarachter: wat is afgesproken, blijft blijvend naleesbaar; wat de dagelijkse praktijk daarna herplant, blijft toch beweeglijk.
 
+Een dienst is daarbij niet noodzakelijk aan een bestelling gebonden — Klacks beeldt zowel interne, regelmatige diensten zonder klantrelatie af als complexe opdrachten met veel leveringen of in meerdere containerdeelstukken opgesplitste inzetten.
+
 ## Zo werkt het
 
 **1. Opdracht — vrij bewerkbaar.** Elke nieuwe dienst begint hier. Op de dienstenpagina opent de knop **+ nieuwe bestelling** het invoerscherm; u bewerkt de opdracht zo vaak u wilt, alle velden staan open. In het inzetplan verschijnt hij nog niet, en daardoor kunnen er ook nog geen medewerkers op worden ingepland. Een loutere schets is hij toch niet — hij is een echte opdracht, alleen nog niet verzegeld. In de dienstenlijst voert Klacks deze fase onder **Bestellingen**. Schakelt u daar over naar **Planbare diensten**, dan heet de knop **+ nieuwe dienst**: die maakt een opdracht zonder klantrelatie aan — voor algemeen werk dat niemand extern in opdracht geeft en betaalt. De kaart *Adres* vervalt dan; ook deze dienst doorloopt de vier fasen.
@@ -33,7 +35,7 @@ Voordat een dienst überhaupt bezet kan worden, doorloopt hij vier fasen — van
 - **Bijzondere kenmerken** (expertmodus) — sporadische inzet inclusief periodiciteit, briefing en debriefing, reistijd heen en terug, plus het aantal medewerkers en taken per dienst.
 - **Standaardonkosten** (expertmodus) — onkosten die bij deze dienst regelmatig voorkomen, telkens met omschrijving, bedrag en de aanduiding of ze belastingplichtig zijn.
 
-Hoe de planbare diensten vervolgens worden bezet, beschrijven [Auto-planning: het plan in seconden](../planen/auto-planung.md) en [Het planrooster: uw interactieve tijdmatrix](../planen/plan-raster.md).
+Hoe de planbare diensten vervolgens worden bezet, beschrijven [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md) en [Het planrooster: uw interactieve tijdmatrix](../planen/plan-raster.md).
 
 ## Goed om te weten
 

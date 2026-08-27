@@ -16,6 +16,8 @@ Adress- och personhanteringen är hjärtat i din stamdata: Medarbetare, kunder s
 
 **Avtal:** Varje person kan ha flera avtal, till exempel vid en ändring av tjänstgöringsgrad. Avtalsmallarna i sig är fritt definierbara: Under Inställningar > Avtal skapar du egna avtal med namn, tjänstgöringsgrad, mål-/max-/mintimmar, tillägg (natt-, sön- och helgdagstillägg) och betalningsintervall; till varje avtal kan dessutom en egen helgdagskalender kopplas, vilket t.ex. gör det möjligt att avbilda kantonalt olika helgdagar. Varje avtal gäller tidsbegränsat eller tillsvidare.
 
+**Kvalifikationer:** Varje person kan tilldelas hur många kvalifikationer som helst från den företagsövergripande [Kvalifikationskatalogen](../einstellungen/stammdaten-organisation/qualifikationen.md), vardera med en nivå (Låg till Expert). Skift kan omvänt kräva kvalifikationer med en lägsta nivå — Autoplaneringen tar hänsyn till detta vid tillsättning.
+
 **Import:** Det finns ingen CSV-import för stamdata. Befintliga kataloger tar du automatiskt över via LDAP-/Active-Directory-synkronisering genom en Identity Provider; enskilda personer skapar du manuellt eller via Klacksy.
 
 **Sök och filtrera:** Fritextsökningen hittar personer efter namn, förnamn, företag eller personalnummer samt via telefonnummer/postnummer; dessutom kan du filtrera efter kanton, status (Aktiva/Tidigare/Kommande) och grupp.

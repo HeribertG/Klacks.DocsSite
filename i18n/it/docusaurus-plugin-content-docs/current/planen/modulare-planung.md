@@ -18,7 +18,7 @@ Il trucco alla base: i fogli di piano mantengono **riferimenti anziché copie**.
 
 - Gli impegni al di fuori dell'area di una persona condivisa appaiono nel piano parziale come voci bloccate — così ogni pianificatore vede quando "le sue" persone sono impegnate altrove, senza poter modificare i piani altrui.
 - La visibilità dei piani parziali si controlla tramite diritti di accesso basati sui gruppi.
-- La pianificazione modulare e la [Pianificazione automatica: il piano in pochi secondi](../planen/auto-planung.md) si integrano: ogni area può essere pianificata automaticamente per conto proprio.
+- La pianificazione modulare e la [Pianificazione automatica: un clic, il resto gira in background](../planen/auto-planung.md) si integrano: ogni area può essere pianificata automaticamente per conto proprio.
 
 ---
 *Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

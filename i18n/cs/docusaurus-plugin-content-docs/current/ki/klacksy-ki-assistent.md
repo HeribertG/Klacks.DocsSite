@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Jak to funguje
 
-Klacksy rozumí vašim požadavkům a překládá je do konkrétních akcí — k dispozici je přes **250 dovedností**:
+Klacksy rozumí vašim požadavkům a překládá je do konkrétních akcí — k dispozici je přes **300 dovedností**:
 
 - **Plánovat:** vyplňovat směny, nahrazovat výpadky, přeřazovat služby
 - **Spravovat:** vytvářet zaměstnance, spravovat skupiny, nastavovat oprávnění

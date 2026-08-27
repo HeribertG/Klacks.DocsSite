@@ -20,11 +20,11 @@ Klacks jest oprogramowaniem open source na licencji MIT — backend, frontend i 
 
 ## Dla kogo to jest stworzone
 
-Klacks jest skierowany do firm z planowaniem zmian i wyjazdów, które traktują te trzy punkty poważnie — w szczególności organizacji Spitex, szpitali, firm ochroniarskich, sprzątających i logistycznych. Wspólnym mianownikiem jest: pokrycie 24/7, złożone wymagania dotyczące czasów odpoczynku i kwalifikacji oraz standard ochrony danych, którego wymienna rozwiązanie chmurowe nie zawsze może spełnić.
+Klacks odwzorowuje każdy rodzaj planowania zmian i wyjazdów — od regularnych, prostych dyżurów po złożone dyżury z licznymi dostawami lub zlecenia podzielone na segmenty. Dyżur nie musi być przy tym koniecznie powiązany z zamówieniem. Szczególnie dobrze Klacks pasuje do firm, które traktują te trzy punkty poważnie — w szczególności organizacji Spitex, szpitali, firm ochroniarskich, sprzątających i logistycznych, a także firm hotelarskich i gastronomicznych. Wspólnym mianownikiem jest tam: pokrycie 24/7, złożone wymagania dotyczące czasów odpoczynku i kwalifikacji oraz standard ochrony danych, którego wymienna rozwiązanie chmurowe nie zawsze może spełnić.
 
 ## Co to oznacza w praktyce
 
-- Możesz wypróbować Klacks bezpłatnie w [Playground](https://klacks-software.ch:7643), bez rejestracji czy rozmowy handlowej.
+- Klacks jest zawsze i dla każdego całkowicie bezpłatny — bez rejestracji, bez rozmowy handlowej. [Playground](https://klacks-software.ch:7643) to po prostu możliwość, by bez zobowiązań zajrzeć do aplikacji i oswoić się z jej obsługą.
 - Możesz uruchomić go za pomocą pakietu On-Premise (obrazy Docker, instalator, baza danych, HTTPS, automatyczne aktualizacje) na własnym serwerze.
 - Możesz przejrzeć kod źródłowy i samodzielnie wprowadzać zmiany — Klacks pozostaje Twój, nawet jeśli go rozwijasz.
 

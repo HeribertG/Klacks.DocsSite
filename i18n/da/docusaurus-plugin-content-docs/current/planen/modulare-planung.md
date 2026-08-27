@@ -18,7 +18,7 @@ Tricket bag: Planblade holder **referencer i stedet for kopier**. En vagt eksist
 
 - Indsatser uden for et område for en delt person vises i delplanen som spærrede poster — sådan ser hver planlægger, hvornår "deres" folk er bundet andetsteds, uden at kunne ændre andres planer.
 - Synligheden af delplaner styrer du via gruppebaserede adgangsrettigheder.
-- Modulær planlægning og [Auto-planlægning: Planen på få sekunder](../planen/auto-planung.md) supplerer hinanden: Hvert område kan planlægges automatisk for sig selv.
+- Modulær planlægning og [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md) supplerer hinanden: Hvert område kan planlægges automatisk for sig selv.
 
 ---
 *Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

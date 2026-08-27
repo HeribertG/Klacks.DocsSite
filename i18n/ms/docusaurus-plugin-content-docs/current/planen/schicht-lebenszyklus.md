@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Sebelum satu Tugasan boleh diisi kakitangan, ia melalui empat Tahap — daripada Pesanan yang boleh disunting secara bebas, melalui Pesanan termeterai yang tidak boleh diubah, kepada Tugasan yang boleh dirancang dan Segmen-segmennya. Tujuan di sebaliknya: apa yang telah dipersetujui kekal boleh dibaca semula secara kekal; apa yang kemudiannya dirancang semula oleh operasi harian tetap boleh digerakkan.
 
+Satu Tugasan tidak semestinya terikat kepada satu Pesanan — Klacks turut menggambarkan Tugasan dalaman yang berkala tanpa kaitan pelanggan, sama seperti Pesanan kompleks dengan banyak penghantaran atau penugasan yang dipecahkan kepada beberapa kepingan Kontena.
+
 ## Cara ia berfungsi
 
 **1. Pesanan — boleh disunting secara bebas.** Setiap Tugasan baharu bermula di sini. Pada halaman Tugasan, butang **+ Pesanan Baharu** membuka borang kemasukan; anda menyemak semula Pesanan tersebut seberapa kerap yang anda mahu, semua medan terbuka. Ia belum lagi muncul dalam Jadual Tugasan, dan dengan itu tiada Pekerja yang boleh dijadualkan padanya. Namun ia bukan sekadar lakaran — ia adalah satu Pesanan sebenar, hanya belum dimeteraikan. Dalam Senarai Tugasan, Klacks menyenaraikan Tahap ini di bawah **Pesanan**. Jika anda beralih ke **Tugasan Boleh Dirancang** di sana, butang tersebut dinamakan **+ Tugasan Baharu**: Ia mencipta satu Pesanan tanpa kaitan pelanggan — untuk kerja am yang tidak ditugaskan dan dibayar oleh mana-mana pihak luar. Kad *Alamat* digugurkan pada ketika itu; Tugasan ini turut melalui keempat-empat Tahap.
@@ -33,7 +35,7 @@ Sebelum satu Tugasan boleh diisi kakitangan, ia melalui empat Tahap — daripada
 - **Ciri Khas** (Mod Pakar) — penugasan sekali-sekala berserta kekerapan, Briefing dan Debriefing, masa perjalanan pergi dan balik, serta bilangan Pekerja dan Tugas setiap Syif.
 - **Perbelanjaan Standard** (Mod Pakar) — perbelanjaan yang kerap timbul pada Tugasan ini, masing-masing dengan keterangan, jumlah dan penyataan sama ada ia tertakluk cukai.
 
-Cara Tugasan boleh dirancang seterusnya diisi kakitangan diterangkan dalam [Auto-Perancangan: Jadual dalam Beberapa Saat](../planen/auto-planung.md) dan [Grid Jadual: Matriks Masa Interaktif Anda](../planen/plan-raster.md).
+Cara Tugasan boleh dirancang seterusnya diisi kakitangan diterangkan dalam [Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang](../planen/auto-planung.md) dan [Grid Jadual: Matriks Masa Interaktif Anda](../planen/plan-raster.md).
 
 ## Perkara yang perlu diketahui
 

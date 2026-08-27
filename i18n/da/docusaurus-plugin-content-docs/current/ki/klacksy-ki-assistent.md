@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Sådan fungerer det
 
-Klacksy forstår dine anliggender og omsætter dem til konkrete handlinger — over **250 evner** står til rådighed:
+Klacksy forstår dine anliggender og omsætter dem til konkrete handlinger — over **300 evner** står til rådighed:
 
 - **Planlægge:** Fylde vagter, erstatte udfald, ombooke tjenester
 - **Administrere:** Oprette medarbejdere, vedligeholde grupper, sætte rettigheder

@@ -31,7 +31,7 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Dashboard của bạn: Mọi thứ trong một cái nhìn](./erste-schritte/ihr-dashboard.md) — Trang chủ của Klacks với bốn phần có thể sắp xếp tự do: Tổng quan, Độ bao phủ & Xác nhận, Tài nguyên và Địa điểm
 
 **Lập kế hoạch**
-- [Tự động lập kế hoạch: Kế hoạch trong vài giây](./planen/auto-planung.md) — Kế hoạch trong vài giây, chỉ với một cú nhấp chuột
+- [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](./planen/auto-planung.md) — Tính toán chạy trong nền, trong khi bạn lo việc khác
 - [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](./planen/plan-raster.md) — Ma trận thời gian tương tác với kéo & thả
 - [Lập kế hoạch mô-đun: Chia để trị](./planen/modulare-planung.md) — Chia nhỏ các kế hoạch lớn mà không bị trùng lịch
 - [Quy trình phê duyệt: Từ bản nháp đến kế hoạch ràng buộc](./planen/freigabe-workflow.md) — Từ bản nháp đến kế hoạch đã niêm phong

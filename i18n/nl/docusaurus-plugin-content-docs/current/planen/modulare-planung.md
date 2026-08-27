@@ -18,7 +18,7 @@ De truc erachter: roosterbladen bevatten **verwijzingen in plaats van kopieën**
 
 - Inzetten buiten het gebied van een gedeelde persoon verschijnen in het deelrooster als vergrendelde items — zo ziet elke planner wanneer "haar" mensen elders gebonden zijn, zonder andermans roosters te kunnen wijzigen.
 - De zichtbaarheid van deelroosters stuurt u via groepsgebaseerde toegangsrechten.
-- Modulaire planning en [Auto-planning: het plan in seconden](../planen/auto-planung.md) vullen elkaar aan: elk gebied kan afzonderlijk automatisch worden ingepland.
+- Modulaire planning en [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md) vullen elkaar aan: elk gebied kan afzonderlijk automatisch worden ingepland.
 
 ---
 *Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

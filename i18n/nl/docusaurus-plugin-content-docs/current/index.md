@@ -31,7 +31,7 @@ Deze wiki legt in kleine hapjes uit hoe Klacks werkt. Elke pagina is in enkele m
 - [Uw dashboard: alles in één oogopslag](./erste-schritte/ihr-dashboard.md) — Klacks' startpagina met vier herschikbare onderdelen: overzicht, dekking & bevestiging, resources en locaties
 
 **Plannen**
-- [Auto-planning: het plan in seconden](./planen/auto-planung.md) — Het plan in seconden, met één klik
+- [Auto-planning: één klik, de rest draait op de achtergrond](./planen/auto-planung.md) — Berekening op de achtergrond, terwijl u zich met andere dingen bezighoudt
 - [Het planrooster: uw interactieve tijdmatrix](./planen/plan-raster.md) — De interactieve tijdmatrix met drag-and-drop
 - [Modulaire planning: verdeel en heers](./planen/modulare-planung.md) — Grote planningen opdelen, zonder dubbele boekingen
 - [Goedkeuringsworkflow: van concept naar bindende planning](./planen/freigabe-workflow.md) — Van concept tot verzegelde planning

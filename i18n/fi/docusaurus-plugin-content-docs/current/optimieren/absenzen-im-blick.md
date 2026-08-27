@@ -11,7 +11,7 @@ Lomat, sairaudet, koulutukset, asepalvelus — kuka on poissa ja milloin, näett
 - Jokainen poissaolo näkyy värillisenä palkkina kyseisen henkilön aikajanalla — päällekkäisyydet ja kasaantumat huomaa heti.
 - **Omat poissaolotyypit** voitte määritellä itse, väreineen ja käyttäytymisineen (palkallinen/palkaton, vaikuttaa/ei vaikuta tuntimäärään).
 - **PDF-vienti** onnistuu yhdellä klikkauksella — kätevää ilmoitustauluja tai arkistointia varten.
-- Poissaolot vaikuttavat suoraan suunnitteluun: poissaolevaa henkilöä ei sijoiteta [Automaattisuunnittelu: valmis suunnitelma sekunneissa](../planen/auto-planung.md) -toiminnolla, ja [Suunnitteluruudukko: interaktiivinen aikamatriisinne](../planen/plan-raster.md) -näkymässä ristiriita näkyy heti.
+- Poissaolot vaikuttavat suoraan suunnitteluun: poissaolevaa henkilöä ei sijoiteta [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md) -toiminnolla, ja [Suunnitteluruudukko: interaktiivinen aikamatriisinne](../planen/plan-raster.md) -näkymässä ristiriita näkyy heti.
 
 ## Hyvä tietää
 

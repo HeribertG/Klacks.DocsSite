@@ -18,7 +18,7 @@ Trikset bak dette: Planarkene holder **referanser i stedet for kopier**. En vakt
 
 - Oppdrag utenfor eget område for en delt person vises i delplanen som sperrede oppføringer — slik ser hver planlegger når «sine» folk er bundet opp annetsteds, uten å kunne endre andres planer.
 - Synligheten til delplaner styrer du via gruppebaserte tilgangsrettigheter.
-- Modulær planlegging og [Autoplanlegging: Planen på sekunder](../planen/auto-planung.md) utfyller hverandre: Hvert område kan planlegges automatisk for seg selv.
+- Modulær planlegging og [Autoplanlegging: Ett klikk, resten kjører i bakgrunnen](../planen/auto-planung.md) utfyller hverandre: Hvert område kan planlegges automatisk for seg selv.
 
 ---
 *Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

@@ -13,7 +13,7 @@ Jadwal berjalan melalui empat tahap:
 1. **Draf** — fase kerja: semuanya masih bisa diubah
 2. **Dikonfirmasi** — jadwal sudah mantap secara substansi; perubahan hanya secara terkendali
 3. **Disetujui** — pihak yang bertanggung jawab telah memberikan persetujuan
-4. **Ditutup** — jadwal disegel dan mengikat
+4. **Ditutup** — jadwal disegel dan mengikat secara operasional; pemrosesan akuntansinya berjalan terpisah melalui [Penutupan Periode](../planen/periodenabschluss.md)
 
 Setiap tahap **mengunci pengeditan** sesuai levelnya: Apa yang sudah disetujui, tidak dapat diubah lagi secara tidak sengaja melalui drag & drop. Siapa yang boleh menetapkan tahap mana, diatur dengan jelas:
 
@@ -23,7 +23,7 @@ Setiap tahap **mengunci pengeditan** sesuai levelnya: Apa yang sudah disetujui, 
 
 ## Baik untuk Diketahui
 
-- Penguncian berlaku di mana pun — termasuk [Perencanaan Otomatis: Jadwal dalam Hitungan Detik](../planen/auto-planung.md) dan [Klacksy](../ki/klacksy-ki-assistent.md) menghormati status persetujuan.
+- Penguncian berlaku di mana pun — termasuk [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md) dan [Klacksy](../ki/klacksy-ki-assistent.md) menghormati status persetujuan.
 - Perubahan jangka pendek setelah persetujuan (kasus sakit!) dijalankan sebagai koreksi yang disengaja dan dapat dilacak, bukan sebagai penjadwalan ulang diam-diam.
 - Untuk penutupan akuntansi bulanan, tersedia tambahan [Penutupan Periode](../planen/periodenabschluss.md).
 

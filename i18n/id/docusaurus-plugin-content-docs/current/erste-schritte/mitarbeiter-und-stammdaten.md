@@ -16,6 +16,8 @@ Manajemen alamat dan orang adalah inti dari data induk Anda: karyawan, pelanggan
 
 **Kontrak:** Setiap orang dapat memiliki beberapa kontrak, misalnya saat terjadi perubahan persentase kerja. Templat kontrak itu sendiri dapat didefinisikan secara bebas: di bawah Pengaturan > Kontrak, Anda dapat membuat kontrak sendiri dengan nama, persentase kerja, jam kerja target/maksimal/minimal, tunjangan (malam, Minggu, dan hari libur), serta interval pembayaran; setiap kontrak juga dapat diberi kalender hari libur tersendiri, sehingga misalnya perbedaan hari libur antar kanton dapat dipetakan. Setiap kontrak berlaku untuk jangka waktu tertentu atau tidak terbatas.
 
+**Kualifikasi:** Setiap orang dapat diberi sejumlah kualifikasi apa pun dari [Katalog Kualifikasi](../einstellungen/stammdaten-organisation/qualifikationen.md) milik perusahaan, masing-masing dengan sebuah tingkat (Rendah hingga Ahli). Sebaliknya, shift dapat mensyaratkan kualifikasi dengan tingkat minimum — Perencanaan Otomatis mempertimbangkan hal ini saat menempatkan orang.
+
 **Impor:** Tidak ada fitur impor CSV untuk data induk. Direktori yang sudah ada dapat diambil alih secara otomatis melalui sinkronisasi LDAP/Active Directory lewat Identity Provider; orang secara individual dapat dibuat secara manual atau melalui Klacksy.
 
 **Mencari dan menyaring:** Pencarian teks bebas menemukan orang berdasarkan nama, nama depan, perusahaan, atau nomor personalia, serta berdasarkan nomor telepon/kode pos; selain itu Anda dapat menyaring berdasarkan kanton, status (Aktif/Mantan/Calon), dan grup.

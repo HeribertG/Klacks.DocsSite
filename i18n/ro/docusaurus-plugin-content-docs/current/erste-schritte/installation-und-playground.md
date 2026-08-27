@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks poate fi testat într-un minut — și instalat în câteva minute. Fără înregistrare, fără discuții de vânzare.
 
-## Varianta 1: Playground (fără instalare)
+## Playground: locul de joacă pentru a-l cunoaște
 
-O instanță publică Klacks cu date de exemplu rulează la adresa **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground-ul nu este o variantă de instalare, ci o instanță publică Klacks cu date de exemplu, pentru a experimenta fără nicio obligație — de aici și numele. Rulează la adresa **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Autentificare:** `admin@test.com` · **Parolă:** `P@ssw0rt1`
 - Aveți drepturi complete de administrator — testați tot ce doriți.
 - Toate datele sunt **resetate automat zilnic**. Nu introduceți date personale reale.
 
-## Varianta 2: Pe propriul server (On-Premise)
+## Instalare: pe propriul server (On-Premise)
 
 Pachetul On-Premise include tot ce este necesar: imagini Docker, program de instalare, bază de date, HTTPS și actualizări automate.
 

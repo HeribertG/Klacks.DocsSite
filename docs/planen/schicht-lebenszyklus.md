@@ -35,7 +35,7 @@ Ein Dienst ist dabei nicht zwingend an eine Bestellung gebunden — Klacks bilde
 - **Spezielle Merkmale** (Expertenmodus) — sporadischer Einsatz samt Periodizität, Briefing und Debriefing, An- und Rückreisezeit sowie die Anzahl Mitarbeitender und Aufgaben pro Schicht.
 - **Standard-Spesen** (Expertenmodus) — Spesen, die bei diesem Dienst regelmässig anfallen, jeweils mit Bezeichnung, Betrag und der Angabe, ob sie steuerpflichtig sind.
 
-Wie die planbaren Dienste anschliessend besetzt werden, beschreiben [Auto-Planung: Der Plan in Sekunden](../planen/auto-planung.md) und [Das Plan-Raster: Ihre interaktive Zeit-Matrix](../planen/plan-raster.md).
+Wie die planbaren Dienste anschliessend besetzt werden, beschreiben [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md) und [Das Plan-Raster: Ihre interaktive Zeit-Matrix](../planen/plan-raster.md).
 
 ## Gut zu wissen
 

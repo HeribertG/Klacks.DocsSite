@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Sebelum sebuah shift dapat diisi sama sekali, ia melalui empat tahap — dari pesanan yang dapat diedit bebas, melalui pesanan tersegel yang tidak dapat diubah, hingga menjadi shift yang dapat direncanakan beserta segmen-segmennya. Maknanya: apa yang telah disepakati tetap dapat dibaca kembali secara permanen; apa yang kemudian direncanakan ulang oleh kegiatan sehari-hari tetap dapat bergerak fleksibel.
 
+Sebuah shift tidak selalu terikat pada sebuah pesanan — Klacks dapat menggambarkan baik shift internal yang rutin tanpa keterkaitan pelanggan, maupun pesanan kompleks dengan banyak pengiriman atau penugasan yang dipecah menjadi beberapa segmen container.
+
 ## Cara Kerjanya
 
 **1. Pesanan — dapat diedit bebas.** Setiap shift baru dimulai di sini. Di halaman Shift, tombol **+ Pesanan Baru** membuka formulir entri; Anda dapat merevisi pesanan tersebut sesering yang Anda inginkan, semua kolom terbuka untuk diedit. Pesanan ini belum muncul di jadwal kerja, sehingga belum ada karyawan yang dapat dijadwalkan untuknya. Meski begitu, ia bukan sekadar sketsa — ia adalah pesanan sungguhan, hanya saja belum disegel. Di daftar shift, Klacks menampilkan tahap ini di bawah **Pesanan**. Jika Anda beralih ke **Shift yang Dapat Direncanakan**, tombolnya berubah menjadi **+ Shift Baru**: tombol ini membuat pesanan tanpa keterkaitan pelanggan — untuk pekerjaan umum yang tidak dipesan dan dibayar oleh pihak eksternal mana pun. Kartu *Alamat* pun tidak ada dalam kasus ini; shift semacam ini juga melalui keempat tahap tersebut.
@@ -33,7 +35,7 @@ Sebelum sebuah shift dapat diisi sama sekali, ia melalui empat tahap — dari pe
 - **Karakteristik Khusus** (Mode Ahli) — penugasan sporadis beserta periodisitasnya, Briefing dan Debriefing, waktu perjalanan pergi dan pulang, serta jumlah karyawan dan tugas per shift.
 - **Biaya Standar** (Mode Ahli) — biaya yang secara rutin timbul pada shift ini, masing-masing dengan nama, jumlah, dan keterangan apakah kena pajak.
 
-Bagaimana shift yang dapat direncanakan tersebut selanjutnya diisi, dijelaskan di [Auto-Perencanaan: Rencana dalam hitungan detik](../planen/auto-planung.md) dan [Kisi Jadwal: Matriks Waktu Interaktif Anda](../planen/plan-raster.md).
+Bagaimana shift yang dapat direncanakan tersebut selanjutnya diisi, dijelaskan di [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md) dan [Kisi Jadwal: Matriks Waktu Interaktif Anda](../planen/plan-raster.md).
 
 ## Baik untuk Diketahui
 

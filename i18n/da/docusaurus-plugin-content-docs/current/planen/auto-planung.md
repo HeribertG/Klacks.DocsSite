@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Auto-planlægning: Planen på få sekunder
+# Auto-planlægning: Ét klik, resten kører i baggrunden
 
-Den mest besværlige del af vagtplanlægningen — tildelingen af mennesker til vagter — klarer Klacks med et enkelt klik.
+Den mest besværlige del af vagtplanlægningen — tildelingen af mennesker til vagter — klarer Klacks med et enkelt klik. Selve beregningen tager sin tid, men kører videre i baggrunden: Du behøver ikke vente og kan i mellemtiden tage dig af andre ting.
 
 ## Sådan fungerer det
 
@@ -22,6 +22,7 @@ Du starter auto-planlægningen direkte fra vagtplanen for den valgte periode. Re
 - Kvalifikationer fungerer som en reel grænse: Den, der ikke har en krævet kvalifikation, planlægges ikke ind.
 - Auto-planlægningen respekterer allerede eksisterende poster — du kan altså først sætte faste punkter og lade resten blive udfyldt.
 - Hvis et resultat ikke passer, planlægger du bare igen: Algoritmen finder ligeværdige alternativer.
+- Du kan oprette flere scenarier parallelt uden at ændre den eksisterende plan: Hvert scenarie er sin egen hvad-nu-hvis-kopi, som du kan sammenligne, kassere eller overtage. På den måde er du forberedt på kortsigtede omlægninger i stedet for først at skulle genberegne, når det sker.
 
 ![Klacks vagtplan-gitter](/img/app-schedule-de.png)
 

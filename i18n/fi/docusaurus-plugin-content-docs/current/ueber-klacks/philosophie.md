@@ -20,11 +20,11 @@ Klacks on avointa lähdekoodia MIT-lisenssillä — taustajärjestelmä, käytt�
 
 ## Kenelle tämä on tehty
 
-Klacks on suunnattu vuoro- ja käyntisuunnittelua tekeville organisaatioille, jotka ottavat nämä kolme näkökohtaa vakavasti — erityisesti kotihoito-organisaatioille, sairaaloille, turvallisuuspalveluille sekä siivous- ja logistiikkayrityksille. Yhteinen nimittäjä: ympärivuorokautinen kattavuus, monimutkaiset lepoaika- ja pätevyysvaatimukset sekä tietosuojavaatimus, jota vaihdettavissa oleva pilviratkaisu ei aina pysty täyttämään.
+Klacks kuvaa kaikenlaista vuoro- ja käyntisuunnittelua — säännöllisistä, yksinkertaisista työvuoroista monimutkaisiin työvuoroihin, joissa on useita toimituksia, tai segmenteiksi pilkottuihin tilauksiin. Työvuoro ei tällöin ole välttämättä sidoksissa tilaukseen. Klacks sopii erityisen hyvin organisaatioille, jotka ottavat nämä kolme näkökohtaa vakavasti — erityisesti kotihoito-organisaatioille, sairaaloille, turvallisuuspalveluille, siivous- ja logistiikkayrityksille sekä hotelli- ja ravintola-alan yrityksille. Yhteinen nimittäjä siellä: ympärivuorokautinen kattavuus, monimutkaiset lepoaika- ja pätevyysvaatimukset sekä tietosuojavaatimus, jota vaihdettavissa oleva pilviratkaisu ei aina pysty täyttämään.
 
 ## Mitä tämä tarkoittaa käytännössä
 
-- Voit kokeilla Klacksia maksutta [Playgroundissa](https://klacks-software.ch:7643) ilman rekisteröitymistä tai myyntikeskustelua.
+- Klacks on aina ja kaikille täysin maksuton — ei rekisteröitymistä, ei myyntipuheita. [Playground](https://klacks-software.ch:7643) on vain yksi tapa tutustua siihen sitoumuksetta ja opetella käyttöä.
 - Voit ajaa sitä On-Premise-paketilla (Docker-imaget, asennusohjelma, tietokanta, HTTPS, automaattiset päivitykset) omalla palvelimellasi.
 - Voit tarkastella lähdekoodia ja tehdä siihen itse muutoksia — Klacks pysyy sinun omanasi, vaikka kehittäisit sitä eteenpäin.
 

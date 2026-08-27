@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Prima ancora di poter essere coperto, un turno attraversa quattro fasi — dall'ordine liberamente modificabile all'ordine sigillato immutabile, poi al turno pianificabile e ai suoi segmenti. Il senso è questo: ciò che è stato concordato resta consultabile in modo duraturo, mentre ciò che la quotidianità ripianifica resta comunque flessibile.
 
+Un turno non è per forza legato a un ordine — Klacks rappresenta tanto turni interni e regolari senza riferimento al cliente, quanto ordini complessi con molte consegne o interventi scomposti in più turni parziali di un contenitore.
+
 ## Come funziona
 
 **1. Ordine — liberamente modificabile.** Ogni nuovo turno comincia qui. Nella pagina dei servizi il pulsante **+ Nuovo ordine** apre la maschera di inserimento; potete rielaborare l'ordine tutte le volte che volete, tutti i campi sono aperti. Nel piano di impiego non compare ancora — e quindi non è nemmeno possibile pianificarvi collaboratori. Non è però una semplice bozza: è un ordine vero e proprio, solo non ancora sigillato. Nell'elenco dei servizi Klacks colloca questa fase sotto **Ordini**. Passando a **Servizi Pianificabili**, il pulsante si chiama **+ Nuovo servizio**: crea un ordine senza riferimento al cliente — per lavoro generale che nessuno commissiona né paga dall'esterno. La scheda *Indirizzo* viene allora a mancare; anche questo turno attraversa le quattro fasi.
@@ -33,7 +35,7 @@ Prima ancora di poter essere coperto, un turno attraversa quattro fasi — dall'
 - **Caratteristiche Speciali** (modalità esperto) — utilizzo sporadico con la relativa periodicità, briefing e debriefing, tempo di viaggio prima e dopo, nonché il numero di dipendenti e di attività per turno.
 - **Spese predefinite** (modalità esperto) — le spese che ricorrono regolarmente su questo turno, ciascuna con denominazione, importo e l'indicazione se sia tassabile.
 
-Come i turni pianificabili vengano poi coperti è descritto in [Pianificazione automatica: il piano in pochi secondi](../planen/auto-planung.md) e nella [griglia del piano: la vostra matrice temporale interattiva](../planen/plan-raster.md).
+Come i turni pianificabili vengano poi coperti è descritto in [Pianificazione automatica: un clic, il resto gira in background](../planen/auto-planung.md) e nella [griglia del piano: la vostra matrice temporale interattiva](../planen/plan-raster.md).
 
 ## Da sapere
 

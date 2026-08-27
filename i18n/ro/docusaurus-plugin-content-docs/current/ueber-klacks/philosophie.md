@@ -20,11 +20,11 @@ Klacks este cu sursă deschisă sub licența MIT — backend-ul, frontend-ul și
 
 ## Pentru cine este făcut
 
-Klacks se adresează organizațiilor cu planificare pe ture și intervenții care iau în serios aceste trei aspecte — în special organizațiilor Spitex, spitalelor, serviciilor de securitate, firmelor de curățenie și logistică. Numitorul comun: acoperire 24/7, cerințe complexe privind perioadele de repaus și calificările, precum și un standard de protecție a datelor pe care o soluție cloud interschimbabilă nu îl poate îndeplini întotdeauna.
+Klacks acoperă orice tip de planificare pe ture și intervenții — de la ture simple, regulate, până la ture complexe cu multe livrări sau comenzi descompuse în segmente. O tură nu este neapărat legată de o comandă. Klacks se potrivește deosebit de bine organizațiilor care iau în serios aceste trei aspecte — în special organizațiilor Spitex, spitalelor, serviciilor de securitate, firmelor de curățenie și logistică, precum și unităților hoteliere și de restaurație. Numitorul comun acolo: acoperire 24/7, cerințe complexe privind perioadele de repaus și calificările, precum și un standard de protecție a datelor pe care o soluție cloud interschimbabilă nu îl poate îndeplini întotdeauna.
 
 ## Ce înseamnă asta în practică
 
-- Puteți testa Klacks gratuit în [Playground](https://klacks-software.ch:7643), fără înregistrare sau discuție de vânzare.
+- Klacks este întotdeauna și pentru oricine complet gratuit — fără înregistrare, fără discuție de vânzare. [Playground](https://klacks-software.ch:7643) este doar o modalitate de a-l testa fără obligații și de a vă familiariza cu modul de utilizare.
 - Îl puteți opera cu un pachet On-Premise (imagini Docker, program de instalare, bază de date, HTTPS, actualizări automate) pe propriul server.
 - Puteți consulta codul sursă și face modificări proprii — Klacks rămâne al dumneavoastră, chiar dacă îl dezvoltați în continuare.
 

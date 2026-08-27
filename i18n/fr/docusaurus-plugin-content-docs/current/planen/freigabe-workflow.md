@@ -13,7 +13,7 @@ Le plan passe par quatre étapes :
 1. **Ébauche** — la phase de travail : tout peut encore être modifié
 2. **Confirmé** — le plan est validé sur le fond ; les modifications ne sont plus possibles que de façon contrôlée
 3. **Approuvé** — le service responsable a donné son feu vert
-4. **Clôturé** — le plan est scellé et définitif
+4. **Clôturé** — le plan est scellé et définitif pour l'exploitation ; le décompte comptable s'effectue séparément via la [clôture de période](../planen/periodenabschluss.md)
 
 Chaque étape **verrouille l'édition** en conséquence : ce qui est approuvé ne peut plus être modifié par mégarde par glisser-déposer. Qui a le droit de passer à quelle étape est clairement défini :
 
@@ -23,7 +23,7 @@ Chaque étape **verrouille l'édition** en conséquence : ce qui est approuvé n
 
 ## Bon à savoir
 
-- Les verrouillages s'appliquent partout — même la [planification automatique : le plan en quelques secondes](../planen/auto-planung.md) et [Klacksy](../ki/klacksy-ki-assistent.md) respectent le statut de validation.
+- Les verrouillages s'appliquent partout — même la [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md) et [Klacksy](../ki/klacksy-ki-assistent.md) respectent le statut de validation.
 - Les modifications de dernière minute après validation (cas de maladie !) sont traitées comme des corrections conscientes et traçables, pas comme une replanification silencieuse.
 - Pour la clôture comptable d'un mois, il existe en plus la [clôture de période](../planen/periodenabschluss.md).
 

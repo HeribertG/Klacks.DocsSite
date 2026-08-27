@@ -16,6 +16,8 @@ Address and people management is the heart of your master data: employees, clien
 
 **Contracts:** Each person can have multiple contracts, for example after a change in workload. The contract templates themselves are freely definable: under Settings > Contracts you create your own contracts with a name, workload percentage, target/maximum/minimum hours, surcharges (night, Sunday, and public holiday), and payment interval; each contract can additionally be assigned its own holiday calendar, which lets you map, for instance, cantonally different public holidays. Every contract is either time-limited or open-ended.
 
+**Qualifications:** Any number of qualifications from the company-wide [Qualification Catalog](../einstellungen/stammdaten-organisation/qualifikationen.md) can be assigned to each person, each with a level (Low through Expert). Conversely, shifts can require qualifications with a minimum level — Auto-Planning takes this into account when staffing.
+
 **Import:** There is no CSV import for master data. Existing directories are taken over automatically via LDAP/Active Directory synchronization through an identity provider; individual people are created manually or via Klacksy.
 
 **Search and filter:** The free-text search finds people by last name, first name, company, or employee number, as well as by phone number/postal code; you can additionally filter by canton, status (Active/Former/Future), and group.

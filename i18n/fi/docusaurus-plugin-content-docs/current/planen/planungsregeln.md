@@ -8,7 +8,7 @@ Suunnittelusäännöt määrittävät automaattisen työvuorosuunnittelun reunae
 
 ## Näin se toimii
 
-Suunnittelusääntö liitetään **sopimukseen**. Määritellyt raja-arvot koskevat siten kaikkia työntekijöitä, joilla on kyseinen sopimus. Jokainen sääntö kattaa neljä osa-aluetta:
+Suunnittelusääntö liitetään **sopimukseen**. Määritellyt raja-arvot koskevat siten kaikkia työntekijöitä, joilla on kyseinen sopimus. Jokainen sääntö kattaa kolme osa-aluetta:
 
 **Työpäivät ja lepoajat**
 - Enimmäistyöpäivät: pehmeä sääntö suositellulle jaksopituudelle ennen lepopäivän suunnittelua (esim. "5 päivää töitä, sitten lepoa") — rikkomus ei tee suunnitelmasta pätemätöntä, ainoastaan vähemmän optimaalisen
@@ -27,12 +27,10 @@ Suunnittelusääntö liitetään **sopimukseen**. Määritellyt raja-arvot koske
 - Kuukauden vähimmäis- ja enimmäistunnit
 - Kokoaikatunnit (kuukausittainen tuntimäärä, joka vastaa kokoaikatyötä)
 
-**Loma**
-- Lomapäivät kalenterivuotta kohden
-
 ## Hyvä tietää
 
 - Uutta sääntöä luotaessa **oletusarvot asetuksista** (Suunnittelusäännöt — oletusarvot) otetaan automaattisesti käyttöön; voitte sen jälkeen mukauttaa jokaista arvoa yksilöllisesti.
+- Ensimmäisen käyttöönoton yhteydessä Klacks ehdottaa maahan ja toimialaan sopivaa mallia näille arvoille (pyhäpäivät, lisät, suunnittelusäännöt); malli on vain lähtökohta — sitä ei mukauteta jatkuvasti automaattisesti lakimuutoksiin, ja Admin voi muokata sitä täysin vapaasti.
 - Suunnittelusäännöt vaikuttavat sopimuksen kautta — teidän ei tarvitse ylläpitää niitä henkilökohtaisesti. Kun sääntö muuttuu, se koskee kaikkia työntekijöitä, joilla on kyseinen sopimus.
 - Ylityöraja ja tavoiteaika ovat kaksi eri asiaa: tavoiteaika on päivittäinen standardi, ylityöraja viikoittainen kynnysarvo.
 - "Enimmäistyöpäivät" (pehmeä toive jaksopituudelle) ja "enimmäisperäkkäiset työpäivät" (kova, ei koskaan ylitettävissä oleva yläraja) ovat kaksi eri sääntöä — älkää sekoittako niitä.

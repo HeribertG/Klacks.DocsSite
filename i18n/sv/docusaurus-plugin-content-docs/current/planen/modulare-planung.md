@@ -18,7 +18,7 @@ Tricken bakom detta: Schemabladen håller **referenser i stället för kopior**.
 
 - Insatser utanför området för en delad person visas i delschemat som spärrade poster — på så sätt ser varje schemaläggare när „sina" medarbetare är upptagna på annat håll, utan att kunna ändra andras scheman.
 - Synligheten för delscheman styr du via gruppbaserade åtkomsträttigheter.
-- Modulär planering och [Autoplanering: schemat på sekunder](../planen/auto-planung.md) kompletterar varandra: Varje område kan autoplaneras för sig.
+- Modulär planering och [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md) kompletterar varandra: Varje område kan autoplaneras för sig.
 
 ---
 *Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Trước khi một dịch vụ có thể được bố trí người, nó trải qua bốn giai đoạn — từ đơn hàng có thể chỉnh sửa tự do, qua đơn hàng đã niêm phong không thể thay đổi, đến dịch vụ có thể lập kế hoạch và các đoạn dịch vụ của nó. Ý nghĩa đằng sau điều này: những gì đã được thỏa thuận sẽ luôn có thể tra cứu lại được; những gì công việc hàng ngày lập kế hoạch lại sau đó vẫn giữ được sự linh hoạt.
 
+Một dịch vụ không nhất thiết phải gắn với một đơn hàng — Klacks thể hiện được cả những dịch vụ nội bộ, định kỳ, không gắn với khách hàng, lẫn những đơn hàng phức tạp có nhiều đợt giao hàng hoặc những dịch vụ được chia thành nhiều đoạn dịch vụ Container.
+
 ## Cách hoạt động
 
 **1. Đơn hàng — có thể chỉnh sửa tự do.** Mọi dịch vụ mới đều bắt đầu ở đây. Trên trang Dịch vụ, nút **+ đơn hàng mới** mở ra màn hình nhập liệu; bạn có thể chỉnh sửa lại đơn hàng bao nhiêu lần tùy ý, mọi trường đều mở. Nó chưa xuất hiện trong kế hoạch bố trí, và vì vậy cũng chưa thể xếp nhân viên vào đó. Tuy nhiên nó không chỉ là một bản phác thảo — đó là một đơn hàng thực sự, chỉ là chưa được niêm phong. Trong danh sách dịch vụ, Klacks liệt kê giai đoạn này dưới mục **Đơn hàng**. Nếu bạn chuyển sang **Dịch vụ có thể lập kế hoạch**, nút này có tên **+ dịch vụ mới**: nó tạo một đơn hàng không gắn với khách hàng — dành cho công việc chung mà không ai đặt hàng và trả tiền từ bên ngoài. Khi đó thẻ *Địa chỉ* sẽ không xuất hiện; dịch vụ này cũng trải qua bốn giai đoạn như trên.
@@ -33,7 +35,7 @@ Trước khi một dịch vụ có thể được bố trí người, nó trải
 - **Đặc điểm đặc biệt** (Chế độ chuyên gia) — hoạt động không thường xuyên kèm chu kỳ, briefing và debriefing, thời gian di chuyển đến và về, cũng như số lượng nhân viên và công việc mỗi ca.
 - **Chi phí tiêu chuẩn** (Chế độ chuyên gia) — các khoản chi phí thường xuyên phát sinh với dịch vụ này, mỗi khoản kèm tên gọi, số tiền và thông tin liệu có phải chịu thuế hay không.
 
-Cách các dịch vụ có thể lập kế hoạch sau đó được bố trí nhân sự được mô tả trong [Tự động lập kế hoạch: Bản kế hoạch trong vài giây](../planen/auto-planung.md) và [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](../planen/plan-raster.md).
+Cách các dịch vụ có thể lập kế hoạch sau đó được bố trí nhân sự được mô tả trong [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md) và [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](../planen/plan-raster.md).
 
 ## Điều cần biết
 

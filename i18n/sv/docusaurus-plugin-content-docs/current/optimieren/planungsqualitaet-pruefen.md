@@ -18,7 +18,7 @@ De tre rapporterna visas i dialogen för respektive planeringsassistent — inte
 
 **Överhoppade placeringar** finns bara hos assistenten för skiftplaneringen, likaså efter övertagandet — och genomgående röda. Kolumner: Datum, Medarbetare, Skift, Orsak. Här står inte vad som planerades, utan vad Klacks medvetet **inte** skrivit: tilldelningar som skulle ha brutit mot en regel som förs i blockläge. Orsaken visas som en kort kategori ("Vilotid för kort", "För många sammanhängande arbetsdagar", "Tidskollision" …). Beroende på situationen erbjuder Klacks behöriga personer att ändå ta över körningen med override; alla andra får hänvisningen att upprepa assistenten med aktiverad override eller be en behörig person om det. Varje override loggas.
 
-Vilka regler som kontrolleras och hur strikt de gäller bestämmer du i [Planeringsreglerna](../planen/planungsregeln.md); hur planen egentligen uppstår beskrivs i [Autoplanering: schemat på sekunder](../planen/auto-planung.md).
+Vilka regler som kontrolleras och hur strikt de gäller bestämmer du i [Planeringsreglerna](../planen/planungsregeln.md); hur planen egentligen uppstår beskrivs i [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md).
 
 ## Bra att veta
 

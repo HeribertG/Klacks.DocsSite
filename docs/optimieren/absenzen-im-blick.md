@@ -11,7 +11,7 @@ Ferien, Krankheit, Weiterbildung, Militär — wer wann fehlt, sehen Sie in Klac
 - Jede Absenz erscheint als farbiger Balken auf der Zeitachse der jeweiligen Person — Überschneidungen und Häufungen springen sofort ins Auge.
 - **Eigene Absenzarten** definieren Sie selbst, mit Farbe und Verhalten (bezahlt/unbezahlt, mit/ohne Stundenwirkung).
 - Der Export als **PDF** gelingt mit einem Klick — praktisch für Aushänge oder die Ablage.
-- Absenzen wirken direkt auf die Planung: Wer fehlt, wird von der [Auto-Planung: Der Plan in Sekunden](../planen/auto-planung.md) nicht eingeplant, und im [Das Plan-Raster: Ihre interaktive Zeit-Matrix](../planen/plan-raster.md) ist der Konflikt sofort sichtbar.
+- Absenzen wirken direkt auf die Planung: Wer fehlt, wird von der [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md) nicht eingeplant, und im [Das Plan-Raster: Ihre interaktive Zeit-Matrix](../planen/plan-raster.md) ist der Konflikt sofort sichtbar.
 
 ## Gut zu wissen
 

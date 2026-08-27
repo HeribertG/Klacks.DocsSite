@@ -27,7 +27,7 @@ sidebar_position: 4
 - 透過國家與州／邦可以處理地區差異 — 例如耶穌受難日在瑞士並非所有州都適用（例外：VS、TI）。
 - 預先安裝的國家與瑞士各州曆法套件皆已鎖定，無法刪除；您自行建立的日曆選擇則可隨時刪除。
 
-![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
+![Klacks 中的假日規則](/img/app-calendar-de.png)
 
 ---
 *立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

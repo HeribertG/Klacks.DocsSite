@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Autoplanlegging: Planen på sekunder
+# Autoplanlegging: Ett klikk, resten kjører i bakgrunnen
 
-Den mest arbeidskrevende delen av vaktplanleggingen — å fordele mennesker på skift — utfører Klacks med et tastetrykk.
+Den mest arbeidskrevende delen av vaktplanleggingen — å fordele mennesker på skift — utfører Klacks med et tastetrykk. Selve beregningen tar sin tid, men fortsetter i bakgrunnen: Du trenger ikke vente og kan i mellomtiden ta deg av andre ting.
 
 ## Slik fungerer det
 
@@ -22,6 +22,7 @@ Du starter autoplanleggingen direkte fra vaktplanen for den valgte perioden. Res
 - Kvalifikasjoner fungerer som en reell grense: Den som ikke har en påkrevd kvalifikasjon, legges ikke inn.
 - Autoplanleggingen respekterer allerede eksisterende oppføringer — du kan altså først sette faste punkter og la resten fylles ut.
 - Liker du ikke et resultat, planlegger du bare på nytt: Algoritmen finner likeverdige alternativer.
+- Du kan opprette flere scenarioer parallelt uten å endre den eksisterende planen: Hvert scenario er en egen hva-om-kopi som du kan sammenligne, forkaste eller overta. Slik er du forberedt på kortsiktige endringer, i stedet for å måtte beregne alt på nytt i etterkant.
 
 ![Klacks vaktplan-rutenett](/img/app-schedule-de.png)
 

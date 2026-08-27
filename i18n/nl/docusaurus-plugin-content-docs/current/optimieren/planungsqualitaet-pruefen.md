@@ -18,7 +18,7 @@ De drie rapporten verschijnen in het dialoogvenster van de betreffende plannings
 
 **Overgeslagen plaatsingen** bestaan alleen bij de assistent voor de dienstplanning, eveneens na het overnemen — en steeds rood. Kolommen: datum, medewerker, dienst, reden. Hier staat niet wat is ingepland, maar wat Klacks bewust **niet** heeft geschreven: toewijzingen die een als blokkerend ingestelde regel zouden hebben overtreden. De reden verschijnt als korte categorie („Rusttijd te kort", „Te veel opeenvolgende werkdagen", „Tijdconflict" …). Afhankelijk van de situatie biedt Klacks bevoegde personen daaronder aan om de run met een override alsnog over te nemen; alle anderen krijgen de melding om de assistent met geactiveerde override te herhalen of een bevoegde persoon daarom te vragen. Elke override wordt gelogd.
 
-Welke regels worden gecontroleerd en hoe streng ze gelden, legt u vast in de [Planningsregels](../planen/planungsregeln.md); hoe het plan eigenlijk ontstaat, beschrijft [Auto-planning: het plan in seconden](../planen/auto-planung.md).
+Welke regels worden gecontroleerd en hoe streng ze gelden, legt u vast in de [Planningsregels](../planen/planungsregeln.md); hoe het plan eigenlijk ontstaat, beschrijft [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md).
 
 ## Goed om te weten
 

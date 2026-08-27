@@ -16,6 +16,8 @@ Správa adres a osob je jádrem vašich kmenových dat: zaměstnanci, zákazníc
 
 **Smlouvy:** Každá osoba může mít více smluv, například při změně úvazku. Samotné šablony smluv jsou volně definovatelné: v části Nastavení > Smlouvy si vytvoříte vlastní smlouvy s názvem, úvazkem, cílovými/maximálními/minimálními hodinami, příplatky (noční, nedělní a svátkové) a platebním intervalem; ke každé smlouvě lze navíc přiřadit vlastní kalendář svátků, čímž lze zohlednit například kantonálně odlišné svátky. Každá smlouva platí buď po omezenou dobu, nebo na dobu neurčitou.
 
+**Kvalifikace:** Každé osobě lze přiřadit libovolný počet kvalifikací z celofiremního [Katalogu kvalifikací](../einstellungen/stammdaten-organisation/qualifikationen.md), vždy s úrovní (Nízká až Expertní). Služby naopak mohou vyžadovat kvalifikace s minimální úrovní — automatické plánování to při obsazování zohledňuje.
+
 **Import:** CSV import kmenových dat neexistuje. Existující adresáře převezmete automaticky pomocí LDAP/Active Directory synchronizace přes Identity Provider; jednotlivé osoby vytváříte ručně nebo pomocí Klacksy.
 
 **Vyhledávání a filtrování:** Fulltextové vyhledávání najde osoby podle jména, příjmení, firmy nebo osobního čísla a také podle telefonního čísla/PSČ; dále lze filtrovat podle kantonu, stavu (aktivní/bývalí/budoucí) a skupiny.

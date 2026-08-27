@@ -8,7 +8,7 @@ Planeringsregler definierar ramvillkoren för den automatiska schemaläggningen 
 
 ## Så fungerar det
 
-En planeringsregel tilldelas ett **avtal**. De definierade gränsvärdena gäller därmed för alla medarbetare med detta avtal. Varje regel omfattar fyra områden:
+En planeringsregel tilldelas ett **avtal**. De definierade gränsvärdena gäller därmed för alla medarbetare med detta avtal. Varje regel omfattar tre områden:
 
 **Arbetsdagar och vilotider**
 - Max. arbetsdagar: mjuk regel för den föredragna blocklängden innan en vilodag schemaläggs (t.ex. „5 dagars arbete, sedan vila") — ett avsteg gör inte schemat ogiltigt, bara mindre optimalt
@@ -27,12 +27,10 @@ En planeringsregel tilldelas ett **avtal**. De definierade gränsvärdena gälle
 - Minsta och högsta antal timmar per månad
 - Heltidstimmar (månatligt antal timmar som motsvarar en heltidsanställning)
 
-**Semester**
-- Semesterdagar per kalenderår
-
 ## Bra att veta
 
 - När en ny regel skapas hämtas automatiskt **standardvärdena från Inställningar** (Planeringsregler — standardvärden); du kan därefter anpassa varje värde individuellt.
+- Vid förstagångsinstallationen föreslår Klacks en mall för dessa värden anpassad efter land och bransch (helgdagar, tillägg, planeringsregler); mallen är en utgångspunkt — den anpassas inte löpande automatiskt till lagändringar och förblir helt redigerbar av Admin.
 - Planeringsregler verkar via avtalet — du behöver inte underhålla dem per person. Ändras en regel påverkar det alla medarbetare med detta avtal.
 - Övertidsgränsen och normtiden är två olika saker: Normtiden är standarden per dag, övertidsgränsen tröskelvärdet per vecka.
 - "Max. arbetsdagar" (mjuk preferens för blocklängden) och "Max. sammanhängande arbetsdagar" (hård, aldrig överskridbar övre gräns) är två olika regler — förväxla inte dessa.

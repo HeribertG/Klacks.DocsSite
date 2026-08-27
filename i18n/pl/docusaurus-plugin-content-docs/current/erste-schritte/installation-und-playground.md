@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks wypróbujesz w minutę — a zainstalujesz w kilka minut. Bez rejestracji, bez rozmów handlowych.
 
-## Wariant 1: Playground (nic nie instalujesz)
+## Playground: Plac zabaw do poznania Klacks
 
-Publiczna instancja Klacks z przykładowymi danymi działa pod adresem **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground nie jest wariantem instalacji, lecz publiczną instancją Klacks z przykładowymi danymi do niezobowiązującego eksperymentowania — stąd nazwa. Działa pod adresem **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Hasło:** `P@ssw0rt1`
 - Masz pełne uprawnienia administratora — wypróbuj wszystko.
 - Wszystkie dane są **automatycznie resetowane codziennie**. Nie wprowadzaj prawdziwych danych osobowych.
 
-## Wariant 2: Na własnym serwerze (On-Premise)
+## Instalacja: Na własnym serwerze (On-Premise)
 
 Pakiet On-Premise zawiera wszystko: obrazy Docker, instalator, bazę danych, HTTPS i automatyczne aktualizacje.
 

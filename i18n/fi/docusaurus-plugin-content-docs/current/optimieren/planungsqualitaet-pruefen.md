@@ -18,7 +18,7 @@ Kolme raporttia näkyvät kunkin suunnitteluavustajan dialogissa — ei suunnitt
 
 **Ohitetut sijoitukset** esiintyvät vain työvuorosuunnittelun avustajalla, niin ikään käyttöönoton jälkeen — ja läpikotaisin punaisina. Sarakkeet: Päivämäärä, Työntekijä, Työvuoro, Syy. Tässä ei kerrota, mitä suunniteltiin, vaan mitä Klacks tietoisesti **ei** kirjannut: kohdistuksia, jotka olisivat rikkoneet lukitustilassa olevaa sääntöä. Syy näkyy lyhyenä luokkana ("Lepoaika liian lyhyt", "Liian monta peräkkäistä työpäivää", "Aikakollisio" …). Tilanteesta riippuen Klacks tarjoaa valtuutetuille henkilöille tässä mahdollisuuden ottaa ajo silti käyttöön ohituksella; kaikki muut saavat ohjeen toistaa avustaja ohitus aktivoituna tai pyytää valtuutettua henkilöä tekemään niin. Jokainen ohitus kirjataan lokiin.
 
-Mitä sääntöjä tarkistetaan ja kuinka tiukasti ne pätevät, määritätte kohdassa [Suunnittelusäännöt](../planen/planungsregeln.md); miten suunnitelma ylipäätään syntyy, kuvaa [Automaattisuunnittelu: valmis suunnitelma sekunneissa](../planen/auto-planung.md).
+Mitä sääntöjä tarkistetaan ja kuinka tiukasti ne pätevät, määritätte kohdassa [Suunnittelusäännöt](../planen/planungsregeln.md); miten suunnitelma ylipäätään syntyy, kuvaa [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md).
 
 ## Hyvä tietää
 

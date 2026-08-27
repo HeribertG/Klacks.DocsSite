@@ -19,7 +19,7 @@ sidebar_position: 2
 - 网格与自动排班协同工作：先自动填充，再手动微调。
 - 各条目按其各自的审批阶段可能会锁定编辑 — 参见[审批流程](../planen/freigabe-workflow.md)。
 
-![Klacks Dienstplan-Raster](/img/app-schedule-de.png)
+![Klacks 排班网格](/img/app-schedule-de.png)
 
 ---
 *立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

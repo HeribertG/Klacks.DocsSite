@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Planificare automată: planul în câteva secunde
+# Planificare automată: un clic, restul rulează în fundal
 
-Cea mai anevoioasă parte a planificării serviciilor — alocarea persoanelor pe ture — este preluată de Klacks cu un singur clic.
+Cea mai anevoioasă parte a planificării serviciilor — alocarea persoanelor pe ture — este preluată de Klacks cu un singur clic. Calculul în sine necesită timp, dar continuă să ruleze în fundal: nu trebuie să așteptați și vă puteți ocupa între timp de alte lucruri.
 
 ## Cum funcționează
 
@@ -22,6 +22,7 @@ Porniți planificarea automată direct din planul de servicii pentru perioada se
 - Calificările acționează ca o limită reală: cine nu are o calificare necesară nu este planificat.
 - Planificarea automată respectă intrările deja existente — puteți deci fixa mai întâi punctele fixe și lăsa restul să fie completat automat.
 - Dacă un rezultat nu vă place, planificați pur și simplu din nou: algoritmul găsește alternative echivalente.
+- Puteți crea mai multe scenarii în paralel, fără a modifica planul existent: fiecare scenariu este o copie proprie de tip „ce-ar fi dacă", pe care o puteți compara, respinge sau prelua. Astfel sunteți pregătiți pentru schimbări de ultim moment, în loc să recalculați abia atunci.
 
 ![Grila planului de servicii Klacks](/img/app-schedule-de.png)
 

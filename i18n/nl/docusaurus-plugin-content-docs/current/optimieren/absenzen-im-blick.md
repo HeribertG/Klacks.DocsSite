@@ -11,7 +11,7 @@ Vakantie, ziekte, bijscholing, militaire dienst — wie wanneer afwezig is, ziet
 - Elke afwezigheid verschijnt als een gekleurde balk op de tijdlijn van de betreffende persoon — overlappingen en opeenhopingen vallen meteen op.
 - **Eigen afwezigheidstypen** definieert u zelf, met kleur en gedrag (betaald/onbetaald, met/zonder effect op de uren).
 - De export als **PDF** lukt met één klik — handig voor aanplakbrieven of archivering.
-- Afwezigheden werken direct door in de planning: wie afwezig is, wordt door de [Auto-planning: het plan in seconden](../planen/auto-planung.md) niet ingepland, en in het [Het planrooster: uw interactieve tijdmatrix](../planen/plan-raster.md) is het conflict meteen zichtbaar.
+- Afwezigheden werken direct door in de planning: wie afwezig is, wordt door de [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md) niet ingepland, en in het [Het planrooster: uw interactieve tijdmatrix](../planen/plan-raster.md) is het conflict meteen zichtbaar.
 
 ## Goed om te weten
 

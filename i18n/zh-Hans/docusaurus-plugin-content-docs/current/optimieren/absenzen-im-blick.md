@@ -19,7 +19,7 @@ sidebar_position: 2
 - 如果有人临时缺勤，Klacks 会立即显示既有资质又有空的替补人选 — 不必推翻整个排班表。
 - 缺勤数值（例如一整天或半天的休假登记）会作为总和计入报表中的工时统计。
 
-![Timeline-Ansicht in Klacks](/img/app-timeline-de.png)
+![Klacks 中的时间轴视图](/img/app-timeline-de.png)
 
 ---
 *立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

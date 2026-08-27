@@ -31,7 +31,7 @@ slug: /
 - [您的儀表板：一覽無遺](./erste-schritte/ihr-dashboard.md) — Klacks 的首頁，包含四個可自由排序的區塊：總覽、覆蓋率與確認、資源與地點
 
 **排班**
-- [自動排班：秒速產生班表](./planen/auto-planung.md) — 一鍵即可秒速產生班表
+- [自動排班：一鍵啟動，其餘在背景執行](./planen/auto-planung.md) — 運算在背景進行，讓您可以同時處理其他事務
 - [排班網格：您的互動式時間矩陣](./planen/plan-raster.md) — 支援拖放操作的互動式時間矩陣
 - [模組化排班：分而治之](./planen/modulare-planung.md) — 拆分大型排班表，避免重複預訂
 - [核准流程：從草稿到具約束力的排班表](./planen/freigabe-workflow.md) — 從草稿到封存生效的排班表

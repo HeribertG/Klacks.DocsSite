@@ -20,11 +20,11 @@ Klacks je open source pod licencí MIT — backend, frontend i Docker images jso
 
 ## Pro koho je to určeno
 
-Klacks je určen provozům se směnným a nasazovým plánováním, které tyto tři body berou vážně — zejména organizacím domácí péče (Spitex), nemocnicím, bezpečnostním službám, úklidovým a logistickým firmám. Společným jmenovatelem je pokrytí 24/7, komplexní požadavky na dobu odpočinku a kvalifikace a nárok na ochranu dat, který zaměnitelné cloudové řešení ne vždy dokáže splnit.
+Klacks pokrývá každý druh směnného a nasazového plánování — od pravidelných, jednoduchých služeb až po komplexní služby s mnoha dodávkami nebo objednávky rozdělené na dílčí části. Služba přitom není nutně vázána na objednávku. Zvlášť dobře se Klacks hodí pro provozy, které tyto tři body berou vážně — zejména organizace domácí péče (Spitex), nemocnice, bezpečnostní služby, úklidové a logistické firmy a hotelové a restaurační podniky. Společným jmenovatelem tam je pokrytí 24/7, komplexní požadavky na dobu odpočinku a kvalifikace a nárok na ochranu dat, který zaměnitelné cloudové řešení ne vždy dokáže splnit.
 
 ## Co to znamená v praxi
 
-- Klacks si můžete zdarma vyzkoušet v [Playgroundu](https://klacks-software.ch:7643), bez registrace nebo prodejního hovoru.
+- Klacks je vždy a pro každého zcela zdarma — žádná registrace, žádný prodejní hovor. [Playground](https://klacks-software.ch:7643) je jen možnost, jak si nezávazně vyzkoušet ovládání a blíže se s ním seznámit.
 - Můžete jej provozovat na vlastním serveru pomocí On-Premise balíčku (Docker images, instalátor, databáze, HTTPS, automatické aktualizace).
 - Můžete nahlédnout do zdrojového kódu a sami provádět změny — Klacks zůstává vaším, i když ho dále rozvíjíte.
 

@@ -31,7 +31,7 @@ slug: /
 - [您的仪表盘](./erste-schritte/ihr-dashboard.md) — 一目了然
 
 **排班**
-- [自动排班](./planen/auto-planung.md) — 一键生成排班表，数秒完成
+- [自动排班](./planen/auto-planung.md) — 计算在后台运行，您可以先做别的事情
 - [排班网格](./planen/plan-raster.md) — 支持拖放的交互式时间矩阵
 - [模块化排班](./planen/modulare-planung.md) — 拆分大型排班表，杜绝重复排班
 - [审批流程](./planen/freigabe-workflow.md) — 从草稿到封存生效的排班表

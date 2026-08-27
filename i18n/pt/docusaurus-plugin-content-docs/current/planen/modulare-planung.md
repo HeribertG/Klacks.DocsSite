@@ -18,7 +18,7 @@ O truque por trás disto: as folhas de planeamento mantêm **referências, não 
 
 - As intervenções de uma pessoa partilhada fora da sua área surgem no subplano como entradas bloqueadas — assim, cada planeadora vê quando «a sua» equipa está ocupada noutro local, sem poder alterar planos alheios.
 - A visibilidade dos subplanos é controlada através de permissões de acesso baseadas em grupos.
-- O planeamento modular e o [Auto-planeamento: o plano em segundos](../planen/auto-planung.md) complementam-se: cada área pode ser planeada automaticamente por si só.
+- O planeamento modular e o [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md) complementam-se: cada área pode ser planeada automaticamente por si só.
 
 ---
 *Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

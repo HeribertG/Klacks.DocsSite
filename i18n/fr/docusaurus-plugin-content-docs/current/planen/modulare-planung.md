@@ -18,7 +18,7 @@ L'astuce : les feuilles de plan contiennent des **références, pas des copies**
 
 - Les engagements d'une personne partagée hors de son propre secteur apparaissent dans le sous-plan comme des entrées verrouillées — chaque planificatrice voit ainsi quand « ses » personnes sont occupées ailleurs, sans pouvoir modifier les plans d'autrui.
 - La visibilité des sous-plans se gère via des droits d'accès basés sur les groupes.
-- La planification modulaire et la [planification automatique : le plan en quelques secondes](../planen/auto-planung.md) se complètent : chaque secteur peut être planifié automatiquement de façon indépendante.
+- La planification modulaire et la [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md) se complètent : chaque secteur peut être planifié automatiquement de façon indépendante.
 
 ---
 *À tester directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

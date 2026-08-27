@@ -23,7 +23,7 @@ sidebar_position: 1
 - 每條巡迴都可以個別選擇交通方式 — 方便同時安排市區的自行車巡迴與郊區的開車巡迴。
 - 若有人臨時無法出勤，Klacks 會立即顯示誰具備資格且有空。
 
-![Timeline-Ansicht für die Tourenplanung](/img/app-timeline-de.png)
+![用於巡迴規劃的時間軸檢視](/img/app-timeline-de.png)
 
 ---
 *立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

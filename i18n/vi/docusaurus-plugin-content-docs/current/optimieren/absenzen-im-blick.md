@@ -11,7 +11,7 @@ Nghỉ phép, ốm đau, đào tạo nâng cao, nghĩa vụ quân sự — ai v�
 - Mỗi lần vắng mặt xuất hiện dưới dạng một thanh màu trên trục thời gian của người tương ứng — sự chồng chéo và tần suất dày đặc sẽ hiện rõ ngay lập tức.
 - Bạn tự định nghĩa **các loại vắng mặt riêng**, với màu sắc và cách hoạt động (có trả lương/không trả lương, có/không ảnh hưởng đến số giờ).
 - Việc xuất ra **PDF** chỉ cần một cú nhấp chuột — tiện lợi cho việc dán thông báo hoặc lưu trữ.
-- Vắng mặt ảnh hưởng trực tiếp đến việc lập kế hoạch: Người vắng mặt sẽ không được [Lập kế hoạch tự động: Kế hoạch trong vài giây](../planen/auto-planung.md) đưa vào phân công, và trong [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](../planen/plan-raster.md) xung đột sẽ hiển thị ngay lập tức.
+- Vắng mặt ảnh hưởng trực tiếp đến việc lập kế hoạch: Người vắng mặt sẽ không được [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md) đưa vào phân công, và trong [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](../planen/plan-raster.md) xung đột sẽ hiển thị ngay lập tức.
 
 ## Điều cần biết
 

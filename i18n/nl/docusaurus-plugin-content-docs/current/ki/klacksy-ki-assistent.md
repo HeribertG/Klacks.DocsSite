@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Zo werkt het
 
-Klacksy begrijpt uw verzoeken en vertaalt ze naar concrete acties — meer dan **250 vaardigheden** staan tot uw beschikking:
+Klacksy begrijpt uw verzoeken en vertaalt ze naar concrete acties — meer dan **300 vaardigheden** staan tot uw beschikking:
 
 - **Plannen:** shifts invullen, uitval vervangen, diensten omboeken
 - **Beheren:** medewerkers aanmaken, groepen onderhouden, rechten instellen

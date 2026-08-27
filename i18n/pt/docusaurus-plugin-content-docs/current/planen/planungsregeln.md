@@ -8,7 +8,7 @@ As regras de planeamento definem as condições-quadro para o planeamento autom�
 
 ## Como funciona
 
-Uma regra de planeamento é atribuída a um **contrato**. Os valores-limite definidos aplicam-se, assim, a todos os colaboradores com esse contrato. Cada regra abrange quatro áreas:
+Uma regra de planeamento é atribuída a um **contrato**. Os valores-limite definidos aplicam-se, assim, a todos os colaboradores com esse contrato. Cada regra abrange três áreas:
 
 **Dias de trabalho e tempos de descanso**
 - Máx. dias de trabalho: regra flexível para a duração de bloco preferida, antes de ser planeado um dia de descanso (por exemplo, "trabalhar 5 dias, depois descanso") — uma violação não invalida o plano, torna-o apenas menos ótimo
@@ -27,12 +27,10 @@ Uma regra de planeamento é atribuída a um **contrato**. Os valores-limite defi
 - Horas mínimas e máximas por mês
 - Horas de tempo inteiro (número de horas mensais correspondente a um emprego a tempo inteiro)
 
-**Férias**
-- Dias de férias por ano civil
-
 ## Bom saber
 
 - Ao criar uma nova regra, os **valores predefinidos das definições** (Regras de planeamento — valores predefinidos) são adotados automaticamente; pode depois ajustar cada valor individualmente.
+- Na configuração inicial, o Klacks sugere um modelo para estes valores, adequado ao país e ao setor (feriados, suplementos, regras de planeamento); o modelo é um ponto de partida — não é adaptado de forma automática e contínua às alterações legais, e permanece totalmente editável pelo Admin.
 - As regras de planeamento aplicam-se através do contrato — não precisa de as manter por pessoa. Se uma regra for alterada, isso afeta todos os colaboradores com esse contrato.
 - O limite de horas extraordinárias e o horário previsto são duas coisas diferentes: o horário previsto é o padrão por dia, o limite de horas extraordinárias é o limiar por semana.
 - "Máx. dias de trabalho" (preferência flexível para a duração de bloco) e "Máx. dias de trabalho consecutivos" (limite rígido, nunca excedível) são duas regras diferentes — não confundir.

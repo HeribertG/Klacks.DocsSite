@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Planification automatique : le plan en quelques secondes
+# Planification automatique : un clic, le reste tourne en arrière-plan
 
-La partie la plus fastidieuse de la planification des services — attribuer les personnes aux services — Klacks s'en charge d'un simple clic.
+La partie la plus fastidieuse de la planification des services — attribuer les personnes aux services — Klacks s'en charge d'un simple clic. Le calcul lui-même prend du temps, mais continue en arrière-plan : vous n'avez pas besoin d'attendre et pouvez vous consacrer à autre chose entre-temps.
 
 ## Comment ça marche
 
@@ -22,6 +22,7 @@ Vous lancez la planification automatique directement depuis le plan de service p
 - Les qualifications agissent comme une véritable limite : une personne qui ne possède pas une qualification requise n'est pas affectée.
 - La planification automatique respecte les entrées déjà existantes — vous pouvez donc fixer d'abord les points fixes et laisser l'algorithme remplir le reste.
 - Si un résultat ne vous convient pas, relancez simplement la planification : l'algorithme trouve des alternatives tout aussi valables.
+- Vous pouvez créer plusieurs scénarios en parallèle sans modifier le plan existant : chaque scénario est une copie hypothétique indépendante que vous pouvez comparer, rejeter ou adopter. Vous êtes ainsi préparé aux changements de dernière minute, au lieu de devoir tout recalculer après coup.
 
 ![Grille du plan de service Klacks](/img/app-schedule-de.png)
 

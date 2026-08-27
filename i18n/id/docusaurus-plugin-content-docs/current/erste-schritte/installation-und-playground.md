@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Anda bisa mencoba Klacks dalam satu menit — dan menginstalnya dalam beberapa menit. Tanpa registrasi, tanpa proses penjualan.
 
-## Varian 1: Playground (tanpa instalasi)
+## Playground: taman bermain untuk berkenalan
 
-Sebuah instance Klacks publik dengan data contoh berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground bukan varian instalasi, melainkan instance Klacks publik dengan data contoh untuk dicoba-coba tanpa ikatan apa pun — dari situlah namanya berasal. Playground ini berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Kata sandi:** `P@ssw0rt1`
 - Anda memiliki hak akses Admin penuh — cobalah semuanya.
 - Semua data **otomatis direset setiap hari**. Jangan memasukkan data pribadi asli.
 
-## Varian 2: Di server sendiri (On-Premise)
+## Instalasi: di server sendiri (On-Premise)
 
 Paket On-Premise membawa semua yang dibutuhkan: image Docker, installer, database, HTTPS, dan pembaruan otomatis.
 

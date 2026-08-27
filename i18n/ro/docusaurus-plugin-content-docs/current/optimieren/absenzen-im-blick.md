@@ -11,7 +11,7 @@ Concediu, boală, formare continuă, serviciu militar — cine lipsește și câ
 - Fiecare absență apare ca o bară colorată pe axa temporală a persoanei respective — suprapunerile și aglomerările sar imediat în ochi.
 - **Propriile tipuri de absență** le definiți chiar dumneavoastră, cu culoare și comportament (plătită/neplătită, cu/fără efect asupra orelor).
 - Exportul ca **PDF** se face dintr-un singur clic — practic pentru afișaj sau arhivare.
-- Absențele influențează direct planificarea: cine lipsește nu este programat de [Planificare automată: planul în câteva secunde](../planen/auto-planung.md), iar în [Grila de planificare: matricea dumneavoastră interactivă de timp](../planen/plan-raster.md) conflictul este vizibil imediat.
+- Absențele influențează direct planificarea: cine lipsește nu este programat de [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md), iar în [Grila de planificare: matricea dumneavoastră interactivă de timp](../planen/plan-raster.md) conflictul este vizibil imediat.
 
 ## Bine de știut
 

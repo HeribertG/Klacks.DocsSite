@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Cara Ia Berfungsi
 
-Klacksy memahami keperluan anda dan menterjemahkannya kepada tindakan konkrit — lebih **250 kemahiran** tersedia:
+Klacksy memahami keperluan anda dan menterjemahkannya kepada tindakan konkrit — lebih **300 kemahiran** tersedia:
 
 - **Merancang:** Mengisi syif, menggantikan ketiadaan, menukar tugasan
 - **Mengurus:** Mencipta pekerja, menyelenggara kumpulan, menetapkan kebenaran

@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Før en vakt i det hele tatt kan bemannes, gjennomløper den fire trinn — fra den fritt redigerbare bestillingen, via den uforanderlige forseglede bestillingen, til den planbare vakten og dens segmenter. Hensikten bak dette: Det som ble avtalt, forblir varig lesbart; det hverdagen omplanlegger etterpå, forblir likevel bevegelig.
 
+En vakt er ikke nødvendigvis knyttet til en bestilling — Klacks avbilder like gjerne interne, regelmessige vakter uten kundetilknytning som komplekse bestillinger med mange leveranser eller oppdrag som er delt opp i flere container-segmenter.
+
 ## Slik fungerer det
 
 **1. Bestilling — fritt redigerbar.** Hver ny vakt begynner her. På vaktsiden åpner knappen **+ ny bestilling** registreringsskjemaet; du bearbeider bestillingen så ofte du vil, alle felt står åpne. Den vises ennå ikke i vaktplanen, og dermed kan det heller ikke planlegges medarbeidere på den. En ren skisse er den likevel ikke — det er en ekte bestilling, bare ennå ikke forseglet. I vaktlisten fører Klacks dette trinnet under **Bestillinger**. Bytter du der til **Planbare vakter**, heter knappen **+ ny vakt**: Den oppretter en bestilling uten kundetilknytning — for generelt arbeid som ingen bestiller og betaler for utenfra. Kortet *Adresse* faller da bort; også denne vakten gjennomløper de fire trinnene.
@@ -33,7 +35,7 @@ Før en vakt i det hele tatt kan bemannes, gjennomløper den fire trinn — fra 
 - **Spesielle kjennetegn** (ekspertmodus) — sporadisk bruk samt periodisitet, briefing og debriefing, reisetid til og fra, samt antall medarbeidere og oppgaver per skift.
 - **Standardutgifter** (ekspertmodus) — utgifter som regelmessig påløper ved denne vakten, hver med betegnelse, beløp og angivelse av om den er skattepliktig.
 
-Hvordan de planbare vaktene deretter bemannes, beskrives i [Autoplanlegging: Planen på sekunder](../planen/auto-planung.md) og [Planrutenettet: din interaktive tidsmatrise](../planen/plan-raster.md).
+Hvordan de planbare vaktene deretter bemannes, beskrives i [Autoplanlegging: Ett klikk, resten kjører i bakgrunnen](../planen/auto-planung.md) og [Planrutenettet: din interaktive tidsmatrise](../planen/plan-raster.md).
 
 ## Greit å vite
 

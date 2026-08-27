@@ -20,11 +20,11 @@ Klacks is open source under the MIT license — backend, frontend, and Docker im
 
 ## Who this is built for
 
-Klacks is aimed at organizations with shift and deployment scheduling that take these three points seriously — in particular home care organizations, hospitals, security services, cleaning companies, and logistics operators. The common denominator: 24/7 coverage, complex rest-period and qualification requirements, and a standard of data protection that an interchangeable cloud solution can't always meet.
+Klacks handles every kind of shift and deployment scheduling — from regular, simple shifts to complex shifts with many deliveries, or orders split into segments. A shift is not necessarily tied to an order. Klacks is an especially good fit for organizations that take these three points seriously — in particular home care organizations, hospitals, security services, cleaning companies, logistics operators, and hospitality and catering businesses. The common denominator there: 24/7 coverage, complex rest-period and qualification requirements, and a standard of data protection that an interchangeable cloud solution can't always meet.
 
 ## What this means in practice
 
-- You can try Klacks for free in the [Playground](https://klacks-software.ch:7643), without registration or a sales conversation.
+- Klacks is always, and for everyone, completely free — no registration, no sales conversation. The [Playground](https://klacks-software.ch:7643) is simply one way to get a no-obligation feel for it and become familiar with how it works.
 - You can run it on your own server with an on-premise package (Docker images, installer, database, HTTPS, automatic updates).
 - You can inspect the source code and make changes yourself — Klacks remains yours, even as you keep developing it.
 

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Automaattisuunnittelu: valmis suunnitelma sekunneissa
+# Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla
 
-Työvuorosuunnittelun työläin osa — ihmisten kohdistaminen työvuoroihin — hoituu Klacksissa yhdellä napin painalluksella.
+Työvuorosuunnittelun työläin osa — ihmisten kohdistaminen työvuoroihin — hoituu Klacksissa yhdellä napin painalluksella. Itse laskenta vie oman aikansa, mutta se jatkuu taustalla: teidän ei tarvitse odottaa, ja voitte sillä välin keskittyä muihin asioihin.
 
 ## Näin se toimii
 
@@ -22,6 +22,7 @@ Automaattisuunnittelun käynnistätte suoraan työvuorosuunnitelmasta valitulle 
 - Pätevyydet toimivat todellisena rajana: henkilöä, jolla ei ole vaadittua pätevyyttä, ei sijoiteta työvuoroon.
 - Automaattisuunnittelu kunnioittaa jo olemassa olevia merkintöjä — voitte siis ensin asettaa kiintopisteet ja antaa järjestelmän täyttää loput.
 - Jos tulos ei miellytä, suunnitelkaa vain uudelleen: algoritmi löytää yhtä hyviä vaihtoehtoja.
+- Voitte luoda useita skenaarioita rinnakkain muuttamatta olemassa olevaa suunnitelmaa: jokainen skenaario on oma "mitä jos" -kopionsa, jota voitte vertailla, hylätä tai ottaa käyttöön. Näin olette valmiina lyhyen varoitusajan muutoksiin sen sijaan, että joutuisitte laskemaan vasta silloin uudelleen.
 
 ![Klacks-työvuorosuunnitelman ruudukko](/img/app-schedule-de.png)
 

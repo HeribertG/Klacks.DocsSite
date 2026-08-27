@@ -18,7 +18,7 @@ Cele trei rapoarte apar în dialogul asistentului de planificare respectiv — n
 
 **Plasările omise** există doar la asistentul pentru planificarea turelor, tot după preluare — și integral în roșu. Coloane: dată, angajat, tură, motiv. Aici nu apare ce a fost planificat, ci ce Klacks a decis în mod deliberat să **nu** scrie: alocări care ar fi încălcat o regulă gestionată în modul de blocare. Motivul apare ca o categorie scurtă („Perioadă de repaus prea scurtă”, „Prea multe zile de lucru consecutive”, „Coliziune de timp” …). În funcție de situație, Klacks oferă persoanelor autorizate posibilitatea de a prelua totuși rularea cu Override; toți ceilalți primesc indicația de a repeta asistentul cu Override activat sau de a ruga o persoană autorizată. Fiecare Override este înregistrat.
 
-Ce reguli sunt verificate și cât de strict se aplică stabiliți în [Regulile de planificare](../planen/planungsregeln.md); modul în care ia naștere planul este descris în [Planificare automată: planul în câteva secunde](../planen/auto-planung.md).
+Ce reguli sunt verificate și cât de strict se aplică stabiliți în [Regulile de planificare](../planen/planungsregeln.md); modul în care ia naștere planul este descris în [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md).
 
 ## Bine de știut
 

@@ -20,7 +20,7 @@ Klacks ist quelloffen unter MIT-Lizenz — Backend, Frontend und Docker-Images s
 
 ## Für wen das gemacht ist
 
-Klacks bildet jede Art von Schicht- und Einsatzplanung ab — von regelmässigen, einfachen Diensten bis zu komplexen Diensten mit vielen Auslieferungen oder in Teilstücke (Container etc.) zerlegten Aufträgen. Ein Dienst ist dabei nicht zwingend an eine Bestellung gebunden. Besonders gut passt Klacks zu Betrieben, die diese drei Punkte ernst nehmen — insbesondere Spitex-Organisationen, Spitäler, Sicherheitsdienste, Reinigungs- und Logistikbetriebe. Der gemeinsame Nenner dort: 24/7-Abdeckung, komplexe Ruhezeit- und Qualifikationsanforderungen und ein Anspruch an Datenschutz, den eine austauschbare Cloud-Lösung nicht immer erfüllen kann.
+Klacks bildet jede Art von Schicht- und Einsatzplanung ab — von regelmässigen, einfachen Diensten bis zu komplexen Diensten mit vielen Auslieferungen oder in Teilstücke zerlegten Aufträgen. Ein Dienst ist dabei nicht zwingend an eine Bestellung gebunden. Besonders gut passt Klacks zu Betrieben, die diese drei Punkte ernst nehmen — insbesondere Spitex-Organisationen, Spitäler, Sicherheitsdienste, Reinigungs- und Logistikbetriebe sowie Hotellerie- und Restaurationsbetriebe. Der gemeinsame Nenner dort: 24/7-Abdeckung, komplexe Ruhezeit- und Qualifikationsanforderungen und ein Anspruch an Datenschutz, den eine austauschbare Cloud-Lösung nicht immer erfüllen kann.
 
 ## Was das praktisch bedeutet
 

@@ -8,7 +8,7 @@ Las reglas de planificación definen las condiciones marco para la planificació
 
 ## Cómo funciona
 
-Una regla de planificación se asigna a una **plantilla de contrato**. Los valores límite definidos rigen así para todos los empleados con esa plantilla de contrato. Cada regla comprende cuatro áreas:
+Una regla de planificación se asigna a una **plantilla de contrato**. Los valores límite definidos rigen así para todos los empleados con esa plantilla de contrato. Cada regla comprende tres áreas:
 
 **Días de trabajo y tiempos de descanso**
 - Máx. días de trabajo: regla flexible para la duración de bloque preferida antes de planificar un día de descanso (por ejemplo, «trabajar 5 días, luego descanso») — una infracción no invalida el plan, solo lo hace menos óptimo
@@ -27,12 +27,10 @@ Una regla de planificación se asigna a una **plantilla de contrato**. Los valor
 - Horas mínimas y máximas por mes
 - Horas de tiempo completo (número de horas mensuales que corresponde a un empleo a tiempo completo)
 
-**Vacaciones**
-- Días de vacaciones por año natural
-
 ## Bueno saberlo
 
 - Al crear una nueva regla se adoptan automáticamente los **valores predeterminados de la configuración** (reglas de planificación — valores predeterminados); posteriormente puede ajustar cada valor de forma individual.
+- En la configuración inicial, Klacks propone una plantilla para estos valores adaptada al país y al sector (días festivos, recargos, reglas de planificación); la plantilla es un punto de partida — no se adapta de forma automática y continua a los cambios legislativos, y sigue siendo totalmente editable por el Admin.
 - Las reglas de planificación actúan a través de la plantilla de contrato — no es necesario mantenerlas por persona. Si una regla cambia, afecta a todos los empleados con esa plantilla de contrato.
 - El límite de horas extra y el tiempo objetivo son dos cosas distintas: el tiempo objetivo es el estándar por día, el límite de horas extra es el umbral por semana.
 - «Máx. días de trabajo» (preferencia flexible para la duración de bloque) y «máx. días de trabajo consecutivos» (límite superior estricto, nunca superable) son dos reglas distintas — no deben confundirse.

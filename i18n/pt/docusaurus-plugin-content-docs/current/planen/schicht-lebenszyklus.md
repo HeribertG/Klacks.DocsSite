@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Antes de um turno poder sequer ser preenchido, percorre quatro fases — da encomenda livremente editável, passando pela encomenda selada e imutável, até ao turno planeável e aos seus segmentos. O sentido disto: o que foi acordado permanece permanentemente consultável; o que o dia a dia replaneia depois disso continua, ainda assim, flexível.
 
+Um turno não está necessariamente ligado a uma encomenda — o Klacks representa tanto turnos internos e regulares sem ligação a um cliente como encomendas complexas com muitas entregas ou intervenções divididas em vários segmentos de contentor.
+
 ## Como funciona
 
 **1. Encomenda — livremente editável.** Todo o novo turno começa aqui. Na página de turnos, o botão **+ nova encomenda** abre o formulário de registo; revê a encomenda tantas vezes quantas quiser, todos os campos ficam abertos. Ainda não aparece no plano de serviço, e por isso também não é possível escalar colaboradores nele. Ainda assim, não é um mero esboço — é uma encomenda real, apenas ainda não selada. Na lista de turnos, o Klacks agrupa esta fase sob **Encomendas**. Se mudar aí para **Turnos planeáveis**, o botão passa a chamar-se **+ novo turno**: cria uma encomenda sem ligação a um cliente — para trabalho geral que ninguém externo encomenda e paga. Nesse caso, o cartão *Morada* desaparece; este turno também percorre as quatro fases.
@@ -33,7 +35,7 @@ Antes de um turno poder sequer ser preenchido, percorre quatro fases — da enco
 - **Características especiais** (modo especialista) — serviço esporádico com periodicidade, briefing e debriefing, tempo de deslocação de ida e volta, bem como o número de colaboradores e de tarefas por turno.
 - **Despesas padrão** (modo especialista) — despesas que ocorrem regularmente neste turno, cada uma com designação, valor e a indicação de se está sujeita a imposto.
 
-Como os turnos planeáveis são depois preenchidos descrevem-no [Planeamento automático: o plano em segundos](../planen/auto-planung.md) e [A grelha de planeamento: a sua matriz de tempo interativa](../planen/plan-raster.md).
+Como os turnos planeáveis são depois preenchidos descrevem-no [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md) e [A grelha de planeamento: a sua matriz de tempo interativa](../planen/plan-raster.md).
 
 ## Bom saber
 

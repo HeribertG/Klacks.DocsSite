@@ -13,7 +13,7 @@ Planen bevæger sig gennem fire trin:
 1. **Udkast** — arbejdsfasen: alt kan stadig ændres
 2. **Bekræftet** — planen står fagligt fast; ændringer kun kontrolleret
 3. **Godkendt** — den ansvarlige instans har frigivet planen
-4. **Afsluttet** — planen er forseglet og bindende
+4. **Afsluttet** — planen er forseglet og bindende for driften; den bogholderimæssige afregning foregår separat via [Periodeafslutning](../planen/periodenabschluss.md)
 
 Hvert trin **låser redigeringen** tilsvarende: Det, der er godkendt, ændrer ingen længere ved et uheld via drag & drop. Det er klart reguleret, hvem der må sætte hvilket trin:
 
@@ -23,7 +23,7 @@ Hvert trin **låser redigeringen** tilsvarende: Det, der er godkendt, ændrer in
 
 ## Godt at vide
 
-- Spærringerne gælder overalt — også [Auto-planlægning: Planen på få sekunder](../planen/auto-planung.md) og [Klacksy](../ki/klacksy-ki-assistent.md) respekterer godkendelsesstatussen.
+- Spærringerne gælder overalt — også [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md) og [Klacksy](../ki/klacksy-ki-assistent.md) respekterer godkendelsesstatussen.
 - Kortsigtede ændringer efter godkendelsen (sygdomstilfælde!) foregår som bevidste, sporbare korrektioner, ikke som stille omplanlægning.
 - Til den bogholderimæssige afslutning af en måned findes desuden [Periodeafslutning](../planen/periodenabschluss.md).
 

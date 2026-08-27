@@ -31,7 +31,7 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 - [Dashboard Anda: Semuanya pada Pandangan Sekali Imbas](./erste-schritte/ihr-dashboard.md) — Halaman utama Klacks dengan empat bahagian yang boleh disusun semula
 
 **Perancangan**
-- [Auto-Perancangan: Jadual dalam Beberapa Saat](./planen/auto-planung.md) — Jadual dalam beberapa saat, dengan satu klik
+- [Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang](./planen/auto-planung.md) — Pengiraan berjalan di latar belakang, sementara anda menumpukan perhatian pada perkara lain
 - [Grid Jadual: Matriks Masa Interaktif Anda](./planen/plan-raster.md) — Matriks masa interaktif dengan seret & lepas
 - [Perancangan Modular: Bahagi dan Kuasai](./planen/modulare-planung.md) — Pecahkan jadual besar tanpa tempahan berganda
 - [Aliran Kerja Kelulusan: Dari Draf kepada Jadual Mengikat](./planen/freigabe-workflow.md) — Dari draf hingga jadual termeterai

@@ -20,11 +20,11 @@ Klacks bersifat open source dengan lisensi MIT — backend, frontend, dan image 
 
 ## Untuk siapa ini dibuat
 
-Klacks ditujukan bagi operasional dengan perencanaan shift dan penugasan yang menganggap serius ketiga poin ini — khususnya organisasi layanan perawatan di rumah (Spitex), rumah sakit, layanan keamanan, serta perusahaan kebersihan dan logistik. Kesamaannya: cakupan 24/7, persyaratan waktu istirahat dan kualifikasi yang kompleks, serta tuntutan perlindungan data yang tidak selalu dapat dipenuhi oleh solusi cloud yang dapat diganti begitu saja.
+Klacks dapat menggambarkan segala jenis perencanaan shift dan penugasan — mulai dari shift reguler yang sederhana hingga shift kompleks dengan banyak pengiriman atau pesanan yang dipecah menjadi beberapa segmen. Sebuah shift di sini tidak selalu terikat pada sebuah pesanan. Klacks sangat cocok untuk operasional yang menganggap serius ketiga poin ini — khususnya organisasi layanan perawatan di rumah (Spitex), rumah sakit, layanan keamanan, perusahaan kebersihan dan logistik, serta perusahaan perhotelan dan restoran. Kesamaannya di sana: cakupan 24/7, persyaratan waktu istirahat dan kualifikasi yang kompleks, serta tuntutan perlindungan data yang tidak selalu dapat dipenuhi oleh solusi cloud yang dapat diganti begitu saja.
 
 ## Apa artinya ini secara praktis
 
-- Anda dapat mencoba Klacks secara gratis di [Playground](https://klacks-software.ch:7643), tanpa registrasi atau proses penjualan.
+- Klacks selalu dan sepenuhnya gratis untuk semua orang — tanpa registrasi, tanpa proses penjualan. [Playground](https://klacks-software.ch:7643) hanyalah salah satu cara untuk mencoba-coba tanpa ikatan apa pun dan membiasakan diri dengan cara penggunaannya.
 - Anda dapat menjalankannya dengan paket On-Premise (image Docker, installer, database, HTTPS, pembaruan otomatis) di server Anda sendiri.
 - Anda dapat memeriksa kode sumber dan membuat perubahan sendiri — Klacks tetap menjadi milik Anda, bahkan saat Anda mengembangkannya lebih lanjut.
 

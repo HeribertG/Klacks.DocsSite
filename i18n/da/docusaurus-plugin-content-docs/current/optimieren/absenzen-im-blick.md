@@ -11,7 +11,7 @@ Ferie, sygdom, videreuddannelse, militærtjeneste — hvem der mangler hvornår,
 - Hvert fravær vises som en farvet bjælke på tidslinjen for den pågældende person — overlapninger og ophobninger springer straks i øjnene.
 - **Egne fraværstyper** definerer du selv, med farve og adfærd (betalt/ubetalt, med/uden timevirkning).
 - Eksporten som **PDF** klares med et klik — praktisk til opslag eller arkivering.
-- Fravær virker direkte ind på planlægningen: Den, der mangler, planlægges ikke ind af [Autoplanlægning: Planen på sekunder](../planen/auto-planung.md), og i [Planrastret: Din interaktive tidsmatrix](../planen/plan-raster.md) er konflikten straks synlig.
+- Fravær virker direkte ind på planlægningen: Den, der mangler, planlægges ikke ind af [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md), og i [Planrastret: Din interaktive tidsmatrix](../planen/plan-raster.md) er konflikten straks synlig.
 
 ## Godt at vide
 

@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Avant même de pouvoir être pourvu, un service traverse quatre étapes — de la commande librement modifiable à la commande scellée immuable, puis au service planifiable et à ses segments. L'idée : ce qui a été convenu reste consultable durablement, tandis que ce que le quotidien replanifie ensuite reste mobile.
 
+Un service n'est pas forcément lié à une commande — Klacks représente aussi bien des services internes réguliers sans référence client que des commandes complexes comportant de nombreuses livraisons ou des interventions découpées en plusieurs segments de conteneur.
+
 ## Comment ça marche
 
 **1. Commande — librement modifiable.** Tout nouveau service commence ici. Sur la page des services, le bouton **+ Nouvelle commande** ouvre le masque de saisie ; vous retravaillez la commande autant de fois que vous le voulez, tous les champs sont ouverts. Elle n'apparaît pas encore dans le plan d'engagement — et il n'est donc pas non plus possible d'y planifier des collaborateurs. Ce n'est pourtant pas une simple ébauche : c'est une véritable commande, simplement pas encore scellée. Dans la liste des services, Klacks range cette étape sous **Commandes**. Si vous basculez sur **Services planifiables**, le bouton s'appelle **+ Nouveau service** : il crée une commande sans référence client — pour du travail général que personne ne commande ni ne paie de l'extérieur. La carte *Adresse* disparaît alors ; ce service traverse lui aussi les quatre étapes.
@@ -33,7 +35,7 @@ Avant même de pouvoir être pourvu, un service traverse quatre étapes — de l
 - **Caractéristiques spéciales** (mode expert) — utilisation sporadique avec sa périodicité, briefing et débriefing, temps de trajet aller et retour, ainsi que le nombre d'employés et de tâches par équipe.
 - **Frais par défaut** (mode expert) — les frais qui reviennent régulièrement sur ce service, chacun avec sa désignation, son montant et l'indication de son caractère imposable.
 
-La manière dont les services planifiables sont ensuite pourvus est décrite dans [Planification automatique : le plan en quelques secondes](../planen/auto-planung.md) et [La grille de plan : votre matrice temporelle interactive](../planen/plan-raster.md).
+La manière dont les services planifiables sont ensuite pourvus est décrite dans [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md) et [La grille de plan : votre matrice temporelle interactive](../planen/plan-raster.md).
 
 ## Bon à savoir
 

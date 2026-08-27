@@ -16,6 +16,8 @@ Het adres- en personenbeheer is het hart van uw stamgegevens: medewerkers, klant
 
 **Contracten:** elke persoon kan meerdere contracten hebben, bijvoorbeeld bij een wijziging van pensum. De contractsjablonen zelf zijn vrij definieerbaar: onder Instellingen > Contracten maakt u eigen contracten aan met naam, pensum, soll-/maximum-/minimumuren, toeslagen (nacht-, zondag- en feestdagtoeslag) en betalingsinterval; aan elk contract kan bovendien een eigen feestdagenkalender worden gekoppeld, waardoor bijvoorbeeld kantonaal verschillende feestdagen kunnen worden weergegeven. Elk contract geldt voor een beperkte periode of voor onbepaalde tijd.
 
+**Kwalificaties:** aan elke persoon kunnen willekeurig veel kwalificaties uit de bedrijfsbrede [kwalificatiecatalogus](../einstellungen/stammdaten-organisation/qualifikationen.md) worden toegewezen, telkens met een niveau (laag tot expert). Omgekeerd kunnen diensten kwalificaties met een minimumniveau vereisen — de auto-planning houdt daar bij het bezetten rekening mee.
+
 **Import:** er bestaat geen CSV-import voor stamgegevens. Bestaande adresboeken neemt u automatisch over via LDAP-/Active Directory-synchronisatie met een identity provider; individuele personen legt u handmatig of via Klacksy aan.
 
 **Zoeken en filteren:** de vrije tekstzoekfunctie vindt personen op achternaam, voornaam, bedrijf of personeelsnummer, en ook op telefoonnummer/postcode; daarnaast kunt u filteren op kanton, status (actieve/voormalige/toekomstige) en groep.

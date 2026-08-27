@@ -31,7 +31,7 @@ Wiki ini menjelaskan cara kerja Klacks dalam potongan-potongan kecil. Setiap hal
 - [Dashboard Anda: Semuanya dalam Sekejap Mata](./erste-schritte/ihr-dashboard.md) — Halaman beranda Klacks dengan empat bagian yang dapat diurutkan ulang secara bebas: Ikhtisar, Cakupan & Konfirmasi, Sumber Daya, dan Lokasi
 
 **Merencanakan**
-- [Auto-Perencanaan: Rencana dalam hitungan detik](./planen/auto-planung.md) — Rencana dalam hitungan detik, sekali klik
+- [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](./planen/auto-planung.md) — Perhitungan berjalan di latar belakang, sementara Anda mengurus hal lain
 - [Grid Rencana: Matriks waktu interaktif Anda](./planen/plan-raster.md) — Matriks waktu interaktif dengan drag & drop
 - [Perencanaan Modular: Bagi dan kuasai](./planen/modulare-planung.md) — Membagi rencana besar tanpa pemesanan ganda
 - [Alur Persetujuan: Dari draf menjadi rencana yang mengikat](./planen/freigabe-workflow.md) — Dari draf hingga rencana yang disegel

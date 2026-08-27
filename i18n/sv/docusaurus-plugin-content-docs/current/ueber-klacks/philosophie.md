@@ -20,11 +20,11 @@ Klacks är öppen källkod under MIT-licens — backend, frontend och Docker-ima
 
 ## Vem detta är gjort för
 
-Klacks riktar sig till verksamheter med skift- och insatsplanering som tar dessa tre punkter på allvar — i synnerhet hemtjänstorganisationer, sjukhus, säkerhetstjänster, städ- och logistikverksamheter. Den gemensamma nämnaren: dygnet-runt-täckning, komplexa krav på vilotid och kvalifikationer samt ett krav på dataskydd som en utbytbar molnlösning inte alltid kan uppfylla.
+Klacks avbildar varje typ av skift- och insatsplanering — från regelbundna, enkla skift till komplexa skift med många leveranser eller i segment uppdelade beställningar. Ett skift är därvid inte nödvändigtvis kopplat till en beställning. Klacks passar särskilt bra för verksamheter som tar dessa tre punkter på allvar — i synnerhet hemtjänstorganisationer, sjukhus, säkerhetstjänster, städ- och logistikverksamheter samt hotell- och restaurangverksamheter. Den gemensamma nämnaren där: dygnet-runt-täckning, komplexa krav på vilotid och kvalifikationer samt ett krav på dataskydd som en utbytbar molnlösning inte alltid kan uppfylla.
 
 ## Vad det innebär i praktiken
 
-- Du kan testa Klacks kostnadsfritt i [Playground](https://klacks-software.ch:7643), utan registrering eller säljsamtal.
+- Klacks är alltid och för alla helt kostnadsfritt — ingen registrering, inget säljsamtal. [Playground](https://klacks-software.ch:7643) är bara ett sätt att kika in förutsättningslöst och bekanta sig med hanteringen.
 - Du kan driva det med ett on-premise-paket (Docker-images, installationsprogram, databas, HTTPS, automatiska uppdateringar) på din egen server.
 - Du kan granska källkoden och själv göra ändringar — Klacks förblir ditt, även när du vidareutvecklar det.
 

@@ -13,7 +13,7 @@ Suunnitelma etenee neljän vaiheen läpi:
 1. **Luonnos** — työvaihe: kaikkea voi vielä muuttaa
 2. **Vahvistettu** — suunnitelma on sisällöllisesti valmis; muutokset vain hallitusti
 3. **Hyväksytty** — vastuutaho on antanut hyväksynnän
-4. **Suljettu** — suunnitelma on sinetöity ja sitova
+4. **Suljettu** — suunnitelma on sinetöity ja toiminnan kannalta sitova; kirjanpidollinen tilitys hoidetaan erikseen [Jakson päättäminen](../planen/periodenabschluss.md) -toiminnon kautta
 
 Jokainen vaihe **lukitsee muokkauksen** vastaavasti: sitä, mikä on hyväksytty, kukaan ei enää vahingossa muuta vetämällä ja pudottamalla. On selkeästi säädelty, kuka saa asettaa minkäkin vaiheen:
 
@@ -23,7 +23,7 @@ Jokainen vaihe **lukitsee muokkauksen** vastaavasti: sitä, mikä on hyväksytty
 
 ## Hyvä tietää
 
-- Lukitukset pätevät kaikkialla — myös [Automaattisuunnittelu: valmis suunnitelma sekunneissa](../planen/auto-planung.md) ja [Klacksy](../ki/klacksy-ki-assistent.md) kunnioittavat hyväksymistilaa.
+- Lukitukset pätevät kaikkialla — myös [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md) ja [Klacksy](../ki/klacksy-ki-assistent.md) kunnioittavat hyväksymistilaa.
 - Kiireelliset muutokset hyväksynnän jälkeen (sairaustapaukset!) tehdään tietoisina, jäljitettävinä korjauksina, ei hiljaisena uudelleensuunnitteluna.
 - Kuukauden kirjanpidollista päättämistä varten on lisäksi [Jakson päättäminen](../planen/periodenabschluss.md).
 

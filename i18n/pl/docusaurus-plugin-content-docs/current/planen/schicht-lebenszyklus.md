@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Zanim dyżur w ogóle będzie mógł zostać obsadzony, przechodzi przez cztery etapy — od swobodnie edytowalnego zlecenia, przez niezmienne zapieczętowane zlecenie, do dyżuru planowalnego i jego segmentów. Sens tego jest taki: to, co zostało uzgodnione, pozostaje trwale możliwe do odczytania; to, co codzienność później przeplanowuje, mimo to pozostaje ruchome.
 
+Dyżur nie musi być przy tym koniecznie powiązany z zamówieniem — Klacks odwzorowuje zarówno wewnętrzne, regularne dyżury bez powiązania z klientem, jak i złożone zlecenia z licznymi dostawami lub działania podzielone na kilka segmentów kontenerowych.
+
 ## Jak to działa
 
 **1. Zlecenie — swobodnie edytowalne.** Tu zaczyna się każdy nowy dyżur. Na stronie dyżurów przycisk **+ nowe zamówienie** otwiera formularz wprowadzania; zlecenie możesz poprawiać tak często, jak chcesz, wszystkie pola pozostają otwarte. W grafiku dyżurów jeszcze się nie pojawia, więc nie da się na nim jeszcze zaplanować pracowników. Mimo to nie jest to zwykły szkic — to prawdziwe zlecenie, tylko jeszcze niezapieczętowane. Na liście dyżurów Klacks prowadzi ten etap pod nazwą **Zamówienia**. Gdy przełączysz się tam na **Dyżury planowalne**, przycisk nazywa się **+ nowy dyżur**: tworzy zlecenie bez powiązania z klientem — na potrzeby ogólnej pracy, której nikt zewnętrzny nie zleca i nie płaci za nią. Karta *Adres* wtedy odpada; ten dyżur również przechodzi przez cztery etapy.
@@ -33,7 +35,7 @@ Zanim dyżur w ogóle będzie mógł zostać obsadzony, przechodzi przez cztery 
 - **Cechy specjalne** (tryb eksperta) — sporadyczne wykorzystanie wraz z cyklicznością, briefing i debriefing, czas dojazdu i powrotu oraz liczba pracowników i zadań na zmianę.
 - **Standardowe wydatki** (tryb eksperta) — wydatki, które regularnie występują przy tym dyżurze, każdy z oznaczeniem, kwotą i informacją, czy podlega opodatkowaniu.
 
-Jak dyżury planowalne są następnie obsadzane, opisują [Planowanie automatyczne: plan w kilka sekund](../planen/auto-planung.md) oraz [Siatka planu: Twoja interaktywna macierz czasu](../planen/plan-raster.md).
+Jak dyżury planowalne są następnie obsadzane, opisują [Planowanie automatyczne: jedno kliknięcie, reszta w tle](../planen/auto-planung.md) oraz [Siatka planu: Twoja interaktywna macierz czasu](../planen/plan-raster.md).
 
 ## Warto wiedzieć
 

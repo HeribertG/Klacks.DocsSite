@@ -18,7 +18,7 @@ Ketiga-tiga laporan ini muncul dalam dialog pembantu perancangan yang berkenaan 
 
 **Penempatan yang Dilangkau** hanya wujud pada pembantu untuk Perancangan Syif, juga selepas diterima — dan sentiasa berwarna merah. Lajur: Tarikh, Pekerja, Syif, Sebab. Di sini bukan apa yang dirancang yang tertera, sebaliknya apa yang Klacks sengaja **tidak** tulis: penugasan yang akan melanggar satu peraturan yang dikendalikan dalam Mod Blok. Sebab tersebut muncul sebagai kategori ringkas ("Tempoh Rehat Terlalu Singkat", "Terlalu Banyak Hari Bekerja Berturut-turut", "Pertindihan Masa" …). Bergantung pada situasi, Klacks menawarkan kepada individu yang berkelayakan pilihan untuk tetap menerima larian tersebut dengan Override; semua yang lain menerima petunjuk untuk mengulangi pembantu tersebut dengan Override diaktifkan atau meminta individu yang berkelayakan melakukannya. Setiap Override direkodkan.
 
-Peraturan mana yang disemak dan sejauh mana ia berkuat kuasa ditetapkan dalam [Peraturan Perancangan](../planen/planungsregeln.md); bagaimana Jadual itu terhasil pada asalnya diterangkan dalam [Auto-Perancangan: Jadual dalam Beberapa Saat](../planen/auto-planung.md).
+Peraturan mana yang disemak dan sejauh mana ia berkuat kuasa ditetapkan dalam [Peraturan Perancangan](../planen/planungsregeln.md); bagaimana Jadual itu terhasil pada asalnya diterangkan dalam [Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang](../planen/auto-planung.md).
 
 ## Perkara yang perlu diketahui
 

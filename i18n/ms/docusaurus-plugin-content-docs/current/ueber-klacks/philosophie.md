@@ -20,11 +20,11 @@ Klacks adalah open source di bawah lesen MIT — backend, frontend dan imej Dock
 
 ## Untuk Siapa Ini Dibina
 
-Klacks ditujukan kepada operasi dengan perancangan syif dan tugasan yang mengambil serius ketiga-tiga perkara ini — khususnya organisasi Spitex, hospital, syarikat keselamatan, syarikat pembersihan dan logistik. Persamaannya: liputan 24/7, keperluan waktu rehat dan Kelayakan yang kompleks, serta tuntutan privasi data yang tidak selalu dapat dipenuhi oleh penyelesaian awan yang boleh ditukar ganti.
+Klacks menggambarkan setiap jenis perancangan syif dan tugasan — daripada Tugasan biasa yang berkala hinggalah Tugasan kompleks dengan banyak penghantaran atau Pesanan yang dipecahkan kepada beberapa kepingan. Satu Tugasan tidak semestinya terikat kepada satu Pesanan. Klacks amat sesuai untuk operasi yang mengambil serius ketiga-tiga perkara ini — khususnya organisasi Spitex, hospital, syarikat keselamatan, syarikat pembersihan dan logistik, serta syarikat hospitaliti dan restoran. Persamaannya di sana: liputan 24/7, keperluan waktu rehat dan Kelayakan yang kompleks, serta tuntutan privasi data yang tidak selalu dapat dipenuhi oleh penyelesaian awan yang boleh ditukar ganti.
 
 ## Apa Ertinya Secara Praktikal
 
-- Anda boleh mencuba Klacks secara percuma dalam [Playground](https://klacks-software.ch:7643), tanpa pendaftaran atau perbualan jualan.
+- Klacks sentiasa dan untuk semua orang sepenuhnya percuma — tiada pendaftaran, tiada perbualan jualan. [Playground](https://klacks-software.ch:7643) hanyalah satu cara untuk menjengah tanpa sebarang komitmen dan membiasakan diri dengan cara penggunaannya.
 - Anda boleh menjalankannya dengan pakej On-Premise (imej Docker, pemasang, pangkalan data, HTTPS, kemas kini automatik) pada pelayan anda sendiri.
 - Anda boleh menyemak kod sumber dan membuat perubahan sendiri — Klacks kekal milik anda, walaupun anda membangunkannya lebih lanjut.
 

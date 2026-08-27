@@ -20,11 +20,11 @@ Klacks est distribué en open source sous licence MIT — le backend, le fronten
 
 ## À qui cela s'adresse
 
-Klacks s'adresse aux entreprises pratiquant la planification par équipes et interventions qui prennent ces trois points au sérieux — en particulier les organisations de soins à domicile, les hôpitaux, les services de sécurité, ainsi que les entreprises de nettoyage et de logistique. Le point commun : une couverture 24 h/24 et 7 j/7, des exigences complexes en matière de temps de repos et de qualifications, et un niveau de protection des données qu'une solution cloud interchangeable ne peut pas toujours garantir.
+Klacks prend en charge tout type de planification par équipes et interventions — des services simples et réguliers jusqu'aux services complexes comportant de nombreuses livraisons ou des commandes découpées en segments. Un service n'est pas forcément lié à une commande. Klacks convient particulièrement bien aux entreprises qui prennent ces trois points au sérieux — en particulier les organisations de soins à domicile, les hôpitaux, les services de sécurité, les entreprises de nettoyage et de logistique, ainsi que les établissements d'hôtellerie et de restauration. Le point commun là : une couverture 24 h/24 et 7 j/7, des exigences complexes en matière de temps de repos et de qualifications, et un niveau de protection des données qu'une solution cloud interchangeable ne peut pas toujours garantir.
 
 ## Ce que cela signifie concrètement
 
-- Vous pouvez essayer Klacks gratuitement dans le [Playground](https://klacks-software.ch:7643), sans inscription ni entretien commercial.
+- Klacks est toujours et pour tout le monde entièrement gratuit — sans inscription, sans entretien commercial. Le [Playground](https://klacks-software.ch:7643) n'est qu'un moyen de le découvrir sans engagement et de se familiariser avec son fonctionnement.
 - Vous pouvez l'exploiter sur votre propre serveur grâce à un paquet On-Premise (images Docker, programme d'installation, base de données, HTTPS, mises à jour automatiques).
 - Vous pouvez consulter le code source et y apporter vous-même des modifications — Klacks reste le vôtre, même lorsque vous le faites évoluer.
 

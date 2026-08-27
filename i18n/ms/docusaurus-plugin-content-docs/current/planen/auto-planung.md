@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Auto-Perancangan: Jadual dalam Beberapa Saat
+# Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang
 
-Bahagian yang paling membebankan dalam perancangan Tugasan — iaitu menugaskan orang kepada Syif — diuruskan oleh Klacks hanya dengan satu klik.
+Bahagian yang paling membebankan dalam perancangan Tugasan — iaitu menugaskan orang kepada Syif — diuruskan oleh Klacks hanya dengan satu klik. Pengiraan itu sendiri memerlukan sedikit masa, tetapi ia berjalan di latar belakang: anda tidak perlu menunggu dan boleh menumpukan perhatian kepada perkara lain dalam masa itu.
 
 ## Cara Ia Berfungsi
 
@@ -22,6 +22,7 @@ Anda memulakan Auto-Perancangan terus daripada Jadual Tugasan untuk tempoh yang 
 - Kelayakan berfungsi sebagai had sebenar: sesiapa yang tidak mempunyai Kelayakan yang dikehendaki tidak akan dijadualkan.
 - Auto-Perancangan menghormati entri yang sudah ada — jadi anda boleh menetapkan titik tetap dahulu dan membiarkan selebihnya diisi secara automatik.
 - Jika hasilnya tidak memuaskan, jalankan semula perancangan: algoritma akan mencari alternatif yang setara.
+- Anda boleh mencipta beberapa senario secara selari, tanpa mengubah Jadual sedia ada: Setiap senario ialah satu salinan "bagaimana-jika" tersendiri yang boleh anda bandingkan, buang atau terima pakai. Dengan ini anda sudah bersedia menghadapi perubahan jangka pendek, dan bukan baru mengira semula pada ketika itu.
 
 ![Grid Jadual Tugasan Klacks](/img/app-schedule-de.png)
 

@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks probieren Sie in einer Minute aus — und installieren es in wenigen Minuten. Keine Registrierung, keine Verkaufsgespräche.
 
-## Variante 1: Playground (nichts installieren)
+## Playground: die Spielwiese zum Kennenlernen
 
-Eine öffentliche Klacks-Instanz mit Beispieldaten läuft unter **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Der Playground ist keine Installationsvariante, sondern eine öffentliche Klacks-Instanz mit Beispieldaten zum unverbindlichen Herumspielen — daher der Name. Sie läuft unter **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Passwort:** `P@ssw0rt1`
 - Sie haben volle Admin-Rechte — probieren Sie alles aus.
 - Alle Daten werden **täglich automatisch zurückgesetzt**. Geben Sie keine echten Personendaten ein.
 
-## Variante 2: Auf dem eigenen Server (On-Premise)
+## Installation: Auf dem eigenen Server (On-Premise)
 
 Das On-Premise-Paket bringt alles mit: Docker-Images, Installer, Datenbank, HTTPS und automatische Updates.
 

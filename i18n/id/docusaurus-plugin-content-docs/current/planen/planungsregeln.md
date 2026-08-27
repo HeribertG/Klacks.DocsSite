@@ -8,7 +8,7 @@ Aturan perencanaan mendefinisikan kondisi kerangka untuk perencanaan dinas otoma
 
 ## Cara Kerjanya
 
-Sebuah aturan perencanaan ditugaskan ke sebuah **kontrak**. Nilai batas yang didefinisikan berlaku untuk semua karyawan dengan kontrak tersebut. Setiap aturan mencakup empat area:
+Sebuah aturan perencanaan ditugaskan ke sebuah **kontrak**. Nilai batas yang didefinisikan berlaku untuk semua karyawan dengan kontrak tersebut. Setiap aturan mencakup tiga area:
 
 **Hari Kerja & Waktu Istirahat**
 - Maks. hari kerja: aturan lunak untuk panjang blok yang disukai sebelum hari istirahat dijadwalkan (misalnya "kerja 5 hari, lalu istirahat") — pelanggaran tidak membuat jadwal tidak valid, hanya kurang optimal
@@ -27,12 +27,10 @@ Sebuah aturan perencanaan ditugaskan ke sebuah **kontrak**. Nilai batas yang did
 - Jam minimum dan maksimum per bulan
 - Jam penuh waktu (jumlah jam bulanan yang setara dengan pekerjaan penuh waktu)
 
-**Cuti**
-- Hari cuti per tahun kalender
-
 ## Baik untuk Diketahui
 
 - Saat membuat aturan baru, **nilai standar dari pengaturan** (Aturan Perencanaan — Nilai Standar) otomatis diambil alih; Anda dapat menyesuaikan setiap nilai secara individual setelahnya.
+- Saat konfigurasi awal, Klacks menyarankan sebuah templat untuk nilai-nilai ini sesuai dengan negara dan industri Anda (hari libur, tunjangan, aturan perencanaan); templat ini adalah titik awal — templat tidak disesuaikan secara otomatis dan berkelanjutan terhadap perubahan undang-undang, dan tetap sepenuhnya dapat diedit oleh admin.
 - Aturan perencanaan berlaku melalui kontrak — Anda tidak perlu mengelolanya per orang. Jika sebuah aturan berubah, hal ini memengaruhi semua karyawan dengan kontrak tersebut.
 - Batas lembur dan target waktu adalah dua hal yang berbeda: Target waktu adalah standar per hari, batas lembur adalah ambang batas per minggu.
 - "Maks. hari kerja" (preferensi lunak untuk panjang blok) dan "Maks. hari kerja berturut-turut" (batas atas keras yang tidak boleh dilampaui) adalah dua aturan yang berbeda — jangan sampai tertukar.

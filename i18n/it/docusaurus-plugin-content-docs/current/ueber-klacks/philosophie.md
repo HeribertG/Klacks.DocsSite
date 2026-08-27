@@ -20,11 +20,11 @@ Klacks è a codice sorgente aperto sotto licenza MIT — backend, frontend e imm
 
 ## Per chi è pensato
 
-Klacks si rivolge alle organizzazioni con pianificazione di turni e interventi che prendono sul serio questi tre punti — in particolare organizzazioni Spitex, ospedali, servizi di sicurezza, aziende di pulizia e di logistica. Il denominatore comune: copertura 24/7, requisiti complessi in materia di tempi di riposo e qualifiche, e un'esigenza di protezione dei dati che una soluzione cloud intercambiabile non sempre può soddisfare.
+Klacks rappresenta ogni tipo di pianificazione di turni e interventi — da turni regolari e semplici fino a turni complessi con molte consegne o ordini suddivisi in segmenti. Un turno non è per forza legato a un ordine. Klacks si adatta particolarmente bene alle organizzazioni che prendono sul serio questi tre punti — in particolare organizzazioni Spitex, ospedali, servizi di sicurezza, aziende di pulizia e di logistica, nonché aziende alberghiere e della ristorazione. Il denominatore comune lì: copertura 24/7, requisiti complessi in materia di tempi di riposo e qualifiche, e un'esigenza di protezione dei dati che una soluzione cloud intercambiabile non sempre può soddisfare.
 
 ## Cosa significa in pratica
 
-- Potete provare Klacks gratuitamente nel [Playground](https://klacks-software.ch:7643), senza registrazione né colloquio di vendita.
+- Klacks è sempre e per chiunque completamente gratuito — nessuna registrazione, nessun colloquio di vendita. Il [Playground](https://klacks-software.ch:7643) è semplicemente un modo per dare un'occhiata senza impegno e familiarizzare con l'uso.
 - Potete gestirlo con un pacchetto on-premise (immagini Docker, installer, database, HTTPS, aggiornamenti automatici) sul vostro server.
 - Potete consultare il codice sorgente e apportare modifiche voi stessi — Klacks resta vostro, anche se lo sviluppate ulteriormente.
 

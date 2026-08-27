@@ -13,7 +13,7 @@ Kế hoạch đi qua bốn giai đoạn:
 1. **Dự thảo** — giai đoạn làm việc: mọi thứ vẫn có thể thay đổi
 2. **Đã xác nhận** — kế hoạch đã hoàn thiện về mặt chuyên môn; thay đổi chỉ còn được thực hiện có kiểm soát
 3. **Đã phê duyệt** — bộ phận chịu trách nhiệm đã cho phép
-4. **Đã hoàn tất** — kế hoạch được niêm phong và có tính ràng buộc
+4. **Đã hoàn tất** — kế hoạch được niêm phong và có tính ràng buộc về mặt vận hành; việc chốt sổ kế toán diễn ra riêng qua [Chốt kỳ](../planen/periodenabschluss.md)
 
 Mỗi giai đoạn **khóa việc chỉnh sửa** tương ứng: những gì đã được phê duyệt sẽ không ai có thể vô tình thay đổi bằng thao tác kéo & thả nữa. Ai được phép đặt giai đoạn nào được quy định rõ ràng:
 
@@ -23,7 +23,7 @@ Mỗi giai đoạn **khóa việc chỉnh sửa** tương ứng: những gì đ�
 
 ## Điều cần biết
 
-- Các khóa này áp dụng ở mọi nơi — cả [Tự động lập kế hoạch: Bản kế hoạch trong vài giây](../planen/auto-planung.md) và [Klacksy](../ki/klacksy-ki-assistent.md) đều tôn trọng trạng thái phê duyệt.
+- Các khóa này áp dụng ở mọi nơi — cả [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md) và [Klacksy](../ki/klacksy-ki-assistent.md) đều tôn trọng trạng thái phê duyệt.
 - Các thay đổi ngắn hạn sau khi đã phê duyệt (trường hợp ốm đau!) được thực hiện như những điều chỉnh có chủ đích, có thể theo dõi được, chứ không phải là lập lại kế hoạch một cách âm thầm.
 - Đối với việc chốt sổ kế toán hàng tháng, còn có thêm chức năng [Chốt kỳ](../planen/periodenabschluss.md).
 

@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Auto-planning: het plan in seconden
+# Auto-planning: één klik, de rest draait op de achtergrond
 
-Het lastigste onderdeel van de personeelsplanning — het toewijzen van mensen aan diensten — regelt Klacks met één klik.
+Het lastigste onderdeel van de personeelsplanning — het toewijzen van mensen aan diensten — regelt Klacks met één klik. De berekening zelf kost tijd, maar draait op de achtergrond door: u hoeft niet te wachten en kunt intussen andere dingen doen.
 
 ## Zo werkt het
 
@@ -22,6 +22,7 @@ U start de auto-planning rechtstreeks vanuit het dienstrooster voor de gekozen p
 - Kwalificaties werken als een echte grens: wie een vereiste kwalificatie niet heeft, wordt niet ingepland.
 - De auto-planning respecteert reeds bestaande items — u kunt dus eerst de vaste punten instellen en de rest laten invullen.
 - Bevalt een resultaat niet, plan dan gewoon opnieuw: het algoritme vindt gelijkwaardige alternatieven.
+- U kunt meerdere scenario's parallel aanmaken zonder het bestaande plan te wijzigen: elk scenario is een eigen wat-als-kopie die u kunt vergelijken, verwerpen of overnemen. Zo bent u voorbereid op kortetermijnwijzigingen, in plaats van pas dan opnieuw te moeten rekenen.
 
 ![Klacks dienstroosterraster](/img/app-schedule-de.png)
 

@@ -13,7 +13,7 @@ Schemat vandrar genom fyra steg:
 1. **Utkast** — arbetsfasen: allt kan fortfarande ändras
 2. **Bekräftat** — schemat är fackligt fastställt; ändringar sker nu endast kontrollerat
 3. **Godkänt** — den ansvariga instansen har godkänt det
-4. **Avslutat** — schemat är förseglat och bindande
+4. **Avslutat** — schemat är förseglat och bindande för verksamheten; den bokföringsmässiga avräkningen sker separat via [Periodavslut](../planen/periodenabschluss.md)
 
 Varje steg **spärrar redigeringen** i motsvarande grad: Det som är godkänt kan ingen längre ändra av misstag via dra-och-släpp. Vem som får sätta vilket steg är tydligt reglerat:
 
@@ -23,7 +23,7 @@ Varje steg **spärrar redigeringen** i motsvarande grad: Det som är godkänt ka
 
 ## Bra att veta
 
-- Spärrarna gäller överallt — även [Autoplanering: schemat på sekunder](../planen/auto-planung.md) och [Klacksy](../ki/klacksy-ki-assistent.md) respekterar godkännandestatusen.
+- Spärrarna gäller överallt — även [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md) och [Klacksy](../ki/klacksy-ki-assistent.md) respekterar godkännandestatusen.
 - Kortsiktiga ändringar efter godkännandet (sjukdomsfall!) sker som medvetna, spårbara korrigeringar, inte som tyst omplanering.
 - För den bokföringsmässiga avslutningen av en månad finns dessutom [Periodavslut](../planen/periodenabschluss.md).
 

@@ -31,7 +31,7 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Tabloul dumneavoastră de bord: totul dintr-o privire](./erste-schritte/ihr-dashboard.md) — patru secțiuni reordonabile: Prezentare generală, Acoperire și confirmare, Resurse și Locații
 
 **Planificare**
-- [Auto-planificare: planul în câteva secunde](./planen/auto-planung.md) — planul în câteva secunde, printr-un click
+- [Planificare automată: un clic, restul rulează în fundal](./planen/auto-planung.md) — calculul rulează în fundal, în timp ce vă ocupați de altceva
 - [Grila de planificare: matricea dumneavoastră interactivă de timp](./planen/plan-raster.md) — matricea interactivă de timp cu drag & drop
 - [Planificare modulară: divide și cucerește](./planen/modulare-planung.md) — împărțiți planuri mari fără dublă rezervare
 - [Flux de aprobare: de la ciornă la plan obligatoriu](./planen/freigabe-workflow.md) — de la ciornă la planul sigilat

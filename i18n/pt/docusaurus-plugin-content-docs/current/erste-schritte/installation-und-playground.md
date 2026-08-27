@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Experimente o Klacks num minuto — e instale-o em poucos minutos. Sem registo, sem conversas de vendas.
 
-## Opção 1: Playground (sem instalar nada)
+## Playground: a área de experimentação para conhecer o Klacks
 
-Uma instância pública do Klacks com dados de exemplo está disponível em **[klacks-software.ch](https://klacks-software.ch:7643)**:
+O Playground não é uma variante de instalação, mas sim uma instância pública do Klacks com dados de exemplo para explorar sem compromisso — daí o nome. Está disponível em **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Palavra-passe:** `P@ssw0rt1`
 - Tem direitos de administrador completos — experimente tudo.
 - Todos os dados são **repostos automaticamente todos os dias**. Não introduza dados pessoais reais.
 
-## Opção 2: No seu próprio servidor (on-premise)
+## Instalação: No seu próprio servidor (on-premise)
 
 O pacote on-premise traz tudo o que é necessário: imagens Docker, instalador, base de dados, HTTPS e atualizações automáticas.
 

@@ -11,7 +11,7 @@ Cuti, sakit, latihan lanjutan, tentera — siapa yang tiada bila, dapat dilihat 
 - Setiap Ketidakhadiran muncul sebagai bar berwarna pada garis masa individu berkenaan — pertindihan dan penumpuan segera kelihatan jelas.
 - **Jenis Ketidakhadiran tersendiri** ditakrifkan sendiri oleh anda, dengan warna dan kelakuan (dibayar/tidak dibayar, dengan/tanpa kesan jam).
 - Eksport sebagai **PDF** berjaya dengan satu klik — praktikal untuk paparan atau fail.
-- Ketidakhadiran memberi kesan langsung kepada perancangan: Sesiapa yang tiada tidak akan dijadualkan oleh [Auto-Perancangan: Jadual dalam Beberapa Saat](../planen/auto-planung.md), dan dalam [Grid Jadual: Matriks Masa Interaktif Anda](../planen/plan-raster.md), konflik itu segera kelihatan.
+- Ketidakhadiran memberi kesan langsung kepada perancangan: Sesiapa yang tiada tidak akan dijadualkan oleh [Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang](../planen/auto-planung.md), dan dalam [Grid Jadual: Matriks Masa Interaktif Anda](../planen/plan-raster.md), konflik itu segera kelihatan.
 
 ## Perkara Berguna untuk Diketahui
 

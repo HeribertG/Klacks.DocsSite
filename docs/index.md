@@ -31,7 +31,7 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 - [Ihr Dashboard: Alles auf einen Blick](./erste-schritte/ihr-dashboard.md) — Die Startseite von Klacks mit vier frei sortierbaren Abschnitten: Übersicht, Abdeckung & Bestätigung, Ressourcen und Standorte
 
 **Planen**
-- [Auto-Planung: Der Plan in Sekunden](./planen/auto-planung.md) — Der Plan in Sekunden, per Klick
+- [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](./planen/auto-planung.md) — Berechnung im Hintergrund, während Sie sich um anderes kümmern
 - [Das Plan-Raster: Ihre interaktive Zeit-Matrix](./planen/plan-raster.md) — Die interaktive Zeit-Matrix mit Drag & Drop
 - [Modulare Planung: Teile und herrsche](./planen/modulare-planung.md) — Grosse Pläne aufteilen, ohne Doppelbuchungen
 - [Freigabe-Workflow: Vom Entwurf zum verbindlichen Plan](./planen/freigabe-workflow.md) — Vom Entwurf bis zum versiegelten Plan

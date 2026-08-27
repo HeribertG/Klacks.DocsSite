@@ -18,7 +18,7 @@ The three reports appear in the dialog of the respective scheduling assistant �
 
 **Skipped placements** exist only for the shift-scheduling assistant, likewise after applying — and are red throughout. Columns: date, employee, shift, reason. This table doesn't show what was scheduled, but what Klacks deliberately did **not** write: assignments that would have violated a rule enforced as Block. The reason appears as a short category ("Rest period too short", "Too many consecutive days", "Time collision", …). Depending on the situation, Klacks offers authorized people the option below to apply the run with an override after all; everyone else gets the hint to re-run the assistant with override enabled, or to ask an authorized person to do so. Every override is logged.
 
-Which rules are checked, and how strictly they apply, is defined in the [Scheduling Rules](../planen/planungsregeln.md); how the schedule comes about in the first place is described in [Auto-Planning: A Schedule in Seconds](../planen/auto-planung.md).
+Which rules are checked, and how strictly they apply, is defined in the [Scheduling Rules](../planen/planungsregeln.md); how the schedule comes about in the first place is described in [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md).
 
 ## Good to know
 

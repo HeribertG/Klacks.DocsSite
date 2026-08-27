@@ -8,7 +8,7 @@ Reguły planowania definiują warunki ramowe dla automatycznego planowania dyżu
 
 ## Jak to działa
 
-Reguła planowania jest przypisana do **umowy**. Zdefiniowane wartości graniczne obowiązują tym samym wszystkich pracowników objętych daną umową. Każda reguła obejmuje cztery obszary:
+Reguła planowania jest przypisana do **umowy**. Zdefiniowane wartości graniczne obowiązują tym samym wszystkich pracowników objętych daną umową. Każda reguła obejmuje trzy obszary:
 
 **Dni robocze i czasy odpoczynku**
 - Maks. dni robocze: reguła miękka określająca preferowaną długość bloku przed zaplanowaniem dnia odpoczynku (np. „5 dni pracy, potem odpoczynek") — naruszenie nie unieważnia planu, czyni go jedynie mniej optymalnym
@@ -27,12 +27,10 @@ Reguła planowania jest przypisana do **umowy**. Zdefiniowane wartości graniczn
 - Minimalna i maksymalna liczba godzin miesięcznie
 - Godziny pełnego etatu (miesięczna liczba godzin odpowiadająca zatrudnieniu w pełnym wymiarze czasu pracy)
 
-**Urlop**
-- Dni urlopu w roku kalendarzowym
-
 ## Warto wiedzieć
 
 - Przy tworzeniu nowej reguły automatycznie przejmowane są **wartości domyślne z ustawień** (Reguły planowania — wartości domyślne); każdą wartość możesz następnie dostosować indywidualnie.
+- Przy wstępnej konfiguracji Klacks proponuje szablon tych wartości dopasowany do kraju i branży (święta, dodatki, reguły planowania); szablon jest punktem wyjścia — nie jest automatycznie i na bieżąco dostosowywany do zmian w przepisach prawa i pozostaje w pełni edytowalny przez Admina.
 - Reguły planowania działają poprzez umowę — nie trzeba ich utrzymywać osobno dla każdej osoby. Gdy reguła się zmienia, dotyczy to wszystkich pracowników objętych tą umową.
 - Próg nadgodzin i czas docelowy to dwie różne rzeczy: czas docelowy to standard dzienny, a próg nadgodzin to wartość progowa tygodniowa.
 - „Maks. dni robocze" (miękka preferencja co do długości bloku) i „Maks. kolejnych dni roboczych" (twarda, nieprzekraczalna górna granica) to dwie różne reguły — nie należy ich mylić.

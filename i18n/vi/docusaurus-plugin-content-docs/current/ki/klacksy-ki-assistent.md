@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Cách hoạt động
 
-Klacksy hiểu yêu cầu của bạn và chuyển chúng thành các hành động cụ thể — với hơn **250 khả năng** sẵn sàng phục vụ:
+Klacksy hiểu yêu cầu của bạn và chuyển chúng thành các hành động cụ thể — với hơn **300 khả năng** sẵn sàng phục vụ:
 
 - **Lập kế hoạch:** Điền ca làm việc, thay thế người vắng mặt, đổi lịch dịch vụ
 - **Quản lý:** Tạo nhân viên, quản lý nhóm, thiết lập quyền hạn

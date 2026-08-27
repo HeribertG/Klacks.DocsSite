@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Før en vagt overhovedet kan besættes, gennemløber den fire trin — fra den frit redigerbare ordre over den uforanderlige forseglede ordre til den planlægbare vagt og dens segmenter. Meningen bag dette: Det, der er aftalt, forbliver varigt læsbart; det, hverdagen bagefter omplanlægger, forbliver alligevel bevægeligt.
 
+En vagt er derved ikke nødvendigvis bundet til en ordre — Klacks afbilder såvel interne, regelmæssige vagter uden kundetilknytning som komplekse ordrer med mange leverancer eller indsatser opdelt i flere container-segmenter.
+
 ## Sådan fungerer det
 
 **1. Ordre — frit redigerbar.** Enhver ny vagt begynder her. På vagtsiden åbner knappen **+ ny ordre** registreringsmasken; du kan bearbejde ordren, så ofte du vil, alle felter står åbne. I vagtplanen vises den endnu ikke, og dermed kan der heller ikke planlægges medarbejdere ind på den. En ren skitse er den alligevel ikke — den er en rigtig ordre, blot endnu ikke forseglet. I vagtlisten fører Klacks dette trin under **Ordrer**. Skifter du der til **Planlægbare vagter**, hedder knappen **+ ny vagt**: Den opretter en ordre uden kundetilknytning — til generelt arbejde, som ingen ekstern part bestiller og betaler for. Kortet *Adresse* bortfalder da; de fire trin gennemløber også denne vagt.
@@ -33,7 +35,7 @@ Før en vagt overhovedet kan besættes, gennemløber den fire trin — fra den f
 - **Særlige kendetegn** (eksperttilstand) — sporadisk indsats med periodicitet, briefing og debriefing, tilrejse- og hjemrejsetid samt antal medarbejdere og opgaver pr. vagt.
 - **Standardudgifter** (eksperttilstand) — udgifter, der regelmæssigt opstår ved denne vagt, hver med betegnelse, beløb og angivelse af, om de er skattepligtige.
 
-Hvordan de planlægbare vagter derefter besættes, beskriver [Auto-planlægning: Planen på få sekunder](../planen/auto-planung.md) og [Plan-gitteret: Din interaktive tidsmatrix](../planen/plan-raster.md).
+Hvordan de planlægbare vagter derefter besættes, beskriver [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md) og [Plan-gitteret: Din interaktive tidsmatrix](../planen/plan-raster.md).
 
 ## Godt at vide
 

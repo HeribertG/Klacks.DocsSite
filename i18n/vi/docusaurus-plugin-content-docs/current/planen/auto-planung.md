@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tự động lập kế hoạch: Bản kế hoạch trong vài giây
+# Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền
 
-Phần vất vả nhất của việc lập lịch làm việc — phân công người vào ca — được Klacks thực hiện chỉ với một cú nhấp chuột.
+Phần vất vả nhất của việc lập lịch làm việc — phân công người vào ca — được Klacks thực hiện chỉ với một cú nhấp chuột. Bản thân việc tính toán cần thời gian, nhưng vẫn tiếp tục chạy trong nền: bạn không cần phải chờ và có thể dành thời gian đó cho việc khác.
 
 ## Cách hoạt động
 
@@ -22,6 +22,7 @@ Bạn khởi động tính năng tự động lập kế hoạch trực tiếp t
 - Trình độ chuyên môn hoạt động như một ranh giới thực sự: ai không có trình độ chuyên môn được yêu cầu sẽ không được xếp lịch.
 - Tính năng tự động lập kế hoạch tôn trọng các mục đã có sẵn — vì vậy bạn có thể đặt trước các điểm cố định rồi để phần còn lại được lấp đầy tự động.
 - Nếu không hài lòng với kết quả, chỉ cần lập kế hoạch lại: thuật toán sẽ tìm ra các phương án thay thế tương đương.
+- Bạn có thể tạo nhiều kịch bản song song mà không làm thay đổi kế hoạch hiện có: mỗi kịch bản là một bản sao giả định độc lập, có thể so sánh, loại bỏ hoặc áp dụng. Nhờ vậy bạn đã chuẩn bị sẵn cho những thay đổi ngắn hạn, thay vì đến lúc đó mới phải tính toán lại.
 
 ![Lưới kế hoạch trực của Klacks](/img/app-schedule-de.png)
 

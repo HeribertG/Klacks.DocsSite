@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Auto-Planning: A Schedule in Seconds
+# Auto-Planning: One Click, the Rest Runs in the Background
 
-The most tedious part of shift scheduling — assigning people to shifts — Klacks handles at the push of a button.
+The most tedious part of shift scheduling — assigning people to shifts — Klacks handles at the push of a button. The calculation itself takes some time, but it keeps running in the background: you don't have to wait, and can turn your attention to other things in the meantime.
 
 ## How it works
 
@@ -22,6 +22,7 @@ You launch auto-planning directly from the schedule for the selected period. The
 - Qualifications act as a hard boundary: anyone lacking a required qualification will not be scheduled.
 - Auto-planning respects entries that already exist — so you can pin the fixed points first and let it fill in the rest.
 - Don't like a result? Just run it again: the algorithm finds equally good alternatives.
+- You can create several scenarios in parallel without changing the existing schedule: each scenario is its own what-if copy that you can compare, discard, or apply. That way you're ready for short-notice changes instead of having to recalculate only once they happen.
 
 ![Klacks schedule grid](/img/app-schedule-de.png)
 *Screenshot shown in German — the app itself is available in English.*

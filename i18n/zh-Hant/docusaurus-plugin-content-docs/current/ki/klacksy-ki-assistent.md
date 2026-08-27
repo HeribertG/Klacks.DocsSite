@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## 運作方式
 
-Klacksy 能理解您的需求，並將其轉換為具體的操作 — 超過 **250 項技能**隨時待命：
+Klacksy 能理解您的需求，並將其轉換為具體的操作 — 超過 **300 項技能**隨時待命：
 
 - **排班：** 填補班次、替補缺勤人力、改排班次
 - **管理：** 建立員工、維護群組、設定權限
@@ -27,7 +27,7 @@ Klacksy 能理解您的需求，並將其轉換為具體的操作 — 超過 **2
 - 透過內建的 Model Context Protocol 伺服器，Klacks 也能與外部 AI 工具連結。
 - Playground 中的 Klacksy 已啟用 — 儘管向他提問看看。
 
-![Klacksy als Panel in Klacks](/img/app-klacksy-de.png)
+![Klacks 中作為面板的 Klacksy](/img/app-klacksy-de.png)
 
 ---
 *立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

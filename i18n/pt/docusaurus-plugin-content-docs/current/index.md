@@ -31,7 +31,7 @@ Este wiki explica em pequenas partes como funciona o Klacks. Cada página lê-se
 - [O seu Dashboard: tudo num relance](./erste-schritte/ihr-dashboard.md) — A página inicial do Klacks com quatro secções reordenáveis: Visão geral, Cobertura e Confirmação, Recursos e Localizações
 
 **Planear**
-- [Planeamento automático: O plano em segundos](./planen/auto-planung.md) — O plano em segundos, com um clique
+- [Planeamento automático: um clique, o resto corre em segundo plano](./planen/auto-planung.md) — Cálculo em segundo plano, enquanto se dedica a outras coisas
 - [A grelha de planeamento: A sua matriz de tempo interativa](./planen/plan-raster.md) — A matriz de tempo interativa com arrastar e largar
 - [Planeamento modular: Dividir para conquistar](./planen/modulare-planung.md) — Dividir grandes planos, sem duplas reservas
 - [Fluxo de aprovação: Do rascunho ao plano vinculativo](./planen/freigabe-workflow.md) — Do rascunho ao plano selado

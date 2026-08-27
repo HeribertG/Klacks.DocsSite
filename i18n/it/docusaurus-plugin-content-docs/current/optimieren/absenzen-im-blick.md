@@ -11,7 +11,7 @@ Ferie, malattia, formazione continua, servizio militare — chi manca e quando l
 - Ogni assenza appare come una barra colorata sulla linea temporale della rispettiva persona — sovrapposizioni e concentrazioni saltano subito all'occhio.
 - **Tipi di assenza personalizzati** li definite voi stessi, con colore e comportamento (retribuita/non retribuita, con/senza effetto sulle ore).
 - L'esportazione in **PDF** avviene con un clic — pratico per affissioni o archiviazione.
-- Le assenze incidono direttamente sulla pianificazione: chi manca non viene inserito dalla [Pianificazione automatica: il piano in pochi secondi](../planen/auto-planung.md), e nella [griglia del piano: la vostra matrice temporale interattiva](../planen/plan-raster.md) il conflitto è subito visibile.
+- Le assenze incidono direttamente sulla pianificazione: chi manca non viene inserito dalla [Pianificazione automatica: un clic, il resto gira in background](../planen/auto-planung.md), e nella [griglia del piano: la vostra matrice temporale interattiva](../planen/plan-raster.md) il conflitto è subito visibile.
 
 ## Utile da sapere
 

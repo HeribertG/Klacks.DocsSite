@@ -8,7 +8,7 @@ Planningsregels definiëren de randvoorwaarden voor de automatische dienstplanni
 
 ## Zo werkt het
 
-Een planningsregel wordt gekoppeld aan een **contract**. De vastgelegde grenswaarden gelden daarmee voor alle medewerkers met dat contract. Elke regel omvat vier gebieden:
+Een planningsregel wordt gekoppeld aan een **contract**. De vastgelegde grenswaarden gelden daarmee voor alle medewerkers met dat contract. Elke regel omvat drie gebieden:
 
 **Werkdagen & rusttijden**
 - Max. werkdagen: zachte regel voor de gewenste bloklengte voordat een rustdag wordt ingepland (bijv. "5 dagen werken, dan rust") — een overtreding maakt het rooster niet ongeldig, alleen minder optimaal
@@ -27,12 +27,10 @@ Een planningsregel wordt gekoppeld aan een **contract**. De vastgelegde grenswaa
 - Minimale en maximale uren per maand
 - Voltijduren (maandelijks aantal uren dat overeenkomt met een voltijdbetrekking)
 
-**Verlof**
-- Verlofdagen per kalenderjaar
-
 ## Goed om te weten
 
 - Bij het aanmaken van een nieuwe regel worden de **standaardwaarden uit de instellingen** (Planningsregels — standaardwaarden) automatisch overgenomen; u kunt elke waarde daarna individueel aanpassen.
+- Bij de eerste inrichting stelt Klacks, passend bij land en branche, een sjabloon voor deze waarden voor (feestdagen, toeslagen, planningsregels); het sjabloon is een startpunt — het wordt niet doorlopend automatisch aangepast aan wetswijzigingen en blijft volledig door de admin bewerkbaar.
 - Planningsregels werken via het contract — u hoeft ze niet per persoon bij te houden. Verandert een regel, dan raakt dat alle medewerkers met dat contract.
 - De overurengrens en de streefwaarde zijn twee verschillende dingen: de streefwaarde is de standaard per dag, de overurengrens de drempelwaarde per week.
 - "Max. werkdagen" (zachte voorkeur voor de bloklengte) en "Max. opeenvolgende werkdagen" (harde, nooit te overschrijden bovengrens) zijn twee verschillende regels — niet verwarren.

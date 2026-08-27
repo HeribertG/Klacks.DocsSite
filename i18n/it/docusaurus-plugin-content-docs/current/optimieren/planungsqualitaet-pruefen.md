@@ -18,7 +18,7 @@ I tre report compaiono nella finestra di dialogo del rispettivo assistente di pi
 
 **Le collocazioni saltate** esistono solo nell'assistente per la pianificazione dei turni, anch'esse dopo l'applicazione — e sono interamente rosse. Colonne: data, dipendente, turno, motivo. Qui non compare ciò che è stato pianificato, bensì ciò che Klacks deliberatamente **non** ha scritto: assegnazioni che avrebbero violato una regola gestita in modalità Blocco. Il motivo appare come breve categoria ("Riposo troppo breve", "Troppi giorni consecutivi", "Collisione oraria"…). A seconda della situazione, Klacks propone sotto alle persone autorizzate di applicare comunque l'esecuzione con override; tutte le altre ricevono l'indicazione di rieseguire l'assistente con l'override attivato oppure di chiederlo a una persona autorizzata. Ogni override viene registrato.
 
-Quali regole vengono verificate e con quale severità lo stabilite nelle [Regole di pianificazione](../planen/planungsregeln.md); come nasce il piano è descritto in [Pianificazione automatica: il piano in pochi secondi](../planen/auto-planung.md).
+Quali regole vengono verificate e con quale severità lo stabilite nelle [Regole di pianificazione](../planen/planungsregeln.md); come nasce il piano è descritto in [Pianificazione automatica: un clic, il resto gira in background](../planen/auto-planung.md).
 
 ## Da sapere
 

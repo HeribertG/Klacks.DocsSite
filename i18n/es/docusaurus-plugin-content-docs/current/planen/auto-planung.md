@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Planificación automática: el plan en segundos
+# Planificación automática: un clic, el resto se ejecuta en segundo plano
 
-La parte más laboriosa de la planificación de turnos — asignar personas a turnos — la realiza Klacks con solo pulsar un botón.
+La parte más laboriosa de la planificación de turnos — asignar personas a turnos — la realiza Klacks con solo pulsar un botón. El propio cálculo requiere su tiempo, pero sigue ejecutándose en segundo plano: usted no tiene que esperar y puede dedicarse mientras tanto a otras cosas.
 
 ## Cómo funciona
 
@@ -22,6 +22,7 @@ La planificación automática se inicia directamente desde el plan de turnos par
 - Las calificaciones actúan como un límite real: quien no tenga una calificación requerida no será asignado.
 - La planificación automática respeta las entradas ya existentes — así puede fijar primero los puntos fijos y dejar que se rellene el resto.
 - Si un resultado no le convence, simplemente vuelva a planificar: el algoritmo encuentra alternativas equivalentes.
+- Puede crear varios escenarios en paralelo sin modificar el plan existente: cada escenario es una copia hipotética independiente que puede comparar, descartar o aplicar. Así está preparado para cambios de última hora, en lugar de tener que recalcularlo todo después.
 
 ![Cuadrícula del plan de turnos de Klacks](/img/app-schedule-de.png)
 

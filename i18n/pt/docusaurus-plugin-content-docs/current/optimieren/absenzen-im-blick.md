@@ -11,7 +11,7 @@ Férias, doença, formação, serviço militar — quem falta e quando pode ver 
 - Cada ausência aparece como uma barra colorida na linha temporal da respetiva pessoa — sobreposições e concentrações saltam imediatamente à vista.
 - **Tipos de ausência próprios** são definidos por si, com cor e comportamento (pago/não pago, com/sem efeito nas horas).
 - A exportação em **PDF** consegue-se com um clique — prático para afixar ou arquivar.
-- As ausências têm efeito direto no planeamento: quem falta não é escalado pelo [Planeamento automático: o plano em segundos](../planen/auto-planung.md), e na [A grelha de planeamento: a sua matriz de tempo interativa](../planen/plan-raster.md) o conflito é imediatamente visível.
+- As ausências têm efeito direto no planeamento: quem falta não é escalado pelo [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md), e na [A grelha de planeamento: a sua matriz de tempo interativa](../planen/plan-raster.md) o conflito é imediatamente visível.
 
 ## Bom saber
 

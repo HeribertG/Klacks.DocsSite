@@ -18,7 +18,7 @@ Triknya adalah: Lembar jadwal menyimpan **referensi, bukan salinan**. Sebuah shi
 
 - Penugasan di luar area bagi seseorang yang dibagi (shared) muncul di sub-jadwal sebagai entri terkunci — sehingga setiap perencana melihat kapan "orangnya" terikat di tempat lain, tanpa bisa mengubah jadwal orang lain.
 - Visibilitas sub-jadwal Anda atur melalui hak akses berbasis grup.
-- Perencanaan Modular dan [Perencanaan Otomatis: Jadwal dalam Hitungan Detik](../planen/auto-planung.md) saling melengkapi: Setiap area dapat direncanakan secara otomatis sendiri-sendiri.
+- Perencanaan Modular dan [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md) saling melengkapi: Setiap area dapat direncanakan secara otomatis sendiri-sendiri.
 
 ---
 *Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -18,7 +18,7 @@ Os três relatórios aparecem na caixa de diálogo do respetivo assistente de pl
 
 **Colocações ignoradas** só existem no assistente de planeamento de turnos, também depois da adoção — e sempre a vermelho. Colunas: Data, Colaborador, Turno, Motivo. Aqui não consta o que foi planeado, mas sim o que o Klacks deliberadamente **não** escreveu: atribuições que teriam violado uma regra configurada em modo de bloqueio. O motivo aparece como uma categoria curta ("Tempo de descanso demasiado curto", "Demasiados dias de trabalho consecutivos", "Colisão de horário" …). Consoante a situação, o Klacks oferece às pessoas autorizadas a opção de ainda assim adotar a execução com substituição (override); todas as outras recebem a indicação de repetir o assistente com a substituição ativada ou de pedir a uma pessoa autorizada. Cada substituição fica registada.
 
-Quais as regras verificadas e com que rigor se aplicam, define-o em [Regras de planeamento](../planen/planungsregeln.md); como o plano é gerado, descreve-o [Planeamento automático: o plano em segundos](../planen/auto-planung.md).
+Quais as regras verificadas e com que rigor se aplicam, define-o em [Regras de planeamento](../planen/planungsregeln.md); como o plano é gerado, descreve-o [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md).
 
 ## Bom saber
 

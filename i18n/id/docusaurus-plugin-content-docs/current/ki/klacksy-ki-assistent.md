@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Cara kerjanya
 
-Klacksy memahami permintaan Anda dan menerjemahkannya menjadi tindakan konkret — lebih dari **250 kemampuan** siap digunakan:
+Klacksy memahami permintaan Anda dan menerjemahkannya menjadi tindakan konkret — lebih dari **300 kemampuan** siap digunakan:
 
 - **Merencanakan:** Mengisi shift, mengganti karyawan yang absen, memindahkan dinas
 - **Mengelola:** Membuat karyawan baru, mengelola grup, menetapkan hak akses

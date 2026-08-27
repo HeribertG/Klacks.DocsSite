@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Înainte ca o tură să poată fi ocupată, ea parcurge patru etape — de la comanda liber editabilă, prin comanda sigilată, imuabilă, până la tura planificabilă și segmentele acesteia. Sensul din spate: ceea ce a fost convenit rămâne permanent verificabil; ceea ce activitatea zilnică replanifică ulterior rămâne totuși flexibil.
 
+O tură nu este neapărat legată de o comandă — Klacks reprezintă deopotrivă turele interne, regulate, fără legătură cu un client, cât și comenzile complexe cu multe livrări sau intervențiile descompuse în mai multe segmente-container.
+
 ## Cum funcționează
 
 **1. Comandă — liber editabilă.** Fiecare tură nouă începe aici. Pe pagina serviciilor, butonul **+ comandă nouă** deschide masca de înregistrare; puteți revizui comanda de câte ori doriți, toate câmpurile sunt deschise. În planul de intervenții ea nu apare încă, deci nu se pot planifica angajați pe ea. Cu toate acestea, nu este o simplă schiță — este o comandă reală, doar că încă nesigilată. În lista de servicii, Klacks conduce această etapă sub **Comenzi**. Dacă acolo comutați pe **Ture planificabile**, butonul se numește **+ tură nouă**: acesta creează o comandă fără legătură cu un client — pentru muncă generală, pe care nimeni din exterior nu o comandă și nu o plătește. Cardul *Adresă* dispare atunci; și această tură parcurge cele patru etape.
@@ -33,7 +35,7 @@ sidebar_position: 8
 - **Caracteristici speciale** (mod expert) — intervenție sporadică, împreună cu periodicitatea, briefing și debriefing, timp de deplasare la și de la locație, precum și numărul de angajați și de sarcini per tură.
 - **Cheltuieli standard** (mod expert) — cheltuieli care apar regulat la această tură, fiecare cu denumire, sumă și indicația dacă sunt impozabile.
 
-Modul în care sunt ocupate ulterior turele planificabile este descris în [Planificare automată: planul în câteva secunde](../planen/auto-planung.md) și [Grila planului: matricea dumneavoastră interactivă de timp](../planen/plan-raster.md).
+Modul în care sunt ocupate ulterior turele planificabile este descris în [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md) și [Grila planului: matricea dumneavoastră interactivă de timp](../planen/plan-raster.md).
 
 ## Bine de știut
 

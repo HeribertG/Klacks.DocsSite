@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Autoplanering: schemat på sekunder
+# Autoplanering: ett klick, resten körs i bakgrunden
 
-Den mest mödosamma delen av schemaläggningen — att tilldela personer till skift — sköter Klacks med en knapptryckning.
+Den mest mödosamma delen av schemaläggningen — att tilldela personer till skift — sköter Klacks med en knapptryckning. Beräkningen i sig tar sin tid, men körs vidare i bakgrunden: du behöver inte vänta och kan under tiden ägna dig åt annat.
 
 ## Så fungerar det
 
@@ -22,6 +22,7 @@ Du startar autoplaneringen direkt från schemat för den valda perioden. Resulta
 - Kvalifikationer fungerar som en verklig gräns: Den som saknar en nödvändig kvalifikation schemaläggs inte.
 - Autoplaneringen respekterar redan befintliga poster — du kan alltså först sätta fasta punkter och sedan låta resten fyllas i.
 - Om ett resultat inte passar planerar du helt enkelt om: Algoritmen hittar likvärdiga alternativ.
+- Du kan skapa flera scenarier parallellt utan att ändra det befintliga schemat: Varje scenario är en egen hypotetisk kopia som du kan jämföra, förkasta eller ta över. På så sätt är du förberedd på kortsiktiga omställningar, i stället för att först då behöva räkna om.
 
 ![Klacks schemarutnät](/img/app-schedule-de.png)
 

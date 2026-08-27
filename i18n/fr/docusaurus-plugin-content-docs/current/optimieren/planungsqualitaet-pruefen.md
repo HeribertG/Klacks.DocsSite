@@ -18,7 +18,7 @@ Les trois rapports apparaissent dans la boîte de dialogue de l'assistant de pla
 
 **Les placements ignorés** n'existent que pour l'assistant de planification des services, également après l'application — et sont entièrement en rouge. Colonnes : date, employé, poste, motif. Ce tableau ne montre pas ce qui a été planifié, mais ce que Klacks n'a délibérément **pas** écrit : des affectations qui auraient enfreint une règle gérée en mode Blocage. Le motif apparaît sous forme de catégorie courte (« Repos trop court », « Trop de jours consécutifs », « Collision horaire »…). Selon la situation, Klacks propose en dessous aux personnes autorisées d'appliquer malgré tout le passage avec dépassement ; les autres reçoivent l'indication de relancer l'assistant avec le dépassement activé, ou de demander à une personne autorisée de le faire. Chaque dépassement est journalisé.
 
-Les règles vérifiées et leur degré de sévérité se définissent dans les [Règles de planification](../planen/planungsregeln.md) ; la manière dont le plan naît est décrite dans [Planification automatique : le plan en quelques secondes](../planen/auto-planung.md).
+Les règles vérifiées et leur degré de sévérité se définissent dans les [Règles de planification](../planen/planungsregeln.md) ; la manière dont le plan naît est décrite dans [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md).
 
 ## Bon à savoir
 

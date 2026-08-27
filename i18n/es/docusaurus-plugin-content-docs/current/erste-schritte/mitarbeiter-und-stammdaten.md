@@ -16,6 +16,8 @@ La gestión de direcciones y personas es el corazón de sus datos maestros: empl
 
 **Contratos:** Cada persona puede tener varios contratos, por ejemplo en caso de un cambio de porcentaje de jornada. Las plantillas de contrato en sí se pueden definir libremente: en Configuración > Contratos se crean contratos propios con nombre, porcentaje de jornada, horas objetivo/máximas/mínimas, recargos (nocturno, domingo y festivo) e intervalo de pago; a cada contrato se le puede asignar además un calendario de días festivos propio, lo que permite reflejar, por ejemplo, días festivos que varían según el cantón. Cada contrato es válido por tiempo limitado o indefinido.
 
+**Calificaciones:** A cada persona se le pueden asignar tantas calificaciones como se desee del [Catálogo de calificaciones](../einstellungen/stammdaten-organisation/qualifikationen.md) de toda la empresa, cada una con un nivel (Bajo a Experto). A la inversa, los turnos pueden exigir calificaciones con un nivel mínimo — la planificación automática lo tiene en cuenta al asignar personal.
+
 **Importación:** No existe una importación CSV para datos maestros. Los directorios existentes se incorporan automáticamente mediante sincronización LDAP/Active Directory a través de un proveedor de identidad; las personas individuales se crean manualmente o mediante Klacksy.
 
 **Buscar y filtrar:** La búsqueda de texto libre encuentra personas por nombre, apellido, empresa o número de personal, así como por número de teléfono/código postal; adicionalmente se puede filtrar por cantón, estado (Activos/Antiguos/Futuros) y grupo.

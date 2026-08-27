@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacksia voit kokeilla minuutissa — ja asentaa muutamassa minuutissa. Ei rekisteröitymistä, ei myyntipuheita.
 
-## Vaihtoehto 1: Playground (ei asennusta)
+## Playground: leikkikenttä tutustumiseen
 
-Julkinen Klacks-instanssi esimerkkitiedoilla on käytössä osoitteessa **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground ei ole asennusvaihtoehto, vaan julkinen Klacks-instanssi esimerkkitiedoilla, jolla voi kokeilla vapaasti ilman sitoumuksia — siitä nimi juontuu. Se on käytössä osoitteessa **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Kirjautuminen:** `admin@test.com` · **Salasana:** `P@ssw0rt1`
 - Sinulla on täydet ylläpitäjän oikeudet — kokeile mitä tahansa.
 - Kaikki tiedot **nollataan automaattisesti päivittäin**. Älä syötä oikeita henkilötietoja.
 
-## Vaihtoehto 2: Omalla palvelimella (On-Premise)
+## Asennus: Omalla palvelimella (On-Premise)
 
 On-Premise-paketti sisältää kaiken: Docker-imaget, asennusohjelman, tietokannan, HTTPS:n ja automaattiset päivitykset.
 

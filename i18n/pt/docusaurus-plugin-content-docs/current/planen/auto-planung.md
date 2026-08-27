@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Planeamento automático: o plano em segundos
+# Planeamento automático: um clique, o resto corre em segundo plano
 
-A parte mais trabalhosa do planeamento de serviços — atribuir pessoas a turnos — é feita pelo Klacks com um clique.
+A parte mais trabalhosa do planeamento de serviços — atribuir pessoas a turnos — é feita pelo Klacks com um clique. O próprio cálculo leva o seu tempo, mas continua a correr em segundo plano: não precisa de esperar e pode, entretanto, dedicar-se a outras coisas.
 
 ## Como funciona
 
@@ -22,6 +22,7 @@ Inicia o planeamento automático diretamente a partir do plano de serviço, para
 - As qualificações funcionam como um limite real: quem não tem uma qualificação exigida não é escalado.
 - O planeamento automático respeita as entradas já existentes — pode, portanto, definir primeiro os pontos fixos e deixar preencher o resto.
 - Se um resultado não agradar, basta planear novamente: o algoritmo encontra alternativas equivalentes.
+- Pode criar vários cenários em paralelo sem alterar o plano existente: cada cenário é a sua própria cópia hipotética, que pode comparar, descartar ou adotar. Assim, fica preparado para alterações de última hora, em vez de só nessa altura ter de recalcular tudo.
 
 ![Grelha de plano de serviço do Klacks](/img/app-schedule-de.png)
 

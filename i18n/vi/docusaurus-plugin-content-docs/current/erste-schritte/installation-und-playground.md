@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Bạn có thể dùng thử Klacks trong một phút — và cài đặt nó trong vài phút. Không cần đăng ký, không cần trao đổi bán hàng.
 
-## Phương án 1: Playground (không cần cài đặt gì)
+## Playground: sân chơi để làm quen
 
-Một phiên bản Klacks công khai với dữ liệu mẫu đang chạy tại **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground không phải là một phương án cài đặt, mà là một phiên bản Klacks công khai với dữ liệu mẫu để bạn nghịch thử thoải mái, không ràng buộc gì — đây cũng chính là lý do cho cái tên này. Nó chạy tại **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Đăng nhập:** `admin@test.com` · **Mật khẩu:** `P@ssw0rt1`
 - Bạn có đầy đủ quyền Admin — cứ thoải mái dùng thử mọi thứ.
 - Toàn bộ dữ liệu sẽ **tự động được đặt lại mỗi ngày**. Vì vậy đừng nhập dữ liệu cá nhân thật.
 
-## Phương án 2: Trên máy chủ riêng (On-Premise)
+## Cài đặt: Trên máy chủ riêng (On-Premise)
 
 Gói On-Premise bao gồm mọi thứ cần thiết: các Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS và cập nhật tự động.
 

@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Slik fungerer det
 
-Klacksy forstår behovene dine og oversetter dem til konkrete handlinger — over **250 ferdigheter** står klare:
+Klacksy forstår behovene dine og oversetter dem til konkrete handlinger — over **300 ferdigheter** står klare:
 
 - **Planlegge:** Fylle skift, erstatte bortfall, ombooke tjenester
 - **Administrere:** Opprette medarbeidere, vedlikeholde grupper, sette rettigheter

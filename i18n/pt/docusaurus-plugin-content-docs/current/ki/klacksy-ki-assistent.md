@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Como funciona
 
-O Klacksy compreende as suas necessidades e traduz-as em ações concretas — estão disponíveis mais de **250 competências**:
+O Klacksy compreende as suas necessidades e traduz-as em ações concretas — estão disponíveis mais de **300 competências**:
 
 - **Planear:** preencher turnos, substituir ausências, reagendar serviços
 - **Gerir:** criar colaboradores, manter grupos, definir permissões

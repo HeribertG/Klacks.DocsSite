@@ -18,7 +18,7 @@ Tempun taustalla on tämä: suunnitelmalehdet säilyttävät **viittauksia, ei k
 
 - Jaetun henkilön muihin osa-alueisiin kuuluvat toimeksiannot näkyvät osasuunnitelmassa lukittuina merkintöinä — näin jokainen suunnittelija näkee, milloin "hänen" väkensä on sidottu muualle, voimatta muuttaa toisten suunnitelmia.
 - Osasuunnitelmien näkyvyyttä hallitaan ryhmäpohjaisilla käyttöoikeuksilla.
-- Modulaarinen suunnittelu ja [Automaattisuunnittelu: valmis suunnitelma sekunneissa](../planen/auto-planung.md) täydentävät toisiaan: jokainen osa-alue voidaan suunnitella automaattisesti erikseen.
+- Modulaarinen suunnittelu ja [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md) täydentävät toisiaan: jokainen osa-alue voidaan suunnitella automaattisesti erikseen.
 
 ---
 *Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

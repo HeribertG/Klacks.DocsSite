@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Näin se toimii
 
-Klacksy ymmärtää pyyntösi ja muuttaa ne konkreettisiksi toiminnoiksi — käytössä on yli **250 taitoa**:
+Klacksy ymmärtää pyyntösi ja muuttaa ne konkreettisiksi toiminnoiksi — käytössä on yli **300 taitoa**:
 
 - **Suunnittelu:** työvuorojen täyttäminen, poissaolojen korvaaminen, palveluiden uudelleenjärjestely
 - **Hallinta:** henkilöstön luominen, ryhmien ylläpito, käyttöoikeuksien asettaminen

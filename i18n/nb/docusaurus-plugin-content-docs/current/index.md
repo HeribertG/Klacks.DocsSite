@@ -31,7 +31,7 @@ Denne wikien forklarer i små biter hvordan Klacks fungerer. Hver side leser du 
 - [Dashbordet ditt: Alt på ett blikk](./erste-schritte/ihr-dashboard.md) — Startsiden i Klacks med fire fritt sorterbare seksjoner: Oversikt, Dekning & bekreftelse, Ressurser og Lokasjoner
 
 **Planlegging**
-- [Autoplanlegging: Planen på sekunder](./planen/auto-planung.md) — Planen på sekunder, med ett klikk
+- [Autoplanlegging: Ett klikk, resten kjører i bakgrunnen](./planen/auto-planung.md) — Beregning i bakgrunnen, mens du tar deg av andre ting
 - [Planrutenettet: Din interaktive tidsmatrise](./planen/plan-raster.md) — Den interaktive tidsmatrisen med dra-og-slipp
 - [Modulær planlegging: Del og hersk](./planen/modulare-planung.md) — Del opp store planer, uten dobbeltbookinger
 - [Godkjenningsflyt: Fra utkast til bindende plan](./planen/freigabe-workflow.md) — Fra utkast til forseglet plan

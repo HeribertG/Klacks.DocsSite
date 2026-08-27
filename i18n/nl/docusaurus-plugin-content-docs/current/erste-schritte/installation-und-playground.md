@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks probeert u binnen een minuut uit — en installeert u binnen enkele minuten. Geen registratie, geen verkoopgesprekken.
 
-## Optie 1: playground (niets installeren)
+## Playground: de speeltuin om kennis te maken
 
-Een openbare Klacks-omgeving met voorbeeldgegevens draait op **[klacks-software.ch](https://klacks-software.ch:7643)**:
+De playground is geen installatievariant, maar een openbare Klacks-omgeving met voorbeeldgegevens om vrijblijvend mee te experimenteren — vandaar de naam. Ze draait op **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Wachtwoord:** `P@ssw0rt1`
 - U heeft volledige adminrechten — probeer alles uit.
 - Alle gegevens worden **dagelijks automatisch gereset**. Voer geen echte persoonsgegevens in.
 
-## Optie 2: op uw eigen server (on-premise)
+## Installatie: op uw eigen server (on-premise)
 
 Het on-premise-pakket bevat alles: Docker-images, installatieprogramma, database, HTTPS en automatische updates.
 

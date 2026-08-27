@@ -22,7 +22,7 @@ sidebar_position: 5
 - 「覆蓋率與確認」的數字永遠只對應當月，沒有可自由選擇的時間範圍。
 - 若要判讀資源監控中的過度配置與配置不足，值得參閱獨立的[資源監控](../optimieren/ressourcen-monitor.md)頁面。
 
-![Klacks Dashboard](/img/app-dashboard-de.png)
+![Klacks 儀表板](/img/app-dashboard-de.png)
 
 ---
 *立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

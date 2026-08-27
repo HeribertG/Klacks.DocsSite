@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Ennen kuin työvuoro voidaan ylipäätään miehittää, se käy läpi neljä vaihetta — vapaasti muokattavasta tilauksesta muuttumattoman sinetöidyn tilauksen kautta suunniteltavaan työvuoroon ja sen segmentteihin. Ajatus tämän takana: se, mistä on sovittu, pysyy pysyvästi jälkikäteen luettavissa; se, mitä arki sen jälkeen suunnittelee uudelleen, pysyy silti liikuteltavana.
 
+Työvuoro ei tällöin ole välttämättä sidoksissa tilaukseen — Klacks kuvaa yhtä lailla sisäisiä, säännöllisiä työvuoroja ilman asiakasyhteyttä kuin monimutkaisia tilauksia, joissa on useita toimituksia, tai useiksi säiliön segmenteiksi pilkottuja toimeksiantoja.
+
 ## Näin se toimii
 
 **1. Tilaus — vapaasti muokattavissa.** Jokainen uusi työvuoro alkaa täältä. Työvuoro-sivulla painike **+ uusi tilaus** avaa syöttölomakkeen; muokkaat tilausta niin usein kuin haluat, kaikki kentät ovat avoinna. Työvuorosuunnitelmassa se ei vielä näy, eikä siihen näin ollen voi vielä suunnitella työntekijöitä. Pelkkä luonnos se ei silti ole — se on aito tilaus, vain vielä sinetöimätön. Työvuorolistalla Klacks pitää tätä vaihetta otsikon **Tilaukset** alla. Kun vaihdat siellä näkymään **Suunniteltavat työvuorot**, painike on nimeltään **+ uusi työvuoro**: se luo tilauksen ilman asiakasyhteyttä — yleistä työtä varten, jota kukaan ulkopuolinen ei tilaa eikä maksa. Kortti *Osoite* jää tällöin pois; myös tämä työvuoro käy läpi kaikki neljä vaihetta.
@@ -33,7 +35,7 @@ Ennen kuin työvuoro voidaan ylipäätään miehittää, se käy läpi neljä va
 - **Erityispiirteet** (asiantuntijatila) — satunnainen käyttö jaksottaisuuksineen, briefing ja debriefing, meno- ja paluumatka-aika sekä työntekijöiden ja tehtävien määrä työvuoroa kohden.
 - **Vakiokulut** (asiantuntijatila) — kulut, joita tälle työvuorolle syntyy säännöllisesti, kunkin kohdalla nimike, summa ja tieto siitä, onko se verovelvollinen.
 
-Miten suunniteltavat työvuorot sen jälkeen miehitetään, kuvaavat [Automaattisuunnittelu: valmis suunnitelma sekunneissa](../planen/auto-planung.md) ja [Suunnitteluruudukko: interaktiivinen aikamatriisinne](../planen/plan-raster.md).
+Miten suunniteltavat työvuorot sen jälkeen miehitetään, kuvaavat [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md) ja [Suunnitteluruudukko: interaktiivinen aikamatriisinne](../planen/plan-raster.md).
 
 ## Hyvä tietää
 

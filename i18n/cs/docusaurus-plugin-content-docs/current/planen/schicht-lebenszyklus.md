@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Než může být služba vůbec obsazena, projde čtyřmi stupni — od volně upravitelné objednávky přes neměnnou zapečetěnou objednávku k plánovatelné službě a jejím segmentům. Smysl je v tom: co bylo dohodnuto, zůstává trvale dohledatelné; co běžný provoz poté přeplánuje, zůstává přesto pohyblivé.
 
+Služba přitom není nutně vázána na objednávku — Klacks stejně dobře zachycuje interní, pravidelné služby bez vazby na zákazníka jako komplexní objednávky s mnoha dodávkami nebo nasazení rozdělená do několika kontejnerových dílčích služeb.
+
 ## Jak to funguje
 
 **1. Objednávka — volně upravitelná.** Každá nová služba začíná zde. Na stránce služeb otevře tlačítko **+ nová objednávka** zadávací masku; objednávku upravujete, kolikrát chcete, všechna pole jsou otevřená. V plánu se ještě neobjevuje, a tudíž na ni ani nelze naplánovat zaměstnance. Přesto to není pouhý náčrt — je to skutečná objednávka, jen ještě nezapečetěná. V seznamu služeb vede Klacks tento stupeň pod **Objednávky**. Přepnete-li tam na **Plánovatelné služby**, tlačítko se jmenuje **+ nová služba**: založí objednávku bez vazby na zákazníka — pro obecnou práci, kterou nikdo externě neobjednává a neplatí. Karta *Adresa* pak odpadá; i tato služba prochází čtyřmi stupni.
@@ -33,7 +35,7 @@ Než může být služba vůbec obsazena, projde čtyřmi stupni — od volně u
 - **Speciální vlastnosti** (expertní režim) — sporadické nasazení včetně periodicity, briefing a debriefing, čas na cestu tam a zpět a počet zaměstnanců a úkolů na směnu.
 - **Standardní výdaje** (expertní režim) — výdaje, které u této služby pravidelně vznikají, vždy s označením, částkou a údajem, zda podléhají dani.
 
-Jak se plánovatelné služby následně obsazují, popisují [Automatické plánování: Plán během sekund](../planen/auto-planung.md) a [Plánovací mřížka: vaše interaktivní časová matice](../planen/plan-raster.md).
+Jak se plánovatelné služby následně obsazují, popisují [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](../planen/auto-planung.md) a [Plánovací mřížka: vaše interaktivní časová matice](../planen/plan-raster.md).
 
 ## Dobré vědět
 

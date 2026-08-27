@@ -22,7 +22,7 @@ sidebar_position: 5
 - 「覆盖率与确认」中的数字始终针对当前月份，没有可自由选择的时间段。
 - 关于资源监控中人力过剩与不足的解读，值得参考专门的 [资源监控](../optimieren/ressourcen-monitor.md) 页面。
 
-![Klacks Dashboard](/img/app-dashboard-de.png)
+![Klacks 仪表盘](/img/app-dashboard-de.png)
 
 ---
 *立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

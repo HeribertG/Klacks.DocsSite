@@ -18,7 +18,7 @@ Trucul din spate: fișele de plan păstrează **referințe, nu copii**. Un servi
 
 - Angajamentele dintr-o altă zonă ale unei persoane partajate apar în subplan ca intrări blocate — astfel fiecare planificatoare vede când „oamenii ei" sunt ocupați în altă parte, fără a putea modifica planurile altora.
 - Vizibilitatea subplanurilor se controlează prin drepturi de acces bazate pe grupuri.
-- Planificarea modulară și [Planificare automată: planul în câteva secunde](../planen/auto-planung.md) se completează reciproc: fiecare zonă poate fi planificată automat pe cont propriu.
+- Planificarea modulară și [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md) se completează reciproc: fiecare zonă poate fi planificată automat pe cont propriu.
 
 ---
 *Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

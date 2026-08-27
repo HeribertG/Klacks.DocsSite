@@ -18,7 +18,7 @@ Rahsianya: helaian Jadual menyimpan **rujukan, bukan salinan**. Satu Tugasan han
 
 - Tugasan di luar bahagian bagi seseorang yang dikongsi akan muncul dalam Jadual separa sebagai entri yang dikunci — dengan cara ini setiap perancang dapat melihat bila "orangnya" terikat di tempat lain, tanpa dapat mengubah Jadual bahagian lain.
 - Keterlihatan Jadual separa dikawal melalui hak akses berasaskan Kumpulan.
-- Perancangan Modular dan [Auto-Perancangan: Jadual dalam Beberapa Saat](../planen/auto-planung.md) saling melengkapi: setiap bahagian boleh dijadualkan secara automatik secara berasingan.
+- Perancangan Modular dan [Auto-Perancangan: Satu Klik, Selebihnya Berjalan di Latar Belakang](../planen/auto-planung.md) saling melengkapi: setiap bahagian boleh dijadualkan secara automatik secara berasingan.
 
 ---
 *Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -11,7 +11,7 @@ Vacaciones, enfermedad, formación continua, servicio militar — quién falta y
 - Cada ausencia aparece como una barra de color en el eje temporal de la persona correspondiente — las superposiciones y acumulaciones saltan a la vista de inmediato.
 - **Tipos de ausencia propios** los define usted mismo, con color y comportamiento (remunerada/no remunerada, con/sin efecto en horas).
 - La exportación como **PDF** se logra con un clic — práctico para avisos o archivo.
-- Las ausencias repercuten directamente en la planificación: quien falta no es asignado por la [Planificación automática: el plan en segundos](../planen/auto-planung.md), y en [La cuadrícula del plan: su matriz de tiempo interactiva](../planen/plan-raster.md) el conflicto se ve de inmediato.
+- Las ausencias repercuten directamente en la planificación: quien falta no es asignado por la [Planificación automática: un clic, el resto se ejecuta en segundo plano](../planen/auto-planung.md), y en [La cuadrícula del plan: su matriz de tiempo interactiva](../planen/plan-raster.md) el conflicto se ve de inmediato.
 
 ## Bueno saberlo
 

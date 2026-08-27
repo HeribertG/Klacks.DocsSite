@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks si vyzkoušíte za minutu — a nainstalujete ho za pár minut. Žádná registrace, žádné prodejní hovory.
 
-## Varianta 1: Playground (nic neinstalujete)
+## Playground: prostor pro seznámení
 
-Veřejná instance Klacks s ukázkovými daty běží na adrese **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground není varianta instalace, ale veřejná instance Klacks s ukázkovými daty k nezávaznému vyzkoušení — odtud ten název. Běží na adrese **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Přihlášení:** `admin@test.com` · **Heslo:** `P@ssw0rt1`
 - Máte plná administrátorská práva — vyzkoušejte si vše.
 - Všechna data se **denně automaticky resetují**. Nezadávejte žádné skutečné osobní údaje.
 
-## Varianta 2: Na vlastním serveru (On-Premise)
+## Instalace: Na vlastním serveru (On-Premise)
 
 On-Premise balíček obsahuje vše: Docker images, instalátor, databázi, HTTPS a automatické aktualizace.
 

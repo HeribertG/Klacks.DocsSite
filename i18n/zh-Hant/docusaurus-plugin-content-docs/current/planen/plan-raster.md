@@ -19,7 +19,7 @@ sidebar_position: 2
 - 網格與自動排班可以搭配使用：先讓系統自動填入，再手動微調細節。
 - 依各條目所處的核准階段不同，編輯功能可能會被鎖定 — 詳見[核准流程：從草稿到具約束力的排班表](../planen/freigabe-workflow.md)。
 
-![Klacks Dienstplan-Raster](/img/app-schedule-de.png)
+![Klacks 排班網格](/img/app-schedule-de.png)
 
 ---
 *立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

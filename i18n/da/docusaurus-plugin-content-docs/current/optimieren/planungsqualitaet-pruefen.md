@@ -18,7 +18,7 @@ De tre rapporter vises i dialogen for den pågældende planlægningsassistent �
 
 **Oversprungne placeringer** findes kun ved assistenten til vagtplanlægningen, ligeledes efter overtagelsen — og gennemgående røde. Kolonner: dato, medarbejder, vagt, årsag. Her står ikke, hvad der blev planlagt, men hvad Klacks bevidst **ikke** har skrevet: tildelinger, som ville have overtrådt en regel, der føres i blokeringstilstand. Årsagen vises som en kort kategori ("Hviletid for kort", "For mange sammenhængende arbejdsdage", "Tidskollision" …). Afhængigt af situationen tilbyder Klacks berettigede personer her at overtage forløbet med override alligevel; alle andre får en besked om at gentage assistenten med override aktiveret eller bede en berettiget person om det. Hver override registreres.
 
-Hvilke regler der kontrolleres, og hvor strengt de gælder, fastlægger du i [planlægningsreglerne](../planen/planungsregeln.md); hvordan planen overhovedet opstår, beskriver [Auto-planlægning: Planen på få sekunder](../planen/auto-planung.md).
+Hvilke regler der kontrolleres, og hvor strengt de gælder, fastlægger du i [planlægningsreglerne](../planen/planungsregeln.md); hvordan planen overhovedet opstår, beskriver [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md).
 
 ## Godt at vide
 

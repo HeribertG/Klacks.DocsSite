@@ -8,7 +8,7 @@ Quy tắc lập kế hoạch xác định các điều kiện khung cho việc l
 
 ## Cách hoạt động
 
-Một quy tắc lập kế hoạch được gán cho một **hợp đồng**. Các giá trị giới hạn được xác định sẽ áp dụng cho tất cả nhân viên có hợp đồng này. Mỗi quy tắc bao gồm bốn phần:
+Một quy tắc lập kế hoạch được gán cho một **hợp đồng**. Các giá trị giới hạn được xác định sẽ áp dụng cho tất cả nhân viên có hợp đồng này. Mỗi quy tắc bao gồm ba phần:
 
 **Ngày làm việc & thời gian nghỉ ngơi**
 - Số ngày làm việc tối đa: quy tắc mềm cho độ dài khối làm việc được ưu tiên, trước khi một ngày nghỉ được xếp lịch (ví dụ „làm việc 5 ngày, sau đó nghỉ") — vi phạm quy tắc này không làm cho kế hoạch không hợp lệ, chỉ là kém tối ưu hơn
@@ -27,12 +27,10 @@ Một quy tắc lập kế hoạch được gán cho một **hợp đồng**. C�
 - Số giờ tối thiểu và tối đa mỗi tháng
 - Số giờ toàn thời gian (số giờ hàng tháng tương ứng với một vị trí làm việc toàn thời gian)
 
-**Nghỉ phép**
-- Số ngày nghỉ phép mỗi năm dương lịch
-
 ## Điều cần biết
 
 - Khi tạo một quy tắc mới, **các giá trị mặc định từ phần cài đặt** (Quy tắc lập kế hoạch — Giá trị mặc định) sẽ tự động được áp dụng; sau đó bạn có thể điều chỉnh từng giá trị riêng lẻ theo ý muốn.
+- Trong quá trình thiết lập ban đầu, Klacks đề xuất một mẫu cho các giá trị này phù hợp với quốc gia và ngành (ngày lễ, phụ cấp, quy tắc lập kế hoạch); mẫu này chỉ là điểm khởi đầu — nó không được tự động cập nhật liên tục theo các thay đổi pháp luật và vẫn có thể được quản trị viên chỉnh sửa hoàn toàn.
 - Quy tắc lập kế hoạch hoạt động thông qua hợp đồng — bạn không cần phải duy trì chúng cho từng người. Nếu một quy tắc thay đổi, điều đó sẽ ảnh hưởng đến tất cả nhân viên có hợp đồng này.
 - Ngưỡng làm thêm giờ và giờ định mức là hai khái niệm khác nhau: giờ định mức là tiêu chuẩn mỗi ngày, còn ngưỡng làm thêm giờ là giá trị ngưỡng mỗi tuần.
 - „Số ngày làm việc tối đa" (ưu tiên mềm cho độ dài khối làm việc) và „Số ngày làm việc liên tiếp tối đa" (giới hạn cứng, không bao giờ được vượt quá) là hai quy tắc khác nhau — không nên nhầm lẫn.

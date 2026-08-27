@@ -18,7 +18,7 @@ Bí quyết đằng sau điều này: các bảng kế hoạch giữ **tham chi�
 
 - Các ca làm việc ở khu vực khác của một người được chia sẻ sẽ xuất hiện trong kế hoạch con dưới dạng các mục bị khóa — nhờ vậy mỗi người lập kế hoạch đều thấy được khi nào "người của mình" đang bận việc ở nơi khác, mà không thể thay đổi kế hoạch của người khác.
 - Bạn kiểm soát khả năng hiển thị của các kế hoạch con thông qua quyền truy cập dựa trên nhóm.
-- Lập kế hoạch theo mô-đun và [Tự động lập kế hoạch: Bản kế hoạch trong vài giây](../planen/auto-planung.md) bổ trợ cho nhau: mỗi khu vực có thể được lập kế hoạch tự động một cách độc lập.
+- Lập kế hoạch theo mô-đun và [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md) bổ trợ cho nhau: mỗi khu vực có thể được lập kế hoạch tự động một cách độc lập.
 
 ---
 *Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks 一分鐘內即可試用 — 安裝也只需幾分鐘。不需要註冊，也沒有任何銷售流程。
 
-## 方式一：Playground（不需安裝）
+## Playground：認識 Klacks 的遊樂場
 
-一個附帶範例資料的公開 Klacks 實例，運作於 **[klacks-software.ch](https://klacks-software.ch:7643)**：
+Playground 並不是一種安裝方式，而是一個附帶範例資料的公開 Klacks 實例，可以隨意試玩、不必拘謹 — 這正是它名稱的由來。它運作於 **[klacks-software.ch](https://klacks-software.ch:7643)**：
 
 - **登入：** `admin@test.com` · **密碼：** `P@ssw0rt1`
 - 您擁有完整的管理員權限 — 儘管嘗試所有功能。
 - 所有資料**每日會自動重置**。請勿輸入真實的個人資料。
 
-## 方式二：架設在自己的伺服器上（On-Premise 私有部署）
+## 安裝：架設在自己的伺服器上（On-Premise 私有部署）
 
 On-Premise 套件已包含所有必要元件：Docker 映像檔、安裝程式、資料庫、HTTPS 以及自動更新。
 

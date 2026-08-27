@@ -11,7 +11,7 @@ Vacances, maladie, formation continue, service militaire — qui est absent et q
 - Chaque absence apparaît comme une barre colorée sur la ligne du temps de la personne concernée — les chevauchements et les accumulations sautent immédiatement aux yeux.
 - **Vos propres types d'absence** : vous les définissez vous-même, avec une couleur et un comportement (payé/non payé, avec/sans incidence sur les heures).
 - L'export en **PDF** se fait en un clic — pratique pour les affichages ou les archives.
-- Les absences agissent directement sur la planification : une personne absente n'est pas prise en compte par l'[Auto-planification : le planning en quelques secondes](../planen/auto-planung.md), et dans la [Grille de planification : votre matrice de temps interactive](../planen/plan-raster.md), le conflit est immédiatement visible.
+- Les absences agissent directement sur la planification : une personne absente n'est pas prise en compte par la [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md), et dans la [Grille de planification : votre matrice de temps interactive](../planen/plan-raster.md), le conflit est immédiatement visible.
 
 ## Bon à savoir
 

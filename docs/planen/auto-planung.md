@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Auto-Planung: Der Plan in Sekunden
+# Auto-Planung: Ein Klick, der Rest läuft im Hintergrund
 
-Der mühsamste Teil der Dienstplanung — das Zuordnen von Menschen zu Schichten — erledigt Klacks auf Knopfdruck.
+Der mühsamste Teil der Dienstplanung — das Zuordnen von Menschen zu Schichten — erledigt Klacks auf Knopfdruck. Die Berechnung selbst braucht ihre Zeit, läuft aber im Hintergrund weiter: Sie müssen nicht warten und können sich in der Zwischenzeit anderen Dingen widmen.
 
 ## So funktioniert es
 
@@ -22,6 +22,7 @@ Sie starten die Auto-Planung direkt aus dem Dienstplan für den gewählten Zeitr
 - Qualifikationen wirken als echte Grenze: Wer eine geforderte Qualifikation nicht hat, wird nicht eingeplant.
 - Die Auto-Planung respektiert bereits vorhandene Einträge — Sie können also erst die Fixpunkte setzen und den Rest füllen lassen.
 - Gefällt ein Ergebnis nicht, planen Sie einfach erneut: Der Algorithmus findet gleichwertige Alternativen.
+- Sie können mehrere Szenarien parallel anlegen, ohne den bestehenden Plan zu verändern: Jedes Szenario ist eine eigene Was-wäre-wenn-Kopie, die Sie vergleichen, verwerfen oder übernehmen können. So sind Sie auf kurzfristige Umstellungen vorbereitet, statt erst dann neu zu rechnen.
 
 ![Klacks Dienstplan-Raster](/img/app-schedule-de.png)
 

@@ -23,7 +23,7 @@ Jede Stufe **sperrt die Bearbeitung** entsprechend: Was genehmigt ist, veränder
 
 ## Gut zu wissen
 
-- Die Sperren gelten überall — auch die [Auto-Planung: Der Plan in Sekunden](../planen/auto-planung.md) und [Klacksy](../ki/klacksy-ki-assistent.md) respektieren den Freigabestatus.
+- Die Sperren gelten überall — auch die [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md) und [Klacksy](../ki/klacksy-ki-assistent.md) respektieren den Freigabestatus.
 - Kurzfristige Änderungen nach der Freigabe (Krankheitsfälle!) laufen als bewusste, nachvollziehbare Korrekturen, nicht als stilles Umplanen.
 - Für den buchhalterischen Abschluss eines Monats gibt es zusätzlich den [Periodenabschluss](../planen/periodenabschluss.md).
 

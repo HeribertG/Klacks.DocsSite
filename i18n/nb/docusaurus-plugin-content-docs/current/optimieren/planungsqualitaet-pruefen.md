@@ -18,7 +18,7 @@ De tre rapportene vises i dialogen til den aktuelle planleggingsassistenten — 
 
 **Uteblitte plasseringer** finnes bare hos assistenten for skiftplanlegging, likeledes etter overtakelsen — og gjennomgående røde. Kolonner: dato, medarbeider, skift, årsak. Her står ikke hva som ble planlagt, men hva Klacks bevisst **ikke** har skrevet: tildelinger som ville ha brutt en regel som håndheves i Blokk-modus. Årsaken vises som en kort kategori («For kort hviletid», «For mange påfølgende arbeidsdager», «Tidskollisjon» …). Avhengig av situasjonen tilbyr Klacks berettigede personer muligheten til likevel å overta kjøringen med Override; alle andre får henvisningen om å gjenta assistenten med Override aktivert, eller be en berettiget person om det. Hver Override blir protokollført.
 
-Hvilke regler som sjekkes, og hvor strengt de gjelder, fastsetter du i [Planleggingsregler](../planen/planungsregeln.md); hvordan planen i det hele tatt oppstår, beskrives i [Autoplanlegging: Planen på sekunder](../planen/auto-planung.md).
+Hvilke regler som sjekkes, og hvor strengt de gjelder, fastsetter du i [Planleggingsregler](../planen/planungsregeln.md); hvordan planen i det hele tatt oppstår, beskrives i [Autoplanlegging: Ett klikk, resten kjører i bakgrunnen](../planen/auto-planung.md).
 
 ## Greit å vite
 

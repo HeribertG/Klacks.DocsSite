@@ -20,7 +20,7 @@ Statt zu raten, wer wann einsatzbereit ist, erfassen Sie es: Im Verfügbarkeits-
 - Ein Tag ohne jede Markierung bleibt komplett offen für die Planung. Sobald an einem Tag mindestens eine Stunde als verfügbar markiert ist, gilt dieser Tag als vollständig erfasst: Nur die markierten Stunden stehen für die Planung zur Verfügung, alle übrigen Stunden dieses Tages sind gesperrt.
 - Kundschaft erscheint im Raster nie — zu sehen sind ausschliesslich eigene und externe Mitarbeitende mit einer Mitgliedschaft im angezeigten Zeitraum.
 - Eine gebuchte Abwesenheit übersteuert die Verfügbarkeit vollständig — auch bei angehaktem Häkchen wird an diesem Tag nicht eingeplant.
-- Die erfassten Verfügbarkeiten fliessen direkt in die [Auto-Planung: Der Plan in Sekunden](../planen/auto-planung.md) ein: Der Algorithmus plant nur innerhalb der gemeldeten Zeiten.
+- Die erfassten Verfügbarkeiten fliessen direkt in die [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md) ein: Der Algorithmus plant nur innerhalb der gemeldeten Zeiten.
 
 ![Klacks Verfügbarkeits-Raster](/img/app-availability-de.png)
 

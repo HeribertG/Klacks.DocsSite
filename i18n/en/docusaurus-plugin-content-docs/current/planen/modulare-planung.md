@@ -18,7 +18,7 @@ The trick behind it: schedule sheets hold **references instead of copies**. A sh
 
 - A shared person's assignments from other areas appear in a sub-schedule as locked entries — so every planner can see when "their" people are committed elsewhere, without being able to change other schedules.
 - You control the visibility of sub-schedules via group-based access rights.
-- Modular planning and [Auto-Planning: A Schedule in Seconds](../planen/auto-planung.md) complement each other: each area can be auto-planned on its own.
+- Modular planning and [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md) complement each other: each area can be auto-planned on its own.
 
 ---
 *Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

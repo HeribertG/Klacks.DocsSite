@@ -6,15 +6,15 @@ sidebar_position: 1
 
 Klacks testar du på en minut — och installerar det på några minuter. Ingen registrering, inga säljsamtal.
 
-## Alternativ 1: Playground (installera ingenting)
+## Playground: lekplatsen för att lära känna Klacks
 
-En publik Klacks-instans med exempeldata körs på **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground är inget installationsalternativ utan en publik Klacks-instans med exempeldata för att leka runt utan förpliktelser — därav namnet. Den körs på **[klacks-software.ch](https://klacks-software.ch:7643)**:
 
 - **Login:** `admin@test.com` · **Lösenord:** `P@ssw0rt1`
 - Du har fulla admin-rättigheter — testa allt.
 - All data **återställs automatiskt dagligen**. Ange inga verkliga personuppgifter.
 
-## Alternativ 2: På egen server (on-premise)
+## Installation: På egen server (on-premise)
 
 On-premise-paketet innehåller allt: Docker-images, installationsprogram, databas, HTTPS och automatiska uppdateringar.
 

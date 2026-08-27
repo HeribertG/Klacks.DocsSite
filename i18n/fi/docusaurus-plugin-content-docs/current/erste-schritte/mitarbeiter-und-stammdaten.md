@@ -16,6 +16,8 @@ Osoite- ja henkilötietojen hallinta on perustietojesi ydin: henkilöstö, asiak
 
 **Sopimukset:** Jokaisella henkilöllä voi olla useita sopimuksia, esimerkiksi työajan muuttuessa. Sopimusmallit itsessään ovat vapaasti määriteltävissä: Asetukset > Sopimukset -kohdassa luot omat sopimukset nimineen, työajan prosenttiosuuksineen, tavoite-/enimmäis-/vähimmäistunteineen, lisineen (yö-, sunnuntai- ja pyhäpäivälisät) ja maksuväleineen; jokaiselle sopimukselle voidaan lisäksi liittää oma pyhäpäiväkalenteri, mikä mahdollistaa esimerkiksi kantonikohtaisesti vaihtelevien pyhäpäivien mallintamisen. Jokainen sopimus on voimassa joko määräajan tai toistaiseksi.
 
+**Pätevyydet:** Käytössä on koko yrityksen [Pätevyysluettelo](../einstellungen/stammdaten-organisation/qualifikationen.md), josta jokaiselle henkilölle voidaan liittää rajaton määrä pätevyyksiä, kullekin oma taso (Vähäinen–Asiantuntija). Työvuorot puolestaan voivat edellyttää pätevyyksiä tietyllä vähimmäistasolla — automaattisuunnittelu ottaa tämän huomioon miehitettäessä.
+
 **Tuonti:** Perustietojen CSV-tuontia ei ole. Olemassa olevat hakemistot otetaan käyttöön automaattisesti LDAP-/Active Directory -synkronoinnilla identiteetintarjoajan kautta; yksittäiset henkilöt luodaan manuaalisesti tai Klacksyn avulla.
 
 **Haku ja suodatus:** Vapaatekstihaku löytää henkilöt nimen, etunimen, yrityksen tai henkilönumeron sekä puhelinnumeron/postinumeron perusteella; lisäksi voit suodattaa kantonin, tilan (Aktiiviset/Entiset/Tulevat) ja ryhmän mukaan.

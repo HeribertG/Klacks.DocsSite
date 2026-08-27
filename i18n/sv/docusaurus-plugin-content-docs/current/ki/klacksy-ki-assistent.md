@@ -8,7 +8,7 @@ sidebar_position: 7
 
 ## Så fungerar det
 
-Klacksy förstår dina önskemål och omsätter dem i konkreta åtgärder — över **250 förmågor** står redo:
+Klacksy förstår dina önskemål och omsätter dem i konkreta åtgärder — över **300 förmågor** står redo:
 
 - **Planera:** Fylla skift, ersätta bortfall, boka om arbetspass
 - **Hantera:** Skapa medarbetare, underhålla grupper, sätta behörigheter

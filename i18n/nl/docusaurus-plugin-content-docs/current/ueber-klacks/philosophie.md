@@ -20,11 +20,11 @@ Klacks is open source onder de MIT-licentie — backend, frontend en Docker-imag
 
 ## Voor wie dit gemaakt is
 
-Klacks richt zich op organisaties met ploegendienst- en inzetplanning die deze drie punten serieus nemen — met name thuiszorgorganisaties, ziekenhuizen, beveiligingsdiensten, schoonmaak- en logistiekbedrijven. De gemeenschappelijke noemer: 24/7-dekking, complexe eisen aan rusttijden en kwalificaties, en een eis aan gegevensbescherming waaraan een inwisselbare cloudoplossing niet altijd kan voldoen.
+Klacks beeldt elke vorm van ploegendienst- en inzetplanning af — van regelmatige, eenvoudige diensten tot complexe diensten met veel leveringen of in deelstukken opgesplitste opdrachten. Een dienst is daarbij niet noodzakelijk aan een bestelling gebonden. Klacks past bijzonder goed bij organisaties die deze drie punten serieus nemen — met name thuiszorgorganisaties, ziekenhuizen, beveiligingsdiensten, schoonmaak- en logistiekbedrijven, evenals hotel- en horecabedrijven. De gemeenschappelijke noemer daar: 24/7-dekking, complexe eisen aan rusttijden en kwalificaties, en een eis aan gegevensbescherming waaraan een inwisselbare cloudoplossing niet altijd kan voldoen.
 
 ## Wat dit in de praktijk betekent
 
-- U kunt Klacks gratis uitproberen in de [playground](https://klacks-software.ch:7643), zonder registratie of verkoopgesprek.
+- Klacks is altijd en voor iedereen volledig gratis — geen registratie, geen verkoopgesprek. De [playground](https://klacks-software.ch:7643) is slechts een manier om vrijblijvend te komen kijken en vertrouwd te raken met de bediening.
 - U kunt het met een on-premise-pakket (Docker-images, installatieprogramma, database, HTTPS, automatische updates) op uw eigen server draaien.
 - U kunt de broncode inzien en zelf wijzigingen aanbrengen — Klacks blijft van u, ook als u het verder ontwikkelt.
 

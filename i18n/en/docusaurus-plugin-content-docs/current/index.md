@@ -31,7 +31,7 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 - [Your Dashboard: Everything at a Glance](./erste-schritte/ihr-dashboard.md) — Klacks' home page with four reorderable sections: Overview, Coverage & Confirmation, Resources and Locations
 
 **Scheduling**
-- [Auto-Planning: A Schedule in Seconds](./planen/auto-planung.md) — A full schedule in seconds, with one click
+- [Auto-Planning: One Click, the Rest Runs in the Background](./planen/auto-planung.md) — Calculation runs in the background, while you take care of other things
 - [The Schedule Grid: Your Interactive Time Matrix](./planen/plan-raster.md) — The interactive time matrix with drag & drop
 - [Modular Planning: Divide and Conquer](./planen/modulare-planung.md) — Split large schedules without double bookings
 - [Approval Workflow: From Draft to Binding Schedule](./planen/freigabe-workflow.md) — From draft to sealed schedule

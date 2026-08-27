@@ -13,7 +13,7 @@ Plán prochází čtyřmi stupni:
 1. **Návrh** — pracovní fáze: vše se ještě může měnit
 2. **Potvrzeno** — plán je odborně hotový; změny probíhají jen kontrolovaně
 3. **Schváleno** — zodpovědné místo dalo souhlas
-4. **Uzavřeno** — plán je zapečetěn a závazný
+4. **Uzavřeno** — plán je zapečetěn a závazný pro provoz; účetní vyúčtování probíhá odděleně přes [Uzávěrku období](../planen/periodenabschluss.md)
 
 Každý stupeň odpovídajícím způsobem **uzamyká úpravy**: co je schváleno, už nikdo omylem nezmění přetažením myší. Kdo smí který stupeň nastavit, je jasně upraveno:
 
@@ -23,7 +23,7 @@ Každý stupeň odpovídajícím způsobem **uzamyká úpravy**: co je schválen
 
 ## Dobré vědět
 
-- Zámky platí všude — i [Automatické plánování: Plán během sekund](../planen/auto-planung.md) a [Klacksy](../ki/klacksy-ki-assistent.md) respektují stav schválení.
+- Zámky platí všude — i [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](../planen/auto-planung.md) a [Klacksy](../ki/klacksy-ki-assistent.md) respektují stav schválení.
 - Krátkodobé změny po schválení (případy nemoci!) probíhají jako vědomé, dohledatelné opravy, nikoli jako tiché přeplánování.
 - Pro účetní uzávěrku měsíce slouží navíc [Uzávěrka období](../planen/periodenabschluss.md).
 

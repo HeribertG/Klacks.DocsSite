@@ -16,6 +16,8 @@ Administrarea adreselor și persoanelor este elementul central al datelor dumnea
 
 **Contracte:** Fiecare persoană poate avea mai multe contracte, de exemplu în cazul unei schimbări de normă. Modelele de contract în sine sunt definibile liber: sub Setări > Contracte creați propriile contracte cu nume, normă, ore țintă/maxime/minime, sporuri (noapte, duminică și sărbătoare) și interval de plată; fiecărui contract i se poate atribui suplimentar un calendar propriu de sărbători, permițând astfel reprezentarea, de exemplu, a sărbătorilor diferite de la un canton la altul. Fiecare contract este valabil pe o perioadă limitată sau nelimitată.
 
+**Calificări:** Fiecărei persoane i se pot atribui oricâte calificări din [Catalogul de calificări](../einstellungen/stammdaten-organisation/qualifikationen.md) valabil în cadrul companiei, fiecare cu un nivel (Redus până la Expert). Invers, turele pot solicita calificări cu nivel minim — planificarea automată ține cont de acest lucru la ocupare.
+
 **Import:** Nu există un import CSV pentru datele de bază. Directoarele existente sunt preluate automat prin sincronizare LDAP/Active Directory via un Identity Provider; persoanele individuale se creează manual sau prin Klacksy.
 
 **Căutare și filtrare:** Căutarea text liber găsește persoane după nume, prenume, firmă sau număr de personal, precum și după numărul de telefon/cod poștal; suplimentar puteți filtra după canton, status (Activi/Foști/Viitori) și grup.

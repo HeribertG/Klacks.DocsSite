@@ -18,7 +18,7 @@ Tři přehledy se zobrazují v dialogu příslušného plánovacího asistenta �
 
 **Přeskočená umístění** existují pouze u asistenta pro plánování služeb, rovněž po převzetí — a jsou vždy červená. Sloupce: Datum, Zaměstnanec, Služba, Důvod. Zde není uvedeno, co bylo naplánováno, ale co Klacks vědomě **nezapsal**: přiřazení, která by porušila pravidlo vedené v blokovacím režimu. Důvod se zobrazuje jako krátká kategorie („Příliš krátká doba odpočinku", „Příliš mnoho po sobě jdoucích pracovních dnů", „Časová kolize" …). Podle situace nabízí Klacks oprávněným osobám pod tím možnost běh přesto převzít pomocí override; všichni ostatní dostanou pokyn zopakovat asistenta s aktivovaným override nebo o to požádat oprávněnou osobu. Každý override se zaznamenává.
 
-Která pravidla se kontrolují a jak přísně platí, stanovíte v [Plánovací pravidla](../planen/planungsregeln.md); jak plán vůbec vzniká, popisuje [Automatické plánování: Plán během sekund](../planen/auto-planung.md).
+Která pravidla se kontrolují a jak přísně platí, stanovíte v [Plánovací pravidla](../planen/planungsregeln.md); jak plán vůbec vzniká, popisuje [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](../planen/auto-planung.md).
 
 ## Dobré vědět
 
