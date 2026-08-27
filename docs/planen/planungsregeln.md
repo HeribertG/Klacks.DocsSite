@@ -8,7 +8,7 @@ Planungsregeln definieren die Rahmenbedingungen für die automatische Dienstplan
 
 ## So funktioniert es
 
-Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte gelten damit für alle Mitarbeitenden mit diesem Vertrag. Jede Regel umfasst vier Bereiche:
+Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte gelten damit für alle Mitarbeitenden mit diesem Vertrag. Jede Regel umfasst drei Bereiche:
 
 **Arbeitstage & Ruhezeiten**
 - Max. Arbeitstage: weiche Regel für die bevorzugte Blocklänge, bevor ein Ruhetag eingeplant wird (z. B. „5 Tage arbeiten, dann Ruhe") — ein Verstoss macht den Plan nicht ungültig, nur weniger optimal
@@ -27,12 +27,10 @@ Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte
 - Minimale und maximale Stunden pro Monat
 - Vollzeit-Stunden (monatliche Stundenzahl, die einer Vollzeitbeschäftigung entspricht)
 
-**Urlaub**
-- Urlaubstage pro Kalenderjahr
-
 ## Gut zu wissen
 
 - Beim Erstellen einer neuen Regel werden die **Standardwerte aus den Einstellungen** (Planungsregeln — Standardwerte) automatisch übernommen; Sie können jeden Wert anschliessend individuell anpassen.
+- Bei der Ersteinrichtung schlägt Klacks passend zu Land und Branche eine Vorlage für diese Werte vor (Feiertage, Zuschläge, Planungsregeln); die Vorlage ist ein Startpunkt — sie wird nicht laufend automatisch an Gesetzesänderungen angepasst und bleibt vollständig durch den Admin editierbar.
 - Planungsregeln wirken über den Vertrag — Sie müssen sie nicht pro Person pflegen. Ändert sich eine Regel, betrifft das alle Mitarbeitenden mit diesem Vertrag.
 - Die Überstundengrenze und die Sollzeit sind zwei verschiedene Dinge: Die Sollzeit ist der Standard pro Tag, die Überstundengrenze der Schwellwert pro Woche.
 - "Max. Arbeitstage" (weiche Vorliebe für die Blocklänge) und "Max. aufeinanderfolgende Arbeitstage" (harte, nie überschreitbare Obergrenze) sind zwei unterschiedliche Regeln — nicht verwechseln.

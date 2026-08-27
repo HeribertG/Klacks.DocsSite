@@ -16,6 +16,8 @@ Die Adress- und Personenverwaltung ist das Herzstück Ihrer Stammdaten: Mitarbei
 
 **Verträge:** Jede Person kann mehrere Verträge haben, z. B. bei einem Pensum-Wechsel. Die Vertragsvorlagen selbst sind frei definierbar: Unter Einstellungen > Verträge legen Sie eigene Verträge mit Namen, Pensum, Soll-/Maximal-/Minimalstunden, Zuschlägen (Nacht-, Sonn- und Feiertag) und Zahlungsintervall an; jedem Vertrag lässt sich zusätzlich ein eigener Feiertagskalender zuordnen, wodurch sich z. B. kantonal unterschiedliche Feiertage abbilden lassen. Jeder Vertrag gilt zeitlich begrenzt oder unbefristet.
 
+**Qualifikationen:** Jeder Person lassen sich beliebig viele Qualifikationen aus dem unternehmensweiten [Qualifikationskatalog](../einstellungen/stammdaten-organisation/qualifikationen.md) zuordnen, jeweils mit einer Stufe (Gering bis Experte). Dienste können umgekehrt Qualifikationen mit Mindeststufe verlangen — die Auto-Planung berücksichtigt das beim Besetzen.
+
 **Import:** Ein CSV-Import für Stammdaten existiert nicht. Bestehende Verzeichnisse übernehmen Sie automatisch per LDAP-/Active-Directory-Synchronisation über einen Identity Provider; einzelne Personen legen Sie manuell oder per Klacksy an.
 
 **Suchen und Filtern:** Die Freitextsuche findet Personen nach Name, Vorname, Firma oder Personalnummer sowie über Telefonnummer/PLZ; zusätzlich können Sie nach Kanton, Status (Aktive/Ehemalige/Zukünftige) und Gruppe filtern.

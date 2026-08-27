@@ -13,7 +13,7 @@ Der Plan wandert durch vier Stufen:
 1. **Entwurf** — die Arbeitsphase: alles darf sich noch ändern
 2. **Bestätigt** — der Plan steht fachlich; Änderungen nur noch kontrolliert
 3. **Genehmigt** — die verantwortliche Stelle hat freigegeben
-4. **Abgeschlossen** — der Plan ist versiegelt und verbindlich
+4. **Abgeschlossen** — der Plan ist versiegelt und für den Betrieb verbindlich; die buchhalterische Abrechnung läuft separat über den [Periodenabschluss](../planen/periodenabschluss.md)
 
 Jede Stufe **sperrt die Bearbeitung** entsprechend: Was genehmigt ist, verändert niemand mehr versehentlich per Drag & Drop. Wer welche Stufe setzen darf, ist klar geregelt:
 

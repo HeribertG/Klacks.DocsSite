@@ -20,11 +20,11 @@ Klacks ist quelloffen unter MIT-Lizenz — Backend, Frontend und Docker-Images s
 
 ## Für wen das gemacht ist
 
-Klacks richtet sich an Betriebe mit Schicht- und Einsatzplanung, die diese drei Punkte ernst nehmen — insbesondere Spitex-Organisationen, Spitäler, Sicherheitsdienste, Reinigungs- und Logistikbetriebe. Der gemeinsame Nenner: 24/7-Abdeckung, komplexe Ruhezeit- und Qualifikationsanforderungen und ein Anspruch an Datenschutz, den eine austauschbare Cloud-Lösung nicht immer erfüllen kann.
+Klacks bildet jede Art von Schicht- und Einsatzplanung ab — von regelmässigen, einfachen Diensten bis zu komplexen Diensten mit vielen Auslieferungen oder in Teilstücke (Container etc.) zerlegten Aufträgen. Ein Dienst ist dabei nicht zwingend an eine Bestellung gebunden. Besonders gut passt Klacks zu Betrieben, die diese drei Punkte ernst nehmen — insbesondere Spitex-Organisationen, Spitäler, Sicherheitsdienste, Reinigungs- und Logistikbetriebe. Der gemeinsame Nenner dort: 24/7-Abdeckung, komplexe Ruhezeit- und Qualifikationsanforderungen und ein Anspruch an Datenschutz, den eine austauschbare Cloud-Lösung nicht immer erfüllen kann.
 
 ## Was das praktisch bedeutet
 
-- Sie können Klacks kostenlos im [Playground](https://klacks-software.ch:7643) ausprobieren, ohne Registrierung oder Verkaufsgespräch.
+- Klacks ist immer und für jeden vollständig kostenlos — keine Registrierung, kein Verkaufsgespräch. Der [Playground](https://klacks-software.ch:7643) ist lediglich eine Möglichkeit, unverbindlich hineinzuschnuppern und sich mit der Bedienung vertraut zu machen.
 - Sie können es mit einem On-Premise-Paket (Docker-Images, Installer, Datenbank, HTTPS, automatische Updates) auf Ihrem eigenen Server betreiben.
 - Sie können den Quellcode einsehen und selbst Änderungen vornehmen — Klacks bleibt Ihres, auch wenn Sie es weiterentwickeln.
 

@@ -6,6 +6,8 @@ sidebar_position: 8
 
 Bevor ein Dienst überhaupt besetzt werden kann, durchläuft er vier Stufen — vom frei bearbeitbaren Auftrag über den unveränderlichen versiegelten Auftrag zum planbaren Dienst und dessen Teilstücken. Der Sinn dahinter: Was vereinbart wurde, bleibt dauerhaft nachlesbar; was der Alltag danach umplant, bleibt trotzdem beweglich.
 
+Ein Dienst ist dabei nicht zwingend an eine Bestellung gebunden — Klacks bildet ebenso interne, regelmässige Dienste ohne Kundenbezug ab wie komplexe Aufträge mit vielen Auslieferungen oder in mehrere Container-Teilstücke zerlegte Einsätze.
+
 ## So funktioniert es
 
 **1. Auftrag — frei bearbeitbar.** Jeder neue Dienst beginnt hier. Auf der Dienste-Seite öffnet der Button **+ neue Bestellung** die Erfassungsmaske; Sie überarbeiten den Auftrag, so oft Sie wollen, alle Felder stehen offen. Im Einsatzplan erscheint er noch nicht, und damit lassen sich auch keine Mitarbeitenden darauf einplanen. Eine blosse Skizze ist er trotzdem nicht — er ist ein echter Auftrag, nur eben noch nicht versiegelt. In der Dienste-Liste führt Klacks diese Stufe unter **Bestellungen**. Wechseln Sie dort auf **Planbare Dienste**, heisst der Button **+ neuer Dienst**: Er legt einen Auftrag ohne Kundenbezug an — für allgemeine Arbeit, die niemand extern beauftragt und bezahlt. Die Karte *Adresse* entfällt dann; die vier Stufen durchläuft auch dieser Dienst.

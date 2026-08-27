@@ -11,7 +11,7 @@ Statt zu raten, wer wann einsatzbereit ist, erfassen Sie es: Im Verfügbarkeits-
 - **Periodennavigation:** Die Pfeile blättern eine Periode zurück oder vor, der Perioden-Button öffnet einen Mini-Kalender zum direkten Springen. Wie lang eine Periode ist — Woche, 2 Wochen oder Monat — bestimmt automatisch das Zahlungsintervall der gewählten Gruppe.
 - **Stunden-Granularität wählbar:** Ein Schieberegler stellt die Feinheit der Spalten ein: 1 Stunde, 2 Stunden, 4 Stunden, Vormittag/Nachmittag oder ganzer Tag. Ein Klick auf eine gröbere Zelle setzt alle darunterliegenden Stunden gemeinsam.
 - **Zeilenkopf mit Sortierung und Filter:** Die Mitarbeiterliste links lässt sich nach Vorname, Name, Firma oder vertraglich garantierten Stunden sortieren und per Checkbox auf eigene bzw. externe Mitarbeitende eingrenzen; das Suchfeld der Kopfleiste filtert zusätzlich nach Name oder ID-Nummer.
-- **Farbcodierung:** Samstage, Sonntage und Feiertage erhalten eigene Hintergrundfarben, sodass Wochenenden und arbeitsfreie Tage sofort auffallen.
+- **Farbcodierung:** Die definierten Wochenendtage und Feiertage erhalten eigene Hintergrundfarben, sodass arbeitsfreie Tage sofort auffallen. Welche Wochentage als Wochenende gelten, ist konfigurierbar — nicht überall sind das Samstag und Sonntag (z. B. Sabbat oder andere landesspezifische Ruhetage).
 - **Bearbeitung per Maus oder Tastatur:** Ein Klick schaltet eine Zelle um, Ziehen mit gedrückter Maustaste markiert mehrere Zellen auf einmal; mit den Pfeiltasten navigieren Sie ebenso durchs Raster und bestätigen mit Leertaste oder Enter.
 - **Automatisches Speichern:** Es gibt keinen Speichern-Button — Änderungen werden rund eine Sekunde nach der letzten Eingabe automatisch gespeichert.
 
