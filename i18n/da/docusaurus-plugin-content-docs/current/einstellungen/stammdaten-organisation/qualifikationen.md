@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Kvalifikationskatalog
+
 Under Indstillinger > Organisation > Kvalifikationer vedligeholder du kataloget over alle kvalifikationer, som kan tildeles medarbejdere og kunder i virksomheden — fra sprogkundskaber til branchespecifikke fagkvalifikationer.
 
 ## Sådan fungerer det

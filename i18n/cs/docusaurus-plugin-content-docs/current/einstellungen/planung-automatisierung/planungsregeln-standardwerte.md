@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Výchozí hodnoty plánovacích pravidel
+
 V nastavení Nastavení > Pravidla plánování (výchozí hodnoty) určujete hodnoty, kterými se automaticky předvyplní nová smlouva, resp. nové pravidlo plánování při jejich vytvoření.
 
 ## Jak to funguje

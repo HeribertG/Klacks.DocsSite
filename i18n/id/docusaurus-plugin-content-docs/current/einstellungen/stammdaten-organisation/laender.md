@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Negara
+
 Di Pengaturan > Organisasi > Negara, Anda mengelola daftar negara yang tersedia untuk dipilih di Klacks — misalnya pada Alamat Sekretariat.
 
 ## Cara kerjanya

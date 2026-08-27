@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Pemantau Sumber
+
 Pemantau Sumber menunjukkan pada pandangan sekali imbas bagaimana keadaan penggunaan tenaga kerja sesuatu Kumpulan (atau semua Kumpulan) dalam tahun yang dipilih — satu bar bagi setiap hari, sepanjang 365 hari keseluruhan perjalanan tahun.
 
 ## Cara Ia Berfungsi

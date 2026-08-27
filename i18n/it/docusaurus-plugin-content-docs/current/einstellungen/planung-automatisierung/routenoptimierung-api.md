@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API di ottimizzazione dei percorsi
+
 In Impostazioni > OpenRoute inserite la chiave API per il servizio esterno openrouteservice.org, che Klacks utilizza per l'ottimizzazione dei percorsi.
 
 ## Come funziona

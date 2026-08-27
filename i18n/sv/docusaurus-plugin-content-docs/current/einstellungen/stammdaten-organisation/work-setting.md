@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Grundinställningar för arbete
+
 Under Inställningar > Arbetstid & Planering > Planerings-grundinställningar anger du de företagsövergripande standardvärdena för semester, avtalstider, tillägg och synligheten av schemat.
 
 ## Så fungerar det

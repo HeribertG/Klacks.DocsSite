@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP-övertagningspunkter
+
 Under Inställningar > ERP-övertagandepunkter konfigurerar du hur beställningar från ett externt ERP-system som XML-filer automatiskt tas över i Klacks.
 
 ## Så fungerar det

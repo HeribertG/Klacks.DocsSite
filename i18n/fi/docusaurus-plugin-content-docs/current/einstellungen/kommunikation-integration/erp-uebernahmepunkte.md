@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP-siirtopisteet
+
 Kohdassa Asetukset > ERP-vastaanottopisteet määrität, miten ulkoisesta ERP-järjestelmästä tulevat tilaukset otetaan automaattisesti vastaan Klacksiin XML-tiedostoina.
 
 ## Näin se toimii

@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Vztahy mezi dovednostmi
+
 AI asistent Klacksy se z každodenního používání učí, které z jeho schopností (skills) k sobě patří — a příště tak cíleněji vybírá vhodné skills.
 
 ## Jak to funguje

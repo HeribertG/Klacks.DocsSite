@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL 翻译
+
 在「设置 > DeepL」中，您可以保存 DeepL API 密钥，让 Klacks 自动翻译文本 — 目前主要用于收件箱中收到的电子邮件。
 
 ## 运作方式

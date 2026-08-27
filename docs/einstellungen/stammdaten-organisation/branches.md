@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filialen
+
 Unter Einstellungen > Organisation > Filialen pflegen Sie die Adressen Ihrer Betriebsstätten — eine einfache Liste eigener Standorte, unabhängig von Mitarbeitenden oder Dienstplänen.
 
 ## So funktioniert es

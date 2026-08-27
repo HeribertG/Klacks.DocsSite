@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Danh mục trình độ chuyên môn
+
 Tại Cài đặt > Tổ chức > Trình độ chuyên môn, bạn quản lý danh mục tất cả các trình độ chuyên môn có thể được gán cho nhân viên và khách hàng trong doanh nghiệp — từ kỹ năng ngôn ngữ đến các trình độ chuyên môn đặc thù theo ngành.
 
 ## Cách hoạt động

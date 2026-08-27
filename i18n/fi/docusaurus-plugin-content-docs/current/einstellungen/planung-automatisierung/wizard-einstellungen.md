@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ohjatun toiminnon asetukset
+
 Kohdassa Asetukset > Ohjatun toiminnon asetukset valitset tekoälykielimallin, jota "Holistic Harmonizer" — yksi Klacksin suunnitteluavustajista — käyttää arviointiinsa.
 
 ## Miten se toimii

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Impostazioni Wizard
+
 In Impostazioni > Impostazioni wizard scegliete il modello linguistico AI che l'"Holistic Harmonizer" — uno degli assistenti di pianificazione di Klacks — utilizza per la propria valutazione.
 
 ## Come funziona

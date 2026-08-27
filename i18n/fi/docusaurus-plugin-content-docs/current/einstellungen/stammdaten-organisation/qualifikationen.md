@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Pätevyysluettelo
+
 Kohdassa Asetukset > Organisaatio > Pätevyydet ylläpidät luetteloa kaikista pätevyyksistä, joita voidaan liittää henkilöstöön ja asiakkaisiin — kielitaidoista toimialakohtaisiin erikoispätevyyksiin.
 
 ## Miten se toimii

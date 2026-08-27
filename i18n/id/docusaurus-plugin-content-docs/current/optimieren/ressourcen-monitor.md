@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor Sumber Daya
+
 Ressourcen-Monitor menunjukkan sekilas bagaimana kondisi pemanfaatan personel suatu grup (atau semua grup) pada tahun yang dipilih — satu batang per hari, mencakup keseluruhan tahun selama 365 hari.
 
 ## Cara Kerjanya

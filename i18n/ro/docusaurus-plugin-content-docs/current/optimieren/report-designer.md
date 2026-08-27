@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Cu Report Designer creați propriile șabloane de tipărire — de la planul de servicii până la lista de adrese — direct în Klacks, fără instrumente externe.
 
 ## Cum funcționează

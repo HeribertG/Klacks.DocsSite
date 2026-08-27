@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Adresse de l'exploitant
+
 Dans Paramètres > Général > Adresse du secrétariat, vous saisissez l'adresse principale de votre entreprise ainsi que les paramètres par défaut globaux pour le pays, le canton, le fuseau horaire et le calendrier des jours fériés.
 
 ## Comment ça fonctionne

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API optymalizacji tras
+
 W obszarze Ustawienia > OpenRoute zapisujesz klucz API dla zewnętrznej usługi openrouteservice.org, z której Klacks korzysta do optymalizacji tras.
 
 ## Jak to działa

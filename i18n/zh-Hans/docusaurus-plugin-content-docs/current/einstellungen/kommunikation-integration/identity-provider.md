@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# 身份提供商
+
 在「设置 > 身份提供程序」中，您可以将 Klacks 与外部目录服务 — LDAP/Active Directory 或 OAuth2/OpenID Connect — 连接起来，以便自动导入员工和/或通过该服务处理登录。
 
 ## 运作方式

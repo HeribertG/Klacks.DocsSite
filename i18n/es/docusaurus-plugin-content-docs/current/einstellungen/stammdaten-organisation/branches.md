@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Sucursales
+
 En Configuración > Organización > Sucursales gestiona las direcciones de sus centros de trabajo — una simple lista de ubicaciones propias, independiente de empleados o planes de turnos.
 
 ## Cómo funciona

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Nastavení průvodce
+
 V nastavení Nastavení > Nastavení průvodce vybíráte jazykový model AI, který pro své hodnocení používá „Holistic Harmonizer" — jeden z plánovacích asistentů Klacks.
 
 ## Jak to funguje

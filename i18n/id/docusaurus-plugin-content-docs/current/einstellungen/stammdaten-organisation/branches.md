@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filial
+
 Di Pengaturan > Organisasi > Cabang, Anda mengelola alamat lokasi usaha Anda — sebuah daftar sederhana lokasi Anda sendiri, terlepas dari karyawan atau jadwal dinas.
 
 ## Cara kerjanya

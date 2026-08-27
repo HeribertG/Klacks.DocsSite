@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Réception d'e-mails
+
 Dans Paramètres > Paramètres IMAP, vous configurez une boîte aux lettres que Klacks interroge en continu en arrière-plan et affiche dans la section « Boîte de réception » — ce qui permet de suivre automatiquement la correspondance entrante en l'associant aux collaborateurs et clients concernés.
 
 ## Comment ça marche

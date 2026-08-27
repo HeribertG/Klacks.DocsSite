@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Avtalsmallar
+
 Under Inställningar > Organisation > Avtal hanterar du de fritt definierbara avtalsmallar som du därefter tilldelar enskilda medarbetare — ska inte förväxlas med den faktiska tilldelningen till en person (mer om detta under "Medarbetare och stamdata" i Kom igång).
 
 ## Så fungerar det

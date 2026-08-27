@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Arbeits-Grundeinstellungen
+
 Unter Einstellungen > Arbeitszeit & Planung > Planungs-Grundeinstellungen legen Sie die unternehmensweiten Standardwerte für Urlaub, Vertragslaufzeiten, Zuschläge und die Sichtbarkeit des Dienstplans fest.
 
 ## So funktioniert es

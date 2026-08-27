@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Envoi d'e-mails
+
 Dans Paramètres > Paramètres e-mail, vous configurez le serveur SMTP par lequel Klacks envoie les e-mails sortants — notamment les notifications, les e-mails de réinitialisation de mot de passe ou les messages envoyés par Klacksy.
 
 ## Comment ça marche

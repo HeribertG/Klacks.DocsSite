@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Basisinstellingen werk
+
 Onder Instellingen > Arbeidstijd & Planning > Planning-basisinstellingen bepaalt u de bedrijfsbrede standaardwaarden voor verlof, contractduur, toeslagen en de zichtbaarheid van het dienstrooster.
 
 ## Zo werkt het

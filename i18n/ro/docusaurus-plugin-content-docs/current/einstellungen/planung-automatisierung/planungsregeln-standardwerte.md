@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Valori standard pentru regulile de planificare
+
 În Setări > Reguli de planificare (valori implicite) stabiliți valorile care sunt preconfigurate automat la crearea unui nou contract, respectiv a unei noi reguli de planificare.
 
 ## Cum funcționează

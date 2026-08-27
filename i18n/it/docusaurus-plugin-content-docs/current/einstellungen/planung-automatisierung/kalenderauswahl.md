@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Selezione del calendario
+
 Una selezione di calendario raggruppa uno o più calendari di festività (paese + cantone/land) in un pacchetto denominato, che potete poi assegnare a un contratto o a un gruppo.
 
 ## Come funziona

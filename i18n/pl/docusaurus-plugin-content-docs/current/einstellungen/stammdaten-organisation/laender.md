@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kraje
+
 W sekcji Ustawienia > Organizacja > Kraje zarządzasz listą krajów dostępnych do wyboru w Klacks — na przykład przy adresie sekretariatu.
 
 ## Jak to działa

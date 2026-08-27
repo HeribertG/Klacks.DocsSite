@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Visibilitas Grup
+
 Di Pengaturan > Visibilitas Grup per Pengguna, Anda menentukan grup mana — dan dengan demikian data terkait mana — yang boleh dilihat oleh masing-masing pengguna.
 
 ## Cara kerjanya

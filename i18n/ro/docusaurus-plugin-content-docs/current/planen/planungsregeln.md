@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Reguli de planificare
+
 Regulile de planificare definesc condițiile-cadru pentru planificarea automată a serviciilor — orele de lucru, perioadele de repaus și capacitățile pe care Klacks le respectă la repartizarea serviciilor.
 
 ## Cum funcționează

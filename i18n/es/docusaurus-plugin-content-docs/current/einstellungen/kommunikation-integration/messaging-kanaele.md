@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Canales de mensajería
+
 En Configuración > Proveedores de mensajería conecta canales externos de chat y SMS a través de los cuales Klacks (y Klacksy) puede escribir directamente a empleados y clientes — en lugar de, o además de, el correo electrónico.
 
 ## Cómo funciona

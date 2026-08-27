@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Peraturan Perancangan
+
 Peraturan Perancangan menentukan syarat rangka kerja untuk perancangan Tugasan automatik — waktu kerja, Tempoh Rehat dan kapasiti yang dipatuhi oleh Klacks semasa mengagihkan Tugasan.
 
 ## Cara Ia Berfungsi

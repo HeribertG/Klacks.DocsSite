@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Wybór kalendarza
+
 Wybór kalendarza łączy jeden lub kilka kalendarzy świąt (kraj + kanton/kraj związkowy) w nazwany pakiet, który następnie przypisujesz do umowy lub grupy.
 
 ## Jak to działa

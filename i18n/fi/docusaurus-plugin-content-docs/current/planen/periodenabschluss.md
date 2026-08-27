@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Jakson päättäminen
+
 Jakson päättäminen on kuukausittaisen tilinpäätöksenne työtila: vapautatte yksittäisiä päiviä, päätätte jakson ja sinetöitte sen — sinetöity data on sitova perusta raporteille ja vienneille.
 
 ## Näin se toimii

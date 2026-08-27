@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filiais
+
 Em Definições > Organização > Filiais gere os endereços dos seus estabelecimentos — uma lista simples dos seus próprios locais, independente de colaboradores ou planos de serviço.
 
 ## Como funciona

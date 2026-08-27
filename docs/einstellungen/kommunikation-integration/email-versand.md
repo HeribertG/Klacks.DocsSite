@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# E-Mail-Versand
+
 Unter Einstellungen > E-Mail-Einstellungen hinterlegen Sie den SMTP-Server, über den Klacks ausgehende E-Mails verschickt — etwa Benachrichtigungen, Passwort-Reset-Mails oder von Klacksy versendete Nachrichten.
 
 ## So funktioniert es

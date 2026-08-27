@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Route-optimalisatie-API
+
 Onder Instellingen > OpenRoute legt u de API-sleutel vast voor de externe dienst openrouteservice.org, die Klacks gebruikt voor routeoptimalisatie.
 
 ## Zo werkt het

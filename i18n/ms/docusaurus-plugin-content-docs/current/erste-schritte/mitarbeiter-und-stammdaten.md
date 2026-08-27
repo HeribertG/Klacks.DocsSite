@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Pekerja dan Data Induk
+
 Pengurusan alamat dan orang adalah teras Data Induk anda: Pekerja, pelanggan serta pihak luar dengan alamat, data hubungan, kontrak, keahlian Kumpulan dan Kelayakan — boleh dicapai melalui ikon Orang dalam navigasi.
 
 ## Cara ia berfungsi

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Uzávěrka období
+
 Uzávěrka období je vaše pracoviště pro měsíční uzávěrku: uvolníte jednotlivé dny, uzavřete období a zapečetíte je — zapečetěná data jsou závazným základem pro vyhodnocení a exporty.
 
 ## Jak to funguje

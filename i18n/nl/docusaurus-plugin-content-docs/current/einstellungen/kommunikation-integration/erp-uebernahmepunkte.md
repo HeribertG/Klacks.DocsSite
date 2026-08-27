@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP-overnamepunten
+
 Onder Instellingen > ERP-overnamepunten configureert u hoe bestellingen uit een extern ERP-systeem als XML-bestanden automatisch in Klacks worden overgenomen.
 
 ## Zo werkt het

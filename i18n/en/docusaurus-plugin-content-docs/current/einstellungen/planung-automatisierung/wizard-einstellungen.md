@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Wizard Settings
+
 Under Settings > Wizard Settings you choose the AI language model that the "Holistic Harmonizer" — one of Klacks's scheduling assistants — uses for its evaluation.
 
 ## How it works

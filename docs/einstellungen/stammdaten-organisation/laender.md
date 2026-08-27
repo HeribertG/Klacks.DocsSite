@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Länder
+
 Unter Einstellungen > Organisation > Länder verwalten Sie die Liste der Länder, die in Klacks zur Auswahl stehen — etwa bei der Adresse Sekretariat.
 
 ## So funktioniert es

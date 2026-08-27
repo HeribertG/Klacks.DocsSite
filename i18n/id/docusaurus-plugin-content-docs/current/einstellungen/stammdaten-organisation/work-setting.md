@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Pengaturan Dasar Kerja
+
 Di Pengaturan > Waktu Kerja & Perencanaan > Pengaturan Dasar Perencanaan, Anda menetapkan nilai standar seluruh perusahaan untuk cuti, masa berlaku kontrak, tunjangan tambahan, dan visibilitas jadwal dinas.
 
 ## Cara kerjanya

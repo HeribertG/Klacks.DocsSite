@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Toimipisteet
+
 Kohdassa Asetukset > Organisaatio > Toimipisteet ylläpidät toimipaikkojesi osoitteita — yksinkertainen luettelo omista sijainneista, riippumatta henkilöstöstä tai työvuorolistoista.
 
 ## Miten se toimii

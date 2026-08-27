@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Definições do assistente
+
 Em Definições > Definições do Wizard, escolhe o modelo de linguagem de IA que o "Holistic Harmonizer" — um dos assistentes de planeamento do Klacks — utiliza para a sua avaliação.
 
 ## Como funciona

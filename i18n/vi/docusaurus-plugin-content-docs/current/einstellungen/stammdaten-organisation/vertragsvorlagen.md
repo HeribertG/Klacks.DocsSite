@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Mẫu hợp đồng
+
 Tại Cài đặt > Tổ chức > Hợp đồng, bạn quản lý các mẫu hợp đồng có thể tự do định nghĩa, mà sau đó bạn gán cho từng nhân viên — không nên nhầm lẫn với việc gán thực sự cho một người (xem thêm phần "Nhân viên và Dữ liệu gốc" trong Những bước đầu tiên).
 
 ## Cách hoạt động

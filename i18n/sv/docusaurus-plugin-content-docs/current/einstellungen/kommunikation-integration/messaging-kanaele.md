@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Meddelandekanaler
+
 Under Inställningar > Messaging-leverantörer ansluter du externa chatt- och SMS-kanaler, via vilka Klacks (och Klacksy) kan kontakta Medarbetare och kunder direkt — istället för eller utöver e-post.
 
 ## Så fungerar det

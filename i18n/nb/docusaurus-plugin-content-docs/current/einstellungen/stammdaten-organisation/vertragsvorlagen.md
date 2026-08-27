@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kontraktmaler
+
 Under Innstillinger > Organisasjon > Kontrakter forvalter du de fritt definerbare kontraktmalene som du deretter tildeler enkeltmedarbeidere — ikke å forveksle med selve tildelingen til en person (mer om dette under «Medarbeider og stamdata» i Kom i gang).
 
 ## Slik fungerer det

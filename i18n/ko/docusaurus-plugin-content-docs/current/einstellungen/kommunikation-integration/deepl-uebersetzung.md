@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL 번역
+
 설정 > DeepL 메뉴에서 DeepL API 키를 등록하면 Klacks가 텍스트를 자동으로 번역할 수 있습니다 — 현재는 주로 받은 편지함의 수신 이메일에 사용됩니다.
 
 ## 작동 방식

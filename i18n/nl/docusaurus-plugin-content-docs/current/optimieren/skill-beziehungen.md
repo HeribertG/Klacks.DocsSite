@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Skill-relaties
+
 De AI-assistent Klacksy leert uit het dagelijkse gebruik welke van zijn vaardigheden (skills) bij elkaar horen — en kiest daardoor de volgende keer gerichter de passende skills.
 
 ## Zo werkt het

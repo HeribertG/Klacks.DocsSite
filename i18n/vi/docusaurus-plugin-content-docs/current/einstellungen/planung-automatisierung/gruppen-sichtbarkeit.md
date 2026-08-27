@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Hiển thị nhóm
+
 Tại Cài đặt > Khả năng hiển thị nhóm theo từng người dùng, bạn xác định người dùng nào được phép xem những nhóm nào — và qua đó là những dữ liệu liên quan nào.
 
 ## Cách hoạt động

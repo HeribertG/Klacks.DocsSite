@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Valores predeterminados de las reglas de planificación
+
 En Configuración > Reglas de planificación (valores predeterminados) define los valores que se rellenan automáticamente al crear un nuevo contrato o una nueva regla de planificación.
 
 ## Cómo funciona

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Paramètres de base du travail
+
 Dans Paramètres > Temps de travail et planification > Paramètres de base de planification, vous définissez les valeurs par défaut valables pour toute l'entreprise concernant les congés, les durées de contrat, les majorations et la visibilité du planning.
 
 ## Comment ça fonctionne

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Betreiber-Adresse
+
 Unter Einstellungen > Allgemein > Adresse Sekretariat hinterlegen Sie die Stammadresse Ihres Unternehmens sowie die globalen Standard-Einstellungen für Land, Kanton, Zeitzone und Feiertagskalender.
 
 ## So funktioniert es

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ylläpitäjän osoite
+
 Kohdassa Asetukset > Yleiset > Toimiston osoite tallennat yrityksesi pääosoitteen sekä yleiset oletusasetukset maalle, kantonille, aikavyöhykkeelle ja pyhäpäiväkalenterille.
 
 ## Miten se toimii

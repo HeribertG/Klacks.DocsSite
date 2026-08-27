@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Envio de e-mail
+
 Em Definições > Definições de E-mail configura o servidor SMTP através do qual o Klacks envia e-mails de saída — por exemplo, notificações, e-mails de reposição de palavra-passe ou mensagens enviadas pelo Klacksy.
 
 ## Como funciona

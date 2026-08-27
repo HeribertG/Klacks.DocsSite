@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Collaboratori e dati anagrafici
+
 La gestione di indirizzi e persone è il cuore dei vostri dati anagrafici: collaboratori, clienti e persone esterne con indirizzi, dati di contatto, contratti, appartenenza a gruppi e qualifiche — raggiungibile tramite l'icona Persone nella navigazione.
 
 ## Come funziona

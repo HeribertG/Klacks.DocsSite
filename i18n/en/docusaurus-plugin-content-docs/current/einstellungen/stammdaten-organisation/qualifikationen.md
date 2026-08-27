@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Qualification Catalog
+
 Under Settings > Organization > Qualifications you maintain the catalog of all qualifications that can be assigned to employees and clients in your business — from language skills to industry-specific professional qualifications.
 
 ## How it works

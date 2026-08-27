@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Työn perusasetukset
+
 Kohdassa Asetukset > Työaika ja suunnittelu > Suunnittelun perusasetukset määrität koko yrityksen kattavat oletusarvot lomille, sopimuskausille, lisille ja työvuorolistan näkyvyydelle.
 
 ## Miten se toimii

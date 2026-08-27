@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Resourcemonitor
+
 De resourcemonitor toont in één oogopslag hoe het gesteld is met de personeelsbezetting van een groep (of alle groepen) in het gekozen jaar — per dag één balk, over 365 dagen het hele jaarverloop.
 
 ## Zo werkt het

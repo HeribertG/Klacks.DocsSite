@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# E-postmottak
+
 Under Innstillinger > IMAP-innstillinger legger du inn en postboks som Klacks kontinuerlig henter i bakgrunnen og viser i området "Innboks" — dermed kan innkommende korrespondanse automatisk tilordnes og spores mot medarbeidere og kunder.
 
 ## Slik fungerer det

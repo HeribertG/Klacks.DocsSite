@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Penerimaan E-mel
+
 Di bawah Tetapan > Tetapan IMAP anda menyimpan peti mel yang diambil secara berterusan oleh Klacks di latar belakang dan dipaparkan dalam bahagian "Peti Masuk" — dengan ini surat-menyurat masuk dapat dikesan secara automatik dan dikaitkan dengan pekerja dan pelanggan.
 
 ## Cara ia berfungsi

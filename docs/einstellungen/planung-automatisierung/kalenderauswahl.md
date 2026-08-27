@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalenderauswahl
+
 Eine Kalenderauswahl bündelt einen oder mehrere Feiertagskalender (Land + Kanton/Bundesland) zu einem benannten Paket, das Sie anschliessend einem Vertrag oder einer Gruppe zuordnen.
 
 ## So funktioniert es

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Resource Monitor
+
 The Resource Monitor shows at a glance how staff utilization stands for a group (or all groups) in the selected year — one bar per day, 365 days for the full year's picture.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 V nastavení Nastavení > Identity Provider propojujete Klacks s externí adresářovou službou — LDAP/Active Directory nebo OAuth2/OpenID Connect — pro automatický import zaměstnanců a/nebo zajištění přihlašování přes ni.
 
 ## Jak to funguje

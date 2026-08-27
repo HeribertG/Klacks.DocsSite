@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Catalogue de qualifications
+
 Dans Paramètres > Organisation > Qualifications, vous gérez le catalogue de toutes les qualifications pouvant être attribuées aux collaborateurs et aux clients de l'entreprise — des compétences linguistiques aux qualifications professionnelles spécifiques à un secteur.
 
 ## Comment ça fonctionne

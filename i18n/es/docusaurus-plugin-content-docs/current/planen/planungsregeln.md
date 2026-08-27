@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Reglas de planificación
+
 Las reglas de planificación definen las condiciones marco para la planificación automática de turnos — horarios de trabajo, tiempos de descanso y capacidades que Klacks respeta al distribuir los turnos.
 
 ## Cómo funciona

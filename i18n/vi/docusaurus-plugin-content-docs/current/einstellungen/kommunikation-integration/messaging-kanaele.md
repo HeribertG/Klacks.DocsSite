@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kênh nhắn tin
+
 Trong mục Cài đặt > Nhà cung cấp nhắn tin, bạn kết nối các kênh chat và SMS bên ngoài mà Klacks (và Klacksy) có thể dùng để nhắn tin trực tiếp cho nhân viên và khách hàng — thay thế hoặc bổ sung cho email.
 
 ## Cách thức hoạt động

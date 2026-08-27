@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Resurssimonitori
+
 Resurssimonitori näyttää yhdellä silmäyksellä, miten ryhmän (tai kaikkien ryhmien) henkilöstön kuormitus näyttää valitulle vuodelle — palkki päivää kohden, koko vuoden kaari 365 päivän ajalta.
 
 ## Näin se toimii

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Sähköpostin lähetys
+
 Kohdassa Asetukset > Sähköpostiasetukset tallennat SMTP-palvelimen, jonka kautta Klacks lähettää lähtevät sähköpostit — esimerkiksi ilmoitukset, salasanan nollausviestit tai Klacksyn lähettämät viestit.
 
 ## Näin se toimii

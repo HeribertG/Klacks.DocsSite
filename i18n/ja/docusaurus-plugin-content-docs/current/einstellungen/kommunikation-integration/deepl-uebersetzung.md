@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL翻訳
+
 設定 > DeepL では、Klacks がテキストを自動翻訳するために使用する DeepL API キーを設定します — 現在は主に受信トレイの受信メールが対象です。
 
 ## 仕組み

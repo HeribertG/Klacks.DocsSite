@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Periodenabschluss
+
 Der Periodenabschluss ist Ihr Monatsabschluss-Arbeitsplatz: Sie geben einzelne Tage frei, schliessen die Periode ab und versiegeln sie — versiegelte Daten sind die verbindliche Basis für Auswertungen und Exporte.
 
 ## So funktioniert es

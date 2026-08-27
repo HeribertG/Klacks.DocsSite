@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Gruppen-Sichtbarkeit
+
 Unter Einstellungen > Sichtbarkeit von Gruppen pro Benutzer legen Sie fest, welche Gruppen — und damit welche zugehörigen Daten — ein einzelner Benutzer sehen darf.
 
 ## So funktioniert es

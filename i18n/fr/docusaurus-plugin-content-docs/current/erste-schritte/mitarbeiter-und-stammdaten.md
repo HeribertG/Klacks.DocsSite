@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Collaborateurs et données de base
+
 La gestion des adresses et des personnes est le cœur de vos données de base : collaborateurs, clientes et clients ainsi que personnes externes, avec leurs adresses, coordonnées, contrats, appartenance à des groupes et qualifications — accessible via l'icône « Personnes » dans la navigation.
 
 ## Comment ça marche

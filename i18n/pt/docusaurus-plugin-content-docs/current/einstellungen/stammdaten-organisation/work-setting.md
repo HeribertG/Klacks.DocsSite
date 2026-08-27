@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Definições básicas de trabalho
+
 Em Definições > Horário de Trabalho & Planeamento > Definições Base de Planeamento, estabelece os valores padrão a nível da empresa para férias, durações de contrato, adicionais e a visibilidade do plano de turnos.
 
 ## Como funciona

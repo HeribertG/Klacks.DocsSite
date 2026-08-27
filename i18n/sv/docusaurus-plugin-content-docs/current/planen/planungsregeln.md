@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Planeringsregler
+
 Planeringsregler definierar ramvillkoren för den automatiska schemaläggningen — arbetstider, vilotider och kapaciteter som Klacks följer när arbetspassen fördelas.
 
 ## Så fungerar det

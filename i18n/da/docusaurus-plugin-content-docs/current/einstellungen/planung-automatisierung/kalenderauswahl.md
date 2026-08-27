@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalendervalg
+
 En kalenderudvælgelse samler en eller flere helligdagskalendere (land + kanton/delstat) i en navngivet pakke, som du derefter tildeler en kontrakt eller en gruppe.
 
 ## Sådan fungerer det

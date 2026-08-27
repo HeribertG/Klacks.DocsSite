@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Catalog de calificări
+
 În Setări > Organizare > Calificări gestionați catalogul tuturor calificărilor care pot fi atribuite angajaților și clienților în cadrul companiei — de la cunoștințe lingvistice până la calificări de specialitate specifice sectorului.
 
 ## Cum funcționează

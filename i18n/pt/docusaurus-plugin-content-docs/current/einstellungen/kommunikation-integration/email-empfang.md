@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Receção de e-mail
+
 Em Definições > Definições IMAP, configura uma caixa de correio que o Klacks consulta continuamente em segundo plano e apresenta na área "Caixa de entrada" — assim, a correspondência recebida pode ser automaticamente associada a colaboradores e clientes.
 
 ## Como funciona

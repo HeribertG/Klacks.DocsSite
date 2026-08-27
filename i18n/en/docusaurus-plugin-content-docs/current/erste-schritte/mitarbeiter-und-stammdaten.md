@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Employees and Master Data
+
 Address and people management is the heart of your master data: employees, clients, and external contacts with addresses, contact details, contracts, group membership, and qualifications — accessible via the people icon in the navigation.
 
 ## How it works

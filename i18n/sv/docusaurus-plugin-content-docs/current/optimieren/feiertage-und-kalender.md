@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Helgdagar och kalender
+
 Den eviga kalendern beräknar helgdagar automatiskt för varje år — du definierar reglerna en gång, sedan känner Klacks till helgdagarna för alla kommande år.
 
 ## Så fungerar det

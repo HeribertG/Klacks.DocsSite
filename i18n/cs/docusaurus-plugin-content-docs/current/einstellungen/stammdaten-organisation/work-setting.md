@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Základní pracovní nastavení
+
 V nastavení Nastavení > Pracovní doba a plánování > Základní nastavení plánování určujete celofiremní výchozí hodnoty pro dovolenou, délku trvání smluv, příplatky a viditelnost rozpisu služeb.
 
 ## Jak to funguje

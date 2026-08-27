@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Dịch DeepL
+
 Trong mục Cài đặt > DeepL, bạn lưu một khóa API DeepL để Klacks có thể tự động dịch văn bản — hiện tại chủ yếu là các email đến trong hộp thư đến.
 
 ## Cách thức hoạt động

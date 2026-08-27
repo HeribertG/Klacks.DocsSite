@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Mối quan hệ kỹ năng
+
 Trợ lý AI Klacksy học từ việc sử dụng hàng ngày để biết những khả năng (Skills) nào của nó thuộc về nhau — và nhờ đó, lần sau sẽ chọn các Skills phù hợp một cách chính xác hơn.
 
 ## Cách hoạt động

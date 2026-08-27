@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Días festivos y calendario
+
 El calendario perpetuo calcula los días festivos para cada año de forma automática — usted define las reglas una vez y, a partir de ahí, Klacks conoce los días festivos para todos los años venideros.
 
 ## Cómo funciona

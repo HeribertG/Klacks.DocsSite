@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API ปรับปรุงเส้นทาง
+
 ที่การตั้งค่า > OpenRoute คุณสามารถกรอก API-Key สำหรับบริการภายนอก openrouteservice.org ซึ่ง Klacks ใช้ในการปรับเส้นทางให้เหมาะสม (Routenoptimierung)
 
 ## วิธีการทำงาน

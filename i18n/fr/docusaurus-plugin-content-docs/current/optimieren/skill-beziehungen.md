@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Relations entre compétences
+
 L'assistant IA Klacksy apprend de l'utilisation quotidienne quelles compétences (skills) vont ensemble — et sélectionne ainsi la prochaine fois les skills adaptés de manière plus ciblée.
 
 ## Comment ça fonctionne

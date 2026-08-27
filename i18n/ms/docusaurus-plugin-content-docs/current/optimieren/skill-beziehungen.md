@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Hubungan Skill
+
 Pembantu AI Klacksy belajar daripada penggunaan harian, Kemahiran (Skills) mana yang saling berkaitan — dan dengan itu memilih Skill yang sesuai dengan lebih tepat pada kali berikutnya.
 
 ## Cara Ia Berfungsi

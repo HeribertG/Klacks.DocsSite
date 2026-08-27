@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Periodeafslutning
+
 Periodeafslutningen er din arbejdsplads til månedsafslutning: Du frigiver enkelte dage, afslutter perioden og forsegler den — forseglede data er det bindende grundlag for analyser og eksporter.
 
 ## Sådan fungerer det

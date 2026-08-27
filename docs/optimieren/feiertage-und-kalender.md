@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Feiertage und Kalender
+
 Der Ewigkeitskalender berechnet Feiertage für jedes Jahr automatisch — Sie definieren einmal die Regeln, Klacks kennt die Feiertage dann für alle kommenden Jahre.
 
 ## So funktioniert es

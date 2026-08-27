@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Invio e-mail
+
 In Impostazioni > Impostazioni e-mail configurate il server SMTP tramite il quale Klacks invia le e-mail in uscita — ad esempio notifiche, e-mail di reimpostazione password o messaggi inviati da Klacksy.
 
 ## Come funziona

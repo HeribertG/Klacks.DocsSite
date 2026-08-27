@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Seleção de calendário
+
 Uma seleção de calendário agrupa um ou vários calendários de feriados (país + cantão/estado federado) num pacote com nome, que depois associa a um contrato ou a um grupo.
 
 ## Como funciona

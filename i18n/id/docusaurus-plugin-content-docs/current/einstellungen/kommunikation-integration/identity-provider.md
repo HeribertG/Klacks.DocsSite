@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Di Pengaturan > Identity Provider Anda menghubungkan Klacks dengan layanan direktori eksternal — LDAP/Active Directory atau OAuth2/OpenID Connect — untuk mengimpor karyawan secara otomatis dan/atau menangani proses login melaluinya.
 
 ## Cara kerjanya

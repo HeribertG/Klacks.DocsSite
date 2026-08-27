@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Holidays and Calendars
+
 The perpetual calendar computes public holidays for any year automatically — you define the rules once, and Klacks knows the holidays for all years to come.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Adresa provozovatele
+
 V nastavení Nastavení > Obecné > Adresa sekretariátu zadáváte kmenovou adresu vaší firmy a globální výchozí nastavení pro zemi, kanton, časové pásmo a kalendář svátků.
 
 ## Jak to funguje

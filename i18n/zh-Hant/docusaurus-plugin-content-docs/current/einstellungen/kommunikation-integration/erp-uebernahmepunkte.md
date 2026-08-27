@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP 匯入端點
+
 在「設定 > ERP 匯入端點」中，您可以設定外部 ERP 系統的訂單如何以 XML 檔案的形式自動匯入 Klacks。
 
 ## 運作方式

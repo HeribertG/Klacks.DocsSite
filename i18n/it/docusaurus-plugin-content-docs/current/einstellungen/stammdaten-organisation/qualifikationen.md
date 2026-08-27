@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Catalogo delle qualifiche
+
 In Impostazioni > Organizzazione > Qualifiche si gestisce il catalogo di tutte le qualifiche che possono essere assegnate a collaboratori e clienti all'interno dell'azienda — dalle competenze linguistiche alle qualifiche specialistiche di settore.
 
 ## Come funziona

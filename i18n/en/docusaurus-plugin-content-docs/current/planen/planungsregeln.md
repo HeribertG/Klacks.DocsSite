@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Scheduling Rules
+
 Scheduling rules define the framework for automatic shift planning — working hours, rest periods, and capacities that Klacks respects when distributing shifts.
 
 ## How it works

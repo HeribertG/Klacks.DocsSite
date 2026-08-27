@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Relacje umiejętności
+
 Asystent AI Klacksy uczy się na podstawie codziennego użytkowania, które z jego umiejętności (skilli) do siebie pasują — i dzięki temu następnym razem trafniej dobiera odpowiednie skille.
 
 ## Jak to działa

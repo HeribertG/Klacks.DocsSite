@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Nhận email
+
 Trong mục Cài đặt > Cài đặt IMAP, bạn lưu một hộp thư mà Klacks sẽ liên tục truy vấn ở chế độ nền và hiển thị trong khu vực "Hộp thư đến" — nhờ đó có thể tự động theo dõi thư từ đến được gán cho nhân viên và khách hàng.
 
 ## Cách thức hoạt động

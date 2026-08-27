@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Mitarbeiter und Stammdaten
+
 Die Adress- und Personenverwaltung ist das Herzstück Ihrer Stammdaten: Mitarbeitende, Kundinnen und Kunden sowie Externe mit Adressen, Kontaktdaten, Verträgen, Gruppenzugehörigkeit und Qualifikationen — erreichbar über das Personen-Symbol in der Navigation.
 
 ## So funktioniert es

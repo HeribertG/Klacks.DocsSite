@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filiale
+
 În Setări > Organizare > Filiale gestionați adresele punctelor de lucru — o listă simplă a locațiilor proprii, independentă de angajați sau planuri de servicii.
 
 ## Cum funcționează

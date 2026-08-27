@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Diseñador de informes
+
 Con el diseñador de informes puede crear sus propias plantillas de impresión — desde el plan de turnos hasta la lista de direcciones — directamente en Klacks, sin herramientas externas.
 
 ## Cómo funciona

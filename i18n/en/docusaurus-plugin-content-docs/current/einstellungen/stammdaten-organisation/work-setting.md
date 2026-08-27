@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Work Basics
+
 Under Settings > Working Time & Scheduling > Scheduling Basics you set the company-wide default values for vacation, contract durations, surcharges, and the visibility of the schedule.
 
 ## How it works

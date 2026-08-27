@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Šablony smluv
+
 V nastavení Nastavení > Organizace > Smlouvy spravujete volně definovatelné vzory smluv, které následně přiřazujete jednotlivým zaměstnancům — nezaměňujte se samotným přiřazením konkrétní osobě (více k tomu v části „Zaměstnanci a kmenová data" v Prvních krocích).
 
 ## Jak to funguje

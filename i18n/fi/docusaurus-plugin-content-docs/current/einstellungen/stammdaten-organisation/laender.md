@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Maat
+
 Kohdassa Asetukset > Organisaatio > Maat hallinnoit luetteloa maista, jotka ovat valittavissa Klacksissa — esimerkiksi Toimiston osoite -kohdassa.
 
 ## Miten se toimii

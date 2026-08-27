@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Clôture de période
+
 La clôture de période est votre espace de travail pour la clôture mensuelle : vous validez des journées individuelles, clôturez la période et la scellez — les données scellées constituent la base définitive pour les analyses et les exports.
 
 ## Comment ça marche

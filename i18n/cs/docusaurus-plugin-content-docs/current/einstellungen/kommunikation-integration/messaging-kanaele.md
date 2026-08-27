@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Komunikační kanály
+
 V nastavení Nastavení > Poskytovatelé zpráv připojujete externí chatové a SMS kanály, přes které Klacks (a Klacksy) může přímo oslovit zaměstnance a zákazníky — namísto e-mailu nebo navíc k němu.
 
 ## Jak to funguje

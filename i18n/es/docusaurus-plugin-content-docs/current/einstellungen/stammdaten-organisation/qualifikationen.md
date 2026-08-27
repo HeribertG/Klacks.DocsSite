@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Catálogo de calificaciones
+
 En Configuración > Organización > Calificaciones se gestiona el catálogo de todas las calificaciones que pueden asignarse a empleados y clientes en la empresa — desde conocimientos de idiomas hasta calificaciones técnicas específicas del sector.
 
 ## Cómo funciona

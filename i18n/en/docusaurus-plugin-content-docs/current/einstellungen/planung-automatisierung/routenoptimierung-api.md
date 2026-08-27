@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Route Optimization API
+
 Under Settings > OpenRoute you enter the API key for the external service openrouteservice.org, which Klacks uses for route optimization.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Nhân viên và dữ liệu gốc
+
 Quản lý địa chỉ và con người là trung tâm của dữ liệu gốc: nhân viên, khách hàng và cả bên ngoài với địa chỉ, thông tin liên hệ, hợp đồng, thành viên nhóm và trình độ chuyên môn — có thể truy cập qua biểu tượng Con người trong thanh điều hướng.
 
 ## Cách hoạt động

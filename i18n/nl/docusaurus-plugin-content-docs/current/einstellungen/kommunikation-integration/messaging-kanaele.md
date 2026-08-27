@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Messagingkanalen
+
 Onder Instellingen > Messaging-providers koppelt u externe chat- en sms-kanalen waarmee Klacks (en Klacksy) medewerkers en klanten rechtstreeks kan aanschrijven — in plaats van of naast e-mail.
 
 ## Zo werkt het

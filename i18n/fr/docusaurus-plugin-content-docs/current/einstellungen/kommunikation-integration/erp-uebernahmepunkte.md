@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Points de reprise ERP
+
 Dans Paramètres > Points de reprise ERP, vous configurez la manière dont les commandes d'un système ERP externe sont reprises automatiquement dans Klacks sous forme de fichiers XML.
 
 ## Comment ça marche

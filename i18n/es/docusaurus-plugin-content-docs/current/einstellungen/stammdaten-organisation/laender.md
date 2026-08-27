@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Países
+
 En Configuración > Organización > Países gestiona la lista de países disponibles para su selección en Klacks — por ejemplo, en la dirección Secretaría.
 
 ## Cómo funciona

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Under Settings > Identity Provider you connect Klacks to an external directory service — LDAP/Active Directory or OAuth2/OpenID Connect — to automatically import employees and/or handle login through it.
 
 ## How it works

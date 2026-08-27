@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ejer-adresse
+
 Under Indstillinger > Generelt > Sekretariatsadresse angiver du virksomhedens stamadresse samt de globale standardindstillinger for land, kanton, tidszone og helligdagskalender.
 
 ## Sådan fungerer det

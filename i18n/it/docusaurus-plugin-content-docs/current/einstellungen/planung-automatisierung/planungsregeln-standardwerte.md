@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Valori standard delle regole di pianificazione
+
 In Impostazioni > Regole di pianificazione (valori predefiniti) stabilite i valori che vengono precompilati automaticamente alla creazione di un nuovo contratto o di una nuova regola di pianificazione.
 
 ## Come funziona

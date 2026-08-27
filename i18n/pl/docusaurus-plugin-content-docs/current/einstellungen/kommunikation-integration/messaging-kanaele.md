@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kanały komunikacji
+
 W obszarze Ustawienia > Dostawcy wiadomości podłączasz zewnętrzne kanały czatu i SMS, dzięki którym Klacks (i Klacksy) może pisać bezpośrednio do pracowników i klientów — zamiast poczty e-mail lub dodatkowo do niej.
 
 ## Jak to działa

@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Skill Beziehungen
+
 Der KI-Assistent Klacksy lernt aus der täglichen Nutzung, welche seiner Fähigkeiten (Skills) zusammengehören — und wählt dadurch beim nächsten Mal die passenden Skills gezielter aus.
 
 ## So funktioniert es

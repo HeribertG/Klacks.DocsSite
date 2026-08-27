@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Puntos de traspaso ERP
+
 En Configuración > Puntos de traspaso ERP configura cómo los pedidos de un sistema ERP externo se traspasan automáticamente a Klacks como archivos XML.
 
 ## Cómo funciona

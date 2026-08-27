@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Penutupan Tempoh
+
 Penutupan Tempoh ialah ruang kerja penutupan bulanan anda: anda meluluskan hari demi hari, menutup tempoh tersebut dan memeteraikannya — data yang dimeterai menjadi asas mengikat untuk analisis dan eksport.
 
 ## Cara Ia Berfungsi

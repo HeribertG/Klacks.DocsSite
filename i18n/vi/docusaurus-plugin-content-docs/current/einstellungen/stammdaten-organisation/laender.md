@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Quốc gia
+
 Tại Cài đặt > Tổ chức > Quốc gia, bạn quản lý danh sách các quốc gia có thể chọn trong Klacks — ví dụ tại địa chỉ Văn phòng thư ký.
 
 ## Cách hoạt động

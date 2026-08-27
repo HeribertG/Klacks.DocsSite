@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Cawangan
+
 Di bawah Tetapan > Organisasi > Cawangan, anda menyelenggara alamat premis perniagaan anda — satu senarai mudah lokasi anda sendiri, tidak bergantung kepada Pekerja atau jadual tugasan.
 
 ## Cara ia berfungsi

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor de recursos
+
 El monitor de recursos muestra de un vistazo cómo está la ocupación de personal de un grupo (o de todos los grupos) en el año seleccionado — una barra por día, a lo largo de los 365 días del año completo.
 
 ## Cómo funciona

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Fournisseur d'identité
+
 Dans Paramètres > Fournisseur d'identité, vous connectez Klacks à un service d'annuaire externe — LDAP/Active Directory ou OAuth2/OpenID Connect — pour importer automatiquement des collaborateurs et/ou gérer la connexion via ce service.
 
 ## Comment ça marche

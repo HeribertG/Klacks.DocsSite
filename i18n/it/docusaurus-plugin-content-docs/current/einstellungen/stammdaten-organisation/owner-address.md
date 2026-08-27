@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Indirizzo del gestore
+
 In Impostazioni > Generale > Indirizzo segreteria si inserisce l'indirizzo principale della propria azienda, insieme alle impostazioni predefinite globali per paese, cantone, fuso orario e calendario delle festività.
 
 ## Come funziona

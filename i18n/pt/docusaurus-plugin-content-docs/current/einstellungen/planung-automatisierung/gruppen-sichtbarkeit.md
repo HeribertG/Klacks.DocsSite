@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Visibilidade de grupos
+
 Em Definições > Visibilidade de grupos por utilizador, define quais os grupos — e, portanto, quais os dados associados — que um determinado utilizador pode ver.
 
 ## Como funciona

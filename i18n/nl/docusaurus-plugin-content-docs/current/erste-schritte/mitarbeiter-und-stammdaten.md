@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Medewerkers en stamgegevens
+
 Het adres- en personenbeheer is het hart van uw stamgegevens: medewerkers, klanten en externen met adressen, contactgegevens, contracten, groepslidmaatschap en kwalificaties — bereikbaar via het personensymbool in de navigatie.
 
 ## Zo werkt het

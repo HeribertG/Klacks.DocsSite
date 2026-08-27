@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Periodavslut
+
 Periodavslutet är din arbetsplats för månadsavslut: du frigör enskilda dagar, avslutar perioden och förseglar den — förseglade data är den bindande grunden för rapporter och exporter.
 
 ## Så fungerar det

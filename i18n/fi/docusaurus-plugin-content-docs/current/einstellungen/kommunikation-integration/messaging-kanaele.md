@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Viestintäkanavat
+
 Kohdassa Asetukset > Viestintäpalveluntarjoajat liität ulkoisia chat- ja tekstiviestikanavia, joiden kautta Klacks (ja Klacksy) voi kirjoittaa suoraan työntekijöille ja asiakkaille — sähköpostin sijaan tai sen lisäksi.
 
 ## Näin se toimii

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# 경로 최적화 API
+
 설정 > OpenRoute에서는 Klacks가 경로 최적화에 사용하는 외부 서비스 openrouteservice.org의 API 키를 등록합니다.
 
 ## 작동 방식

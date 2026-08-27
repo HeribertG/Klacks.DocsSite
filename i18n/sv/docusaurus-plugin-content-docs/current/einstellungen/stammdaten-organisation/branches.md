@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filialer
+
 Under Inställningar > Organisation > Filialer hanterar du adresserna till dina verksamhetsställen — en enkel lista över egna platser, oberoende av medarbetare eller scheman.
 
 ## Så fungerar det

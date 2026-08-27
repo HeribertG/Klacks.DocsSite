@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Head Office Address
+
 Under Settings > General > Head Office Address you set your company's master address, along with the global default settings for country, canton, time zone, and holiday calendar.
 
 ## How it works

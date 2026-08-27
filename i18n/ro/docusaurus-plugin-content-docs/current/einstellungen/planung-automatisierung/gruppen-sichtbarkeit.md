@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Vizibilitate grupuri
+
 În Setări > Vizibilitatea grupurilor pe utilizator stabiliți ce grupuri — și, implicit, ce date asociate — poate vedea un anumit utilizator.
 
 ## Cum funcționează

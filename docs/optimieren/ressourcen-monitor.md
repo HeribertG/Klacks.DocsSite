@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ressourcen Monitor
+
 Der Ressourcen-Monitor zeigt auf einen Blick, wie es um die Personalauslastung einer Gruppe (oder aller Gruppen) im gewählten Jahr steht — pro Tag ein Balken, über 365 Tage der ganze Jahresverlauf.
 
 ## So funktioniert es

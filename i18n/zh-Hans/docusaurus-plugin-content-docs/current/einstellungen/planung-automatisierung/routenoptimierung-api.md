@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# 路线优化 API
+
 在「设置 > OpenRoute」中，您需要填写外部服务 openrouteservice.org 的 API 密钥，Klacks 使用该服务进行路线优化。
 
 ## 运作方式

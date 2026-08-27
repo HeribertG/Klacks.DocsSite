@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# واجهة برمجة تحسين الطرق
+
 في الإعدادات > OpenRoute، تودعون مفتاح API الخاص بالخدمة الخارجية openrouteservice.org، والتي يستخدمها Klacks لتحسين المسارات (Routenoptimierung).
 
 ## كيف يعمل هذا

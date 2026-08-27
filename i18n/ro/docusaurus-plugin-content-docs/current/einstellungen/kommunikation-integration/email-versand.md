@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Trimitere e-mail
+
 În Setări > Setări e-mail configurați serverul SMTP prin care Klacks trimite e-mailurile de ieșire — de exemplu notificări, e-mailuri de resetare a parolei sau mesaje trimise de Klacksy.
 
 ## Cum funcționează

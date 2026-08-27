@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Reguły planowania
+
 Reguły planowania definiują warunki ramowe dla automatycznego planowania dyżurów — czasy pracy, czasy odpoczynku i pojemności, których Klacks przestrzega przy rozdzielaniu dyżurów.
 
 ## Jak to działa

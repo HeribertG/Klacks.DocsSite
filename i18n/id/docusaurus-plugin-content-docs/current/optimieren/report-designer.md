@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Dengan Report-Designer, Anda dapat membuat template cetak sendiri — mulai dari jadwal dinas hingga daftar alamat — langsung di Klacks, tanpa alat eksternal.
 
 ## Cara Kerjanya

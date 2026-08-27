@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Pracownicy i dane podstawowe
+
 Zarządzanie adresami i osobami to serce Twoich danych podstawowych: pracownicy, klienci oraz osoby zewnętrzne z adresami, danymi kontaktowymi, umowami, przynależnością do grup i kwalifikacjami — dostępne przez ikonę osób w nawigacji.
 
 ## Jak to działa

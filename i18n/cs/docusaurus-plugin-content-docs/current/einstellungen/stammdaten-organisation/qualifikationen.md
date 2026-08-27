@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Katalog kvalifikací
+
 V nastavení Nastavení > Organizace > Kvalifikace spravujete katalog všech kvalifikací, které lze přiřadit zaměstnancům a klientům v provozu — od znalosti jazyků až po odborné kvalifikace specifické pro obor.
 
 ## Jak to funguje

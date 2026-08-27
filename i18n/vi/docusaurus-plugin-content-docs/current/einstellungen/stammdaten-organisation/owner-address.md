@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Địa chỉ chủ sở hữu
+
 Tại Cài đặt > Chung > Địa chỉ Văn phòng thư ký, bạn lưu địa chỉ gốc của công ty mình cũng như các cài đặt mặc định toàn hệ thống cho quốc gia, bang/tỉnh, múi giờ và lịch ngày lễ.
 
 ## Cách hoạt động

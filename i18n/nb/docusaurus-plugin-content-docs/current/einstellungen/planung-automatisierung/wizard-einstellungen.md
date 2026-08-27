@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Veiviser-innstillinger
+
 Under Innstillinger > Veiviser-innstillinger velger du KI-språkmodellen som «Holistic Harmonizer» — en av planleggingsassistentene i Klacks — bruker til sin vurdering.
 
 ## Slik fungerer det

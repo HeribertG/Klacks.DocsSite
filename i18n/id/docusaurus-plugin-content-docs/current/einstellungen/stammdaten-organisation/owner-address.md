@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Alamat Pemilik
+
 Di Pengaturan > Umum > Alamat Sekretariat, Anda menyimpan alamat utama perusahaan Anda serta pengaturan standar global untuk negara, kanton, zona waktu, dan kalender hari libur.
 
 ## Cara kerjanya

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Země
+
 V nastavení Nastavení > Organizace > Země spravujete seznam zemí, které jsou v Klacks k dispozici pro výběr — například u adresy Sekretariát.
 
 ## Jak to funguje

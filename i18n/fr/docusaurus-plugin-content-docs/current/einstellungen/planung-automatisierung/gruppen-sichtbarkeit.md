@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Visibilité des groupes
+
 Sous Paramètres > Visibilité des groupes par utilisateur, vous définissez quels groupes — et donc quelles données associées — un utilisateur donné est autorisé à voir.
 
 ## Comment ça fonctionne

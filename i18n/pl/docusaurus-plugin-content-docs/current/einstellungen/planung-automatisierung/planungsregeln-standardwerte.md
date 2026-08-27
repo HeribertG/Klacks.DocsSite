@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Wartości domyślne reguł planowania
+
 W obszarze Ustawienia > Reguły planowania (wartości domyślne) określasz wartości, które są automatycznie wstępnie wypełniane przy tworzeniu nowej umowy lub nowej reguły planowania.
 
 ## Jak to działa

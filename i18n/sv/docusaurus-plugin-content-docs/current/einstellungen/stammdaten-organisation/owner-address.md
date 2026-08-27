@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ägaradress
+
 Under Inställningar > Allmänt > Adress Sekretariat anger du ditt företags huvudadress samt de globala standardinställningarna för land, kanton, tidszon och helgdagskalender.
 
 ## Så fungerar det

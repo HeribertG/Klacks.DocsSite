@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Odesílání e-mailů
+
 V nastavení Nastavení > Nastavení e-mailu zadáváte SMTP server, přes který Klacks odesílá odchozí e-maily — například oznámení, e-maily pro reset hesla nebo zprávy odeslané Klacksy.
 
 ## Jak to funguje

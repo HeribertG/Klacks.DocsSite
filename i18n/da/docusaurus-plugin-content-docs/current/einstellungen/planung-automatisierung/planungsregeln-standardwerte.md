@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Standardværdier for planlægningsregler
+
 Under Indstillinger > Planlægningsregler (standardværdier) fastlægger du de værdier, der automatisk foreslås, når en ny kontrakt eller en ny planlægningsregel oprettes.
 
 ## Sådan fungerer det

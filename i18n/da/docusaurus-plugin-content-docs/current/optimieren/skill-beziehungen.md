@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Skill-relationer
+
 KI-assistenten Klacksy lærer af den daglige brug, hvilke af dens færdigheder (skills) der hører sammen — og vælger derved de rette skills mere målrettet næste gang.
 
 ## Sådan fungerer det

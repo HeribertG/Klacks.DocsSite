@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Raporttisuunnittelija
+
 Report-Designerilla luotte omia tulostuspohjia — työvuorolistasta osoitelistaan — suoraan Klacksissa, ilman ulkoisia työkaluja.
 
 ## Näin se toimii

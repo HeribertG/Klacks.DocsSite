@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Quy tắc lập kế hoạch
+
 Quy tắc lập kế hoạch xác định các điều kiện khung cho việc lập lịch làm việc tự động — thời gian làm việc, thời gian nghỉ ngơi và năng lực mà Klacks tuân thủ khi phân bổ các ca làm việc.
 
 ## Cách hoạt động

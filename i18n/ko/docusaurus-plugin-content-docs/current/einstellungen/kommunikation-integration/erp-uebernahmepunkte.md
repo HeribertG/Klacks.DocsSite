@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP 연동 지점
+
 설정 > ERP 수집 지점 메뉴에서 외부 ERP 시스템의 주문을 XML 파일 형태로 Klacks에 자동으로 수집하는 방법을 설정합니다.
 
 ## 작동 방식

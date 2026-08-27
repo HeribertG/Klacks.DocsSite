@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Helligdager og kalender
+
 Den evige kalenderen beregner helligdager for hvert år automatisk — du definerer reglene én gang, og Klacks kjenner helligdagene for alle kommende år.
 
 ## Slik fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Under Inställningar > Identity Provider ansluter du Klacks till en extern katalogtjänst — LDAP/Active Directory eller OAuth2/OpenID Connect — för att automatiskt importera Medarbetare och/eller hantera inloggningen via den.
 
 ## Så fungerar det

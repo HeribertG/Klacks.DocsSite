@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Scheduling Rule Defaults
+
 Under Settings > Scheduling Rules (Defaults) you define the values that are automatically pre-filled when a new contract or a new scheduling rule is created.
 
 ## How it works

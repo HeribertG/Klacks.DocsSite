@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API de otimização de rotas
+
 Em Definições > OpenRoute regista a chave de API para o serviço externo openrouteservice.org, utilizado pelo Klacks para a otimização de rotas.
 
 ## Como funciona

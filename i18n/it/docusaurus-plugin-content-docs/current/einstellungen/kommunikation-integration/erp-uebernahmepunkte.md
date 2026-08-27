@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Punti di ripresa ERP
+
 In Impostazioni > Punti di acquisizione ERP configurate come gli ordini provenienti da un sistema ERP esterno vengono acquisiti automaticamente in Klacks sotto forma di file XML.
 
 ## Come funziona

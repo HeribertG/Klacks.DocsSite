@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filiali
+
 In Impostazioni > Organizzazione > Filiali gestite gli indirizzi delle vostre sedi operative — un semplice elenco delle vostre sedi, indipendente da dipendenti o piani di lavoro.
 
 ## Come funziona

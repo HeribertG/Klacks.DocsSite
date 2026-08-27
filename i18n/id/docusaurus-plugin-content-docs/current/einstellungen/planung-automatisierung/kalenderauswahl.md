@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Pemilihan Kalender
+
 Sebuah pilihan kalender (Kalenderauswahl) menggabungkan satu atau beberapa kalender hari libur (negara + kanton/negara bagian) menjadi satu paket bernama, yang selanjutnya dapat Anda tetapkan ke sebuah kontrak atau grup.
 
 ## Cara kerjanya

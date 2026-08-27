@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Modele de contract
+
 În Setări > Organizare > Contracte gestionați modelele de contract definibile liber, pe care ulterior le atribuiți angajaților individuali — a nu se confunda cu atribuirea propriu-zisă unei persoane (mai multe despre asta în „Angajați și date de bază" din Primii pași).
 
 ## Cum funcționează

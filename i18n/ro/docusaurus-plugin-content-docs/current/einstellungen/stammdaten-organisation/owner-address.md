@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Adresa operatorului
+
 În Setări > General > Adresa Secretariat introduceți adresa de bază a companiei dumneavoastră, precum și setările globale implicite pentru țară, canton, fus orar și calendarul de sărbători.
 
 ## Cum funcționează

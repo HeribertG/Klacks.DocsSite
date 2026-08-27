@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Traducere DeepL
+
 În Setări > DeepL introduceți o cheie API DeepL, cu care Klacks poate traduce automat texte — în prezent, mai ales e-mailurile primite în căsuța de mesaje.
 
 ## Cum funcționează

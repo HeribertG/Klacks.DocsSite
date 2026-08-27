@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Punkty przejęcia ERP
+
 W obszarze Ustawienia > Punkty przejęcia ERP konfigurujesz, w jaki sposób zamówienia z zewnętrznego systemu ERP są automatycznie przejmowane do Klacks jako pliki XML.
 
 ## Jak to działa

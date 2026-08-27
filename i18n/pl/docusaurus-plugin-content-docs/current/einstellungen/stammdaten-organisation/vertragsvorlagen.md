@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Szablony umów
+
 W sekcji Ustawienia > Organizacja > Umowy zarządzasz dowolnie definiowanymi szablonami umów, które następnie przypisujesz poszczególnym pracownikom — nie mylić z faktycznym przypisaniem do osoby (więcej na ten temat w „Pracownicy i dane podstawowe" w sekcji Pierwsze kroki).
 
 ## Jak to działa

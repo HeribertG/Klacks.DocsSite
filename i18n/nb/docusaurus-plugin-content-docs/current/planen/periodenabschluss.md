@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Periodeavslutning
+
 Periodeavslutningen er din arbeidsplass for månedsavslutning: Du frigir enkeltdager, avslutter perioden og forsegler den — forseglede data er det bindende grunnlaget for evalueringer og eksporter.
 
 ## Slik fungerer det

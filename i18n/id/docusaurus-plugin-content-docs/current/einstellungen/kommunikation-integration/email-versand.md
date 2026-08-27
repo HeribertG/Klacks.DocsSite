@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Pengiriman Email
+
 Di Pengaturan > Pengaturan Email Anda menyimpan server SMTP yang digunakan Klacks untuk mengirim email keluar — misalnya notifikasi, email reset kata sandi, atau pesan yang dikirim oleh Klacksy.
 
 ## Cara kerjanya

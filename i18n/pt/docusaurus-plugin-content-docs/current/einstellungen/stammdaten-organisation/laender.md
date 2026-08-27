@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Países
+
 Em Definições > Organização > Países, gere a lista de países disponíveis para seleção no Klacks — por exemplo, no endereço do secretariado.
 
 ## Como funciona

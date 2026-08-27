@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Branches
+
 Under Settings > Organization > Branches you maintain the addresses of your business locations — a simple list of your own sites, independent of employees or schedules.
 
 ## How it works

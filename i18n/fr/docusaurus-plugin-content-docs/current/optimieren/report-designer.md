@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Générateur de rapports
+
 Avec le Report-Designer, vous créez vos propres modèles d'impression — du planning de service à la liste d'adresses — directement dans Klacks, sans outil externe.
 
 ## Comment ça fonctionne

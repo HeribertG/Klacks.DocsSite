@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Dirección del operador
+
 En Configuración > General > Dirección secretaría se registra la dirección principal de su empresa, así como los valores estándar globales para país, cantón, zona horaria y calendario de días festivos.
 
 ## Cómo funciona

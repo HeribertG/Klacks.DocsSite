@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Moniteur de ressources
+
 Le moniteur de ressources montre en un coup d'œil l'état de la charge de personnel d'un groupe (ou de tous les groupes) pour l'année sélectionnée — une barre par jour, sur 365 jours l'évolution complète de l'année.
 
 ## Comment ça fonctionne

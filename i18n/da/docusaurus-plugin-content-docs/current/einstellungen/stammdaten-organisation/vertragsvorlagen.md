@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kontraktskabeloner
+
 Under Indstillinger > Organisation > Kontrakter administrerer du de frit definerbare kontraktskabeloner, som du efterfølgende tildeler til de enkelte medarbejdere — skal ikke forveksles med selve tildelingen til en person (mere om dette under „Medarbejdere og stamdata" i Kom godt i gang).
 
 ## Sådan fungerer det

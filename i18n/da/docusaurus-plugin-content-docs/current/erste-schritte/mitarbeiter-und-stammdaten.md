@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Medarbejdere og stamdata
+
 Adresse- og personhåndteringen er hjertet i dine stamdata: medarbejdere, kunder samt eksterne personer med adresser, kontaktdata, kontrakter, gruppetilhørsforhold og kvalifikationer — tilgængelig via person-ikonet i navigationen.
 
 ## Sådan fungerer det

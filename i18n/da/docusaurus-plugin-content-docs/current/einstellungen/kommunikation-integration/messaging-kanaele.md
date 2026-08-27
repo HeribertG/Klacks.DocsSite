@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Meddelelseskanaler
+
 Under Indstillinger > Messaging-udbydere tilknytter du eksterne chat- og SMS-kanaler, hvorigennem Klacks (og Klacksy) kan skrive direkte til medarbejdere og kunder — i stedet for eller som supplement til e-mail.
 
 ## Sådan fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Vertragsvorlagen
+
 Unter Einstellungen > Organisation > Verträge verwalten Sie die frei definierbaren Vertragsvorlagen, die Sie anschliessend einzelnen Mitarbeitenden zuweisen — nicht zu verwechseln mit der eigentlichen Zuweisung an eine Person (mehr dazu unter „Mitarbeiter und Stammdaten" in Erste Schritte).
 
 ## So funktioniert es

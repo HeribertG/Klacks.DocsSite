@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Valeurs par défaut des règles de planification
+
 Sous Paramètres > Règles de planification (valeurs par défaut), vous définissez les valeurs qui seront automatiquement préremplies lors de la création d'un nouveau contrat ou d'une nouvelle règle de planification.
 
 ## Comment ça fonctionne

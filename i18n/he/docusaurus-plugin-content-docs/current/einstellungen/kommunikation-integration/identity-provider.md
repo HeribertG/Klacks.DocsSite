@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# ספק זהות
+
 בהגדרות > Identity Provider אתם מחברים את Klacks לשירות ספריה חיצוני — LDAP/Active Directory או OAuth2/OpenID Connect — כדי לייבא עובדים אוטומטית ו/או לבצע דרכו את ההתחברות.
 
 ## כך זה עובד

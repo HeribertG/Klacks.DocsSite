@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Canaux de messagerie
+
 Dans Paramètres > Fournisseurs de messagerie, vous connectez des canaux de chat et de SMS externes permettant à Klacks (et à Klacksy) de contacter directement les collaborateurs et les clients — à la place ou en complément de l'e-mail.
 
 ## Comment ça marche

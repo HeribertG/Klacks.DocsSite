@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# 精靈設定
+
 在「設定 > 精靈設定」中，您可以選擇「Holistic Harmonizer」— Klacks 排班助理之一 — 進行評估時所使用的 AI 語言模型。
 
 ## 運作方式

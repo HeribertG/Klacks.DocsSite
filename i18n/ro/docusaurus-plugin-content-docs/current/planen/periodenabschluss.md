@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Închiderea perioadei
+
 Închiderea perioadei este spațiul dumneavoastră de lucru pentru închiderea lunară: eliberați zile individuale, închideți perioada și o sigilați — datele sigilate constituie baza obligatorie pentru evaluări și exporturi.
 
 ## Cum funcționează

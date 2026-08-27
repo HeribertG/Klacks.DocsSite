@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# E-mail verzenden
+
 Onder Instellingen > E-mailinstellingen legt u de SMTP-server vast waarmee Klacks uitgaande e-mails verstuurt — bijvoorbeeld meldingen, wachtwoord-reset-mails of berichten die door Klacksy worden verzonden.
 
 ## Zo werkt het

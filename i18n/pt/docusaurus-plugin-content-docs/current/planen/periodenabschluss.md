@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Fecho de período
+
 O Encerramento de Período é o seu posto de trabalho para o fecho mensal: liberta dias individuais, encerra o período e sela-o — os dados selados são a base vinculativa para análises e exportações.
 
 ## Como funciona

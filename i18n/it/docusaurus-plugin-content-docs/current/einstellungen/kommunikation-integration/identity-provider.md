@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 In Impostazioni > Identity Provider collegate Klacks a un servizio di directory esterno — LDAP/Active Directory oppure OAuth2/OpenID Connect — per importare automaticamente i dipendenti e/o gestire tramite esso l'autenticazione.
 
 ## Come funziona

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Canale de mesagerie
+
 În Setări > Furnizori de mesagerie conectați canale externe de chat și SMS, prin care Klacks (și Klacksy) poate scrie direct angajaților și clienților — în locul sau pe lângă e-mail.
 
 ## Cum funcționează

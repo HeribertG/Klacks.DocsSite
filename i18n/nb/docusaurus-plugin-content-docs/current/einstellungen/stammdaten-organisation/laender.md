@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Land
+
 Under Innstillinger > Organisasjon > Land forvalter du listen over land som er tilgjengelige for valg i Klacks — for eksempel ved adressen Sekretariat.
 
 ## Slik fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Lựa chọn lịch
+
 Một lựa chọn lịch (Kalenderauswahl) gộp một hoặc nhiều lịch ngày lễ (quốc gia + bang/tỉnh) thành một gói có tên, mà sau đó bạn gán cho một hợp đồng hoặc một nhóm.
 
 ## Cách hoạt động

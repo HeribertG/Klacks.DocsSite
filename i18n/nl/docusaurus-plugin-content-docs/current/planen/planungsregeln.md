@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Planningsregels
+
 Planningsregels definiëren de randvoorwaarden voor de automatische dienstplanning — werktijden, rusttijden en capaciteiten waaraan Klacks zich houdt bij het verdelen van de diensten.
 
 ## Zo werkt het

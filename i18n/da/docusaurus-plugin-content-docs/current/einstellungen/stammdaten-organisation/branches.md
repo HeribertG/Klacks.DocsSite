@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filialer
+
 Under Indstillinger > Organisation > Filialer vedligeholder du adresserne på dine driftssteder — en enkel liste over egne lokationer, uafhængig af medarbejdere eller vagtplaner.
 
 ## Sådan fungerer det

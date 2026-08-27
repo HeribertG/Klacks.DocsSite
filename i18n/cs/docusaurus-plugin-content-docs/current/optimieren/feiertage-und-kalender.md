@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Svátky a kalendář
+
 Věčný kalendář automaticky vypočítává svátky pro každý rok — pravidla definujete jednou a Klacks pak zná svátky pro všechny nadcházející roky.
 
 ## Jak to funguje

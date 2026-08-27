@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Rapport-designer
+
 Med Report-designeren udformer du dine egne udskriftsskabeloner — fra vagtplan til adresseliste — direkte i Klacks, uden eksterne værktøjer.
 
 ## Sådan fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Incoming Email
+
 Under Settings > IMAP Settings you set up a mailbox that Klacks continuously polls in the background and displays in the "Inbox" area — so incoming correspondence can automatically be traced back to employees and clients.
 
 ## How it works

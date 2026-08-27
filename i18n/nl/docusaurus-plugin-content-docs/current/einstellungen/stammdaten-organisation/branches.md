@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filialen
+
 Onder Instellingen > Organisatie > Filialen beheert u de adressen van uw vestigingen — een eenvoudige lijst van eigen locaties, onafhankelijk van medewerkers of dienstroosters.
 
 ## Zo werkt het

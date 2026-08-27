@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Chốt kỳ
+
 Chốt kỳ là nơi làm việc để chốt sổ hàng tháng của bạn: bạn giải phóng từng ngày riêng lẻ, đóng kỳ đó lại và niêm phong nó — dữ liệu đã niêm phong là cơ sở ràng buộc cho các báo cáo đánh giá và xuất dữ liệu.
 
 ## Cách hoạt động

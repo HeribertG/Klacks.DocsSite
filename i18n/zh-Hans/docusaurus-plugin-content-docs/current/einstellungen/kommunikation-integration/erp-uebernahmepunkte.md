@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP 接入点
+
 在「设置 > ERP 导入接入点」中，您可以配置外部 ERP 系统的订单如何以 XML 文件的形式自动导入 Klacks。
 
 ## 运作方式

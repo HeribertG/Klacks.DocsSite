@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# 向导设置
+
 在「设置 > 向导设置」中，您可以选择「Holistic Harmonizer」（Klacks 的排班助手之一）用于评估的 AI 语言模型。
 
 ## 运作方式

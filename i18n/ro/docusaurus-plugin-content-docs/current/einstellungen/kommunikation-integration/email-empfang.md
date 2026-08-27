@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Primire e-mail
+
 În Setări > Setări IMAP configurați o căsuță poștală pe care Klacks o interoghează în mod continuu în fundal și o afișează în zona „Căsuța de mesaje" — astfel corespondența primită poate fi urmărită automat, asociată angajaților și clienților.
 
 ## Cum funcționează

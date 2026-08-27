@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Traducción DeepL
+
 En Configuración > DeepL guarda una clave de API de DeepL con la que Klacks puede traducir textos automáticamente — actualmente, sobre todo, los correos electrónicos entrantes en la bandeja de entrada.
 
 ## Cómo funciona

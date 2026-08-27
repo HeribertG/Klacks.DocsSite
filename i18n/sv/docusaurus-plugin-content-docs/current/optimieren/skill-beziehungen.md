@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Kvalifikationsrelationer
+
 AI-assistenten Klacksy lär sig från den dagliga användningen vilka av sina förmågor (Skills) som hör ihop — och väljer därmed nästa gång ut rätt Skills mer träffsäkert.
 
 ## Så fungerar det

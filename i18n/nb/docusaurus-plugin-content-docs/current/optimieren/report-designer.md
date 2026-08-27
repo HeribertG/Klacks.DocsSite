@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Rapportdesigner
+
 Med rapportdesigneren utformer du egne utskriftsmaler — fra vaktplan til adresseliste — direkte i Klacks, uten eksterne verktøy.
 
 ## Slik fungerer det

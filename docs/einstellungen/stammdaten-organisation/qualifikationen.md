@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Qualifikationskatalog
+
 Unter Einstellungen > Organisation > Qualifikationen pflegen Sie den Katalog aller Qualifikationen, die Mitarbeitenden und Kunden im Betrieb zugeordnet werden können — von Sprachkenntnissen bis zu branchenspezifischen Fachqualifikationen.
 
 ## So funktioniert es

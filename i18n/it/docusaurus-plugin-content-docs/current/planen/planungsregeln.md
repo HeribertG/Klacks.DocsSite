@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Regole di pianificazione
+
 Le regole di pianificazione definiscono le condizioni quadro per la pianificazione automatica dei turni — orari di lavoro, tempi di riposo e capacità, che Klacks rispetta nella distribuzione dei turni.
 
 ## Come funziona

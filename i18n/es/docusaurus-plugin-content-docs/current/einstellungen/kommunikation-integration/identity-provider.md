@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Proveedor de identidad
+
 En Configuración > Proveedor de identidad conecta Klacks con un servicio de directorio externo — LDAP/Active Directory u OAuth2/OpenID Connect — para importar empleados automáticamente y/o gestionar el inicio de sesión a través de él.
 
 ## Cómo funciona

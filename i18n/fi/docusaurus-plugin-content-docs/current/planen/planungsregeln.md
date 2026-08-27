@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Suunnittelusäännöt
+
 Suunnittelusäännöt määrittävät automaattisen työvuorosuunnittelun reunaehdot — työajat, lepoajat ja kapasiteetit, joita Klacks noudattaa työvuoroja jakaessaan.
 
 ## Näin se toimii

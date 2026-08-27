@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Widoczność grup
+
 W obszarze Ustawienia > Widoczność grup dla poszczególnych użytkowników określasz, które grupy — a tym samym które powiązane dane — może zobaczyć dany użytkownik.
 
 ## Jak to działa

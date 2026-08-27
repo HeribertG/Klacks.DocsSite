@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Aturan Perencanaan
+
 Aturan perencanaan mendefinisikan kondisi kerangka untuk perencanaan dinas otomatis — jam kerja, waktu istirahat, dan kapasitas yang dipatuhi Klacks saat mendistribusikan shift.
 
 ## Cara Kerjanya

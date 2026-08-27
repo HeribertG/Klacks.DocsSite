@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Colaboradores e dados-base
+
 A gestão de moradas e pessoas é o coração dos seus dados mestre: colaboradores, clientes e externos com moradas, dados de contacto, contratos, pertença a grupos e qualificações — acessível através do ícone de pessoas na navegação.
 
 ## Como funciona

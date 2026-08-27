@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API לאופטימיזציית מסלולים
+
 בהגדרות > OpenRoute אתם מזינים את מפתח ה-API עבור השירות החיצוני openrouteservice.org, שבו Klacks משתמשת לאופטימיזציית מסלולים.
 
 ## כך זה עובד

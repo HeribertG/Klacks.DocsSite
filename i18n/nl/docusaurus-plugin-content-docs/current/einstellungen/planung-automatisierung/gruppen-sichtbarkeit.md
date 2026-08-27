@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Groepszichtbaarheid
+
 Onder Instellingen > Groepszichtbaarheid per gebruiker bepaalt u welke groepen — en dus welke bijbehorende gegevens — een individuele gebruiker mag zien.
 
 ## Zo werkt het

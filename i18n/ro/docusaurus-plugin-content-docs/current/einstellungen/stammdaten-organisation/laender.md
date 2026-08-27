@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Țări
+
 În Setări > Organizare > Țări gestionați lista țărilor disponibile pentru selecție în Klacks — de exemplu la adresa Secretariat.
 
 ## Cum funcționează

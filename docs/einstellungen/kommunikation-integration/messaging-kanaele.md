@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Messaging-Kanäle
+
 Unter Einstellungen > Messaging-Anbieter binden Sie externe Chat- und SMS-Kanäle an, über die Klacks (und Klacksy) Mitarbeitende und Kundinnen/Kunden direkt anschreiben kann — statt oder zusätzlich zu E-Mail.
 
 ## So funktioniert es

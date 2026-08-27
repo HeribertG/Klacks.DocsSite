@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Règles de planification
+
 Les règles de planification définissent le cadre de la planification automatique des services — horaires de travail, temps de repos et capacités que Klacks respecte lors de la répartition des services.
 
 ## Comment ça marche

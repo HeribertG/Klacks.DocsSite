@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Period Closing
+
 Period closing is your month-end workspace: you release individual days, close the period, and seal it — sealed data is the binding basis for evaluations and exports.
 
 ## How it works

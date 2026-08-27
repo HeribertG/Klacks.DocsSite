@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Zaměstnanci a kmenová data
+
 Správa adres a osob je jádrem vašich kmenových dat: zaměstnanci, zákazníci i externí osoby s adresami, kontaktními údaji, smlouvami, příslušností ke skupinám a kvalifikacemi — dostupné přes ikonu osob v navigaci.
 
 ## Jak to funguje

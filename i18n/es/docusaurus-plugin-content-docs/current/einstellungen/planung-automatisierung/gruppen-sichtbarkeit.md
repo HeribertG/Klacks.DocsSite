@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Visibilidad de grupos
+
 En Configuración > Visibilidad de grupos por usuario define qué grupos — y con ello qué datos asociados — puede ver un usuario individual.
 
 ## Cómo funciona

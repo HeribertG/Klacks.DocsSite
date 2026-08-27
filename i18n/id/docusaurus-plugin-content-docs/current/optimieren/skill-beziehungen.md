@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Hubungan Skill
+
 Asisten AI Klacksy mempelajari dari penggunaan sehari-hari, kemampuan (skill) mana yang saling berkaitan — dan dengan demikian, di kesempatan berikutnya, memilih skill yang tepat dengan lebih terarah.
 
 ## Cara Kerjanya

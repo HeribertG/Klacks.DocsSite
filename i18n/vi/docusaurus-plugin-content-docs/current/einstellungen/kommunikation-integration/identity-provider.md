@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Trong mục Cài đặt > Identity Provider, bạn kết nối Klacks với một dịch vụ thư mục bên ngoài — LDAP/Active Directory hoặc OAuth2/OpenID Connect — để tự động nhập nhân viên và/hoặc xử lý việc đăng nhập thông qua đó.
 
 ## Cách thức hoạt động

@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Plánovací pravidla
+
 Plánovací pravidla definují rámcové podmínky pro automatické plánování služeb — pracovní dobu, doby odpočinku a kapacity, které Klacks dodržuje při rozdělování služeb.
 
 ## Jak to funguje

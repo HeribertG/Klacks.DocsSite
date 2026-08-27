@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Pontos de integração ERP
+
 Em Definições > Pontos de Receção ERP configura como as encomendas de um sistema ERP externo são importadas automaticamente para o Klacks sob a forma de ficheiros XML.
 
 ## Como funciona

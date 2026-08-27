@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Taitojen väliset suhteet
+
 Tekoälyavustaja Klacksy oppii päivittäisestä käytöstä, mitkä sen kyvyistä (skilleistä) kuuluvat yhteen — ja valitsee siten seuraavalla kerralla sopivat skillit entistä tarkemmin.
 
 ## Näin se toimii

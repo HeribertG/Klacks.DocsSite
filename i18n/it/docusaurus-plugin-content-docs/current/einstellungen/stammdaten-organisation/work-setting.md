@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Impostazioni di base del lavoro
+
 In Impostazioni > Orario di lavoro e pianificazione > Impostazioni di base della pianificazione si definiscono i valori predefiniti a livello aziendale per ferie, durata dei contratti, maggiorazioni e visibilità del piano di servizio.
 
 ## Come funziona

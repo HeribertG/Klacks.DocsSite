@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Planungsregeln
+
 Planungsregeln definieren die Rahmenbedingungen für die automatische Dienstplanung — Arbeitszeiten, Ruhezeiten und Kapazitäten, die Klacks beim Verteilen der Dienste einhält.
 
 ## So funktioniert es

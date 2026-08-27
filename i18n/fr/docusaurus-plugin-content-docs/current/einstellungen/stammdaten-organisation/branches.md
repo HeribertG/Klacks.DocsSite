@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filiales
+
 Dans Paramètres > Organisation > Filiales, vous gérez les adresses de vos sites d'exploitation — une simple liste de vos propres emplacements, indépendante des collaborateurs ou des plannings.
 
 ## Comment ça fonctionne

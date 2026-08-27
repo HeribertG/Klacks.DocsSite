@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Jours fériés et calendriers
+
 Le calendrier perpétuel calcule automatiquement les jours fériés pour chaque année — vous définissez les règles une fois, et Klacks connaît ensuite les jours fériés pour toutes les années à venir.
 
 ## Comment ça fonctionne

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# E-mail ontvangen
+
 Onder Instellingen > IMAP-instellingen legt u een postbus vast die Klacks continu op de achtergrond ophaalt en weergeeft in het gedeelte „Postvak IN" — zo kan inkomende correspondentie automatisch aan medewerkers en klanten worden toegewezen en nagetrokken.
 
 ## Zo werkt het

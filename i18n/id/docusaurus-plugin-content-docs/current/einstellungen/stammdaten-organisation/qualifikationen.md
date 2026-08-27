@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Katalog Kualifikasi
+
 Di Pengaturan > Organisasi > Kualifikasi, Anda mengelola katalog semua kualifikasi yang dapat ditugaskan kepada karyawan dan pelanggan di perusahaan — mulai dari kemampuan bahasa hingga kualifikasi khusus industri.
 
 ## Cara kerjanya

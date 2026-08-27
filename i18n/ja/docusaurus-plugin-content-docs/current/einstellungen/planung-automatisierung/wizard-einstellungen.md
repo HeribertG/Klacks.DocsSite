@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# ウィザード設定
+
 「設定 > ウィザード設定」では、Klacksの計画アシスタントの1つである「Holistic Harmonizer」が評価に使用するAIの言語モデルを選択します。
 
 ## 仕組み

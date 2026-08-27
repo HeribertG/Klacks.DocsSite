@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Medarbeidere og stamdata
+
 Adresse- og personadministrasjonen er kjernen i stamdataene dine: medarbeidere, kunder og eksterne med adresser, kontaktdata, kontrakter, gruppetilhørighet og kvalifikasjoner — tilgjengelig via personsymbolet i navigasjonen.
 
 ## Slik fungerer det

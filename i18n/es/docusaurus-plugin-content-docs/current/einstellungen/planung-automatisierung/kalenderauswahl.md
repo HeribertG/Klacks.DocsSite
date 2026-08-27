@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Selección de calendario
+
 Una selección de calendario agrupa uno o varios calendarios de días festivos (país + cantón/estado federado) en un paquete con nombre, que después asigna a un contrato o a un grupo.
 
 ## Cómo funciona

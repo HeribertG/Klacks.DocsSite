@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Chiusura del periodo
+
 La chiusura periodo è il vostro spazio di lavoro per la chiusura mensile: rilasciate singoli giorni, chiudete il periodo e lo sigillate — i dati sigillati sono la base vincolante per le analisi e le esportazioni.
 
 ## Come funziona

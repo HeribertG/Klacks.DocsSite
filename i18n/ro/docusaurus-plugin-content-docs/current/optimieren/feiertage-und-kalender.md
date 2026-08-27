@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Sărbători și calendare
+
 Calendarul perpetuu calculează automat sărbătorile legale pentru fiecare an — definiți regulile o singură dată, iar Klacks cunoaște apoi sărbătorile pentru toți anii următori.
 
 ## Cum funcționează

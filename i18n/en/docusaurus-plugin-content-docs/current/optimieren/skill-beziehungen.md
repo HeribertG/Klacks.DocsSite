@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Skill Relations
+
 The AI assistant Klacksy learns from everyday usage which of its capabilities (skills) belong together — and next time selects the right skills more precisely as a result.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Modelos de contrato
+
 Em Definições > Organização > Contratos gere os modelos de contrato de definição livre, que depois atribui a colaboradores individuais — não confundir com a atribuição propriamente dita a uma pessoa (mais informações em «Colaboradores e dados mestre» em Primeiros passos).
 
 ## Como funciona

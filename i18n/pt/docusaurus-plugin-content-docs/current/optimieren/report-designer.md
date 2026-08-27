@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Com o Report Designer, cria os seus próprios modelos de impressão — desde o plano de serviço até à lista de moradas — diretamente no Klacks, sem ferramentas externas.
 
 ## Como funciona

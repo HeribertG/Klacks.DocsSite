@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# E-mail-modtagelse
+
 Under Indstillinger > IMAP-indstillinger gemmer du en postkasse, som Klacks løbende henter i baggrunden og viser i området "Indbakke" — dermed kan indgående korrespondance automatisk følges og tildeles medarbejdere og kunder.
 
 ## Sådan fungerer det

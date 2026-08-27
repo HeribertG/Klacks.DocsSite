@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Trình thiết kế báo cáo
+
 Với Trình thiết kế báo cáo, bạn tự thiết kế các mẫu in riêng — từ lịch trực đến danh sách địa chỉ — trực tiếp trong Klacks, không cần công cụ bên ngoài.
 
 ## Cách hoạt động

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# E-postsending
+
 Under Innstillinger > E-postinnstillinger legger du inn SMTP-serveren Klacks bruker til å sende utgående e-poster — for eksempel varslinger, e-poster for tilbakestilling av passord eller meldinger sendt av Klacksy.
 
 ## Slik fungerer det

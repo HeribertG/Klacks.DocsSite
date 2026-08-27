@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Penerimaan Email
+
 Di Pengaturan > Pengaturan IMAP Anda menyimpan sebuah kotak surat yang secara terus-menerus diambil oleh Klacks di latar belakang dan ditampilkan di area "Kotak Masuk" — dengan begitu korespondensi masuk dapat dilacak secara otomatis dan dikaitkan dengan karyawan serta pelanggan.
 
 ## Cara kerjanya

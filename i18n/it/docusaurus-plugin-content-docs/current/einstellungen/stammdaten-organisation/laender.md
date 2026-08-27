@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Paesi
+
 In Impostazioni > Organizzazione > Paesi gestite l'elenco dei paesi disponibili per la selezione in Klacks — ad esempio nell'indirizzo della segreteria.
 
 ## Come funziona

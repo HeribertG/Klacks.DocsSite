@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Alamat Pengendali
+
 Di bawah Tetapan > Umum > Alamat Sekretariat, anda menyimpan Alamat Pengendali utama syarikat anda serta Tetapan Lalai global untuk Negara, Kanton, Zon Waktu dan Kalendar Cuti Umum.
 
 ## Cara ia berfungsi

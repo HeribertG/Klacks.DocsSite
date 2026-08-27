@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# 路線最佳化 API
+
 在「設定 > OpenRoute」中，您需要填入外部服務 openrouteservice.org 的 API 金鑰，Klacks 會使用這個服務進行路線最佳化。
 
 ## 運作方式

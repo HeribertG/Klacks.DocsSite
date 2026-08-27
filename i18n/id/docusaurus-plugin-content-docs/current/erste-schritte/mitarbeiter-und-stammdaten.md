@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Karyawan dan Data Induk
+
 Manajemen alamat dan orang adalah inti dari data induk Anda: karyawan, pelanggan, serta pihak eksternal dengan alamat, data kontak, kontrak, keanggotaan grup, dan kualifikasi — dapat diakses melalui ikon Orang di navigasi.
 
 ## Cara kerjanya

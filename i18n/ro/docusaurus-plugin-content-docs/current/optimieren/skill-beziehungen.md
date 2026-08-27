@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Relații între abilități
+
 Asistentul AI Klacksy învață din utilizarea zilnică care dintre abilitățile sale (Skills) merg împreună — și alege astfel, data viitoare, mai precis skill-urile potrivite.
 
 ## Cum funcționează

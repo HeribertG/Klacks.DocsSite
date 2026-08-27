@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API de optimización de rutas
+
 En Configuración > OpenRoute registra la clave API del servicio externo openrouteservice.org, que Klacks utiliza para la optimización de rutas.
 
 ## Cómo funciona

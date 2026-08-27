@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Cài đặt Wizard
+
 Tại Cài đặt > Cài đặt Wizard, bạn chọn mô hình ngôn ngữ AI mà "Holistic Harmonizer" — một trong các trợ lý lập kế hoạch của Klacks — sử dụng để đánh giá.
 
 ## Cách hoạt động

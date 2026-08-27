@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Penutupan Periode
+
 Penutupan Periode adalah tempat kerja penutupan bulanan Anda: Anda membuka hari-hari tertentu, menutup periode, dan menyegelnya — data yang disegel menjadi dasar yang mengikat untuk evaluasi dan ekspor.
 
 ## Cara Kerjanya

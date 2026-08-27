@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Zamknięcie okresu
+
 Zamknięcie okresu to Twoje stanowisko pracy do zamknięcia miesiąca: zwalniasz poszczególne dni, zamykasz okres i go pieczętujesz — zapieczętowane dane stanowią wiążącą podstawę do zestawień i eksportów.
 
 ## Jak to działa

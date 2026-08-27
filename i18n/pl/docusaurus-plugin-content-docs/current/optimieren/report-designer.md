@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kreator raportów
+
 Za pomocą Report Designera tworzysz własne szablony wydruków — od grafiku dyżurów po listę adresową — bezpośrednio w Klacks, bez zewnętrznych narzędzi.
 
 ## Jak to działa

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL-oversættelse
+
 Under Indstillinger > DeepL gemmer du en DeepL-API-nøgle, som Klacks kan bruge til automatisk at oversætte tekster — aktuelt især indgående e-mails i indbakken.
 
 ## Sådan fungerer det

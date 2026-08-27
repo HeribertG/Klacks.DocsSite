@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Ricezione e-mail
+
 In Impostazioni > Impostazioni IMAP configurate una casella di posta che Klacks recupera costantemente in background e mostra nella sezione "Posta in entrata" — in questo modo la corrispondenza in arrivo può essere tracciata automaticamente e associata a collaboratori e clienti.
 
 ## Come funziona

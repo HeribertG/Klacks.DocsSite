@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# E-Mail-Empfang
+
 Unter Einstellungen > IMAP-Einstellungen hinterlegen Sie ein Postfach, das Klacks laufend im Hintergrund abruft und im Bereich „Posteingang" anzeigt — damit lässt sich eingehende Korrespondenz automatisch Mitarbeitenden und Kunden zugeordnet nachvollziehen.
 
 ## So funktioniert es

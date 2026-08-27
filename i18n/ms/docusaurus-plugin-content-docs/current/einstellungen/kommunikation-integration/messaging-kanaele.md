@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Saluran Pemesejan
+
 Di bawah Tetapan > Penyedia Pemesejan anda menyambungkan saluran sembang dan SMS luaran, yang melaluinya Klacks (dan Klacksy) boleh menghubungi pekerja dan pelanggan secara terus — sebagai ganti atau tambahan kepada e-mel.
 
 ## Cara ia berfungsi

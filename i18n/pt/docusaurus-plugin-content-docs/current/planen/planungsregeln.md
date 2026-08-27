@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Regras de planeamento
+
 As regras de planeamento definem as condições-quadro para o planeamento automático de serviços — horários de trabalho, tempos de descanso e capacidades que o Klacks respeita ao distribuir os serviços.
 
 ## Como funciona

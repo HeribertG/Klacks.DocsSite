@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Ajustes básicos de trabajo
+
 En Configuración > Horario laboral y planificación > Configuración base de planificación se definen los valores estándar para toda la empresa relativos a vacaciones, duración de contratos, recargos y la visibilidad del plan de turnos.
 
 ## Cómo funciona

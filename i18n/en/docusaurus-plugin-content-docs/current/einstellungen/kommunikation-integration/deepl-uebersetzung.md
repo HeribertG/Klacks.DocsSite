@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL Translation
+
 Under Settings > DeepL you enter a DeepL API key that lets Klacks automatically translate text — currently mainly incoming emails in the inbox.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Endereço do operador
+
 Em Definições > Geral > Endereço da secretaria, regista o endereço principal da sua empresa, bem como as definições padrão globais para país, cantão, fuso horário e calendário de feriados.
 
 ## Como funciona

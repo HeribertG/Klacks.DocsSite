@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Onder Instellingen > Identity Provider verbindt u Klacks met een externe directoryservice — LDAP/Active Directory of OAuth2/OpenID Connect — om medewerkers automatisch te importeren en/of de aanmelding daarmee af te handelen.
 
 ## Zo werkt het

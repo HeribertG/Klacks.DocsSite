@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identiteetintarjoaja
+
 Kohdassa Asetukset > Identiteetintarjoaja yhdistät Klacksin ulkoiseen hakemistopalveluun — LDAP/Active Directory tai OAuth2/OpenID Connect — työntekijöiden automaattista tuontia ja/tai kirjautumisen hoitamista varten sen kautta.
 
 ## Näin se toimii

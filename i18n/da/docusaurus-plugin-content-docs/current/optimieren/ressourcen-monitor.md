@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ressourcemonitor
+
 Ressourcemonitoren viser med ét blik, hvordan det står til med personalebelastningen i en gruppe (eller alle grupper) i det valgte år — én søjle pr. dag, hele årsforløbet over 365 dage.
 
 ## Sådan fungerer det

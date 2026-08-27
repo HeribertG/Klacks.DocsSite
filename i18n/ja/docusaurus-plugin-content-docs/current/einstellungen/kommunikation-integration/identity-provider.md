@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 「設定 > Identity Provider」では、Klacksを外部ディレクトリサービス — LDAP/Active DirectoryまたはOAuth2/OpenID Connect — と接続し、従業員を自動的にインポートしたり、これを通じてログイン処理を行ったりすることができます。
 
 ## 仕組み

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Kanal Messaging
+
 Di Pengaturan > Penyedia Messaging Anda menghubungkan kanal obrolan dan SMS eksternal, yang melaluinya Klacks (dan Klacksy) dapat langsung menghubungi karyawan dan pelanggan — sebagai pengganti atau tambahan dari email.
 
 ## Cara kerjanya

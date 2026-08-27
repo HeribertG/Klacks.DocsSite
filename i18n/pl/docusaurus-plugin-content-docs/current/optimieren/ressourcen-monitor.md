@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor zasobów
+
 Monitor zasobów pokazuje na pierwszy rzut oka, jak wygląda obłożenie personelu w danej grupie (lub we wszystkich grupach) w wybranym roku — jeden pasek na dzień, a na przestrzeni 365 dni cały przebieg roku.
 
 ## Jak to działa

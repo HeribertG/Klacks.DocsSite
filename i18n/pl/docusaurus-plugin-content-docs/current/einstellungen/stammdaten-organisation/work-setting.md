@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Podstawowe ustawienia pracy
+
 W sekcji Ustawienia > Czas pracy i planowanie > Podstawowe ustawienia planowania określasz ogólnofirmowe wartości domyślne dla urlopu, czasu trwania umów, dodatków oraz widoczności grafiku.
 
 ## Jak to działa

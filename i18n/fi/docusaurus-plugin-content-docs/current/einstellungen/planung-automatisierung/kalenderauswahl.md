@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalenterin valinta
+
 Kalenterivalinta kokoaa yhden tai useamman pyhäpäiväkalenterin (maa + kantoni/osavaltio) nimetyksi paketiksi, jonka liität sen jälkeen sopimukseen tai ryhmään.
 
 ## Miten se toimii

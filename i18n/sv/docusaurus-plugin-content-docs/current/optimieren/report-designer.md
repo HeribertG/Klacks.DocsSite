@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Rapportdesigner
+
 Med Report-designern skapar du egna utskriftsmallar — från schema till adresslista — direkt i Klacks, utan externa verktyg.
 
 ## Så fungerar det

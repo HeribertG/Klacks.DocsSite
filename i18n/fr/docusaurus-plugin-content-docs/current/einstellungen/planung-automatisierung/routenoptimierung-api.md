@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API d'optimisation des itinéraires
+
 Sous Paramètres > OpenRoute, vous renseignez la clé API du service externe openrouteservice.org, que Klacks utilise pour l'optimisation des tournées.
 
 ## Comment ça fonctionne

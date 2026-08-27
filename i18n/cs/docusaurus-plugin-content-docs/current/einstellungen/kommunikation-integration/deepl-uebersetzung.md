@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Překlad DeepL
+
 V nastavení Nastavení > DeepL zadáváte API klíč DeepL, pomocí kterého Klacks umí automaticky překládat texty — aktuálně především příchozí e-maily ve schránce příchozí pošty.
 
 ## Jak to funguje

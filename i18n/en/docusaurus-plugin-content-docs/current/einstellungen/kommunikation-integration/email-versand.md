@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Outgoing Email
+
 Under Settings > Email Settings you configure the SMTP server that Klacks uses to send outgoing emails — such as notifications, password reset emails, or messages sent by Klacksy.
 
 ## How it works

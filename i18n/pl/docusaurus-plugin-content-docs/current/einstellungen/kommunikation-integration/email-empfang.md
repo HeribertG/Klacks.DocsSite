@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Odbieranie e-maili
+
 W obszarze Ustawienia > Ustawienia IMAP zapisujesz skrzynkę pocztową, którą Klacks stale pobiera w tle i wyświetla w obszarze „Skrzynka odbiorcza" — dzięki temu przychodząca korespondencja może być automatycznie przypisywana do pracowników i klientów.
 
 ## Jak to działa

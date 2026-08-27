@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Grunninnstillinger for arbeid
+
 Under Innstillinger > Arbeidstid & planlegging > Grunninnstillinger for planlegging fastsetter du de bedriftsomfattende standardverdiene for ferie, kontraktsperioder, tillegg og synligheten av vaktplanen.
 
 ## Slik fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Điểm tiếp nhận ERP
+
 Trong mục Cài đặt > Điểm tiếp nhận ERP, bạn cấu hình cách các đơn hàng từ một hệ thống ERP bên ngoài được tự động tiếp nhận vào Klacks dưới dạng tệp XML.
 
 ## Cách thức hoạt động

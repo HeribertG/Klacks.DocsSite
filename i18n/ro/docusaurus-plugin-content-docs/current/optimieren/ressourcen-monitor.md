@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor de resurse
+
 Monitorul de resurse arată dintr-o privire cum stă gradul de încărcare al personalului unui grup (sau al tuturor grupurilor) în anul selectat — o bară pentru fiecare zi, evoluția întregului an pe parcursul a 365 de zile.
 
 ## Cum funcționează

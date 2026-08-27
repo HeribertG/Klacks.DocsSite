@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Eier-adresse
+
 Under Innstillinger > Generelt > Adresse Sekretariat lagrer du stamadressen til virksomheten din samt de globale standardinnstillingene for land, kanton, tidssone og helligdagskalender.
 
 ## Slik fungerer det

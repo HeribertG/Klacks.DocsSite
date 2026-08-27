@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API pro optimalizaci tras
+
 V nastavení Nastavení > OpenRoute zadáváte API klíč pro externí službu openrouteservice.org, kterou Klacks využívá pro optimalizaci tras.
 
 ## Jak to funguje

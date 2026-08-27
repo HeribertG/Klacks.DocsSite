@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Relaciones entre habilidades
+
 El asistente de IA Klacksy aprende del uso diario qué habilidades (skills) suyas van juntas — y así, la próxima vez, selecciona las habilidades adecuadas de forma más precisa.
 
 ## Cómo funciona

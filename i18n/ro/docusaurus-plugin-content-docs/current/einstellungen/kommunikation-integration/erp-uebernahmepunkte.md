@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Puncte de preluare ERP
+
 În Setări > Puncte de preluare ERP configurați modul în care comenzile dintr-un sistem ERP extern sunt preluate automat în Klacks sub formă de fișiere XML.
 
 ## Cum funcționează

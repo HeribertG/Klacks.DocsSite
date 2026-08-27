@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# 마법사 설정
+
 설정 > 마법사 설정(Wizard-Einstellungen)에서는 Klacks의 계획 도우미 중 하나인 "Holistic Harmonizer"가 평가에 사용할 AI 언어 모델을 선택합니다.
 
 ## 작동 방식

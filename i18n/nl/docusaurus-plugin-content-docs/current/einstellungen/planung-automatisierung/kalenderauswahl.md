@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalenderselectie
+
 Een kalenderselectie bundelt een of meer feestdagenkalenders (land + kanton/deelstaat) tot een benoemd pakket, dat u vervolgens aan een contract of een groep toewijst.
 
 ## Zo werkt het

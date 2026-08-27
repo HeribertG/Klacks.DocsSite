@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP-Übernahmepunkte
+
 Unter Einstellungen > ERP-Übernahmepunkte konfigurieren Sie, wie Bestellungen aus einem externen ERP-System als XML-Dateien automatisch in Klacks übernommen werden.
 
 ## So funktioniert es

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Henkilöstö ja perustiedot
+
 Osoite- ja henkilötietojen hallinta on perustietojesi ydin: henkilöstö, asiakkaat sekä ulkopuoliset henkilöt osoitteineen, yhteystietoineen, sopimuksineen, ryhmäjäsenyyksineen ja pätevyyksineen — käytettävissä navigoinnin henkilö-kuvakkeen kautta.
 
 ## Näin se toimii

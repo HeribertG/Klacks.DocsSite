@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Sähköpostin vastaanotto
+
 Kohdassa Asetukset > IMAP-asetukset tallennat postilaatikon, jota Klacks hakee jatkuvasti taustalla ja näyttää "Saapuneet"-alueella — näin saapuvaa kirjeenvaihtoa voidaan seurata automaattisesti kohdistettuna työntekijöille ja asiakkaille.
 
 ## Näin se toimii

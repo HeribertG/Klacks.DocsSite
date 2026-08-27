@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Wysyłanie e-maili
+
 W obszarze Ustawienia > Ustawienia e-mail zapisujesz serwer SMTP, przez który Klacks wysyła wychodzące wiadomości e-mail — np. powiadomienia, e-maile do resetowania hasła lub wiadomości wysyłane przez Klacksy.
 
 ## Jak to działa

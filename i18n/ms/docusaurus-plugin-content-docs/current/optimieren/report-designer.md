@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Dengan Report Designer, anda mereka bentuk templat cetakan anda sendiri — daripada jadual tugas hingga senarai alamat — terus dalam Klacks, tanpa alat luaran.
 
 ## Cara Ia Berfungsi

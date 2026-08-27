@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP Drop Points
+
 Under Settings > ERP Drop Points you configure how orders from an external ERP system are automatically imported into Klacks as XML files.
 
 ## How it works

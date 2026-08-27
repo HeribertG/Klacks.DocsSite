@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Modelli di contratto
+
 In Impostazioni > Organizzazione > Contratti si gestiscono i modelli di contratto liberamente definibili, che vengono poi assegnati ai singoli collaboratori — da non confondere con l'effettiva assegnazione a una persona (per maggiori dettagli vedi "Collaboratori e anagrafica" in Primi passi).
 
 ## Come funziona

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 With the Report Designer you build your own print templates — from schedules to address lists — right inside Klacks, no external tools required.
 
 ## How it works

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Výběr kalendáře
+
 Výběr kalendáře sdružuje jeden nebo více kalendářů svátků (země + kanton/spolková země) do pojmenovaného balíčku, který následně přiřadíte ke smlouvě nebo skupině.
 
 ## Jak to funguje

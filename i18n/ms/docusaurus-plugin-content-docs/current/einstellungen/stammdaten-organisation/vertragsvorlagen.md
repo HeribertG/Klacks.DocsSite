@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Templat Kontrak
+
 Di bawah Tetapan > Organisasi > Kontrak, anda menguruskan Templat Kontrak yang boleh ditakrifkan secara bebas, yang kemudiannya anda tetapkan kepada Pekerja individu — jangan dikelirukan dengan penetapan sebenar kepada seseorang (lebih lanjut di bawah "Pekerja dan Data Induk" dalam Langkah Pertama).
 
 ## Cara ia berfungsi

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filialer
+
 Under Innstillinger > Organisasjon > Filialer vedlikeholder du adressene til virksomhetsstedene dine — en enkel liste over egne lokasjoner, uavhengig av medarbeidere eller vaktplaner.
 
 ## Slik fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Selecție calendar
+
 O selecție de calendar reunește unul sau mai multe calendare de sărbători legale (țară + canton/land) într-un pachet denumit, pe care ulterior îl asociați unui contract sau unui grup.
 
 ## Cum funcționează

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Návrhář reportů
+
 Pomocí Report Designeru si vytváříte vlastní tiskové šablony — od plánu služeb až po seznam adres — přímo v Klacks, bez externích nástrojů.
 
 ## Jak to funguje

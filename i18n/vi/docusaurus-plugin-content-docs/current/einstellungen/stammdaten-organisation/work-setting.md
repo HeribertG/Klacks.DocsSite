@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Cài đặt cơ bản công việc
+
 Tại Cài đặt > Thời gian làm việc & Lập kế hoạch > Cài đặt cơ bản lập kế hoạch, bạn xác định các giá trị mặc định toàn công ty cho kỳ nghỉ, thời hạn hợp đồng, phụ cấp và khả năng hiển thị của lịch trực.
 
 ## Cách hoạt động

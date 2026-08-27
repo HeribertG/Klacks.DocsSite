@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Festività e calendario
+
 Il calendario perpetuo calcola automaticamente le festività per ogni anno — definite le regole una sola volta, e Klacks conosce poi le festività per tutti gli anni a venire.
 
 ## Come funziona

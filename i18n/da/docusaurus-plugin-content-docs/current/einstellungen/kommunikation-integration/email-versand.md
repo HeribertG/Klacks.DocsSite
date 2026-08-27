@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# E-mail-afsendelse
+
 Under Indstillinger > E-mail-indstillinger gemmer du den SMTP-server, hvorigennem Klacks sender udgående e-mails — f.eks. notifikationer, adgangskode-nulstillingsmails eller beskeder sendt af Klacksy.
 
 ## Sådan fungerer det

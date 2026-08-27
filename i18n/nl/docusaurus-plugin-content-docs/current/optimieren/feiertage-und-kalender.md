@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Feestdagen en kalender
+
 De eeuwigdurende kalender berekent feestdagen voor elk jaar automatisch — u definieert eenmalig de regels, en Klacks kent de feestdagen daarna voor alle komende jaren.
 
 ## Zo werkt het

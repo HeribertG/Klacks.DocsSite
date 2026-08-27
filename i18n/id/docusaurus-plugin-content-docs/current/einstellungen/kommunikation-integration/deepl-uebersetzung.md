@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Terjemahan DeepL
+
 Di Pengaturan > DeepL Anda menyimpan kunci API DeepL, yang memungkinkan Klacks menerjemahkan teks secara otomatis — saat ini terutama untuk email masuk di kotak masuk.
 
 ## Cara kerjanya

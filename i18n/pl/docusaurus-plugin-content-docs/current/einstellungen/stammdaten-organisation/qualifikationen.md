@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Katalog kwalifikacji
+
 W sekcji Ustawienia > Organizacja > Kwalifikacje zarządzasz katalogiem wszystkich kwalifikacji, które można przypisać pracownikom i klientom w firmie — od znajomości języków po specjalistyczne kwalifikacje branżowe.
 
 ## Jak to działa

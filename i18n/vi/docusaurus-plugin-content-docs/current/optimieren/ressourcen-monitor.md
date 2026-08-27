@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Giám sát tài nguyên
+
 Giám sát tài nguyên cho thấy ngay tình trạng sử dụng nhân sự của một nhóm (hoặc tất cả các nhóm) trong năm được chọn — mỗi ngày một thanh, xuyên suốt 365 ngày là toàn bộ diễn biến của năm.
 
 ## Cách hoạt động

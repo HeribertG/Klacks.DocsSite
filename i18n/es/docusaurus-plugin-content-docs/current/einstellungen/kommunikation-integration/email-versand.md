@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Envío de correo electrónico
+
 En Configuración > Ajustes de correo electrónico guarda el servidor SMTP a través del cual Klacks envía correos electrónicos salientes — por ejemplo, notificaciones, correos de restablecimiento de contraseña o mensajes enviados por Klacksy.
 
 ## Cómo funciona

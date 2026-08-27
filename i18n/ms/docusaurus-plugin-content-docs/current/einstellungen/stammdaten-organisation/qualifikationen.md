@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Katalog Kelayakan
+
 Di bawah Tetapan > Organisasi > Kelayakan, anda menyelenggara Katalog Kelayakan semua Kelayakan yang boleh dikaitkan dengan Pekerja dan Pelanggan dalam operasi — daripada kemahiran bahasa hingga Kelayakan khusus industri.
 
 ## Cara ia berfungsi

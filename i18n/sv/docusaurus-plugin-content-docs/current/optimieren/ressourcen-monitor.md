@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Resursövervakning
+
 Resursmonitorn visar på en gång hur personalbeläggningen ser ut för en grupp (eller alla grupper) under det valda året — en stapel per dag, hela årsförloppet över 365 dagar.
 
 ## Så fungerar det

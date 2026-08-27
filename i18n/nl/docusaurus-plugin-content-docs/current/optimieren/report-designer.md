@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Met de Report Designer stelt u eigen afdruksjablonen samen — van het dienstrooster tot de adreslijst — rechtstreeks in Klacks, zonder externe hulpmiddelen.
 
 ## Zo werkt het

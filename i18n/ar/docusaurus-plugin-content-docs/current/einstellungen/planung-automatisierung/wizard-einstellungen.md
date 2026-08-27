@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# إعدادات المعالج (Wizard)
+
 في الإعدادات > إعدادات المعالج (Wizard-Einstellungen)، تختارون نموذج اللغة الذكي الذي يستخدمه "Holistic Harmonizer" — أحد مساعدي التخطيط في Klacks — لأغراض التقييم.
 
 ## كيف يعمل هذا

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Eigenaarsadres
+
 Onder Instellingen > Algemeen > Adres Secretariaat legt u het hoofdadres van uw bedrijf vast, evenals de algemene standaardinstellingen voor land, kanton, tijdzone en feestdagenkalender.
 
 ## Zo werkt het

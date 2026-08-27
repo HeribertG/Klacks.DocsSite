@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL-käännös
+
 Kohdassa Asetukset > DeepL tallennat DeepL-API-avaimen, jonka avulla Klacks voi kääntää tekstejä automaattisesti — tällä hetkellä ennen kaikkea saapuvia sähköposteja saapuneet-kansiossa.
 
 ## Näin se toimii

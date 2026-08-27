@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Titik Pengambilan ERP
+
 Di Pengaturan > Titik Pengambilalihan ERP Anda mengonfigurasi bagaimana pesanan dari sistem ERP eksternal diambil alih secara otomatis ke Klacks sebagai berkas XML.
 
 ## Cara kerjanya

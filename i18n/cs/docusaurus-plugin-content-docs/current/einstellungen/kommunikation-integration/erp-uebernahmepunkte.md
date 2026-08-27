@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# ERP přebírací body
+
 V nastavení Nastavení > Body přebírání ERP konfigurujete, jak se objednávky z externího ERP systému automaticky přebírají do Klacks jako XML soubory.
 
 ## Jak to funguje

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ressursmonitor
+
 Ressursmonitoren viser på ett blikk hvordan bemanningsbelastningen for en gruppe (eller alle grupper) står i det valgte året — én stolpe per dag, over 365 dager hele årsforløpet.
 
 ## Slik fungerer det

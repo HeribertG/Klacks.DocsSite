@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Catálogo de qualificações
+
 Em Definições > Organização > Qualificações, gere o catálogo de todas as qualificações que podem ser atribuídas a colaboradores e clientes na empresa — desde conhecimentos linguísticos até qualificações técnicas específicas do setor.
 
 ## Como funciona

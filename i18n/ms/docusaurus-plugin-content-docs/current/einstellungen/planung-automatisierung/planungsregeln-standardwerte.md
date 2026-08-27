@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Nilai Lalai Peraturan Perancangan
+
 Di bawah Tetapan > Peraturan Perancangan (Nilai Lalai), anda menentukan nilai yang akan diisi secara automatik apabila Kontrak baharu atau Peraturan Perancangan baharu dibuat.
 
 ## Cara ia berfungsi

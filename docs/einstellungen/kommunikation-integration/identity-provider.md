@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Unter Einstellungen > Identity Provider verbinden Sie Klacks mit einem externen Verzeichnisdienst — LDAP/Active Directory oder OAuth2/OpenID Connect — um Mitarbeitende automatisch zu importieren und/oder die Anmeldung darüber abzuwickeln.
 
 ## So funktioniert es

@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Gruppsynlighet
+
 Under Inställningar > Synlighet av grupper per användare bestämmer du vilka grupper — och därmed vilken tillhörande data — en enskild användare får se.
 
 ## Så fungerar det

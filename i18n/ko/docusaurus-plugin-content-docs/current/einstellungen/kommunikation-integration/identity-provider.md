@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# ID 공급자
+
 설정 > Identity Provider 메뉴에서 Klacks를 외부 디렉터리 서비스 — LDAP/Active Directory 또는 OAuth2/OpenID Connect — 와 연결하여 직원을 자동으로 가져오거나 로그인을 이를 통해 처리할 수 있습니다.
 
 ## 작동 방식

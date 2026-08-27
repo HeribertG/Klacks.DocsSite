@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Standardvärden för planeringsregler
+
 Under Inställningar > Planeringsregler (Standardvärden) anger du de värden som automatiskt förifylls när du skapar ett nytt avtal respektive en ny planeringsregel.
 
 ## Så fungerar det

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Adres operatora
+
 W sekcji Ustawienia > Ogólne > Adres sekretariatu zapisujesz podstawowy adres swojej firmy oraz globalne ustawienia domyślne dla kraju, kantonu, strefy czasowej i kalendarza świąt.
 
 ## Jak to działa

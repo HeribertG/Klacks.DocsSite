@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Ryhmien näkyvyys
+
 Kohdassa Asetukset > Ryhmien näkyvyys käyttäjittäin määrität, mitä ryhmiä — ja siten mitä niihin liittyviä tietoja — yksittäinen käyttäjä saa nähdä.
 
 ## Miten se toimii

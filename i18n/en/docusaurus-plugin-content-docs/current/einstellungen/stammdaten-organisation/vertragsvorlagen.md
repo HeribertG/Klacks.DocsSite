@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Contract Templates
+
 Under Settings > Organization > Contracts you manage the freely definable contract templates, which you then assign to individual employees — not to be confused with the actual assignment to a person (more on that under "Employees and Master Data" in Getting Started).
 
 ## How it works

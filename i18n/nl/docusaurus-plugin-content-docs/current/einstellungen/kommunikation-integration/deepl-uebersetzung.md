@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL-vertaling
+
 Onder Instellingen > DeepL legt u een DeepL-API-sleutel vast, waarmee Klacks teksten automatisch kan vertalen — momenteel vooral inkomende e-mails in het postvak IN.
 
 ## Zo werkt het

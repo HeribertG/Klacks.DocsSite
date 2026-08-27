@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Calendar Selection
+
 A calendar selection bundles one or more holiday calendars (country + canton/state) into a named package, which you then assign to a contract or a group.
 
 ## How it works

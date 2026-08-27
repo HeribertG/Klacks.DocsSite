@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Report Designer
+
 Mit dem Report-Designer gestalten Sie eigene Druckvorlagen — vom Dienstplan bis zur Adressliste — direkt in Klacks, ohne externe Werkzeuge.
 
 ## So funktioniert es

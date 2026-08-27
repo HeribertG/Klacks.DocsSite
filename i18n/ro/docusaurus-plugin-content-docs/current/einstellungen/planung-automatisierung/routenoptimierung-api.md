@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# API optimizare rute
+
 În Setări > OpenRoute introduceți cheia API pentru serviciul extern openrouteservice.org, pe care Klacks îl folosește pentru optimizarea rutelor.
 
 ## Cum funcționează

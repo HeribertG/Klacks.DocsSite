@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Planungsregeln-Standardwerte
+
 Unter Einstellungen > Planungsregeln (Standardwerte) legen Sie die Werte fest, die beim Anlegen eines neuen Vertrags bzw. einer neuen Planungsregel automatisch vorbelegt werden.
 
 ## So funktioniert es

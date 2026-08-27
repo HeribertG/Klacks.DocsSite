@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 Em Definições > Identity Provider, liga o Klacks a um serviço de diretório externo — LDAP/Active Directory ou OAuth2/OpenID Connect — para importar automaticamente colaboradores e/ou gerir o início de sessão através dele.
 
 ## Como funciona

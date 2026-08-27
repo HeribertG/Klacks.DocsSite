@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Messaging Channels
+
 Under Settings > Messaging Providers you connect external chat and SMS channels through which Klacks (and Klacksy) can message employees and clients directly — instead of, or in addition to, email.
 
 ## How it works

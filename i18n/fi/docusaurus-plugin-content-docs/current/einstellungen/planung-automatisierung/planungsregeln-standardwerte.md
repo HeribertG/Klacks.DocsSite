@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Suunnittelusääntöjen oletusarvot
+
 Kohdassa Asetukset > Suunnittelusäännöt (oletusarvot) määrität arvot, jotka esitäytetään automaattisesti uutta sopimusta tai uutta suunnittelusääntöä luotaessa.
 
 ## Miten se toimii

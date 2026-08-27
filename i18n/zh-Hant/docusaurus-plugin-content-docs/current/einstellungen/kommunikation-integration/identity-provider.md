@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# 身分識別提供者
+
 在「設定 > 身分識別提供者」中，您可以將 Klacks 與外部目錄服務 — LDAP/Active Directory 或 OAuth2/OpenID Connect — 連接起來，藉此自動匯入員工，並／或透過該服務處理登入。
 
 ## 運作方式

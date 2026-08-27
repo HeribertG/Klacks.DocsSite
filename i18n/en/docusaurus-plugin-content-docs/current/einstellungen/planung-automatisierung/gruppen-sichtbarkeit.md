@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Group Visibility
+
 Under Settings > Group Visibility per User you define which groups — and thus which associated data — an individual user is allowed to see.
 
 ## How it works

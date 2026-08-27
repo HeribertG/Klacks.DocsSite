@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identity Provider
+
 În Setări > Identity Provider conectați Klacks la un serviciu de director extern — LDAP/Active Directory sau OAuth2/OpenID Connect — pentru a importa automat angajați și/sau pentru a gestiona autentificarea prin acesta.
 
 ## Cum funcționează

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Plantillas de contrato
+
 En Configuración > Organización > Contratos se gestionan las plantillas de contrato definibles libremente, que después se asignan a empleados individuales — no debe confundirse con la asignación propiamente dicha a una persona (más información en "Empleados y datos maestros" en Primeros pasos).
 
 ## Cómo funciona

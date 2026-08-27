@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Angajați și date de bază
+
 Administrarea adreselor și persoanelor este elementul central al datelor dumneavoastră de bază: angajați, clienți și persoane externe cu adrese, date de contact, contracte, apartenență la grupuri și calificări — accesibile prin simbolul persoanelor din navigare.
 
 ## Cum funcționează

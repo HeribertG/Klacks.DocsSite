@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Chi nhánh
+
 Tại Cài đặt > Tổ chức > Chi nhánh, bạn quản lý địa chỉ của các cơ sở kinh doanh của mình — một danh sách đơn giản các địa điểm riêng, độc lập với nhân viên hoặc lịch trực.
 
 ## Cách hoạt động

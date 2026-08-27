@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Cuti Umum dan Kalendar
+
 Kalendar kekal mengira Cuti Umum untuk setiap tahun secara automatik — anda hanya menakrifkan peraturan sekali, dan Klacks mengetahui Cuti Umum untuk semua tahun akan datang.
 
 ## Cara Ia Berfungsi

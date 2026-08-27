@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalenderval
+
 Ett kalenderurval samlar en eller flera helgdagskalendrar (land + kanton/förbundsland) till ett namngivet paket, som du därefter tilldelar ett avtal eller en grupp.
 
 ## Så fungerar det

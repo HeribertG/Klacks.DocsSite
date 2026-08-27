@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# ルート最適化API
+
 「設定 > OpenRoute」では、Klacksが経路最適化に使用する外部サービスopenrouteservice.orgのAPIキーを登録します。
 
 ## 仕組み

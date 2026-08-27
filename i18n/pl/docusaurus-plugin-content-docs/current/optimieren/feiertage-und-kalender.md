@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Święta i kalendarz
+
 Kalendarz wieczysty automatycznie oblicza święta na każdy rok — reguły definiujesz raz, a Klacks zna potem święta dla wszystkich nadchodzących lat.
 
 ## Jak to działa

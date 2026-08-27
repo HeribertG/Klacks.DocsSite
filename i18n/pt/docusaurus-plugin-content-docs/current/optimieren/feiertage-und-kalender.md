@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Feriados e calendário
+
 O calendário perpétuo calcula automaticamente os feriados para cada ano — define as regras uma única vez, e o Klacks conhece depois os feriados para todos os anos futuros.
 
 ## Como funciona

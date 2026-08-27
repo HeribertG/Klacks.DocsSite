@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Setări de bază pentru muncă
+
 În Setări > Timp de lucru & Planificare > Setările de bază ale planificării stabiliți valorile implicite la nivel de companie pentru concediu, durata contractelor, sporuri și vizibilitatea planului de servicii.
 
 ## Cum funcționează

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Empleados y datos maestros
+
 La gestión de direcciones y personas es el corazón de sus datos maestros: empleados, clientes y personas externas con direcciones, datos de contacto, contratos, pertenencia a grupos y calificaciones — accesible mediante el icono de personas en la navegación.
 
 ## Cómo funciona

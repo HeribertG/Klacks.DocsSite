@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Contractsjablonen
+
 Onder Instellingen > Organisatie > Contracten beheert u de vrij definieerbare contractsjablonen, die u vervolgens aan individuele medewerkers toewijst — niet te verwarren met de eigenlijke toewijzing aan een persoon (meer hierover onder „Medewerker en stamgegevens" in Aan de slag).
 
 ## Zo werkt het

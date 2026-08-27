@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Tetapan Asas Kerja
+
 Di bawah Tetapan > Waktu Kerja & Perancangan > Tetapan Asas Perancangan, anda menetapkan Nilai Lalai seluruh syarikat untuk cuti tahunan, tempoh Kontrak, Caj Tambahan dan Keterlihatan jadual tugasan.
 
 ## Cara ia berfungsi

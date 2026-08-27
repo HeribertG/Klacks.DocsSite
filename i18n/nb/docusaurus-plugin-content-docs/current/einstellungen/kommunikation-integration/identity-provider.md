@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Identitetsleverandør
+
 Under Innstillinger > Identitetsleverandør kobler du Klacks til en ekstern katalogtjeneste — LDAP/Active Directory eller OAuth2/OpenID Connect — for å importere medarbeidere automatisk og/eller håndtere innlogging via denne.
 
 ## Slik fungerer det

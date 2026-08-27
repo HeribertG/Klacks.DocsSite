@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Valores padrão das regras de planeamento
+
 Em Definições > Regras de Planeamento (Valores Padrão) define os valores que são automaticamente pré-preenchidos ao criar um novo contrato ou uma nova regra de planeamento.
 
 ## Como funciona

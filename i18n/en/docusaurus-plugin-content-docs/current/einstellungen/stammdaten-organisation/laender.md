@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Countries
+
 Under Settings > Organization > Countries you manage the list of countries available for selection in Klacks — for example, in the Head Office Address.
 
 ## How it works

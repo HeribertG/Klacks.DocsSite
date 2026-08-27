@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Visibilità dei gruppi
+
 In Impostazioni > Visibilità dei gruppi per utente stabilite quali gruppi — e quindi quali dati correlati — un singolo utente può vedere.
 
 ## Come funziona

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Filie
+
 W sekcji Ustawienia > Organizacja > Filie zarządzasz adresami swoich placówek — prostą listą własnych lokalizacji, niezależną od pracowników czy grafików.
 
 ## Jak to działa

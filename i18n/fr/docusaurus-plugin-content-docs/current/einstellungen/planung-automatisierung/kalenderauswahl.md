@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Sélection de calendrier
+
 Une sélection de calendrier regroupe un ou plusieurs calendriers de jours fériés (pays + canton/Land) en un ensemble nommé, que vous associez ensuite à un contrat ou à un groupe.
 
 ## Comment ça fonctionne

@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Grundindstillinger for arbejde
+
 Under Indstillinger > Arbejdstid & Planlægning > Planlægnings-grundindstillinger fastlægger du de virksomhedsomfattende standardværdier for ferie, kontraktløbetider, tillæg og synligheden af vagtplanen.
 
 ## Sådan fungerer det

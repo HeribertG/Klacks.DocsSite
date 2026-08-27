@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Modèles de contrat
+
 Dans Paramètres > Organisation > Contrats, vous gérez les modèles de contrat librement définissables que vous attribuez ensuite à des collaborateurs individuels — à ne pas confondre avec l'attribution proprement dite à une personne (voir « Collaborateurs et données de base » dans Premiers pas).
 
 ## Comment ça fonctionne

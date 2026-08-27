@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Sopimusmallit
+
 Kohdassa Asetukset > Organisaatio > Sopimukset hallinnoit vapaasti määriteltäviä sopimusmalleja, jotka liität sen jälkeen yksittäisille työntekijöille — ei pidä sekoittaa varsinaiseen henkilölle tehtävään liittämiseen (lisätietoja kohdassa "Työntekijät ja perustiedot" Ensimmäiset askeleet -osiossa).
 
 ## Miten se toimii

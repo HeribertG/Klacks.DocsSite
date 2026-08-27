@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Viditelnost skupin
+
 V nastavení Nastavení > Viditelnost skupin podle uživatele určujete, které skupiny — a tím i související data — smí konkrétní uživatel vidět.
 
 ## Jak to funguje

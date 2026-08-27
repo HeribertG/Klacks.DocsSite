@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Planlægningsregler
+
 Planlægningsregler definerer rammebetingelserne for den automatiske vagtplanlægning — arbejdstider, hviletider og kapaciteter, som Klacks overholder ved fordelingen af vagterne.
 
 ## Sådan fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Standaardwaarden planningsregels
+
 Onder Instellingen > Planningsregels (standaardwaarden) bepaalt u de waarden die bij het aanmaken van een nieuw contract respectievelijk een nieuwe planningsregel automatisch worden vooringevuld.
 
 ## Zo werkt het

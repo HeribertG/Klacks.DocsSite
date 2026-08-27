@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# E-postutskick
+
 Under Inställningar > E-post-inställningar lagrar du SMTP-servern som Klacks använder för att skicka utgående e-post — till exempel notifieringar, lösenordsåterställnings-mejl eller meddelanden som skickas av Klacksy.
 
 ## Så fungerar det

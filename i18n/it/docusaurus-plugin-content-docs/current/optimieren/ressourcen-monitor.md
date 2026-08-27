@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor delle risorse
+
 Il monitor delle risorse mostra a colpo d'occhio la situazione del carico di personale di un gruppo (o di tutti i gruppi) nell'anno selezionato — una barra per ogni giorno, l'intero andamento annuale su 365 giorni.
 
 ## Come funziona

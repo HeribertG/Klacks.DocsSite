@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Gửi email
+
 Trong mục Cài đặt > Cài đặt Email, bạn lưu máy chủ SMTP mà Klacks sử dụng để gửi email đi — ví dụ như các thông báo, email đặt lại mật khẩu hoặc các tin nhắn do Klacksy gửi.
 
 ## Cách thức hoạt động

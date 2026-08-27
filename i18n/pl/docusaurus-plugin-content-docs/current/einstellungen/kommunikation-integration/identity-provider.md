@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Dostawca tożsamości
+
 W obszarze Ustawienia > Identity Provider łączysz Klacks z zewnętrzną usługą katalogową — LDAP/Active Directory lub OAuth2/OpenID Connect — aby automatycznie importować pracowników i/lub obsługiwać przez nią logowanie.
 
 ## Jak to działa

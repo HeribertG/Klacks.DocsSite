@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Giá trị mặc định quy tắc lập kế hoạch
+
 Tại Cài đặt > Quy tắc lập kế hoạch (Giá trị mặc định), bạn xác định các giá trị sẽ được điền sẵn tự động khi tạo một hợp đồng mới hoặc một quy tắc lập kế hoạch mới.
 
 ## Cách hoạt động

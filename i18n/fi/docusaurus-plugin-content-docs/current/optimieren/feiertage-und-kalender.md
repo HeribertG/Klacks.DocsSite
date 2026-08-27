@@ -2,6 +2,8 @@
 sidebar_position: 4
 ---
 
+# Pyhäpäivät ja kalenteri
+
 Ikuisuuskalenteri laskee pyhäpäivät automaattisesti jokaiselle vuodelle — määrittelette säännöt kerran, ja Klacks tuntee pyhäpäivät kaikille tuleville vuosille.
 
 ## Näin se toimii

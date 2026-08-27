@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# E-postmottagning
+
 Under Inställningar > IMAP-inställningar lagrar du en brevlåda som Klacks löpande hämtar i bakgrunden och visar i området "Inkorg" — så kan inkommande korrespondens automatiskt kopplas till Medarbetare och kunder och spåras.
 
 ## Så fungerar det

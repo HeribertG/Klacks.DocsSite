@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Canali di messaggistica
+
 In Impostazioni > Provider di messaggistica collegate canali di chat e SMS esterni, tramite i quali Klacks (e Klacksy) possono scrivere direttamente a dipendenti e clienti — al posto dell'e-mail o in aggiunta ad essa.
 
 ## Come funziona

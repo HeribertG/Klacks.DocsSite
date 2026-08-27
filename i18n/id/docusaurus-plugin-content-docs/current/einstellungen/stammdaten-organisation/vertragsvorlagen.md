@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Templat Kontrak
+
 Di Pengaturan > Organisasi > Kontrak, Anda mengelola templat kontrak yang dapat didefinisikan secara bebas, yang selanjutnya Anda tetapkan kepada masing-masing karyawan — jangan disamakan dengan penugasan sebenarnya kepada seseorang (lebih lanjut lihat "Karyawan dan Data Induk" di Langkah Awal).
 
 ## Cara kerjanya

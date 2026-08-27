@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Keterlihatan Kumpulan
+
 Di bawah Tetapan > Keterlihatan Kumpulan mengikut Pengguna, anda menentukan Kumpulan mana — dan dengan itu data berkaitan mana — yang boleh dilihat oleh setiap Pengguna.
 
 ## Cara ia berfungsi

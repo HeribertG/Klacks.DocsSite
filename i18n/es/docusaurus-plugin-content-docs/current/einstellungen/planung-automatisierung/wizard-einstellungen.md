@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ajustes del asistente
+
 En Configuración > Configuración del asistente elige el modelo de lenguaje de IA que el "Holistic Harmonizer" — uno de los asistentes de planificación de Klacks — utiliza para su evaluación.
 
 ## Cómo funciona

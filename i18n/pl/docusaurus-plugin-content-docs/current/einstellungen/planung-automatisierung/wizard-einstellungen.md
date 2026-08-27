@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Ustawienia kreatora
+
 W obszarze Ustawienia > Ustawienia kreatora wybierasz model językowy AI, którego „Holistic Harmonizer" — jeden z asystentów planowania Klacks — używa do swojej oceny.
 
 ## Jak to działa

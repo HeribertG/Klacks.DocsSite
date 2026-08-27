@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Pobočky
+
 V nastavení Nastavení > Organizace > Pobočky spravujete adresy vašich provozoven — jednoduchý seznam vlastních lokalit, nezávislý na zaměstnancích nebo rozpisech služeb.
 
 ## Jak to funguje

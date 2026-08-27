@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Nilai Standar Aturan Perencanaan
+
 Di Pengaturan > Aturan Perencanaan (Nilai Standar), Anda menetapkan nilai-nilai yang akan otomatis terisi saat membuat kontrak baru atau aturan perencanaan baru.
 
 ## Cara kerjanya

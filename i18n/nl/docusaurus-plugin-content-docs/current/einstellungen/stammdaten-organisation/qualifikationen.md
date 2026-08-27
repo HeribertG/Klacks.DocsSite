@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# Kwalificatiecatalogus
+
 Onder Instellingen > Organisatie > Kwalificaties beheert u de catalogus van alle kwalificaties die aan medewerkers en klanten in het bedrijf kunnen worden toegewezen — van taalvaardigheden tot branchespecifieke vakkwalificaties.
 
 ## Zo werkt het

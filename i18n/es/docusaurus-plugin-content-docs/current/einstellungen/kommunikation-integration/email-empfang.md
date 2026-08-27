@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Recepción de correo electrónico
+
 En Configuración > Ajustes IMAP guarda un buzón de correo que Klacks consulta continuamente en segundo plano y muestra en la sección "Bandeja de entrada" — así se puede rastrear automáticamente la correspondencia entrante asignada a empleados y clientes.
 
 ## Cómo funciona

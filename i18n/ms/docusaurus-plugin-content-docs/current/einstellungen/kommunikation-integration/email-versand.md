@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+# Penghantaran E-mel
+
 Di bawah Tetapan > Tetapan E-mel anda menyimpan pelayan SMTP yang digunakan Klacks untuk menghantar e-mel keluar — contohnya pemberitahuan, e-mel tetapan semula kata laluan atau mesej yang dihantar oleh Klacksy.
 
 ## Cara ia berfungsi

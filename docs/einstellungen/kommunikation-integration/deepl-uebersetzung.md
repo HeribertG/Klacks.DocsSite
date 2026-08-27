@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# DeepL-Übersetzung
+
 Unter Einstellungen > DeepL hinterlegen Sie einen DeepL-API-Schlüssel, mit dem Klacks Texte automatisch übersetzen kann — aktuell vor allem eingehende E-Mails im Posteingang.
 
 ## So funktioniert es

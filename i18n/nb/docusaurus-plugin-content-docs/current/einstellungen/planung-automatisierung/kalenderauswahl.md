@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Kalendervalg
+
 Et kalendervalg samler en eller flere helligdagskalendere (land + kanton/delstat) i en navngitt pakke, som du deretter knytter til en kontrakt eller en gruppe.
 
 ## Slik fungerer det

@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Periodeafsluiting
+
 De periodeafsluiting is uw maandafsluiting-werkplek: u geeft afzonderlijke dagen vrij, sluit de periode af en verzegelt haar — verzegelde gegevens zijn de bindende basis voor rapportages en exports.
 
 ## Zo werkt het

@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Monitor zdrojů
+
 Monitor zdrojů ukáže na jeden pohled, jak je na tom vytížení personálu ve skupině (nebo ve všech skupinách) ve zvoleném roce — jeden sloupec na den, přes 365 dní celý roční průběh.
 
 ## Jak to funguje

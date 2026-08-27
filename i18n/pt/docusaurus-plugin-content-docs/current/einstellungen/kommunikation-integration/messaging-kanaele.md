@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Canais de mensagens
+
 Em Definições > Fornecedores de mensagens, associa canais de chat e SMS externos através dos quais o Klacks (e o Klacksy) pode contactar diretamente colaboradores e clientes — em vez de, ou para além de, e-mail.
 
 ## Como funciona

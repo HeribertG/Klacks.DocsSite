@@ -2,6 +2,8 @@
 sidebar_position: 6
 ---
 
+# Cierre de periodo
+
 El cierre de periodo es su puesto de trabajo para el cierre mensual: libera días individuales, cierra el periodo y lo sella — los datos sellados son la base vinculante para los análisis y las exportaciones.
 
 ## Cómo funciona

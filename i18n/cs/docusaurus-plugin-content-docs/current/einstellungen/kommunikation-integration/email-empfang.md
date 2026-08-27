@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Příjem e-mailů
+
 V nastavení Nastavení > Nastavení IMAP zadáváte poštovní schránku, kterou Klacks průběžně na pozadí stahuje a zobrazuje v sekci „Schránka příchozí pošty" — díky tomu lze automaticky sledovat příchozí korespondenci přiřazenou zaměstnancům a zákazníkům.
 
 ## Jak to funguje
