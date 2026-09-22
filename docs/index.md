@@ -2,7 +2,6 @@
 sidebar_position: 1
 slug: /
 ---
-
 # Willkommen in der Klacks-Dokumentation
 
 **Klacks** ist die Open-Source-Plattform für Personaleinsatzplanung in Schicht- und Einsatzbetrieben: Dienste automatisch planen, Touren optimieren, per KI-Assistent steuern — On-Premise, mit dem KI-Modell Ihrer Wahl. Für Spitex, Spitäler, Sicherheits-, Reinigungs- und Logistikbetriebe.
@@ -13,7 +12,7 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 
 | | |
 |---|---|
-| 🎮 **Ausprobieren** | [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1` (öffentliche Test-Instanz, Daten werden täglich zurückgesetzt) |
+| 🎮 **Ausprobieren** | [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1` (öffentliche Testinstanz mit rund 5'000 Demo-Klienten; wird täglich um 04:00 Uhr Schweizer Zeit zurückgesetzt — keine echten Personendaten eingeben) |
 | 📦 **Installieren** | [On-Premise-Paket herunterladen](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — ein Befehl, und Klacks läuft |
 | 💬 **Fragen & Austausch** | [Klacks-Community auf Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |
@@ -70,6 +69,18 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 
 *System & Sicherheit*
 - [Benutzerverwaltung](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Datenaufbewahrung](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Updates](./einstellungen/system-sicherheit/updates.md), [Feature-Plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Sprach-Plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam-Regeln](./einstellungen/system-sicherheit/spam-regeln.md), [Allgemeine Einstellungen](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
+
+**Betrieb**
+
+- [Systemvoraussetzungen und Aufbau](./betrieb/systemvoraussetzungen.md) — Fünf Dienste, Speicher- und CPU-Bedarf, Ports, Länderprofile
+- [Backup und Wiederherstellung](./betrieb/backup-und-wiederherstellung.md) — Was gesichert werden muss, und der Stolperstein beim Rollback
+- [Updates und Rollback](./betrieb/updates-und-rollback.md) — Signierte Updates, Health-Gate und der automatische Rückweg
+- [Fehlerbehebung](./betrieb/fehlerbehebung.md) — Protokolle lesen, typische Meldungen, Fehler richtig eingrenzen
+
+**Nachschlagen**
+
+- [Glossar](./glossar.md) — Planungsblatt, Versiegeln, Autonomie-Stufe und die übrigen Begriffe
+- [Häufige Fragen](./faq.md) — Ausprobieren, Betrieb, Funktionen und Mitarbeiten
 
 ---
 *Klacks ist Open Source unter MIT-Lizenz — [Quellcode auf GitHub](https://github.com/HeribertG/Klacks.Api).*
