@@ -15,7 +15,7 @@ Das Herz der täglichen Arbeit: eine leistungsfähige Zeit-Matrix, in der Zeilen
 
 ## Gut zu wissen
 
-- Zellen ausserhalb der Gruppenzugehörigkeit oder des Vertragszeitraums einer Person sind ausgegraut und nicht beplanbar — so entstehen keine versehentlichen Einsätze.
+- Zellen ausserhalb der Gruppenzugehörigkeit oder vor dem Eintrittsdatum der Mitgliedschaft einer Person sind ausgegraut und nicht beplanbar — so entstehen keine versehentlichen Einsätze.
 - Das Raster und die Auto-Planung arbeiten zusammen: erst automatisch füllen lassen, dann von Hand feinjustieren.
 - Je nach Freigabestufe der jeweiligen Einträge ist die Bearbeitung gesperrt — siehe [Freigabe-Workflow: Vom Entwurf zum verbindlichen Plan](../planen/freigabe-workflow.md).
 
