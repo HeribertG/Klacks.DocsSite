@@ -44,7 +44,7 @@ Automatisch muss hier niemand eingreifen — ein fehlgeschlagenes Update rollt d
 
 1. Setzen Sie in der `.env` `KLACKS_API_TAG` und `KLACKS_UI_TAG` auf die vorherige Version.
 2. Aktivieren Sie den Stack neu: `docker compose up -d klacks-api klacks-ui`.
-3. **Hat die fehlerhafte Version bereits migriert**, spielen Sie zusätzlich die passende Sicherung von vor dem Update zurück — und beachten Sie dabei den Stolperstein auf der Seite [Backup und Wiederherstellung](backup-und-wiederherstellung.md): Tabellen, die die neue Version angelegt hat, überleben das Zurückspielen und blockieren den nächsten Start.
+3. **Hat die fehlerhafte Version bereits migriert**, spielen Sie zusätzlich die passende Sicherung von vor dem Update zurück — und beachten Sie dabei den Stolperstein auf der Seite [Backup und Wiederherstellung](backup-und-wiederherstellung): Tabellen, die die neue Version angelegt hat, überleben das Zurückspielen und blockieren den nächsten Start.
 
 ## Gut zu wissen
 

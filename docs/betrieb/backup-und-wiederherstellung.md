@@ -44,7 +44,7 @@ Wenn Sie nach einem fehlgeschlagenen Update manuell zurückrollen, prüfen Sie d
 
 Klacks löscht Daten nicht nur mit einem Löschvermerk, sondern **physisch**. Ein Hintergrunddienst läuft täglich und entfernt unwiderruflich alle als gelöscht markierten Zeilen, deren Löschzeitpunkt länger zurückliegt als die konfigurierte Frist — und zwar über **alle** Tabellen mit Löschvermerk hinweg (Mitarbeitende, Adressen, Gruppen, Dienste, Arbeitszeiten, Absenzen, Pausen und so weiter). Es gibt keine Ausnahmeliste; die Löschpflicht geht der Wiederherstellbarkeit bewusst vor.
 
-Die Frist steuern Sie über die Einstellung `DATA_RETENTION_DAYS`; ohne eigene Angabe gilt der Standardwert **3650 Tage (10 Jahre)**. Die Seite [Datenaufbewahrung](../einstellungen/system-sicherheit/datenaufbewahrung.md) beschreibt die Einstellung im Detail.
+Die Frist steuern Sie über die Einstellung `DATA_RETENTION_DAYS`; ohne eigene Angabe gilt der Standardwert **3650 Tage (10 Jahre)**. Die Seite [Datenaufbewahrung](../einstellungen/system-sicherheit/datenaufbewahrung) beschreibt die Einstellung im Detail.
 
 ## Gut zu wissen
 
