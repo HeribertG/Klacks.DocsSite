@@ -16,7 +16,7 @@ Klacksy, de ingebouwde AI-assistent, is niet gebonden aan één enkele AI-aanbie
 
 ## Open source in plaats van blackbox
 
-Klacks is open source onder de MIT-licentie — backend, frontend en Docker-images zijn openbaar in te zien. U kunt de code controleren, forken, eigen aanpassingen doen of bijdragen aan de verdere ontwikkeling. Dat is geen marketingbelofte maar controleerbaar: de volledige broncode staat openbaar op GitHub.
+Klacks is open source onder de AGPL-3.0-licentie — backend, frontend en Docker-images zijn openbaar in te zien. U kunt de code controleren, forken, eigen aanpassingen doen of bijdragen aan de verdere ontwikkeling. Aanpassingen die u aan anderen beschikbaar stelt, blijven open onder dezelfde licentie. Dat is geen marketingbelofte maar controleerbaar: de volledige broncode staat openbaar op GitHub.
 
 ## Voor wie dit gemaakt is
 

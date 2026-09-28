@@ -72,4 +72,4 @@ slug: /
 - [ユーザー管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人アクセストークン](./einstellungen/system-sicherheit/personal-access-tokens.md)、[データ保持](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[アップデート](./einstellungen/system-sicherheit/updates.md)、[機能プラグイン](./einstellungen/system-sicherheit/feature-plugins.md)、[言語プラグイン](./einstellungen/system-sicherheit/sprach-plugins.md)、[スパムルール](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacksは MIT ライセンスのオープンソースです — [GitHub上のソースコード](https://github.com/HeribertG/Klacks.Api)。*
+*Klacksは AGPL-3.0 ライセンスのオープンソースです — [GitHub上のソースコード](https://github.com/HeribertG/Klacks.Api)。*

@@ -72,4 +72,4 @@ Deze wiki legt in kleine hapjes uit hoe Klacks werkt. Elke pagina is in enkele m
 - [Gebruikersbeheer](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Gegevensbewaring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Updates](./einstellungen/system-sicherheit/updates.md), [Feature-plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Taalplugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spamregels](./einstellungen/system-sicherheit/spam-regeln.md), [Algemene instellingen](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks is open source onder de MIT-licentie — [broncode op GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks is open source onder de AGPL-3.0-licentie — [broncode op GitHub](https://github.com/HeribertG/Klacks.Api).*

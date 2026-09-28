@@ -16,7 +16,7 @@ Klacksy, asisten AI bawaan, tidak terikat pada satu penyedia AI tertentu. Baik O
 
 ## Open source, bukan kotak hitam
 
-Klacks bersifat open source dengan lisensi MIT — backend, frontend, dan image Docker dapat dilihat secara publik. Anda dapat memeriksa kodenya, melakukan fork, membuat penyesuaian sendiri, atau berkontribusi pada pengembangannya lebih lanjut. Ini bukan janji marketing, melainkan sesuatu yang dapat diverifikasi: seluruh kode sumber tersedia secara publik di GitHub.
+Klacks bersifat open source dengan lisensi AGPL-3.0 — backend, frontend, dan image Docker dapat dilihat secara publik. Anda dapat memeriksa kodenya, melakukan fork, membuat penyesuaian sendiri, atau berkontribusi pada pengembangannya lebih lanjut; penyesuaian yang Anda berikan kepada pihak lain tetap terbuka di bawah lisensi yang sama. Ini bukan janji marketing, melainkan sesuatu yang dapat diverifikasi: seluruh kode sumber tersedia secara publik di GitHub.
 
 ## Untuk siapa ini dibuat
 

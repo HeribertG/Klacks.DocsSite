@@ -72,4 +72,4 @@ Wiki ini menjelaskan cara kerja Klacks dalam potongan-potongan kecil. Setiap hal
 - [Manajemen Pengguna](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Token](./einstellungen/system-sicherheit/personal-access-tokens.md), [Retensi Data](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Pembaruan](./einstellungen/system-sicherheit/updates.md), [Plugin Fitur](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin Bahasa](./einstellungen/system-sicherheit/sprach-plugins.md), [Aturan Spam](./einstellungen/system-sicherheit/spam-regeln.md), [Pengaturan Umum](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks adalah Open Source dengan lisensi MIT — [Kode sumber di GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks adalah Open Source dengan lisensi AGPL-3.0 — [Kode sumber di GitHub](https://github.com/HeribertG/Klacks.Api).*

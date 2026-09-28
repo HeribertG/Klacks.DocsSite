@@ -89,7 +89,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [],
-        copyright: `© ${new Date().getFullYear()} Klacks · Open Source (MIT)`,
+        copyright: `© ${new Date().getFullYear()} Klacks · Open Source (AGPL-3.0)`,
       },
       prism: {
         theme: prismThemes.github,

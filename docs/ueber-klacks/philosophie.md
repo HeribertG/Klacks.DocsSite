@@ -16,7 +16,7 @@ Klacksy, der eingebaute KI-Assistent, ist an keinen einzelnen KI-Anbieter gebund
 
 ## Open Source statt Blackbox
 
-Klacks ist quelloffen unter MIT-Lizenz — Backend, Frontend und Docker-Images sind öffentlich einsehbar. Sie können den Code prüfen, ihn forken, eigene Anpassungen vornehmen oder zur Weiterentwicklung beitragen. Das ist kein Marketing-Versprechen, sondern nachprüfbar: Der gesamte Quellcode liegt öffentlich auf GitHub.
+Klacks ist quelloffen unter der AGPL-3.0 — Backend, Frontend und Docker-Images sind öffentlich einsehbar. Sie können den Code prüfen, ihn forken, eigene Anpassungen vornehmen oder zur Weiterentwicklung beitragen; Anpassungen, die Sie anderen bereitstellen, bleiben unter derselben Lizenz offen. Das ist kein Marketing-Versprechen, sondern nachprüfbar: Der gesamte Quellcode liegt öffentlich auf GitHub.
 
 ## Für wen das gemacht ist
 

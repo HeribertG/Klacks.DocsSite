@@ -72,4 +72,4 @@ slug: /
 - [사용자 관리](./einstellungen/system-sicherheit/benutzerverwaltung.md), [개인 액세스 토큰](./einstellungen/system-sicherheit/personal-access-tokens.md), [데이터 보존](./einstellungen/system-sicherheit/datenaufbewahrung.md), [업데이트](./einstellungen/system-sicherheit/updates.md), [기능 플러그인](./einstellungen/system-sicherheit/feature-plugins.md), [언어 플러그인](./einstellungen/system-sicherheit/sprach-plugins.md), [스팸 규칙](./einstellungen/system-sicherheit/spam-regeln.md), [일반 설정](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks는 MIT 라이선스의 오픈 소스입니다 — [GitHub에서 소스 코드 보기](https://github.com/HeribertG/Klacks.Api).*
+*Klacks는 AGPL-3.0 라이선스의 오픈 소스입니다 — [GitHub에서 소스 코드 보기](https://github.com/HeribertG/Klacks.Api).*

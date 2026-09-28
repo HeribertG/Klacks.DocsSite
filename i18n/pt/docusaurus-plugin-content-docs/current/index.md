@@ -72,4 +72,4 @@ Este wiki explica em pequenas partes como funciona o Klacks. Cada página lê-se
 - [Gestão de utilizadores](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Retenção de dados](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Atualizações](./einstellungen/system-sicherheit/updates.md), [Plugins de funcionalidades](./einstellungen/system-sicherheit/feature-plugins.md), [Plugins de idioma](./einstellungen/system-sicherheit/sprach-plugins.md), [Regras de spam](./einstellungen/system-sicherheit/spam-regeln.md), [Definições gerais](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*O Klacks é open source sob licença MIT — [código-fonte no GitHub](https://github.com/HeribertG/Klacks.Api).*
+*O Klacks é open source sob licença AGPL-3.0 — [código-fonte no GitHub](https://github.com/HeribertG/Klacks.Api).*

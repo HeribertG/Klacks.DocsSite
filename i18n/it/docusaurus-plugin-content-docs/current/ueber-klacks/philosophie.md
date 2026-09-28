@@ -16,7 +16,7 @@ Klacksy, l'assistente IA integrato, non è legato a un unico fornitore di IA. Ch
 
 ## Open source invece di scatola nera
 
-Klacks è a codice sorgente aperto sotto licenza MIT — backend, frontend e immagini Docker sono pubblicamente consultabili. Potete verificare il codice, farne un fork, apportare modifiche personali o contribuire al suo sviluppo. Non è una promessa di marketing, ma un fatto verificabile: l'intero codice sorgente è pubblico su GitHub.
+Klacks è a codice sorgente aperto sotto licenza AGPL-3.0 — backend, frontend e immagini Docker sono pubblicamente consultabili. Potete verificare il codice, farne un fork, apportare modifiche personali o contribuire al suo sviluppo; le modifiche che mettete a disposizione di altri restano aperte sotto la stessa licenza. Non è una promessa di marketing, ma un fatto verificabile: l'intero codice sorgente è pubblico su GitHub.
 
 ## Per chi è pensato
 

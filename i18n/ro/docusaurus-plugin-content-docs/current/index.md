@@ -72,4 +72,4 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 - [Administrarea utilizatorilor](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Token-uri de acces personale](./einstellungen/system-sicherheit/personal-access-tokens.md), [Păstrarea datelor](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Actualizări](./einstellungen/system-sicherheit/updates.md), [Plugin-uri de funcții](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin-uri lingvistice](./einstellungen/system-sicherheit/sprach-plugins.md), [Reguli spam](./einstellungen/system-sicherheit/spam-regeln.md), [Setări generale](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks este open source sub licența MIT — [Cod sursă pe GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks este open source sub licența AGPL-3.0 — [Cod sursă pe GitHub](https://github.com/HeribertG/Klacks.Api).*

@@ -16,7 +16,7 @@ Klacksy, Pembantu AI terbina dalam, tidak terikat kepada mana-mana satu penyedia
 
 ## Open Source, Bukan Blackbox
 
-Klacks adalah open source di bawah lesen MIT — backend, frontend dan imej Docker boleh disemak secara terbuka. Anda boleh menyemak kod, melakukan fork, membuat penyesuaian sendiri atau menyumbang kepada pembangunan lanjut. Ini bukan janji pemasaran, tetapi boleh disahkan: keseluruhan kod sumber terletak secara terbuka di GitHub.
+Klacks adalah open source di bawah lesen AGPL-3.0 — backend, frontend dan imej Docker boleh disemak secara terbuka. Anda boleh menyemak kod, melakukan fork, membuat penyesuaian sendiri atau menyumbang kepada pembangunan lanjut. Pengubahsuaian yang anda sediakan kepada orang lain kekal terbuka di bawah lesen yang sama. Ini bukan janji pemasaran, tetapi boleh disahkan: keseluruhan kod sumber terletak secara terbuka di GitHub.
 
 ## Untuk Siapa Ini Dibina
 

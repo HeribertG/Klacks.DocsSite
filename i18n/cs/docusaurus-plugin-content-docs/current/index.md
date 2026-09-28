@@ -72,4 +72,4 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 - [Správa uživatelů](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Uchovávání dat](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Aktualizace](./einstellungen/system-sicherheit/updates.md), [Funkční pluginy](./einstellungen/system-sicherheit/feature-plugins.md), [Jazykové pluginy](./einstellungen/system-sicherheit/sprach-plugins.md), [Pravidla proti spamu](./einstellungen/system-sicherheit/spam-regeln.md), [Obecná nastavení](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks je open source pod licencí MIT — [zdrojový kód na GitHubu](https://github.com/HeribertG/Klacks.Api).*
+*Klacks je open source pod licencí AGPL-3.0 — [zdrojový kód na GitHubu](https://github.com/HeribertG/Klacks.Api).*

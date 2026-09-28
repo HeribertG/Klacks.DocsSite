@@ -16,7 +16,7 @@ Klacksy, den inbyggda KI-assistenten, är inte bunden till en enda KI-leverantö
 
 ## Öppen källkod istället för svart låda
 
-Klacks är öppen källkod under MIT-licens — backend, frontend och Docker-images är öppet tillgängliga för granskning. Du kan granska koden, forka den, göra egna anpassningar eller bidra till vidareutvecklingen. Det är inget marknadsföringslöfte, utan verifierbart: hela källkoden ligger öppet på GitHub.
+Klacks är öppen källkod under AGPL-3.0-licens — backend, frontend och Docker-images är öppet tillgängliga för granskning. Du kan granska koden, forka den, göra egna anpassningar eller bidra till vidareutvecklingen. Anpassningar som du gör tillgängliga för andra förblir öppna under samma licens. Det är inget marknadsföringslöfte, utan verifierbart: hela källkoden ligger öppet på GitHub.
 
 ## Vem detta är gjort för
 

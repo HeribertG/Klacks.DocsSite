@@ -48,7 +48,7 @@ Die Dokumentation liegt in 25 Sprachen vor, darunter Deutsch, Englisch, Französ
 Sie wählen Anbieter und Modell selbst und können sie wechseln. Wie Sie das einrichten und prüfen, steht unter [LLM-Provider und Modelle](./einstellungen/klacksy-konfiguration/llm-provider-und-modelle) und [Modell-Verbindungstest](./einstellungen/klacksy-konfiguration/modell-verbindungstest).
 
 **Was kostet Klacks?**
-Der Quellcode steht unter der MIT-Lizenz — Sie dürfen ihn lesen, ändern und selbst betreiben. Alles, was darüber hinausgeht (Fragen, Austausch, Weiterentwicklung), läuft über die [Klacks-Community auf Discord](https://discord.gg/YRP8p2abVC) und das [öffentliche Quellcode-Repository](https://github.com/HeribertG/Klacks.Api).
+Der Quellcode steht unter der GNU Affero General Public License v3 (AGPL-3.0) — Sie dürfen ihn lesen, ändern und selbst betreiben. Bieten Sie eine geänderte Fassung anderen über ein Netzwerk an, müssen Sie diesen Nutzern den geänderten Quellcode ebenfalls unter der AGPL-3.0 zugänglich machen. Alles, was darüber hinausgeht (Fragen, Austausch, Weiterentwicklung), läuft über die [Klacks-Community auf Discord](https://discord.gg/YRP8p2abVC) und das [öffentliche Quellcode-Repository](https://github.com/HeribertG/Klacks.Api).
 
 **Ist Klacks fertig?**
 Nein, und das steht auch nirgends drauf. Klacks ist im Aufbau, wird aber öffentlich entwickelt und tatsächlich betrieben — im Playground können Sie den aktuellen Stand jederzeit selbst prüfen, statt einer Beschreibung zu glauben.

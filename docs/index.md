@@ -83,4 +83,4 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 - [Häufige Fragen](./faq.md) — Ausprobieren, Betrieb, Funktionen und Mitarbeiten
 
 ---
-*Klacks ist Open Source unter MIT-Lizenz — [Quellcode auf GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks ist Open Source unter der AGPL-3.0 — [Quellcode auf GitHub](https://github.com/HeribertG/Klacks.Api).*

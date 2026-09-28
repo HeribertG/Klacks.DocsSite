@@ -72,4 +72,4 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 - [Användarhantering](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Datalagring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Uppdateringar](./einstellungen/system-sicherheit/updates.md), [Funktions-plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Språk-plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam-regler](./einstellungen/system-sicherheit/spam-regeln.md), [Allmänna inställningar](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks är öppen källkod under MIT-licens — [källkod på GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks är öppen källkod under AGPL-3.0-licens — [källkod på GitHub](https://github.com/HeribertG/Klacks.Api).*

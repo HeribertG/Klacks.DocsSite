@@ -72,4 +72,4 @@ slug: /
 - [使用者管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人存取權杖](./einstellungen/system-sicherheit/personal-access-tokens.md)、[資料保留](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[更新](./einstellungen/system-sicherheit/updates.md)、[功能外掛](./einstellungen/system-sicherheit/feature-plugins.md)、[語言外掛](./einstellungen/system-sicherheit/sprach-plugins.md)、[垃圾郵件規則](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks 是採用 MIT 授權條款的開源軟體 — [GitHub 上的原始碼](https://github.com/HeribertG/Klacks.Api)。*
+*Klacks 是採用 AGPL-3.0 授權條款的開源軟體 — [GitHub 上的原始碼](https://github.com/HeribertG/Klacks.Api)。*

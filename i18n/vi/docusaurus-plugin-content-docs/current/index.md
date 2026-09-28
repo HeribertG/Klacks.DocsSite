@@ -72,4 +72,4 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 - [Quản lý người dùng](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Lưu trữ dữ liệu](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Cập nhật](./einstellungen/system-sicherheit/updates.md), [Plugin tính năng](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin ngôn ngữ](./einstellungen/system-sicherheit/sprach-plugins.md), [Quy tắc chống spam](./einstellungen/system-sicherheit/spam-regeln.md), [Cài đặt chung](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks là mã nguồn mở theo giấy phép MIT — [Mã nguồn trên GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks là mã nguồn mở theo giấy phép AGPL-3.0 — [Mã nguồn trên GitHub](https://github.com/HeribertG/Klacks.Api).*

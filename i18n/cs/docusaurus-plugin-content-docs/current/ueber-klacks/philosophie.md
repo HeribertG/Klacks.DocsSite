@@ -16,7 +16,7 @@ Klacksy, vestavěný AI asistent, není vázán na žádného konkrétního posk
 
 ## Open source místo černé skříňky
 
-Klacks je open source pod licencí MIT — backend, frontend i Docker images jsou veřejně dostupné k nahlédnutí. Můžete si prohlédnout kód, forknout ho, provést vlastní úpravy nebo přispět k dalšímu vývoji. Není to marketingový slib, ale ověřitelný fakt: celý zdrojový kód je veřejně dostupný na GitHubu.
+Klacks je open source pod licencí AGPL-3.0 — backend, frontend i Docker images jsou veřejně dostupné k nahlédnutí. Můžete si prohlédnout kód, forknout ho, provést vlastní úpravy nebo přispět k dalšímu vývoji; úpravy, které poskytnete ostatním, zůstávají otevřené pod stejnou licencí. Není to marketingový slib, ale ověřitelný fakt: celý zdrojový kód je veřejně dostupný na GitHubu.
 
 ## Pro koho je to určeno
 

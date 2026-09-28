@@ -72,4 +72,4 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 - [Käyttäjähallinta](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Henkilökohtaiset käyttöoikeustunnukset](./einstellungen/system-sicherheit/personal-access-tokens.md), [Tietojen säilytys](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Päivitykset](./einstellungen/system-sicherheit/updates.md), [Ominaisuuslaajennukset](./einstellungen/system-sicherheit/feature-plugins.md), [Kielilaajennukset](./einstellungen/system-sicherheit/sprach-plugins.md), [Roskapostisäännöt](./einstellungen/system-sicherheit/spam-regeln.md), [Yleiset asetukset](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks on avointa lähdekoodia MIT-lisenssillä — [lähdekoodi GitHubissa](https://github.com/HeribertG/Klacks.Api).*
+*Klacks on avointa lähdekoodia AGPL-3.0-lisenssillä — [lähdekoodi GitHubissa](https://github.com/HeribertG/Klacks.Api).*

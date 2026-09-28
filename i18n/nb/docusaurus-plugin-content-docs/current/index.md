@@ -72,4 +72,4 @@ Denne wikien forklarer i små biter hvordan Klacks fungerer. Hver side leser du 
 - [Brukeradministrasjon](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Dataoppbevaring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Oppdateringer](./einstellungen/system-sicherheit/updates.md), [Funksjonsplugins](./einstellungen/system-sicherheit/feature-plugins.md), [Språkplugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spamregler](./einstellungen/system-sicherheit/spam-regeln.md), [Generelle innstillinger](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks er åpen kildekode under MIT-lisens — [kildekode på GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks er åpen kildekode under AGPL-3.0-lisens — [kildekode på GitHub](https://github.com/HeribertG/Klacks.Api).*

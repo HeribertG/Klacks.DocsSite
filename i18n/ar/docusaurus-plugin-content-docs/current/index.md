@@ -72,4 +72,4 @@ slug: /
 - [إدارة المستخدمين](./einstellungen/system-sicherheit/benutzerverwaltung.md)، [رموز الوصول الشخصية](./einstellungen/system-sicherheit/personal-access-tokens.md)، [الاحتفاظ بالبيانات](./einstellungen/system-sicherheit/datenaufbewahrung.md)، [التحديثات](./einstellungen/system-sicherheit/updates.md)، [إضافات الميزات](./einstellungen/system-sicherheit/feature-plugins.md)، [إضافات اللغات](./einstellungen/system-sicherheit/sprach-plugins.md)، [قواعد البريد المزعج](./einstellungen/system-sicherheit/spam-regeln.md)، [الإعدادات العامة](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks مفتوح المصدر بموجب رخصة MIT — [الشيفرة المصدرية على GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks مفتوح المصدر بموجب رخصة AGPL-3.0 — [الشيفرة المصدرية على GitHub](https://github.com/HeribertG/Klacks.Api).*

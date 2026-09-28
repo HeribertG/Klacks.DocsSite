@@ -72,4 +72,4 @@ slug: /
 - [ניהול משתמשים](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [שמירת נתונים](./einstellungen/system-sicherheit/datenaufbewahrung.md), [עדכונים](./einstellungen/system-sicherheit/updates.md), [תוספי תכונות](./einstellungen/system-sicherheit/feature-plugins.md), [תוספי שפה](./einstellungen/system-sicherheit/sprach-plugins.md), [כללי ספאם](./einstellungen/system-sicherheit/spam-regeln.md), [הגדרות כלליות](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks היא קוד פתוח תחת רישיון MIT - [קוד המקור ב-GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Klacks היא קוד פתוח תחת רישיון AGPL-3.0 - [קוד המקור ב-GitHub](https://github.com/HeribertG/Klacks.Api).*

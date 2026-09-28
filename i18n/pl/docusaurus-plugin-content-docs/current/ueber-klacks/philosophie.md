@@ -16,7 +16,7 @@ Klacksy, wbudowany asystent AI, nie jest związany z żadnym pojedynczym dostawc
 
 ## Open source zamiast czarnej skrzynki
 
-Klacks jest oprogramowaniem open source na licencji MIT — backend, frontend i obrazy Docker są publicznie dostępne do wglądu. Możesz sprawdzić kod, sforkować go, wprowadzić własne modyfikacje lub przyczynić się do jego dalszego rozwoju. To nie obietnica marketingowa, lecz coś sprawdzalnego: cały kod źródłowy jest publicznie dostępny na GitHubie.
+Klacks jest oprogramowaniem open source na licencji AGPL-3.0 — backend, frontend i obrazy Docker są publicznie dostępne do wglądu. Możesz sprawdzić kod, sforkować go, wprowadzić własne modyfikacje lub przyczynić się do jego dalszego rozwoju. Modyfikacje, które udostępniasz innym, pozostają otwarte na tej samej licencji. To nie obietnica marketingowa, lecz coś sprawdzalnego: cały kod źródłowy jest publicznie dostępny na GitHubie.
 
 ## Dla kogo to jest stworzone
 

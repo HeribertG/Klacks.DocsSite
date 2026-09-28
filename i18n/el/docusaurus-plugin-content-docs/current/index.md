@@ -72,4 +72,4 @@ slug: /
 - [Διαχείριση χρηστών](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Προσωπικά διακριτικά πρόσβασης](./einstellungen/system-sicherheit/personal-access-tokens.md), [Διατήρηση δεδομένων](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Ενημερώσεις](./einstellungen/system-sicherheit/updates.md), [Πρόσθετα λειτουργιών](./einstellungen/system-sicherheit/feature-plugins.md), [Γλωσσικά πρόσθετα](./einstellungen/system-sicherheit/sprach-plugins.md), [Κανόνες spam](./einstellungen/system-sicherheit/spam-regeln.md), [Γενικές ρυθμίσεις](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Το Klacks είναι ανοιχτού κώδικα υπό άδεια MIT — [Πηγαίος κώδικας στο GitHub](https://github.com/HeribertG/Klacks.Api).*
+*Το Klacks είναι ανοιχτού κώδικα υπό άδεια AGPL-3.0 — [Πηγαίος κώδικας στο GitHub](https://github.com/HeribertG/Klacks.Api).*

@@ -16,7 +16,7 @@ O Klacksy, o assistente de IA integrado, não está vinculado a nenhum fornecedo
 
 ## Código aberto em vez de caixa negra
 
-O Klacks é de código aberto sob licença MIT — o backend, o frontend e as imagens Docker são publicamente acessíveis. Pode analisar o código, fazer fork, realizar as suas próprias adaptações ou contribuir para o seu desenvolvimento futuro. Isto não é uma promessa de marketing, mas sim verificável: todo o código-fonte está disponível publicamente no GitHub.
+O Klacks é de código aberto sob licença AGPL-3.0 — o backend, o frontend e as imagens Docker são publicamente acessíveis. Pode analisar o código, fazer fork, realizar as suas próprias adaptações ou contribuir para o seu desenvolvimento futuro. As modificações que disponibilizar a terceiros permanecem abertas sob a mesma licença. Isto não é uma promessa de marketing, mas sim verificável: todo o código-fonte está disponível publicamente no GitHub.
 
 ## Para quem foi feito
 

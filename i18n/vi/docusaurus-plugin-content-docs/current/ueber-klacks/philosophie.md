@@ -16,7 +16,7 @@ Klacksy, trợ lý AI được tích hợp sẵn, không bị ràng buộc với
 
 ## Mã nguồn mở thay vì hộp đen
 
-Klacks là mã nguồn mở theo giấy phép MIT — backend, frontend và các Docker image đều có thể xem công khai. Bạn có thể kiểm tra mã nguồn, fork nó, tự thực hiện các tùy chỉnh riêng hoặc đóng góp vào quá trình phát triển tiếp theo. Đây không phải là một lời hứa marketing, mà là điều có thể kiểm chứng: toàn bộ mã nguồn được công khai trên GitHub.
+Klacks là mã nguồn mở theo giấy phép AGPL-3.0 — backend, frontend và các Docker image đều có thể xem công khai. Bạn có thể kiểm tra mã nguồn, fork nó, tự thực hiện các tùy chỉnh riêng hoặc đóng góp vào quá trình phát triển tiếp theo. Các tùy chỉnh mà bạn cung cấp cho người khác vẫn phải được mở theo cùng giấy phép này. Đây không phải là một lời hứa marketing, mà là điều có thể kiểm chứng: toàn bộ mã nguồn được công khai trên GitHub.
 
 ## Dành cho ai
 

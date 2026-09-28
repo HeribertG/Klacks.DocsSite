@@ -16,7 +16,7 @@ Klacksy, sisäänrakennettu tekoälyavustaja, ei ole sidottu yhteenkään tietty
 
 ## Avoin lähdekoodi mustan laatikon sijaan
 
-Klacks on avointa lähdekoodia MIT-lisenssillä — taustajärjestelmä, käyttöliittymä ja Docker-imaget ovat julkisesti tarkasteltavissa. Voit tarkistaa koodin, haarauttaa sen, tehdä omia muokkauksia tai osallistua jatkokehitykseen. Tämä ei ole markkinointilupaus, vaan todennettavissa: koko lähdekoodi on julkisesti saatavilla GitHubissa.
+Klacks on avointa lähdekoodia AGPL-3.0-lisenssillä — taustajärjestelmä, käyttöliittymä ja Docker-imaget ovat julkisesti tarkasteltavissa. Voit tarkistaa koodin, haarauttaa sen, tehdä omia muokkauksia tai osallistua jatkokehitykseen; muutokset, jotka annat muiden käyttöön, pysyvät avoimina samalla lisenssillä. Tämä ei ole markkinointilupaus, vaan todennettavissa: koko lähdekoodi on julkisesti saatavilla GitHubissa.
 
 ## Kenelle tämä on tehty
 

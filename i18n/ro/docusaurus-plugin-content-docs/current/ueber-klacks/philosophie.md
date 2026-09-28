@@ -16,7 +16,7 @@ Klacksy, asistentul AI integrat, nu este legat de un singur furnizor de AI. Fie 
 
 ## Open source în locul unei cutii negre
 
-Klacks este cu sursă deschisă sub licența MIT — backend-ul, frontend-ul și imaginile Docker pot fi consultate public. Puteți verifica codul, îl puteți face fork, puteți face propriile adaptări sau puteți contribui la dezvoltarea sa ulterioară. Aceasta nu este o promisiune de marketing, ci verificabilă: întregul cod sursă se află public pe GitHub.
+Klacks este cu sursă deschisă sub licența AGPL-3.0 — backend-ul, frontend-ul și imaginile Docker pot fi consultate public. Puteți verifica codul, îl puteți face fork, puteți face propriile adaptări sau puteți contribui la dezvoltarea sa ulterioară. Adaptările pe care le puneți la dispoziția altora rămân deschise sub aceeași licență. Aceasta nu este o promisiune de marketing, ci verificabilă: întregul cod sursă se află public pe GitHub.
 
 ## Pentru cine este făcut
 

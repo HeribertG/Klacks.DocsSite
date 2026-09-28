@@ -72,4 +72,4 @@ slug: /
 - [การจัดการผู้ใช้งาน](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [การเก็บรักษาข้อมูล](./einstellungen/system-sicherheit/datenaufbewahrung.md), [การอัปเดต](./einstellungen/system-sicherheit/updates.md), [ปลั๊กอินฟีเจอร์](./einstellungen/system-sicherheit/feature-plugins.md), [ปลั๊กอินภาษา](./einstellungen/system-sicherheit/sprach-plugins.md), [กฎสแปม](./einstellungen/system-sicherheit/spam-regeln.md), [การตั้งค่าทั่วไป](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
 ---
-*Klacks เป็นโอเพนซอร์สภายใต้สัญญาอนุญาต MIT — [ซอร์สโค้ดบน GitHub](https://github.com/HeribertG/Klacks.Api)*
+*Klacks เป็นโอเพนซอร์สภายใต้สัญญาอนุญาต AGPL-3.0 — [ซอร์สโค้ดบน GitHub](https://github.com/HeribertG/Klacks.Api)*
