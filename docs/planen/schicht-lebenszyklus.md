@@ -46,4 +46,4 @@ Wie die planbaren Dienste anschliessend besetzt werden, beschreiben [Auto-Planun
 - **Sporadische Dienste und Zeitrahmen-Dienste zählen nicht mit.** Beide erscheinen bewusst nicht im Dienste-Balken des [Ressourcen-Monitors](../optimieren/ressourcen-monitor.md), weil sie keinen festen täglichen Bedarf abbilden.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

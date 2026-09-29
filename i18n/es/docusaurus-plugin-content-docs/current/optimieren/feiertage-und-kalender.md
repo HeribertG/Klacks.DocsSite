@@ -30,4 +30,4 @@ Por cada regla se registran además nombre y descripción (multilingües), país
 ![Reglas de días festivos en Klacks](/img/app-calendar-de.png)
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

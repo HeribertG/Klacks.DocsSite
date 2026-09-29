@@ -28,4 +28,4 @@ sidebar_position: 4
 - สำหรับการปิดบัญชีประจำเดือน ยังมีฟังก์ชัน [การปิดงวด](../planen/periodenabschluss.md) เพิ่มเติมด้วย
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

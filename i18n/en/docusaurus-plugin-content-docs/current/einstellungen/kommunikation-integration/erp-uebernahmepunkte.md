@@ -24,4 +24,4 @@ Under Settings > ERP Drop Points you configure how orders from an external ERP s
 - This configuration lives in the Settings area and is therefore reserved for administrative roles.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

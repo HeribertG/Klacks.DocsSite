@@ -21,4 +21,4 @@ Trik spočívá v tom, že plánovací listy uchovávají **odkazy, nikoli kopie
 - Modulární plánování a [Automatické plánování: Jedno kliknutí, zbytek běží na pozadí](../planen/auto-planung.md) se vzájemně doplňují: každou oblast lze naplánovat automaticky samostatně.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

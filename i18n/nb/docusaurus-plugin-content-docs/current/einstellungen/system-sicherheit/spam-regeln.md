@@ -19,4 +19,4 @@ Under Innstillinger > Spamregler definerer du filterregler som brukes til å kla
 - Bruk avsenderdomene-regler til å sperre hele uønskede avsenderorganisasjoner, i stedet for å registrere hver enkelt adresse som en avsender-inneholder-regel.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

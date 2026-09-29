@@ -22,4 +22,4 @@ sidebar_position: 2
 - Τα μηνύματα στα Εισερχόμενα μπορούν να μεταφραστούν απευθείας, εφόσον έχει διαμορφωθεί το DeepL (βλ. τη σχετική σελίδα).
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

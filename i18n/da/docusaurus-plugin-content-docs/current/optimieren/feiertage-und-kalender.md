@@ -30,4 +30,4 @@ Pr. regel registrerer du desuden navn og beskrivelse (flersproget), land og kant
 ![Helligdagsregler i Klacks](/img/app-calendar-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

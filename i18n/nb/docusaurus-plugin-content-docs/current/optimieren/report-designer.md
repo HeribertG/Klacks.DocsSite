@@ -30,4 +30,4 @@ For utformingen står følgende til rådighet:
 - Tabellbunnteksten aktiverer du via en avkrysningsboks rett under den aktuelle tabellen; SUM-teksten kan vises eller skjules separat for bunntekstfeltet.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

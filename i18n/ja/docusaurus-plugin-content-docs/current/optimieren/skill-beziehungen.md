@@ -32,4 +32,4 @@ Klacksyはバックグラウンドで、あるセッション内でどのスキ�
 - 経験則:一般的に採用する価値があるのは、信頼度の高い*学習済み*の関係性のみです。裏付けの少ない推論による候補は、より多くの利用データが蓄積されるまで破棄しておく方がよいでしょう。
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

@@ -23,4 +23,4 @@ sidebar_position: 2
 - הדרך המהירה ביותר לחוות את הסיור היא ב-Playground: להתחבר, לפתוח את Klacksy, ולהתחיל להקליד.
 
 ---
-*נסו זאת ישירות: [Klacks Playground](https://klacks-software.ch:7643) - התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו זאת ישירות: [Klacks Playground](https://play.klacks-software.ch) - התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

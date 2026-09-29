@@ -19,4 +19,4 @@ sidebar_position: 7
 - 원치 않는 발신 조직 전체를 차단하려면, 개별 주소마다 발신자-포함 규칙을 만드는 대신 발신자 도메인 규칙을 사용하세요.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

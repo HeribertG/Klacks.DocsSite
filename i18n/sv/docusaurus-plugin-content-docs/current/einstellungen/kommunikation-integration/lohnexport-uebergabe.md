@@ -34,4 +34,4 @@ Vid förseglingen av en efter grupp avgränsad period kan Klacks automatiskt öv
 - Ett inaktiverat tilläggspaket förblir installerat, men spärrar den automatiska överlämningen precis lika fullständigt som ett ej installerat.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

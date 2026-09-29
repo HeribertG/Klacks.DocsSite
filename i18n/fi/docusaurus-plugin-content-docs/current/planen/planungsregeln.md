@@ -36,4 +36,4 @@ Suunnittelusääntö liitetään **sopimukseen**. Määritellyt raja-arvot koske
 - "Enimmäistyöpäivät" (pehmeä toive jaksopituudelle) ja "enimmäisperäkkäiset työpäivät" (kova, ei koskaan ylitettävissä oleva yläraja) ovat kaksi eri sääntöä — älkää sekoittako niitä.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

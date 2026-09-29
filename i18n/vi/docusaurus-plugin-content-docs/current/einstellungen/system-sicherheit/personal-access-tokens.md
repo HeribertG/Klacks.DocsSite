@@ -21,4 +21,4 @@ Personal Access Tokens (PAT) là các khóa API tồn tại lâu dài, qua đó 
 - Hãy sử dụng một token riêng cho mỗi công cụ, để khi nghi ngờ có sự lạm dụng, bạn có thể thu hồi có mục tiêu mà không làm gián đoạn các tích hợp khác.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

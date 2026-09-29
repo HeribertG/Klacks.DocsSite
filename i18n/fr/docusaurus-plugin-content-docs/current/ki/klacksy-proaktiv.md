@@ -39,4 +39,4 @@ Klacksy n'attend pas qu'on lui demande. Une fois par heure, il examine l'exploit
 - Le rythme horaire est figé et ne se règle pas depuis l'interface ; le premier passage démarre deux minutes après le lancement du programme.
 
 ---
-*Essayez-le directement : [Playground Klacks](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*Essayez-le directement : [Playground Klacks](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

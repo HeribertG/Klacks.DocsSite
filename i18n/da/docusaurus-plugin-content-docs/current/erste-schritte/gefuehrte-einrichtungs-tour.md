@@ -23,4 +23,4 @@ Sådan opstår trin for trin et komplet overblik over applikationen, helt uden a
 - Du oplever turen hurtigst i Playground: log ind, åbn Klacksy, og skriv løs.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

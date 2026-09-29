@@ -19,4 +19,4 @@ Plugin-urile de funcționalități extind Klacks cu domenii funcționale opțion
 - Unele plugin-uri aduc cu ele propriile carduri de setări (de exemplu configurarea furnizorilor de mesagerie) — acestea apar abia după instalare, în altă parte a setărilor.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

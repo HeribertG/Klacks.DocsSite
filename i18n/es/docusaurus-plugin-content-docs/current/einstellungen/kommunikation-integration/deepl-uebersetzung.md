@@ -20,4 +20,4 @@ En Configuración > DeepL guarda una clave de API de DeepL con la que Klacks pue
 - La clave se guarda cifrada y se muestra enmascarada en el formulario.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

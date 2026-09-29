@@ -29,4 +29,4 @@ Adresse- og personadministrasjonen er kjernen i stamdataene dine: medarbeidere, 
 - Opprett gruppestrukturen først, og tilordne deretter personene — slik gjelder rettighetene på gruppenivå fra begynnelsen av.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

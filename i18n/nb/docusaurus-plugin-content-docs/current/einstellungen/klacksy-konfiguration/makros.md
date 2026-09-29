@@ -25,4 +25,4 @@ Tillegg for natt-, søndags- og helligdagsarbeid eller den nøyaktige timeberegn
 - `weekday` følger gjennomgående ISO-8601 (1 = mandag … 7 = søndag) — i egne `SELECT CASE`-spørringer for "helg" er dette verdiene 6 (lørdag) og 7 (søndag).
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

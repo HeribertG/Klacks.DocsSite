@@ -25,4 +25,4 @@ In everyday operations, it's usually a Supervisor account that does the actual p
 - A login account doesn't need to be linked to an employee master data record — user administration and people management are separate areas.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

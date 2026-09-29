@@ -22,4 +22,4 @@ Własne wybory kalendarzy tworzysz za pomocą „+ Dodaj wybór kalendarza" — 
 - Ta strona jedynie grupuje i nazywa zestawy reguł kalendarzowych. Same reguły świąt (formuła obliczeniowa, przesunięcie dnia tygodnia itd.) są utrzymywane osobno — patrz „Święta i kalendarz".
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

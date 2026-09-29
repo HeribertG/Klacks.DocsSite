@@ -25,4 +25,4 @@ Mai jos, pe aceeași pagină de setări, stabiliți culorile cu care grila de pl
 - Aceste culori influențează exclusiv afișarea grilei de planificare în sine, nu și alte zone ale interfeței.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

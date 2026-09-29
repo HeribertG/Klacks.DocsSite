@@ -34,4 +34,4 @@ Przy zapieczętowaniu okresu wyodrębnionego według grupy Klacks może automaty
 - Dezaktywowany pakiet dodatkowy pozostaje zainstalowany, ale blokuje automatyczne przekazanie równie całkowicie jak niezainstalowany.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

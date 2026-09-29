@@ -26,4 +26,4 @@ Cât de independent poate acționa Klacksy înainte de a întreba? În Setări >
 - Implicit este activ nivelul Autonom — acesta corespunde comportamentului pe care Klacksy îl avea deja înainte de introducerea nivelurilor de autonomie.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

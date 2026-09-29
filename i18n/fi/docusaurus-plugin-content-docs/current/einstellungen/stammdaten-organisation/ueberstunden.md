@@ -41,4 +41,4 @@ Kohdassa Asetukset > Compliance ja lisäsäännöt (asiantuntijatila) > Ylityöt
 - Suunnittelusääntö, jolla on omat ylityötasot, korvaa nämä koko yrityksen arvot kokonaan, ei vain yksittäisiä tasoja.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -8,7 +8,7 @@ Klacks kan du prøve på et minut — og installere på få minutter. Ingen regi
 
 ## Playground: legepladsen til at lære Klacks at kende
 
-Playground er ikke en installationsvariant, men en offentlig Klacks-instans med eksempeldata til uforpligtende leg — deraf navnet. Den kører på **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground er ikke en installationsvariant, men en offentlig Klacks-instans med eksempeldata til uforpligtende leg — deraf navnet. Den kører på **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Adgangskode:** `P@ssw0rt1`
 - Du har fulde admin-rettigheder — prøv alt.

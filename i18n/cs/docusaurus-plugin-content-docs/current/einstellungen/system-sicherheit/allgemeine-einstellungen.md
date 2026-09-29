@@ -25,4 +25,4 @@ Níže na téže stránce nastavení určujete barvy, kterými plánovací mří
 - Tyto barvy ovlivňují výhradně vzhled samotné plánovací mřížky, nikoli jiné části uživatelského rozhraní.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

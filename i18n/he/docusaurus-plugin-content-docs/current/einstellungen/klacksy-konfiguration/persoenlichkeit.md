@@ -26,4 +26,4 @@ sidebar_position: 2
 - שדות ריקים אינם בעיה: Klacksy משתמש אז בגישה הבסיסית המובנית שלו. היבטי התנהגות פנימיים נוספים בודדים מתוחזקים על ידי המערכת עצמה ואינם ניתנים לקביעה ישירה כאן.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

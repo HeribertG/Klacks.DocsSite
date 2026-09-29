@@ -25,4 +25,4 @@ V praxi vlastní plánovací práci většinou provádí účet se Supervisor ro
 - Přihlašovací účet nemusí být nutně propojen s kartou kmenových dat zaměstnance — správa uživatelů a správa osob jsou oddělené oblasti.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

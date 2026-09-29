@@ -23,4 +23,4 @@ Klacksy เรียนรู้จากข้อผิดพลาดของ
 - ฟังก์ชันนี้ต้องใช้สิทธิ์ผู้ดูแลระบบ
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

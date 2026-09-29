@@ -26,4 +26,4 @@ Klacksy hat keinen starren, fest einprogrammierten Charakter — unter Einstellu
 - Leere Felder sind kein Problem: Klacksy verwendet dann seine eingebaute Grundhaltung. Einzelne weitere interne Verhaltensaspekte werden vom System selbst gepflegt und sind hier nicht direkt einstellbar.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

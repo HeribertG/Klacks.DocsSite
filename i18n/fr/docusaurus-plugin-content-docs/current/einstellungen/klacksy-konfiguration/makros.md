@@ -25,4 +25,4 @@ Les majorations pour travail de nuit, du dimanche ou des jours fériés, ou enco
 - `weekday` suit systématiquement la norme ISO-8601 (1 = lundi … 7 = dimanche) — pour vos propres requêtes `SELECT CASE` sur le « week-end », ce sont donc les valeurs 6 (samedi) et 7 (dimanche).
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

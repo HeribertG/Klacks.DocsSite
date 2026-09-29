@@ -29,4 +29,4 @@ Manajemen alamat dan orang adalah inti dari data induk Anda: karyawan, pelanggan
 - Buat dulu struktur grup, baru kemudian tempatkan orang-orangnya — dengan begitu hak akses pada level grup berlaku sejak awal.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

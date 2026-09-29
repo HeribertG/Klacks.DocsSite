@@ -25,4 +25,4 @@ Arjessa varsinaisen suunnittelutyön hoitaa yleensä Supervisor-tili — automaa
 - Käyttäjätilin ei tarvitse välttämättä olla yhdistetty henkilöstön perustietokorttiin — käyttäjähallinta ja henkilöhallinta ovat erillisiä alueita.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

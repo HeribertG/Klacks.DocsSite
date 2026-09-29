@@ -20,4 +20,4 @@ Di Pengaturan > DeepL Anda menyimpan kunci API DeepL, yang memungkinkan Klacks m
 - Kunci disimpan dalam bentuk terenkripsi dan ditampilkan tersamar di formulir.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

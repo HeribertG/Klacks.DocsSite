@@ -24,9 +24,9 @@ Klacksは、あらゆる種類のシフト・出動計画に対応します — 
 
 ## 実際にはどういうことか
 
-- Klacksは常に、誰にとっても完全に無料です — 登録も商談も不要です。[Playground](https://klacks-software.ch:7643)は、気軽に覗いて操作に慣れるための一つの手段にすぎません。
+- Klacksは常に、誰にとっても完全に無料です — 登録も商談も不要です。[Playground](https://play.klacks-software.ch)は、気軽に覗いて操作に慣れるための一つの手段にすぎません。
 - オンプレミス・パッケージ(Dockerイメージ、インストーラー、データベース、HTTPS、自動アップデート)を使って、自社のサーバー上で運用することができます。
 - ソースコードを閲覧し、自ら変更を加えることができます — 開発を進めても、Klacksはあなたのものであり続けます。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

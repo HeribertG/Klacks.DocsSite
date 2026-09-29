@@ -25,4 +25,4 @@ Suplementos para trabalho noturno, aos domingos e feriados, ou o cálculo exato 
 - `weekday` segue sempre a norma ISO-8601 (1 = segunda-feira … 7 = domingo) — em consultas `SELECT CASE` próprias para "fim de semana", esses são os valores 6 (sábado) e 7 (domingo).
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

@@ -22,4 +22,4 @@ Di bawah Tetapan > Tetapan E-mel anda menyimpan pelayan SMTP yang digunakan Klac
 - Jika ujian sambungan gagal, Klacks melaporkan sebab konkrit (contohnya ralat pengesahan, ralat rundingan SSL, tamat masa) dan bukannya mesej ralat generik.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

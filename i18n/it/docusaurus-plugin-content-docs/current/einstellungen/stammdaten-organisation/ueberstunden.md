@@ -41,4 +41,4 @@ In Impostazioni > Conformità e regole di maggiorazione (modalità esperto) > St
 - Una regola di pianificazione con propri livelli di straordinario sostituisce completamente questi valori aziendali, non solo singoli livelli.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

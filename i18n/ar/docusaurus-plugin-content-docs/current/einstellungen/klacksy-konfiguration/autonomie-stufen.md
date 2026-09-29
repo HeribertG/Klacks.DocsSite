@@ -26,4 +26,4 @@ sidebar_position: 4
 - المستوى الافتراضي هو الاستقلالية — وهذا يطابق السلوك الذي كان لدى Klacksy قبل إدخال مستويات الاستقلالية.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

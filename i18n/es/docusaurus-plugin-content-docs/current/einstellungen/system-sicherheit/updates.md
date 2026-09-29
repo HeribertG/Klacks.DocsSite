@@ -29,4 +29,4 @@ En Configuración > Actualizaciones se ve la versión de Klacks instalada actual
 - Actualizar y revertir son acciones exclusivas para administradores.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

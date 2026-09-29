@@ -28,4 +28,4 @@ Med pil-knapperne øverst til højre skifter du år; via gruppevalget afgrænser
 - Ved en 24/7-kontrakt udjævnes den lyserøde linje over ugen (ca. 0,71 pr. person og kalenderdag); ved en man-fre-kontrakt står den på 1,0 på hverdage og 0 i weekenden.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

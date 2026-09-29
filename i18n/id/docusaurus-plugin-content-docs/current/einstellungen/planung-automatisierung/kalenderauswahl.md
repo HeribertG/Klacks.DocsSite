@@ -22,4 +22,4 @@ Anda dapat membuat pilihan kalender sendiri melalui "+ Kalenderauswahl hinzufüg
 - Halaman ini hanya menggabungkan dan memberi nama pada kumpulan aturan kalender. Aturan hari libur itu sendiri (rumus perhitungan, pergeseran hari dalam minggu, dll.) dikelola secara terpisah — lihat "Feiertage & Kalender".
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

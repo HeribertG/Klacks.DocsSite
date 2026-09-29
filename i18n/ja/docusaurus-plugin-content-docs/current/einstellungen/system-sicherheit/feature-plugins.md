@@ -19,4 +19,4 @@ sidebar_position: 5
 - プラグインによっては独自の設定カードを持ち込むものもあります(例:メッセージングプロバイダーの設定) ― これらはインストール後に、設定内の別の場所に表示されるようになります。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

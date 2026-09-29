@@ -46,4 +46,4 @@ How the plannable shifts are then staffed is covered by [Auto-Planning: One Clic
 - **Sporadic shifts and time-range shifts are not counted.** Neither appears in the shift bar of the [Resource Monitor](../optimieren/ressourcen-monitor.md), by design, because they do not represent a fixed daily demand.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

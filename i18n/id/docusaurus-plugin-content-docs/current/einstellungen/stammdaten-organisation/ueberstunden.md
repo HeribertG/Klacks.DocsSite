@@ -41,4 +41,4 @@ Di Pengaturan > Kepatuhan & Aturan Tunjangan (Mode Ahli) > Lembur, Anda menentuk
 - Aturan Perencanaan dengan tingkat lembur sendiri menimpa nilai-nilai perusahaan ini secara keseluruhan, bukan hanya tingkat tertentu saja.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

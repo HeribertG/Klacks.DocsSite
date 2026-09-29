@@ -12,7 +12,7 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 
 | | |
 |---|---|
-| 🎮 **Ausprobieren** | [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1` (öffentliche Testinstanz mit rund 5'000 Demo-Klienten; wird täglich um 04:00 Uhr Schweizer Zeit zurückgesetzt — keine echten Personendaten eingeben) |
+| 🎮 **Ausprobieren** | [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1` (öffentliche Testinstanz mit rund 5'000 Demo-Klienten; wird täglich um 04:00 Uhr Schweizer Zeit zurückgesetzt — keine echten Personendaten eingeben) |
 | 📦 **Installieren** | [On-Premise-Paket herunterladen](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — ein Befehl, und Klacks läuft |
 | 💬 **Fragen & Austausch** | [Klacks-Community auf Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |

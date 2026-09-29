@@ -28,4 +28,4 @@ Chaque étape **verrouille l'édition** en conséquence : ce qui est approuvé n
 - Pour la clôture comptable d'un mois, il existe en plus la [clôture de période](../planen/periodenabschluss.md).
 
 ---
-*À tester directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À tester directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

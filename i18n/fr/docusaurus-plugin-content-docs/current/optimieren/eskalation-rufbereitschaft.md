@@ -23,4 +23,4 @@ Quelqu'un fait défaut et le service commence dans quelques heures. Klacks ne r�
 - Une personne sans numéro de téléphone dans son compte utilisateur n'apparaît pas du tout dans la liste d'appel. La demande via la messagerie nécessite en outre un contact de messagerie associé. Les absences du service de piquet se gèrent directement dans cette même liste : du–au, avec un motif facultatif, et de manière permanente si vous le souhaitez.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

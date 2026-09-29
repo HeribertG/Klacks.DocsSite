@@ -22,4 +22,4 @@ En Configuración > Ajustes de correo electrónico guarda el servidor SMTP a tra
 - Si la prueba de conexión falla, Klacks notifica el motivo concreto (p. ej., error de autenticación, error de negociación SSL, tiempo de espera agotado) en lugar de un mensaje de error genérico.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

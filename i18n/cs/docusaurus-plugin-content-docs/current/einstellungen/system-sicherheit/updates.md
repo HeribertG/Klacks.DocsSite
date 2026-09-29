@@ -29,4 +29,4 @@ V části Nastavení > Aktualizace vidíte aktuálně nainstalovanou a nejnověj
 - Aktualizace a rollback jsou akce vyhrazené pouze pro administrátory.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -36,4 +36,4 @@ Sebuah aturan perencanaan ditugaskan ke sebuah **kontrak**. Nilai batas yang did
 - "Maks. hari kerja" (preferensi lunak untuk panjang blok) dan "Maks. hari kerja berturut-turut" (batas atas keras yang tidak boleh dilampaui) adalah dua aturan yang berbeda — jangan sampai tertukar.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

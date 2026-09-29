@@ -23,4 +23,4 @@ La page regroupe plusieurs ensembles de valeurs par défaut :
 - Les commandes de planification sont masquées par défaut dans le planning et peuvent être affichées via une icône dédiée dans la barre d'outils.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

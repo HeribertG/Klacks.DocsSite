@@ -21,4 +21,4 @@ O truque por trás disto: as folhas de planeamento mantêm **referências, não 
 - O planeamento modular e o [Planeamento automático: um clique, o resto corre em segundo plano](../planen/auto-planung.md) complementam-se: cada área pode ser planeada automaticamente por si só.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

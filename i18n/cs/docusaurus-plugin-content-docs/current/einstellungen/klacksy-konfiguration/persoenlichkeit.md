@@ -26,4 +26,4 @@ Klacksy nemá strnulý, pevně naprogramovaný charakter — v nastavení Nastav
 - Prázdná pole nejsou problém: Klacksy pak použije svůj zabudovaný základní postoj. Některé další interní aspekty chování udržuje sám systém a zde nejsou přímo nastavitelné.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

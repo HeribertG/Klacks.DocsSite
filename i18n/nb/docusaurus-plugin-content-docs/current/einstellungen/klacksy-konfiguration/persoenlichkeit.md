@@ -26,4 +26,4 @@ Klacksy har ingen rigid, hardkodet karakter — under Innstillinger > Klacksy Pe
 - Tomme felt er ikke noe problem: Klacksy bruker da sin innebygde grunnholdning. Enkelte andre interne atferdsaspekter vedlikeholdes av systemet selv og er ikke direkte innstillbare her.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

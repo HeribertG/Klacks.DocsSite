@@ -8,7 +8,7 @@ Vous pouvez essayer Klacks en une minute — et l'installer en quelques minutes.
 
 ## Playground : l'aire de jeu pour découvrir
 
-Le Playground n'est pas une variante d'installation, mais une instance Klacks publique avec des données d'exemple, faite pour s'essayer sans engagement — d'où le nom. Elle est disponible sur **[klacks-software.ch](https://klacks-software.ch:7643)** :
+Le Playground n'est pas une variante d'installation, mais une instance Klacks publique avec des données d'exemple, faite pour s'essayer sans engagement — d'où le nom. Elle est disponible sur **[klacks-software.ch](https://play.klacks-software.ch)** :
 
 - **Identifiant :** `admin@test.com` · **Mot de passe :** `P@ssw0rt1`
 - Vous disposez des droits d'administrateur complets — testez tout ce que vous voulez.

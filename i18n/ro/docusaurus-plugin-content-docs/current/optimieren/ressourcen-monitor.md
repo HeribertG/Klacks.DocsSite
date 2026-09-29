@@ -28,4 +28,4 @@ Cu butoanele săgeată din dreapta sus schimbați anul; prin selecția de grup v
 - În cazul unui contract 24/7, linia roz este netezită pe parcursul săptămânii (aprox. 0,71 pe persoană și zi calendaristică); în cazul unui contract luni–vineri, ea este 1,0 în zilele lucrătoare și 0 în weekend.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

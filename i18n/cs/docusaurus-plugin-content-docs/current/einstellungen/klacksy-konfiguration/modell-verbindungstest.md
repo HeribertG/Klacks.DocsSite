@@ -21,4 +21,4 @@ Ne každý jazykový model se hodí pro Klacksy — musí spolehlivě poskytovat
 - Tento test je speciálně zaměřen na volání funkcí kvůli akceschopnosti a je nezávislý na kontrole modelu u jazykových nastavení, kde stačí nižší kontextové okno pro pouhé čištění přepisu.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

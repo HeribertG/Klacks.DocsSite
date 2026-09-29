@@ -8,7 +8,7 @@ Die Fragen, die vor dem ersten Einsatz am häufigsten gestellt werden — mit eh
 ## Ausprobieren und Einstieg
 
 **Muss ich Klacks installieren, um es zu sehen?**
-Nein. Der [Playground](https://klacks-software.ch:7643) ist eine öffentliche Instanz mit Demodaten; Sie melden sich mit `admin@test.com` / `P@ssw0rt1` an und haben volle Admin-Rechte. Die Datenbank wird täglich um 04:00 Uhr Schweizer Zeit zurückgesetzt — legen Sie dort keine echten Personendaten an.
+Nein. Der [Playground](https://play.klacks-software.ch) ist eine öffentliche Instanz mit Demodaten; Sie melden sich mit `admin@test.com` / `P@ssw0rt1` an und haben volle Admin-Rechte. Die Datenbank wird täglich um 04:00 Uhr Schweizer Zeit zurückgesetzt — legen Sie dort keine echten Personendaten an.
 
 **Wie lange dauert eine Installation?**
 Der Installer ist ein Befehl. Er erzeugt Passwörter und Zertifikat, pinnt die aktuelle Version, startet den Stack und wartet, bis alles gesund ist. Die längste Zeit davon ist das Herunterladen der Images. Voraussetzungen stehen unter [Systemvoraussetzungen](./betrieb/systemvoraussetzungen).

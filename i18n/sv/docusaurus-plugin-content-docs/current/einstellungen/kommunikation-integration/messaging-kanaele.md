@@ -35,4 +35,4 @@ Under Inställningar > Messaging-leverantörer ansluter du externa chatt- och SM
 - För alla kanaler med tidsbegränsad åtkomsttoken (t.ex. KakaoTalk, Zalo) måste denna förnyas hos leverantören utanför Klacks och läggas in på nytt i Klacks, annars avbryts sändningen via den kanalen.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

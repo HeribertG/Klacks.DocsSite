@@ -23,4 +23,4 @@ Klacksy are nevoie de un model de limbaj pentru a înțelege și a acționa. În
 - Serviciul de jurnal de sincronizare rulează în fundal independent de sesiunea dvs. — nu trebuie să țineți pagina deschisă pentru asta.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

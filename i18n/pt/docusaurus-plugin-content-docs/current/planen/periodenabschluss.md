@@ -24,4 +24,4 @@ A página está organizada em três separadores: **Períodos**, **Exportações*
 - Acede ao Encerramento de Período através do ícone de encerramento na navegação à esquerda.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

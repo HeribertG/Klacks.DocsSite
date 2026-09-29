@@ -22,4 +22,4 @@ In Impostazioni > Organizzazione > Filiali gestite gli indirizzi delle vostre se
 - Anche l'assistente Klacksy può creare o eliminare filiali tramite comando vocale ("crea una filiale ...").
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

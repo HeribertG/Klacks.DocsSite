@@ -8,7 +8,7 @@ Anda bisa mencoba Klacks dalam satu menit — dan menginstalnya dalam beberapa m
 
 ## Playground: taman bermain untuk berkenalan
 
-Playground bukan varian instalasi, melainkan instance Klacks publik dengan data contoh untuk dicoba-coba tanpa ikatan apa pun — dari situlah namanya berasal. Playground ini berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground bukan varian instalasi, melainkan instance Klacks publik dengan data contoh untuk dicoba-coba tanpa ikatan apa pun — dari situlah namanya berasal. Playground ini berjalan di **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Kata sandi:** `P@ssw0rt1`
 - Anda memiliki hak akses Admin penuh — cobalah semuanya.

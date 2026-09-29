@@ -26,4 +26,4 @@ Jak samodzielnie może działać Klacksy, zanim zapyta o potwierdzenie? W Ustawi
 - Domyślnie aktywny jest poziom Autonomiczny — odpowiada to zachowaniu, jakie Klacksy miał już przed wprowadzeniem poziomów autonomii.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

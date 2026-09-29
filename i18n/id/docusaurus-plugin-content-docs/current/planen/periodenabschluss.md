@@ -24,4 +24,4 @@ Halaman ini terbagi dalam tiga tab: **Perioden** (Periode), **Exporte** (Ekspor)
 - Anda dapat mengakses Penutupan Periode melalui ikon penutupan di navigasi kiri.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -25,4 +25,4 @@ Daripada meneka siapa bersedia bila, anda merekodkannya: Dalam Grid Ketersediaan
 ![Grid Ketersediaan Klacks](/img/app-availability-de.png)
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

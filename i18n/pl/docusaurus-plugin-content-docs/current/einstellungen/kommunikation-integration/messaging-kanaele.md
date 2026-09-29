@@ -35,4 +35,4 @@ W obszarze Ustawienia > Dostawcy wiadomości podłączasz zewnętrzne kanały cz
 - We wszystkich kanałach z ograniczonym czasowo tokenem dostępu (np. KakaoTalk, Zalo) token ten musi zostać odnowiony poza Klacks u danego dostawcy i uzupełniony w Klacks, w przeciwnym razie wysyłka przez ten kanał zostanie przerwana.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

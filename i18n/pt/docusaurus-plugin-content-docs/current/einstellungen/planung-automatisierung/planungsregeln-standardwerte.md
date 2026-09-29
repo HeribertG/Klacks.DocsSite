@@ -23,4 +23,4 @@ A página reúne vários grupos de pré-preenchimentos:
 - Os comandos de planeamento estão ocultos por defeito no plano de turnos e podem ser exibidos através de um ícone próprio na barra de ferramentas.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

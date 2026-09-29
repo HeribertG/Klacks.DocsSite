@@ -22,4 +22,4 @@ Dans Paramètres > Paramètres e-mail, vous configurez le serveur SMTP par leque
 - Si le test de connexion échoue, Klacks indique la raison précise (par ex. erreur d'authentification, échec de la négociation SSL, dépassement du délai) plutôt qu'un message d'erreur générique.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

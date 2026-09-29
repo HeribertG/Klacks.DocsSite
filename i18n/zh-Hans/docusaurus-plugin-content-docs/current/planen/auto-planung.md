@@ -27,4 +27,4 @@ sidebar_position: 1
 ![Klacks 排班网格](/img/app-schedule-de.png)
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

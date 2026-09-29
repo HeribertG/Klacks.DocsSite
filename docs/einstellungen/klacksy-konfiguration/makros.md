@@ -25,4 +25,4 @@ Zuschläge für Nacht-, Sonn- und Feiertagsarbeit oder die exakte Stundenberechn
 - `weekday` folgt durchgängig ISO-8601 (1 = Montag … 7 = Sonntag) — bei eigenen `SELECT CASE`-Abfragen für "Wochenende" sind das die Werte 6 (Samstag) und 7 (Sonntag).
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

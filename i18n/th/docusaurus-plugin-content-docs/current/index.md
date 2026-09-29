@@ -13,7 +13,7 @@ slug: /
 
 | | |
 |---|---|
-| 🎮 **ลองใช้งาน** | [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` (อินสแตนซ์ทดสอบสาธารณะ ข้อมูลจะถูกรีเซ็ตทุกวัน) |
+| 🎮 **ลองใช้งาน** | [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` (อินสแตนซ์ทดสอบสาธารณะ ข้อมูลจะถูกรีเซ็ตทุกวัน) |
 | 📦 **ติดตั้ง** | [ดาวน์โหลดแพ็กเกจ On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — สั่งคำสั่งเดียว Klacks ก็พร้อมใช้งาน |
 | 💬 **คำถามและการพูดคุย** | [ชุมชน Klacks บน Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **เว็บไซต์** | [klacks-software.ch](https://klacks-software.ch) |

@@ -25,4 +25,4 @@ sidebar_position: 5
 ![Klacks 仪表盘](/img/app-dashboard-de.png)
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

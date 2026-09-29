@@ -20,4 +20,4 @@ Przetwarzanie obrazów nie jest tu sprawą poboczną, lecz warunkiem koniecznym:
 - Przycisk sprawdzania jest czystym autotestem (dostępność + rozumienie obrazu + czas odpowiedzi) i sam w sobie nie zmienia żadnych danych planowania.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

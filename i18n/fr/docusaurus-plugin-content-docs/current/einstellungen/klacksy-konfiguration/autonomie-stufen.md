@@ -26,4 +26,4 @@ Jusqu'où Klacksy peut-il agir de sa propre initiative avant de vous demander vo
 - Par défaut, le niveau Autonome est actif — cela correspond au comportement que Klacksy avait déjà avant l'introduction des niveaux d'autonomie.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

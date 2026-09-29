@@ -35,4 +35,4 @@ sidebar_position: 6
 - 所有使用限時存取權杖的通道（例如 KakaoTalk、Zalo），都必須在 Klacks 之外向供應商更新該權杖，再回填到 Klacks 中，否則透過該通道的傳送會中斷。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

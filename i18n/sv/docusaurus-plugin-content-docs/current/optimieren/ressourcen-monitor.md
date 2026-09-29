@@ -28,4 +28,4 @@ Med pilknapparna uppe till höger byter du år; via gruppurvalet avgränsar du t
 - Vid ett 24/7-avtal utjämnas den rosa linjen över veckan (ca 0,71 per person och kalenderdag); vid ett mån–fre-avtal ligger den på 1,0 på vardagar och på 0 under helgen.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

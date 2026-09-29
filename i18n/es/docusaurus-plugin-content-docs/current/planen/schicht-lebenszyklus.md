@@ -46,4 +46,4 @@ Cómo se cubren después los turnos planificables lo describen [Planificación a
 - **Los turnos esporádicos y los turnos de franja horaria no cuentan.** Ambos se excluyen deliberadamente de la barra de turnos del [monitor de recursos](../optimieren/ressourcen-monitor.md), porque no representan una necesidad diaria fija.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

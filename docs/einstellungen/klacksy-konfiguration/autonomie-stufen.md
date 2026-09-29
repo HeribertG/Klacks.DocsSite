@@ -26,4 +26,4 @@ Wie selbständig darf Klacksy handeln, bevor er nachfragt? Unter Einstellungen >
 - Standardmässig ist die Stufe Autonom aktiv — das entspricht dem Verhalten, das Klacksy schon vor Einführung der Autonomie-Stufen hatte.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

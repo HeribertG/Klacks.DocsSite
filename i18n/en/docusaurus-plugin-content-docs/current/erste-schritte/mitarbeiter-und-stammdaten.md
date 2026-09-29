@@ -29,4 +29,4 @@ Address and people management is the heart of your master data: employees, clien
 - Set up your group structure first, then assign people to it — that way group-level permissions apply from day one.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

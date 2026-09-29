@@ -27,4 +27,4 @@ Inicia o planeamento automático diretamente a partir do plano de serviço, para
 ![Grelha de plano de serviço do Klacks](/img/app-schedule-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

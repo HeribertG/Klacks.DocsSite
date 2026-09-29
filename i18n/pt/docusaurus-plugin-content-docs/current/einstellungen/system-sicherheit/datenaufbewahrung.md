@@ -19,4 +19,4 @@ Em Definições > Retenção de dados, define durante quanto tempo os registos e
 - Esta definição é a base técnica dos prazos de eliminação descritos na declaração de proteção de dados; aplica-se globalmente a todos os tipos de dados com capacidade de eliminação lógica, não é configurável por módulo.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

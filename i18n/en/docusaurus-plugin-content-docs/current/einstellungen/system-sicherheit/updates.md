@@ -29,4 +29,4 @@ Under Settings > Updates you see the currently installed and the latest availabl
 - Update and rollback are admin-only actions.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

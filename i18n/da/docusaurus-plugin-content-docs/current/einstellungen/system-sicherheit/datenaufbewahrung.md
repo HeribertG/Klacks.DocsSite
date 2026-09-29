@@ -19,4 +19,4 @@ Under Indstillinger > Dataopbevaring fastlægger du, hvor længe slettede datapo
 - Denne indstilling er det tekniske fundament for de sletningsfrister, der er beskrevet i privatlivspolitikken; den gælder globalt for alle datatyper, der understøtter soft-delete, og kan ikke konfigureres pr. modul.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

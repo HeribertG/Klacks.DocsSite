@@ -24,4 +24,4 @@ Di Pengaturan > Umum > Alamat Sekretariat, Anda menyimpan alamat utama perusahaa
 - Jika negara diubah, kanton akan otomatis direset; pilihan kalender yang sudah dipilih hanya akan dipertahankan jika juga sesuai dengan negara yang baru — jika tidak, pilihan tersebut juga akan dikosongkan.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

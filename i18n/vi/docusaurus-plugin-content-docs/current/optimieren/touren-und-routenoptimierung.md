@@ -26,4 +26,4 @@ Nếu một hoạt động có khung giờ cố định được lưu (ví dụ 
 ![Chế độ xem dòng thời gian cho việc lập kế hoạch tuyến đường](/img/app-timeline-de.png)
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

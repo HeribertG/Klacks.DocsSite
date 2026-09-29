@@ -8,7 +8,7 @@ Klacks lo provate in un minuto — e lo installate in pochi minuti. Nessuna regi
 
 ## Playground: il terreno di gioco per conoscere Klacks
 
-Il Playground non è una variante di installazione, bensì un'istanza pubblica di Klacks con dati di esempio per giocarci liberamente e senza impegno — da qui il nome. È disponibile su **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Il Playground non è una variante di installazione, bensì un'istanza pubblica di Klacks con dati di esempio per giocarci liberamente e senza impegno — da qui il nome. È disponibile su **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Password:** `P@ssw0rt1`
 - Avete pieni diritti di amministratore — provate tutto.

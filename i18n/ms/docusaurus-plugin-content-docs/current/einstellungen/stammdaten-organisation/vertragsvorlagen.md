@@ -37,4 +37,4 @@ Di bawah Tetapan > Organisasi > Kontrak, anda menguruskan Templat Kontrak yang b
 - Pemilihan Kalendar bagi setiap Kontrak adalah pilihan — jika dibiarkan kosong, tiada Kalendar khusus kontrak akan disimpan.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

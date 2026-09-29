@@ -24,4 +24,4 @@ In Impostazioni > Generale > Indirizzo segreteria si inserisce l'indirizzo princ
 - Se il paese viene modificato, il cantone viene azzerato automaticamente; un calendario già selezionato viene mantenuto solo se corrisponde anche al nuovo paese — altrimenti viene svuotato anch'esso.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

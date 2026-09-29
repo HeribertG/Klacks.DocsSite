@@ -19,4 +19,4 @@ sidebar_position: 7
 - Folosiți reguli de domeniu al expeditorului pentru a bloca organizații expeditoare nedorite în întregime, în loc să înregistrați fiecare adresă individuală ca regulă de tip expeditorul-conține.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

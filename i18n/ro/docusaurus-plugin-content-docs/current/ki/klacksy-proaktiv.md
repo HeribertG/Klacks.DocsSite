@@ -39,4 +39,4 @@ A nu se confunda cu [Nivelurile de autonomie](../einstellungen/klacksy-konfigura
 - Ritmul orar este fix, integrat, și nu poate fi configurat prin interfață; prima trecere pornește la două minute după pornirea programului.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

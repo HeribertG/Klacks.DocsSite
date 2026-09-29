@@ -36,4 +36,4 @@ Een planningsregel wordt gekoppeld aan een **contract**. De vastgelegde grenswaa
 - "Max. werkdagen" (zachte voorkeur voor de bloklengte) en "Max. opeenvolgende werkdagen" (harde, nooit te overschrijden bovengrens) zijn twee verschillende regels — niet verwarren.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

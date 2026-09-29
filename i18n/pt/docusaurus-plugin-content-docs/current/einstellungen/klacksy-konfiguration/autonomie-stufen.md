@@ -26,4 +26,4 @@ Até que ponto o Klacksy pode agir de forma autónoma antes de perguntar? Em Def
 - Por padrão, está ativo o nível Autónomo — o que corresponde ao comportamento que o Klacksy já tinha antes da introdução dos níveis de autonomia.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

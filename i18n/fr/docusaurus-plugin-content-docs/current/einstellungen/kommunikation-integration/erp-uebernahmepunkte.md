@@ -24,4 +24,4 @@ Dans Paramètres > Points de reprise ERP, vous configurez la manière dont les c
 - Cette configuration se trouve dans la section Paramètres et est donc réservée aux rôles administratifs.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

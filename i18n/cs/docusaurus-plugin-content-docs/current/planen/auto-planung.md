@@ -27,4 +27,4 @@ Automatické plánování spouštíte přímo z plánu služeb pro zvolené obdo
 ![Mřížka plánu služeb v Klacks](/img/app-schedule-de.png)
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

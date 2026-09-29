@@ -20,4 +20,4 @@ Administratorer er undtaget fra denne begrænsning: For dem er knappen deaktiver
 - Denne indstilling styrer **synligheden** af data, ikke de grundlæggende **rettigheder** for en rolle — roller/rettigheder administreres uafhængigt heraf.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

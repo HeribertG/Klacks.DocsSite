@@ -23,4 +23,4 @@ Nhờ vậy, từng bước một, bạn sẽ có được cái nhìn tổng qua
 - Cách nhanh nhất để trải nghiệm chuyến tham quan là trong Playground: đăng nhập, mở Klacksy, và bắt đầu gõ.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -25,4 +25,4 @@ Klacksy는 음성으로도 조작할 수 있습니다 — 설정 > Klacksy 언�
 - 여기서의 모델 체크는 전사 정리에 대한 적합성(컨텍스트 윈도우 ≥ 16,000 토큰)만 검사합니다 — Klacksy의 주 모델로서의 일반적인 적합성에는 별도의 더 엄격한 테스트가 있습니다(모델 연결 테스트 참조).
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

@@ -25,4 +25,4 @@ sidebar_position: 4
 - חשבון התחברות אינו חייב להיות מקושר לכרטיס נתוני יסוד של עובד - ניהול המשתמשים וניהול האנשים הם תחומים נפרדים.
 
 ---
-*נסו זאת ישירות: [Klacks Playground](https://klacks-software.ch:7643) - התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו זאת ישירות: [Klacks Playground](https://play.klacks-software.ch) - התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

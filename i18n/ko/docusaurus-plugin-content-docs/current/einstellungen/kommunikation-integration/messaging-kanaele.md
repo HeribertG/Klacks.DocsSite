@@ -35,4 +35,4 @@ sidebar_position: 6
 - 유효 기간이 있는 접근 토큰을 사용하는 모든 채널(예: KakaoTalk, Zalo)의 경우, Klacks 외부의 제공자 측에서 토큰을 갱신하여 Klacks에 다시 입력해야 합니다. 그렇지 않으면 해당 채널을 통한 발송이 중단됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

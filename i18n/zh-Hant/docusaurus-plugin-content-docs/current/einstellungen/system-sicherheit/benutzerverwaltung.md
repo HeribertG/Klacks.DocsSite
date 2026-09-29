@@ -25,4 +25,4 @@ sidebar_position: 1
 - 管理員無法直接設定密碼：新帳戶會取得一組自動產生的密碼，之後任何變更都必須透過「重設密碼」的電子郵件連結完成。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

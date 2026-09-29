@@ -24,4 +24,4 @@ Di bawah Tetapan > Waktu Kerja & Perancangan > Tetapan Asas Perancangan, anda me
 - Kadar Caj Tambahan perlu difahami sebagai peratusan/pengganda, bukan sebagai jumlah mutlak.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

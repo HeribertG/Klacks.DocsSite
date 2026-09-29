@@ -23,4 +23,4 @@ Klacksy braucht ein Sprachmodell, um zu verstehen und zu handeln. Unter Einstell
 - Der Sync-Log-Dienst läuft unabhängig von Ihrer Sitzung im Hintergrund — Sie müssen die Seite dafür nicht offen halten.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

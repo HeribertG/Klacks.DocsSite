@@ -23,4 +23,4 @@ Así se obtiene, paso a paso, una visión completa de la aplicación, sin necesi
 - La forma más rápida de vivir el tour es en el Playground: iniciar sesión, abrir Klacksy y empezar a escribir.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

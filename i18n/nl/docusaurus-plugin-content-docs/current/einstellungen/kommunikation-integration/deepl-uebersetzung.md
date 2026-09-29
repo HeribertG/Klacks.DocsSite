@@ -20,4 +20,4 @@ Onder Instellingen > DeepL legt u een DeepL-API-sleutel vast, waarmee Klacks tek
 - De sleutel wordt versleuteld opgeslagen en in het formulier gemaskeerd weergegeven.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

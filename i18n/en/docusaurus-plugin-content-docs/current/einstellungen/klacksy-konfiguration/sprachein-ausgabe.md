@@ -25,4 +25,4 @@ Klacksy can also be operated by voice — under Settings > Klacksy Voice you con
 - The model check here exclusively tests suitability for transcription cleanup (context window ≥ 16,000 tokens) — for general suitability as Klacksy's main model there is a separate, stricter test (see Model Connection Test).
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

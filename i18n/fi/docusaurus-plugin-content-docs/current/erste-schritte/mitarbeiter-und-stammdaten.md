@@ -29,4 +29,4 @@ Osoite- ja henkilötietojen hallinta on perustietojesi ydin: henkilöstö, asiak
 - Luo ensin ryhmärakenne ja liitä henkilöt vasta sen jälkeen — näin ryhmätason käyttöoikeudet toimivat alusta alkaen.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

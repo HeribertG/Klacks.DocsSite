@@ -22,4 +22,4 @@ Trong mục Cài đặt > Cài đặt Email, bạn lưu máy chủ SMTP mà Klac
 - Nếu kiểm tra kết nối thất bại, Klacks sẽ báo cáo lý do cụ thể (ví dụ lỗi xác thực, lỗi bắt tay SSL, hết thời gian chờ) thay vì một thông báo lỗi chung chung.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

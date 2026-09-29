@@ -25,4 +25,4 @@ sidebar_position: 8
 - צבעים אלה משפיעים אך ורק על התצוגה של רשת התכנון עצמה, לא על אזורים אחרים בממשק.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

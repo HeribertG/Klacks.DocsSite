@@ -25,4 +25,4 @@ Under Settings > User Administration you manage the **login accounts** (system u
 - There is no direct password-setting by the admin: new accounts get an automatically generated password, and every later change goes through the "Reset password" email link.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

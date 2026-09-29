@@ -20,4 +20,4 @@ Image processing isn't a side detail here but a requirement: according to the pa
 - The check button is a pure self-test (reachability + image comprehension + response time) and does not itself change any scheduling data.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

@@ -41,4 +41,4 @@ Unter Einstellungen > Compliance & Zuschlagsregeln (Expertenmodus) > Überstunde
 - Eine Planungsregel mit eigenen Überstunden-Stufen überschreibt diese unternehmensweiten Werte vollständig, nicht nur einzelne Stufen.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

@@ -23,4 +23,4 @@ This page bundles several groups of default values:
 - The scheduling commands are hidden by default in the schedule and can be shown via a dedicated icon in the toolbar.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

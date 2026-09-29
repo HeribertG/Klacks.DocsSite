@@ -24,4 +24,4 @@ Under Innstillinger > Arbeidstid & planlegging > Grunninnstillinger for planlegg
 - Tilleggssatsene skal forstås som prosentsatser/multiplikatorer, ikke som absolutte beløp.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

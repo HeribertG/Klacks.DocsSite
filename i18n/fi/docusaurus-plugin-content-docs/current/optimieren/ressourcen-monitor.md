@@ -28,4 +28,4 @@ Nuolinäppäimillä oikeassa yläkulmassa vaihdatte vuoden; ryhmävalinnalla raj
 - 24/7-sopimuksessa vaaleanpunainen viiva tasoitetaan viikon yli (n. 0,71 henkilöä kohden kalenteripäivää kohden); ma–pe-sopimuksessa se on arkipäivinä 1,0 ja viikonloppuna 0.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

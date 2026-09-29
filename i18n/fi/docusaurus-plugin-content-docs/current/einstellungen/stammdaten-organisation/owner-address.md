@@ -24,4 +24,4 @@ Kohdassa Asetukset > Yleiset > Toimiston osoite tallennat yrityksesi pääosoitt
 - Kun maa vaihtuu, kantoni nollautuu automaattisesti; jo valittu kalenterivalinta säilyy vain, jos se sopii myös uuteen maahan — muuten sekin tyhjennetään.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

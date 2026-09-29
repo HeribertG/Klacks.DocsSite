@@ -28,4 +28,4 @@ sidebar_position: 3
 - 对于 24/7 合同，粉色点线会按整周平滑（每人每个日历日约 0.71）；对于周一至周五的合同，工作日为 1.0，周末为 0。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

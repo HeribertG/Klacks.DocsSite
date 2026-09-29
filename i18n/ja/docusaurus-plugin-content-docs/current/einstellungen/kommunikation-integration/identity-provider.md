@@ -23,4 +23,4 @@ sidebar_position: 4
 - ディレクトリからの外部識別子(LDAP ObjectGUID、またはその代替としてDistinguished Name)により重複が防止されます。再同期時に同じ識別子が見つかった場合、既存の人物が新規作成ではなく更新されます。
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

@@ -41,4 +41,4 @@ Em Definições > Compliance e Regras de Suplemento (modo especialista) > Horas 
 - Uma regra de planeamento com níveis de horas extraordinárias próprios substitui totalmente estes valores da empresa, não apenas níveis individuais.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

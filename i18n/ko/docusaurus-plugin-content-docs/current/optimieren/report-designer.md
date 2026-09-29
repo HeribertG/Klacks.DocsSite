@@ -30,4 +30,4 @@ sidebar_position: 6
 - 테이블 바닥글은 해당 테이블 바로 아래의 체크박스로 활성화하며, 바닥글 필드의 SUM 표시는 별도로 켜거나 끌 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

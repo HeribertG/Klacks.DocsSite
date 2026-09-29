@@ -24,4 +24,4 @@ sidebar_position: 6
 - 기간 마감 기능은 왼쪽 내비게이션의 마감 아이콘을 통해 접근할 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

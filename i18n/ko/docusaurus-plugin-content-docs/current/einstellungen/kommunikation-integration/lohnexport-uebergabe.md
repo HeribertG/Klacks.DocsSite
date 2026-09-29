@@ -34,4 +34,4 @@ sidebar_position: 7
 - 비활성화된 추가 패키지는 설치된 상태로 남아 있지만, 설치되지 않은 경우와 마찬가지로 자동 인계를 완전히 차단합니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

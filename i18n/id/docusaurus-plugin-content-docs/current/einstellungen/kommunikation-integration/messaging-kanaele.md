@@ -35,4 +35,4 @@ Di Pengaturan > Penyedia Messaging Anda menghubungkan kanal obrolan dan SMS ekst
 - Untuk semua kanal dengan token akses berbatas waktu (misalnya KakaoTalk, Zalo), token tersebut harus diperbarui di luar Klacks pada penyedia dan dimasukkan kembali ke Klacks, jika tidak pengiriman melalui kanal ini akan terhenti.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

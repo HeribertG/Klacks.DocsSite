@@ -22,4 +22,4 @@ Di Pengaturan > Pengaturan Email Anda menyimpan server SMTP yang digunakan Klack
 - Jika uji koneksi gagal, Klacks melaporkan alasan konkretnya (misalnya kesalahan autentikasi, kesalahan jabat tangan SSL, waktu tunggu habis) alih-alih pesan kesalahan generik.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -24,4 +24,4 @@ Em Definições > Pontos de Receção ERP configura como as encomendas de um sis
 - Esta configuração encontra-se na área de Definições, estando por isso reservada a perfis administrativos.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

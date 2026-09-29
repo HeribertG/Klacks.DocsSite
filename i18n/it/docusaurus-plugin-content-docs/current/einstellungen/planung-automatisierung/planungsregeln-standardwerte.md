@@ -23,4 +23,4 @@ La pagina raggruppa diversi gruppi di valori predefiniti:
 - I comandi di pianificazione sono nascosti di default nel piano di lavoro e possono essere mostrati tramite un'icona dedicata nella barra degli strumenti.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

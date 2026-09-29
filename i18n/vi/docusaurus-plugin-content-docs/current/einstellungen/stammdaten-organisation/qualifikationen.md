@@ -30,4 +30,4 @@ Tại Cài đặt > Tổ chức > Trình độ chuyên môn, bạn quản lý da
 - Trường Danh mục chỉ xuất hiện với loại "Công việc" — trình độ chuyên môn về ngôn ngữ không có danh mục.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

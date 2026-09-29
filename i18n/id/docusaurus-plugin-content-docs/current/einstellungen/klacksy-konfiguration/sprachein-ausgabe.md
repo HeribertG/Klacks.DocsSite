@@ -25,4 +25,4 @@ Klacksy juga dapat dioperasikan melalui suara — di Pengaturan > Bahasa Klacksy
 - Cek model di sini hanya memeriksa kecocokan untuk pembersihan transkripsi (jendela konteks ≥ 16.000 token) — untuk kecocokan umum sebagai model utama Klacksy ada pengujian tersendiri yang lebih ketat (lihat Uji Koneksi Model).
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

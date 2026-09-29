@@ -23,4 +23,4 @@ sidebar_position: 6
 - تتطلب هذه الوظيفة صلاحيات مسؤول.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

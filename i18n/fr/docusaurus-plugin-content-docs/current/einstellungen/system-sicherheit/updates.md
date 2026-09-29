@@ -29,4 +29,4 @@ Sous Paramètres > Mises à jour, vous consultez la version actuellement install
 - La mise à jour et le rollback sont des actions réservées aux administrateurs.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

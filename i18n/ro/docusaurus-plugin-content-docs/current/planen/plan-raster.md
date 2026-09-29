@@ -22,4 +22,4 @@ Inima activității zilnice: o matrice de timp performantă, în care rândurile
 ![Grila planului de servicii Klacks](/img/app-schedule-de.png)
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

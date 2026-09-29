@@ -26,4 +26,4 @@ sidebar_position: 4
 - כברירת מחדל הרמה אוטונומי פעילה — זה תואם להתנהגות ש-Klacksy כבר הפגין לפני הכנסת רמות האוטונומיה.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

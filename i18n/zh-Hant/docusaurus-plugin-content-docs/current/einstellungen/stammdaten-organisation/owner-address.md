@@ -24,4 +24,4 @@ sidebar_position: 3
 - 變更國家時，州會自動重設；已選定的行事曆只有在同樣適用於新國家時才會保留 — 否則也會一併清空。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

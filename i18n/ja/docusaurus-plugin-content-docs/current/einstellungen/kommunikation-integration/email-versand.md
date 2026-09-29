@@ -22,4 +22,4 @@ sidebar_position: 1
 - 接続テストが失敗した場合、Klacks は一般的なエラーメッセージではなく、具体的な理由（例: 認証エラー、SSL ハンドシェイクエラー、タイムアウト）を通知します。
 
 ---
-*直接試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

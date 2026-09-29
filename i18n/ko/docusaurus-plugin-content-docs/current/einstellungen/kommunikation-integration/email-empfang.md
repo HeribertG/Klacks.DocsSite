@@ -22,4 +22,4 @@ sidebar_position: 2
 - DeepL이 설정되어 있으면 받은 편지함의 메시지를 바로 번역할 수 있습니다(별도 페이지 참고).
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

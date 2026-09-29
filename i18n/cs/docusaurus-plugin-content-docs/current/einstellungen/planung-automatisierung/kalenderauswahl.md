@@ -22,4 +22,4 @@ Vlastní výběry kalendářů vytvoříte přes „+ Přidat výběr kalendář
 - Tato stránka pouze sdružuje a pojmenovává sady kalendářních pravidel. Samotná pravidla svátků (výpočtový vzorec, posun podle dne v týdnu atd.) se spravují samostatně — viz „Svátky a kalendáře".
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -39,4 +39,4 @@ A partir de «Preparar un escenario» debe designarse una persona responsable: l
 - El ritmo horario está integrado de forma fija y no se puede ajustar desde la interfaz; la primera ejecución se inicia dos minutos después del arranque del programa.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

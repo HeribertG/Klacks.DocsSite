@@ -29,4 +29,4 @@ Les règles vérifiées et leur degré de sévérité se définissent dans les [
 - Les rapports sont de simples vues : ils ne se modifient pas et ne changent rien. La correction se fait dans la [Grille de planification : votre matrice de temps interactive](../planen/plan-raster.md) ou par un nouveau passage.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

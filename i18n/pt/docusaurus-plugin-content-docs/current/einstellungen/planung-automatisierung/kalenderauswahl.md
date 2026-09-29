@@ -22,4 +22,4 @@ Cria as suas próprias seleções de calendário através de "+ Adicionar seleç
 - Esta página apenas agrupa e nomeia conjuntos de regras de calendário. As próprias regras de feriados (fórmula de cálculo, deslocamento por dia da semana, etc.) são geridas separadamente — ver "Feriados & Calendário".
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

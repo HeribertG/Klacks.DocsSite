@@ -23,4 +23,4 @@ Siden samler flere grupper af standardværdier:
 - Planlægningskommandoerne er som standard skjult i vagtplanen og kan vises via et eget symbol i værktøjslinjen.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -25,4 +25,4 @@ Trong mục Cài đặt > Chung, bạn thiết lập danh tính cơ bản của 
 - Các màu này chỉ ảnh hưởng đến hiển thị của chính lưới lịch trình, không ảnh hưởng đến các khu vực khác của giao diện.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

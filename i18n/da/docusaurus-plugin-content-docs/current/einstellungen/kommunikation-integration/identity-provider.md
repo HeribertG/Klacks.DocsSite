@@ -23,4 +23,4 @@ Under Indstillinger > Identity Provider forbinder du Klacks med en ekstern katal
 - En ekstern identifikator fra kataloget (LDAP ObjectGUID eller alternativt Distinguished Name) forhindrer dubletter: Findes samme identifikator ved en fornyet synkronisering, opdateres den eksisterende person i stedet for at blive oprettet på ny.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

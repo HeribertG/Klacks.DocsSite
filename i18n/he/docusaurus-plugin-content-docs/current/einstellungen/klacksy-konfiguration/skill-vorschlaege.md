@@ -23,4 +23,4 @@ Klacksy לומד מהטעויות שלו: כאשר אתם מתקנים בצ'אט
 - תכונה זו דורשת הרשאות מנהל מערכת.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

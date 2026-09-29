@@ -37,4 +37,4 @@ Under Inställningar > Organisation > Avtal hanterar du de fritt definierbara av
 - Kalenderurvalet per avtal är valfritt — lämnar du det tomt anges ingen avtalsspecifik kalender.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

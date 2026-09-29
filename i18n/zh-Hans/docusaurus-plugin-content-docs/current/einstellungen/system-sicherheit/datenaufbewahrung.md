@@ -19,4 +19,4 @@ sidebar_position: 3
 - 此设置是隐私政策中所述删除期限的技术基础；它对所有支持软删除的数据类型全局生效，不能按模块单独配置。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

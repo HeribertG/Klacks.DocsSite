@@ -20,4 +20,4 @@ Los administradores están exentos de esta restricción: en su caso el botón es
 - Esta configuración controla la **visibilidad** de los datos, no los **permisos** fundamentales de un rol — los roles/permisos se gestionan de forma independiente de esto.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

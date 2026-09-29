@@ -29,4 +29,4 @@ Pengurusan alamat dan orang adalah teras Data Induk anda: Pekerja, pelanggan ser
 - Cipta dahulu struktur Kumpulan dan kemudian peruntukkan orang kepadanya — dengan cara ini kebenaran pada peringkat Kumpulan berkuat kuasa sejak awal.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

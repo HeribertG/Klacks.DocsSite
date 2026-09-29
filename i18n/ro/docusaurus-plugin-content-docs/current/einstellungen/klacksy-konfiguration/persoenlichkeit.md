@@ -26,4 +26,4 @@ Klacksy nu are un caracter rigid, programat ferm — în Setări > Personalitate
 - Câmpurile goale nu sunt o problemă: Klacksy folosește atunci atitudinea sa de bază încorporată. Alte câteva aspecte interne de comportament sunt gestionate de sistem însuși și nu pot fi reglate direct aici.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

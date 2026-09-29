@@ -22,4 +22,4 @@ Em Definições > Organização > Filiais gere os endereços dos seus estabeleci
 - Também o assistente Klacksy pode criar ou eliminar filiais por comando de voz ("cria uma filial ...").
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

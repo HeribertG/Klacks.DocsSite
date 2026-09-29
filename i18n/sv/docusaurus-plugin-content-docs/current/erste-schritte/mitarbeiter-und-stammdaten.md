@@ -29,4 +29,4 @@ Adress- och personhanteringen är hjärtat i din stamdata: Medarbetare, kunder s
 - Skapa gruppstrukturen först och tilldela sedan personerna — så tillämpas rättigheterna på gruppnivå från början.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

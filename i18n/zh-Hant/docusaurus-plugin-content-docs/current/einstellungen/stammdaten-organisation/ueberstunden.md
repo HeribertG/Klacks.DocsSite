@@ -41,4 +41,4 @@ sidebar_position: 7
 - 設有自訂加班級距的排班規則，會完整覆蓋這些全公司通用的數值，而不只是覆蓋個別級距。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

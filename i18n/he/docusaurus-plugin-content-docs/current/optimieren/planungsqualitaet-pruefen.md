@@ -29,4 +29,4 @@ sidebar_position: 7
 - הדוחות הם תצוגות בלבד: אי אפשר לערוך אותם והם אינם משנים דבר. תיקון מתבצע ב[רשת התכנון: מטריצת הזמן האינטראקטיבית שלכם](../planen/plan-raster.md) או בהרצה חוזרת.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

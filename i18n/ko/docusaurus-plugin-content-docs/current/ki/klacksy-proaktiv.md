@@ -39,4 +39,4 @@ Klacksy는 질문을 받을 때까지 기다리지 않습니다. 한 시간에 �
 - 매시간 실행되는 주기는 고정되어 있으며 화면에서 설정할 수 없습니다. 첫 실행은 프로그램 시작 2분 후에 시작됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

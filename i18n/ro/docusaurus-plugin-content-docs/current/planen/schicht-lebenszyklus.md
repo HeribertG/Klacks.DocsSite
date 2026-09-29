@@ -46,4 +46,4 @@ Modul în care sunt ocupate ulterior turele planificabile este descris în [Plan
 - **Turele sporadice și turele cu interval orar flexibil nu se iau în calcul.** Amândouă nu apar, în mod deliberat, în bara de servicii a [Monitorului de resurse](../optimieren/ressourcen-monitor.md), deoarece nu reprezintă o necesitate zilnică fixă.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

@@ -27,4 +27,4 @@ Sie starten die Auto-Planung direkt aus dem Dienstplan für den gewählten Zeitr
 ![Klacks Dienstplan-Raster](/img/app-schedule-de.png)
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

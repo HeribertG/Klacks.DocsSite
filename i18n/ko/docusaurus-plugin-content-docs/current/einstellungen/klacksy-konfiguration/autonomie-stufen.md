@@ -26,4 +26,4 @@ Klacksy는 질문하기 전에 얼마나 독립적으로 행동해도 될까요?
 - 기본값은 자율 단계입니다 — 이는 자율성 단계가 도입되기 전 Klacksy가 보이던 동작과 동일합니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

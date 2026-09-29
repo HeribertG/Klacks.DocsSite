@@ -25,4 +25,4 @@ Em vez de adivinhar quem está disponível e quando, regista-o: na grelha de dis
 ![Grelha de disponibilidade do Klacks](/img/app-availability-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

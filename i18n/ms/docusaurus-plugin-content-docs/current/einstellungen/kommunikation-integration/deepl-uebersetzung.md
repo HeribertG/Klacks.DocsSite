@@ -20,4 +20,4 @@ Di bawah Tetapan > DeepL anda menyimpan kunci API DeepL, yang membolehkan Klacks
 - Kunci disimpan secara disulitkan dan dipaparkan dalam bentuk bertopeng pada borang.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -25,4 +25,4 @@ sidebar_position: 7
 - Το `weekday` ακολουθεί πάντα το ISO-8601 (1 = Δευτέρα … 7 = Κυριακή) — για δικά σας ερωτήματα `SELECT CASE` σχετικά με το «Σαββατοκύριακο», αυτές είναι οι τιμές 6 (Σάββατο) και 7 (Κυριακή).
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

@@ -23,4 +23,4 @@ Trang này gộp nhiều nhóm giá trị điền sẵn:
 - Các lệnh lập kế hoạch mặc định bị ẩn trong lịch trực và có thể được hiển thị qua một biểu tượng riêng trên thanh công cụ.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

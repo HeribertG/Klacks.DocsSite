@@ -25,4 +25,4 @@ O Dashboard divide-se em quatro secções, que podem ser expandidas e recolhidas
 ![Dashboard do Klacks](/img/app-dashboard-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

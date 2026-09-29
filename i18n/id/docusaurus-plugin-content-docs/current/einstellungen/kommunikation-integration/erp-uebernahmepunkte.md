@@ -24,4 +24,4 @@ Di Pengaturan > Titik Pengambilalihan ERP Anda mengonfigurasi bagaimana pesanan 
 - Konfigurasi ini berada di area Pengaturan dan karena itu hanya diperuntukkan bagi peran administratif.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

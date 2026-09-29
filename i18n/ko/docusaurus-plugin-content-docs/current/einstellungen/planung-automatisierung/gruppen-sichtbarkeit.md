@@ -20,4 +20,4 @@ sidebar_position: 5
 - 이 설정은 데이터의 **표시 여부(가시성)**를 제어하는 것이며, 역할의 근본적인 **권한**을 제어하는 것이 아닙니다 — 역할/권한은 이와 별개로 관리됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

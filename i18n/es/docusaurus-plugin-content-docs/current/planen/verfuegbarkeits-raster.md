@@ -25,4 +25,4 @@ En lugar de adivinar quién está disponible y cuándo, lo registra: en la cuadr
 ![Cuadrícula de disponibilidad de Klacks](/img/app-availability-de.png)
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

@@ -34,4 +34,4 @@ Saat menyegel sebuah periode yang dibatasi per grup, Klacks dapat menyerahkan da
 - Paket tambahan yang dinonaktifkan tetap terpasang, tetapi memblokir penyerahan otomatis sepenuhnya, sama seperti paket yang tidak terpasang sama sekali.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

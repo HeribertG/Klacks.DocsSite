@@ -23,4 +23,4 @@ Klacksy se učí z vlastních chyb: Když v chatu opravíte, že Klacksy vybral 
 - Tato funkce vyžaduje administrátorská práva.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

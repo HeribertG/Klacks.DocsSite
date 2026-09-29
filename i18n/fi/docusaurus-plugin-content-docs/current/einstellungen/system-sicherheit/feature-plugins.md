@@ -19,4 +19,4 @@ Ominaisuuslisäosat (feature-plugins) laajentavat Klacksia valinnaisilla toiminn
 - Jotkin lisäosat tuovat mukanaan omia asetuskorttejaan (esim. Messaging-palveluntarjoajan määritykset) — nämä tulevat näkyviin vasta asennuksen jälkeen muualla asetuksissa.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

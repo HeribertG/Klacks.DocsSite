@@ -29,4 +29,4 @@ sidebar_position: 3
 - 建议先建立分组结构，再将人员分配进去 — 这样分组层面的权限从一开始就能生效。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

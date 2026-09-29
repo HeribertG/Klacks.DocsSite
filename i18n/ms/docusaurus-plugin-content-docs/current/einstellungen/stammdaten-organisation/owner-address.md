@@ -24,4 +24,4 @@ Di bawah Tetapan > Umum > Alamat Sekretariat, anda menyimpan Alamat Pengendali u
 - Jika Negara ditukar, Kanton akan ditetapkan semula secara automatik; Pemilihan Kalendar yang telah dipilih hanya akan kekal jika ia turut sepadan dengan Negara baharu — jika tidak, ia juga akan dikosongkan.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

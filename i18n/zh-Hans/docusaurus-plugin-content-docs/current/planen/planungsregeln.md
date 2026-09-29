@@ -36,4 +36,4 @@ sidebar_position: 5
 - "最多工作天数"（偏好的连续工作块长度，软性规则）与"最多连续工作天数"（绝不可超过的硬性上限）是两条不同的规则，请勿混淆。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

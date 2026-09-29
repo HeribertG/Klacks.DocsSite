@@ -30,4 +30,4 @@ sidebar_position: 5
 - カテゴリー項目はタイプが「業務」の場合にのみ表示されます——語学資格にはカテゴリーがありません。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

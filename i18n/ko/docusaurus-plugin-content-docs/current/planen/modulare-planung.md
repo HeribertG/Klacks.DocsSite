@@ -21,4 +21,4 @@ sidebar_position: 3
 - 모듈형 계획과 [자동 계획: 클릭 한 번, 나머지는 백그라운드에서](../planen/auto-planung.md)은 서로 보완됩니다: 각 영역을 개별적으로 자동 계획할 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

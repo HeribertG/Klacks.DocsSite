@@ -34,4 +34,4 @@ Semasa meteraikan satu Tempoh yang dihadkan mengikut Kumpulan, Klacks boleh meny
 - Satu pakej tambahan yang dinyahaktifkan kekal dipasang, tetapi menyekat serahan automatik sepenuhnya sama seperti satu pakej yang tidak dipasang.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

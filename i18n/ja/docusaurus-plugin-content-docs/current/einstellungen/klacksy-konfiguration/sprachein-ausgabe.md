@@ -25,4 +25,4 @@ Klacksyは音声でも操作できます — 設定 > Klacksy 音声では、ど
 - ここでのモデルチェックは、文字起こしのクリーンアップへの適性（コンテキストウィンドウ ≥ 16,000トークン）のみを検証します — Klacksyのメインモデルとしての一般的な適性については、別途より厳密なテストがあります（モデル接続テストを参照）。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

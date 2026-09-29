@@ -28,4 +28,4 @@ Elke fase **vergrendelt de bewerking** dienovereenkomstig: wat is goedgekeurd, w
 - Voor de boekhoudkundige afsluiting van een maand is er bovendien de [Periodeafsluiting](../planen/periodenabschluss.md).
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

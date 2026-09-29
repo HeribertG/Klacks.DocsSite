@@ -26,4 +26,4 @@ Jika tetingkap masa tetap direkodkan untuk sesuatu tugasan (contohnya hanya pada
 ![Paparan garis masa untuk perancangan Perjalanan](/img/app-timeline-de.png)
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

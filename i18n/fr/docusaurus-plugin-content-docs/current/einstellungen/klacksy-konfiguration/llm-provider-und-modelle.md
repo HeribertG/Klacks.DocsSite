@@ -23,4 +23,4 @@ Klacksy a besoin d'un modèle de langage pour comprendre et agir. Dans Paramètr
 - Le service de journal de synchronisation fonctionne en arrière-plan, indépendamment de votre session — vous n'avez pas besoin de garder la page ouverte.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

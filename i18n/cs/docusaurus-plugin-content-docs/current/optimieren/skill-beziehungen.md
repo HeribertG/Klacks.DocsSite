@@ -32,4 +32,4 @@ Klacksy na pozadí sleduje, které skills se v rámci sezení často používaj�
 - Základní pravidlo: obvykle se vyplatí převzít pouze *naučené* vztahy s vysokou spolehlivostí. Odvozené kandidáty s malou podporou je lepší zamítnout, dokud nebude k dispozici více dat o používání.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -30,4 +30,4 @@ W sekcji Ustawienia > Organizacja > Kwalifikacje zarządzasz katalogiem wszystki
 - Pole kategorii pojawia się tylko przy typie „Praca" — kwalifikacje językowe nie mają kategorii.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

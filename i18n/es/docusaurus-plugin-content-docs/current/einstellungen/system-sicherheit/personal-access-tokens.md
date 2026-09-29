@@ -21,4 +21,4 @@ Los tokens de acceso personal (PATs) son claves de API de larga duración con la
 - Utilice un token propio por cada herramienta, para poder revocarlo de forma específica en caso de sospecha de uso indebido, sin interrumpir otras integraciones.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

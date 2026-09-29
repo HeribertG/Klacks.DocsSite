@@ -39,4 +39,4 @@ Mulai daripada "Sediakan Senario", seorang individu yang bertanggungjawab mesti 
 - Rentak setiap jam tertanam secara tetap dan tidak boleh ditetapkan melalui antara muka; larian pertama bermula dua minit selepas program dimulakan.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -34,4 +34,4 @@ When a group-scoped period is sealed, Klacks can automatically hand its payroll 
 - A deactivated add-on stays installed but blocks the automatic handover just as completely as one that is not installed.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

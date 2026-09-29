@@ -21,4 +21,4 @@ Tidak semua model bahasa cocok untuk Klacksy — ia harus dapat memberikan pangg
 - Pengujian ini secara khusus dirancang untuk panggilan fungsi demi kemampuan bertindak, dan terpisah dari Cek Model di pengaturan bahasa, yang cukup puas dengan jendela konteks yang lebih rendah untuk sekadar pembersihan transkripsi.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

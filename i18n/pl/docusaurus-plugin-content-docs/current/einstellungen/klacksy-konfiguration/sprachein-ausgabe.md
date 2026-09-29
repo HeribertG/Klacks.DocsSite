@@ -25,4 +25,4 @@ Klacksy można obsługiwać także głosowo — w Ustawienia > Mowa Klacksy usta
 - Sprawdzenie modelu w tym miejscu weryfikuje wyłącznie przydatność do czyszczenia transkrypcji (okno kontekstu ≥ 16 000 tokenów) — dla ogólnej przydatności jako głównego modelu Klacksy istnieje osobny, bardziej rygorystyczny test (patrz Test połączenia z modelem).
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

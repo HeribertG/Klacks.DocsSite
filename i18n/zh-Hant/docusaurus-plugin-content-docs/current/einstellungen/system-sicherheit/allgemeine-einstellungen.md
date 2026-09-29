@@ -25,4 +25,4 @@ sidebar_position: 8
 - 這些顏色只會影響排班表格本身的顯示，不會影響介面的其他區域。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

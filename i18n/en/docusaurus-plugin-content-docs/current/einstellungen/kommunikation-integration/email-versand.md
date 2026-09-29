@@ -22,4 +22,4 @@ Under Settings > Email Settings you configure the SMTP server that Klacks uses t
 - If the connection test fails, Klacks reports the specific reason (e.g. authentication error, SSL handshake failure, timeout) instead of a generic error message.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

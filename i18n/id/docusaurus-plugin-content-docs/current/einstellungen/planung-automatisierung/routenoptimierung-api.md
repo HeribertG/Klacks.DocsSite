@@ -18,4 +18,4 @@ OpenRouteService menghitung waktu tempuh dan jarak — untuk berkendara, bersepe
 - Untuk konversi alamat menjadi koordinat (geocoding), Klacks menggunakan layanan lain yang terpisah — kunci ini hanya bertanggung jawab untuk perhitungan rute.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

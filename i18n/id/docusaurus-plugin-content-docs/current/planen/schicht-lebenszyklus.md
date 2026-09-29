@@ -46,4 +46,4 @@ Bagaimana shift yang dapat direncanakan tersebut selanjutnya diisi, dijelaskan d
 - **Shift sporadis dan shift kerangka waktu tidak turut dihitung.** Keduanya secara sengaja tidak muncul di batang shift pada [Monitor Sumber Daya](../optimieren/ressourcen-monitor.md), karena tidak menggambarkan kebutuhan harian yang tetap.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

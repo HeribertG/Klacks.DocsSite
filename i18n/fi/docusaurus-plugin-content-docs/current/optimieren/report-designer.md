@@ -30,4 +30,4 @@ Muotoiluun on käytettävissä:
 - Taulukon alatunniste aktivoidaan valintaruudulla kyseisen taulukon alla; SUM-kentän merkintä voidaan näyttää tai piilottaa erikseen alatunnisteessa.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

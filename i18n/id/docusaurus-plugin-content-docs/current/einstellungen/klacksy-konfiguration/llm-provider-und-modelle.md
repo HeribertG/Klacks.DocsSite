@@ -23,4 +23,4 @@ Klacksy membutuhkan model bahasa untuk memahami dan bertindak. Di Pengaturan > P
 - Layanan log sinkronisasi berjalan di latar belakang secara independen dari sesi Anda — Anda tidak perlu membiarkan halaman tetap terbuka untuk itu.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

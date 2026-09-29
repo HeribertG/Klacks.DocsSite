@@ -24,9 +24,9 @@ Klacks pokrývá každý druh směnného a nasazového plánování — od pravi
 
 ## Co to znamená v praxi
 
-- Klacks je vždy a pro každého zcela zdarma — žádná registrace, žádný prodejní hovor. [Playground](https://klacks-software.ch:7643) je jen možnost, jak si nezávazně vyzkoušet ovládání a blíže se s ním seznámit.
+- Klacks je vždy a pro každého zcela zdarma — žádná registrace, žádný prodejní hovor. [Playground](https://play.klacks-software.ch) je jen možnost, jak si nezávazně vyzkoušet ovládání a blíže se s ním seznámit.
 - Můžete jej provozovat na vlastním serveru pomocí On-Premise balíčku (Docker images, instalátor, databáze, HTTPS, automatické aktualizace).
 - Můžete nahlédnout do zdrojového kódu a sami provádět změny — Klacks zůstává vaším, i když ho dále rozvíjíte.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

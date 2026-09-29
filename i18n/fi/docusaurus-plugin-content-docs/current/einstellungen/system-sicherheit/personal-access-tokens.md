@@ -21,4 +21,4 @@ Personal Access Tokenit (PAT-tunnukset) ovat pitkäikäisiä API-avaimia, joiden
 - Käytä kutakin työkalua varten omaa erillistä tunnusta, jotta voit väärinkäytösepäilyn ilmetessä peruuttaa juuri sen vaikuttamatta muihin integraatioihin.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

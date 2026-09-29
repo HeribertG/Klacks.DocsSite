@@ -19,4 +19,4 @@ Onder Instellingen > Spamregels definieert u filterregels waarmee binnenkomende 
 - Gebruik afzenderdomein-regels om hele ongewenste afzenderorganisaties te blokkeren, in plaats van elk afzonderlijk adres als afzender-bevat-regel vast te leggen.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

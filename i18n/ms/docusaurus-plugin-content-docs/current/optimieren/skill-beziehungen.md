@@ -32,4 +32,4 @@ Klacksy memerhati di latar belakang, Skill mana yang kerap digunakan bersama ata
 - Petua umum: Biasanya hanya hubungan yang *dipelajari* dengan Keyakinan tinggi berbaloi diterima pakai. Calon terbitan dengan sokongan rendah lebih baik ditolak sehingga lebih banyak data penggunaan tersedia.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -26,4 +26,4 @@ Se per un intervento sono registrate fasce orarie fisse (ad es. solo al mattino)
 ![Vista timeline per la pianificazione dei tour](/img/app-timeline-de.png)
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

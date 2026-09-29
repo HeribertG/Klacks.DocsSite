@@ -21,4 +21,4 @@ Inte varje språkmodell lämpar sig för Klacksy — den måste tillförlitligt 
 - Detta test är särskilt utformat för funktionsanrop för handlingsförmåga och är oberoende av modell-checken i språkinställningarna, som accepterar ett lägre kontextfönster för ren transkriptionsrensning.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

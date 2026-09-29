@@ -23,4 +23,4 @@ sidebar_position: 1
 - 排班指令在班表中預設是隱藏的，可以透過工具列上的專屬圖示將其顯示出來。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

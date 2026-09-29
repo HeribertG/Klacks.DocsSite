@@ -24,4 +24,4 @@ En Configuración > Puntos de traspaso ERP configura cómo los pedidos de un sis
 - Esta configuración se encuentra en el área de Configuración y, por tanto, está reservada a roles administrativos.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

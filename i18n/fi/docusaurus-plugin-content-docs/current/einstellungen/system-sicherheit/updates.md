@@ -29,4 +29,4 @@ Kohdassa Asetukset > Päivitykset näet tällä hetkellä asennetun ja uusimman 
 - Päivitys ja palautus ovat toimintoja, jotka on rajattu vain Adminille.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -26,4 +26,4 @@ Si des créneaux horaires fixes sont définis pour une intervention (par ex. seu
 ![Timeline-Ansicht für die Tourenplanung](/img/app-timeline-de.png)
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

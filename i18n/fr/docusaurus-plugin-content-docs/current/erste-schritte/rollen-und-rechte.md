@@ -25,4 +25,4 @@ Au quotidien, c'est généralement un compte Supervisor qui assure le travail de
 - Un compte de connexion ne doit pas obligatoirement être lié à une fiche de collaborateur dans les données de base — la gestion des utilisateurs et la gestion des personnes sont deux domaines distincts.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

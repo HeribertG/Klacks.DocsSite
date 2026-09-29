@@ -30,4 +30,4 @@ sidebar_position: 7
 ![Klacksy كلوحة داخل Klacks](/img/app-klacksy-de.png)
 
 ---
-*جرّبوا مباشرة: [Klacks Playground](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [Klacks Playground](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

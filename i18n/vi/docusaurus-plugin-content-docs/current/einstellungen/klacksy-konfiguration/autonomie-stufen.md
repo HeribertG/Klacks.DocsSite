@@ -26,4 +26,4 @@ Klacksy được phép hành động độc lập đến mức nào trước khi
 - Theo mặc định, mức Tự động đang được kích hoạt — điều này tương ứng với hành vi mà Klacksy đã có từ trước khi mức độ tự chủ được giới thiệu.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -20,4 +20,4 @@ Beeldverwerking is hier geen bijzaak, maar een vereiste: volgens de toelichtings
 - De testknop is een pure zelftest (bereikbaarheid + beeldbegrip + antwoordtijd) en wijzigt op zich geen planningsgegevens.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

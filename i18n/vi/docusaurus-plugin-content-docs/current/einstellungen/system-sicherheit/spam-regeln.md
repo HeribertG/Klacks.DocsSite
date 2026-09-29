@@ -19,4 +19,4 @@ Trong mục Cài đặt > Quy tắc chống spam, bạn định nghĩa các quy 
 - Hãy sử dụng các quy tắc theo tên miền người gửi để chặn toàn bộ các tổ chức gửi không mong muốn, thay vì ghi lại từng địa chỉ riêng lẻ dưới dạng quy tắc người-gửi-chứa.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

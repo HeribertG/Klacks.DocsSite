@@ -24,4 +24,4 @@ Kohdassa Asetukset > Organisaatio > Maat hallinnoit luetteloa maista, jotka ovat
 - Maaluettelo syöttää muun muassa maavalikon Toimiston osoite -kohdassa — luo puuttuva maa ensin täällä, ennen kuin haluat valita sen siellä.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

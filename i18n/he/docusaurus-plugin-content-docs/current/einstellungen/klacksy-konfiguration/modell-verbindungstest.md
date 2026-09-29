@@ -21,4 +21,4 @@ sidebar_position: 5
 - בדיקה זו מיועדת ספציפית לקריאות פונקציה לצורך יכולת פעולה, ואינה תלויה בבדיקת המודל בהגדרות הקול, המסתפקת בחלון הקשר נמוך יותר לצורך ניקוי תמלול בלבד.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

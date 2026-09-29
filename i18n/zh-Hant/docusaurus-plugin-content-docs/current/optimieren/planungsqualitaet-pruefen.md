@@ -29,4 +29,4 @@ sidebar_position: 7
 - 這些報告純粹是檢視用途：無法編輯，也不會改變任何內容。修正動作要在[排班網格：您的互動式時間矩陣](../planen/plan-raster.md)中進行，或是重新執行一次助理。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

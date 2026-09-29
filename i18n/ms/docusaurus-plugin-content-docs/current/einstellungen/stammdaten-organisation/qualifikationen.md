@@ -30,4 +30,4 @@ Di bawah Tetapan > Organisasi > Kelayakan, anda menyelenggara Katalog Kelayakan 
 - Medan Kategori hanya muncul bagi jenis "Kerja" — Kelayakan Bahasa tiada Kategori.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

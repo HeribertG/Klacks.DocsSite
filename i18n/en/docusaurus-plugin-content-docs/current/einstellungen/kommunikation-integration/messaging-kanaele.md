@@ -35,4 +35,4 @@ Under Settings > Messaging Providers you connect external chat and SMS channels 
 - For all channels with a time-limited access token (e.g. KakaoTalk, Zalo), it must be renewed with the provider outside of Klacks and re-entered in Klacks, otherwise sending via that channel breaks.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

@@ -25,4 +25,4 @@ Lebih ke bawah pada halaman pengaturan yang sama, Anda menentukan warna yang dig
 - Warna-warna ini hanya memengaruhi tampilan kisi jadwal itu sendiri, bukan area lain pada antarmuka.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

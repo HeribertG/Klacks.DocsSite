@@ -37,4 +37,4 @@ sidebar_position: 6
 - 每份合約的行事曆選擇為選填項目 — 若留空，則不會為該合約設定專屬行事曆。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

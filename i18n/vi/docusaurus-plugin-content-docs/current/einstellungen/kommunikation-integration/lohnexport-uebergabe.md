@@ -34,4 +34,4 @@ Khi niêm phong một kỳ được giới hạn theo nhóm, Klacks có thể t�
 - Một gói bổ sung bị vô hiệu hóa vẫn được cài đặt, nhưng khóa việc tự động bàn giao hoàn toàn giống như khi chưa được cài đặt.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

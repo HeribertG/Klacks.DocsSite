@@ -21,4 +21,4 @@ Personal Access Tokens (PAT) är långlivade API-nycklar som gör att externa ve
 - Använd ett eget Token per verktyg, så att du vid misstänkt missbruk kan återkalla det riktat, utan att avbryta andra integrationer.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

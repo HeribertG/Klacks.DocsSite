@@ -24,4 +24,4 @@ V nastavení Nastavení > Obecné > Adresa sekretariátu zadáváte kmenovou adr
 - Při změně země se kanton automaticky resetuje; již zvolený výběr kalendáře zůstane zachován pouze tehdy, pokud odpovídá i nové zemi — jinak se rovněž vymaže.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

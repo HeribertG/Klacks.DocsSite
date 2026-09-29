@@ -26,4 +26,4 @@ Klacksy no tiene un carácter rígido y preprogramado — en Configuración > Pe
 - Los campos vacíos no son un problema: Klacksy utiliza entonces su actitud básica integrada. Algunos otros aspectos internos de comportamiento los mantiene el propio sistema y no son configurables directamente aquí.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

@@ -22,4 +22,4 @@ Em Definições > Definições de E-mail configura o servidor SMTP através do q
 - Se o teste de ligação falhar, o Klacks indica o motivo concreto (por exemplo, erro de autenticação, erro de handshake SSL, tempo limite excedido) em vez de uma mensagem de erro genérica.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

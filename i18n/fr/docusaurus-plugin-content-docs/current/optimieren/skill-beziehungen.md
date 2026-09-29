@@ -32,4 +32,4 @@ La **confiance** (0–100 %) indique à quel point Klacksy est sûr d'une relati
 - Règle empirique : seules les relations *apprises* avec une confiance élevée valent typiquement la peine d'être adoptées. Il vaut mieux rejeter les candidates déduites avec peu de soutien, jusqu'à ce que davantage de données d'utilisation soient disponibles.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

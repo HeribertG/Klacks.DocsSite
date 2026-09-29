@@ -36,4 +36,4 @@ sidebar_position: 5
 - "최대 근무일"(연속 근무 길이에 대한 유연한 선호값)과 "최대 연속 근무일"(절대 초과할 수 없는 엄격한 상한값)은 서로 다른 규칙이므로 혼동하지 않도록 주의하세요.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

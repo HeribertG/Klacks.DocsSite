@@ -30,4 +30,4 @@ Trước mỗi thay đổi, Klacksy sẽ tóm tắt những gì sắp xảy ra v
 ![Klacksy dưới dạng bảng điều khiển trong Klacks](/img/app-klacksy-de.png)
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

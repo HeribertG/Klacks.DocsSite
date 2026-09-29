@@ -21,4 +21,4 @@ The trick behind it: schedule sheets hold **references instead of copies**. A sh
 - Modular planning and [Auto-Planning: One Click, the Rest Runs in the Background](../planen/auto-planung.md) complement each other: each area can be auto-planned on its own.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

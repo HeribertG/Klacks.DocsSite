@@ -25,4 +25,4 @@ Klacksya voi käyttää myös puheella — kohdassa Asetukset > Klacksyn kieli v
 - Tämän kohdan mallitarkistus tarkistaa yksinomaan soveltuvuuden transkription siistimiseen (kontekstikkuna ≥ 16 000 tokenia) — Klacksyn yleiselle pääasialliselle soveltuvuudelle on oma, tiukempi testi (katso Mallin yhteystesti).
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

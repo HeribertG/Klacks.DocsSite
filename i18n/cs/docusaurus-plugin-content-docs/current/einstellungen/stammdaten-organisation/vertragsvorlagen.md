@@ -37,4 +37,4 @@ V nastavení Nastavení > Organizace > Smlouvy spravujete volně definovatelné 
 - Výběr kalendáře u smlouvy je volitelný — ponecháte-li jej prázdný, nebude uložen žádný kalendář specifický pro danou smlouvu.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

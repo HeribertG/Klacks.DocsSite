@@ -22,4 +22,4 @@ Omia kalenterivalintoja luodaan painikkeella "+ Lisää kalenterivalinta" — es
 - Tämä sivu vain kokoaa ja nimeää kalenterisäännöstöjä. Itse pyhäpäiväsäännöt (laskentakaava, viikonpäivän siirto jne.) ylläpidetään erikseen — katso "Pyhäpäivät ja kalenterit".
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

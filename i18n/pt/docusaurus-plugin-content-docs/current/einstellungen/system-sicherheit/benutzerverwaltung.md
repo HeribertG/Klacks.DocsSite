@@ -25,4 +25,4 @@ Em Definições > Gestão de utilizadores, gere as **contas de acesso** (utiliza
 - Não existe uma definição direta de palavra-passe pelo administrador: as contas novas recebem uma palavra-passe gerada automaticamente, e qualquer alteração posterior é feita através do link de e-mail "Repor palavra-passe".
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

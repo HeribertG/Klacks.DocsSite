@@ -21,4 +21,4 @@ Không phải mô hình ngôn ngữ nào cũng phù hợp với Klacksy — nó 
 - Bài kiểm tra này được thiết kế riêng cho khả năng gọi hàm nhằm phục vụ khả năng hành động, và độc lập với chức năng kiểm tra mô hình ở phần cài đặt ngôn ngữ, vốn chỉ yêu cầu cửa sổ ngữ cảnh thấp hơn cho việc làm sạch bản ghi thuần túy.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

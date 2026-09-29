@@ -36,4 +36,4 @@ sidebar_position: 5
 - 「最大勤務日数」(ブロック長に関する緩やかな希望)と「最大連続勤務日数」(決して超えてはならない厳格な上限)は別々のルールです — 混同しないよう注意してください。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

@@ -30,4 +30,4 @@ Klacksy 能理解您的需求，並將其轉換為具體的操作 — 超過 **3
 ![Klacks 中作為面板的 Klacksy](/img/app-klacksy-de.png)
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

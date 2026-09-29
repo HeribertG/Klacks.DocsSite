@@ -20,4 +20,4 @@ Billedbehandling er her ikke en biting, men en forudsætning: Ifølge sidens hj�
 - Test-knappen er en ren selvtest (tilgængelighed + billedforståelse + svartid) og ændrer i sig selv ingen planlægningsdata.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

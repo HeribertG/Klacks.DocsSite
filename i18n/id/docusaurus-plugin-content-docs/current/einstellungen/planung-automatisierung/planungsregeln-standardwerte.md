@@ -23,4 +23,4 @@ Halaman ini menggabungkan beberapa kelompok nilai standar:
 - Perintah perencanaan secara default disembunyikan dalam jadwal dinas dan dapat ditampilkan melalui ikon khusus di toolbar.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

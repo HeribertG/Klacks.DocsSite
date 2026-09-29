@@ -23,4 +23,4 @@ Klacksy potrzebuje modelu językowego, aby rozumieć i działać. W Ustawienia >
 - Usługa dziennika synchronizacji działa w tle niezależnie od Państwa sesji — nie trzeba w tym celu trzymać strony otwartej.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

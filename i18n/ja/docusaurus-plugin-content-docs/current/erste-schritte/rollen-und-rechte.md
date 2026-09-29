@@ -25,4 +25,4 @@ Klacksには、ログインアカウントに割り当てられる権限レベ�
 - ログインアカウントは、必ずしも従業員のマスタデータカードに紐づいている必要はありません ― ユーザー管理と人物管理は別個の領域です。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

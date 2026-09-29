@@ -21,4 +21,4 @@ Triknya adalah: Lembar jadwal menyimpan **referensi, bukan salinan**. Sebuah shi
 - Perencanaan Modular dan [Perencanaan Otomatis: Satu Klik, Sisanya Berjalan di Latar Belakang](../planen/auto-planung.md) saling melengkapi: Setiap area dapat direncanakan secara otomatis sendiri-sendiri.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

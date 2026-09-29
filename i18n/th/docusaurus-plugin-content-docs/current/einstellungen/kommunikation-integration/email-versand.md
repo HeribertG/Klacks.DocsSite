@@ -22,4 +22,4 @@ sidebar_position: 1
 - หากการทดสอบการเชื่อมต่อล้มเหลว Klacks จะแจ้งเหตุผลที่แท้จริง (เช่น ข้อผิดพลาดการยืนยันตัวตน ข้อผิดพลาด SSL-Handshake หรือหมดเวลา) แทนที่จะแสดงข้อความผิดพลาดทั่วไป
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

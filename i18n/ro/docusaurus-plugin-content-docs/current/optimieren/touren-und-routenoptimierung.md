@@ -26,4 +26,4 @@ Dacă pentru o intervenție sunt înregistrate intervale orare fixe (de exemplu 
 ![Vizualizare cronologică (Timeline) pentru planificarea turelor](/img/app-timeline-de.png)
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

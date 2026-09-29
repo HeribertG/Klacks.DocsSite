@@ -21,4 +21,4 @@ Nem todos os modelos de linguagem são adequados para o Klacksy — ele precisa 
 - Este teste está especificamente concebido para chamadas de função relacionadas com a capacidade de ação e é independente da verificação de modelos nas definições de idioma, que se contenta com uma janela de contexto mais baixa, suficiente apenas para a limpeza de transcrições.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

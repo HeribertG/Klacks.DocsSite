@@ -23,4 +23,4 @@ De pagina bundelt meerdere groepen vooringevulde waarden:
 - De planningscommando's zijn in het dienstrooster standaard verborgen en kunnen via een eigen pictogram in de werkbalk zichtbaar worden gemaakt.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

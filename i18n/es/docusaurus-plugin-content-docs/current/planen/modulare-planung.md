@@ -21,4 +21,4 @@ El truco detrás de esto: las hojas de plan mantienen **referencias en lugar de 
 - La planificación modular y [la planificación automática: un clic, el resto se ejecuta en segundo plano](../planen/auto-planung.md) se complementan: cada área se puede planificar automáticamente por separado.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

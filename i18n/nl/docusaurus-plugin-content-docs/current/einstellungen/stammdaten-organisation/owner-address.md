@@ -24,4 +24,4 @@ Onder Instellingen > Algemeen > Adres Secretariaat legt u het hoofdadres van uw 
 - Verandert het land, dan wordt het kanton automatisch teruggezet; een reeds gekozen kalenderselectie blijft alleen behouden als deze ook bij het nieuwe land past — anders wordt deze eveneens geleegd.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

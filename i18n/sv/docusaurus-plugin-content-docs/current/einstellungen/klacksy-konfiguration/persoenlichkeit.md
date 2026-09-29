@@ -26,4 +26,4 @@ Klacksy har ingen stel, fast inprogrammerad karaktär — under Inställningar >
 - Tomma fält är inget problem: Klacksy använder då sin inbyggda grundhållning. Enstaka andra interna beteendeaspekter underhålls av systemet självt och kan inte ställas in direkt här.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

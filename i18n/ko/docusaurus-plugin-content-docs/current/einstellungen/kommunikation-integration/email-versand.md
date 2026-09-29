@@ -22,4 +22,4 @@ sidebar_position: 1
 - 연결 테스트가 실패하면 Klacks는 일반적인 오류 메시지 대신 구체적인 원인(예: 인증 오류, SSL 핸드셰이크 오류, 시간 초과)을 알립니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

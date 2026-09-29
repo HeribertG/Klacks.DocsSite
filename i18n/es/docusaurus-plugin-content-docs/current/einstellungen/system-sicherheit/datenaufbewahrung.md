@@ -19,4 +19,4 @@ En Configuración > Retención de datos se define durante cuánto tiempo permane
 - Esta configuración es la base técnica de los plazos de eliminación descritos en la declaración de protección de datos; se aplica globalmente a todos los tipos de datos con eliminación lógica, y no es configurable por módulo.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

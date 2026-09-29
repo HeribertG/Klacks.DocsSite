@@ -35,4 +35,4 @@ sidebar_position: 6
 - La toate canalele cu token de acces cu termen limitat (de ex. KakaoTalk, Zalo), acesta trebuie reînnoit în afara Klacks, la furnizor, și introdus ulterior în Klacks, altfel trimiterea prin acest canal se întrerupe.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

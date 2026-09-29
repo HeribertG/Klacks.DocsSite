@@ -30,4 +30,4 @@ sidebar_position: 5
 - שדה הקטגוריה מופיע רק בסוג "עבודה" — לכישורי שפה אין קטגוריה.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

@@ -26,4 +26,4 @@ Klacksyがどこまで自律的に行動し、いつ確認を求めるべきか�
 - 標準では「自律」レベルが有効になっています — これは自律レベル導入以前からのKlacksyの挙動に相当します。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

@@ -29,4 +29,4 @@ sidebar_position: 7
 - 이 보고서들은 순수한 조회 화면입니다: 편집할 수 없으며 아무것도 변경하지 않습니다. 수정은 [계획 그리드: 인터랙티브 시간 매트릭스](../planen/plan-raster.md)에서 하거나 다시 실행하여 이루어집니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

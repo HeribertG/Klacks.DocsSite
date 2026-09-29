@@ -23,4 +23,4 @@ sidebar_position: 8
 - 用户账户中未登记电话号码的人，根本不会出现在呼叫名单中。要通过消息渠道发出请求，还需要额外绑定一个消息渠道联系方式。待命人员的缺勤直接在同一份名单中维护：起止日期，可选填写原因，也可以设为长期有效。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

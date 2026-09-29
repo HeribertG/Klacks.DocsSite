@@ -37,4 +37,4 @@ sidebar_position: 6
 - การเลือกปฏิทินต่อสัญญาเป็นสิ่งที่ไม่บังคับ — หากปล่อยว่างไว้ จะไม่มีการกำหนดปฏิทินเฉพาะสำหรับสัญญานั้น
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

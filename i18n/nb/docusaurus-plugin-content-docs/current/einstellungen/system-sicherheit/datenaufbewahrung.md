@@ -19,4 +19,4 @@ Under Innstillinger > Dataoppbevaring fastsetter du hvor lenge slettede datasett
 - Denne innstillingen er det tekniske grunnlaget for slettefristene som er beskrevet i personvernerklæringen; den gjelder globalt for alle datatyper som støtter soft delete, og kan ikke konfigureres per modul.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

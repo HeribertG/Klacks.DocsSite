@@ -25,4 +25,4 @@ sidebar_position: 7
 - `weekday` ใช้มาตรฐาน ISO-8601 อย่างสม่ำเสมอ (1 = วันจันทร์ … 7 = วันอาทิตย์) — เมื่อเขียน `SELECT CASE` ของตัวเองสำหรับ "วันสุดสัปดาห์" ค่าที่ต้องใช้คือ 6 (วันเสาร์) และ 7 (วันอาทิตย์)
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

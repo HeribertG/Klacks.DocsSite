@@ -24,4 +24,4 @@ sidebar_position: 6
 - Το κλείσιμο περιόδου το βρίσκετε μέσω του εικονιδίου κλεισίματος στην αριστερή πλοήγηση.
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

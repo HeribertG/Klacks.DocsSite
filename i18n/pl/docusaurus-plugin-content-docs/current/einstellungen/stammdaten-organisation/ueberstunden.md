@@ -41,4 +41,4 @@ W Ustawienia > Compliance i reguły dodatków (tryb eksperta) > Nadgodziny ustal
 - Reguła planowania z własnymi progami nadgodzin całkowicie nadpisuje te wartości firmowe, a nie tylko poszczególne progi.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

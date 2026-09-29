@@ -20,4 +20,4 @@ Bildebehandling er her ikke en bagatell, men en forutsetning: Ifølge hjelpeteks
 - Test-knappen er en ren selvtest (tilgjengelighet + bildeforståelse + svartid) og endrer i seg selv ingen planleggingsdata.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

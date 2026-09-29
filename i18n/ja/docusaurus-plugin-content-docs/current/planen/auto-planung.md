@@ -27,4 +27,4 @@ sidebar_position: 1
 ![Klacksの勤務表グリッド](/img/app-schedule-de.png)
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

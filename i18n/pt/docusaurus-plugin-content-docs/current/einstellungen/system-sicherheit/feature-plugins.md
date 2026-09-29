@@ -19,4 +19,4 @@ Os plugins de funcionalidades ampliam o Klacks com áreas funcionais opcionais q
 - Alguns plugins trazem os seus próprios cartões de definições (por exemplo, configuração de fornecedores de mensagens) — estes só aparecem, noutro local das definições, depois da instalação.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

@@ -25,4 +25,4 @@ Dodatki za pracę w nocy, w niedziele i w święta lub dokładne obliczanie godz
 - `weekday` konsekwentnie stosuje ISO-8601 (1 = poniedziałek … 7 = niedziela) — przy własnych zapytaniach `SELECT CASE` dla „weekendu" są to wartości 6 (sobota) i 7 (niedziela).
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

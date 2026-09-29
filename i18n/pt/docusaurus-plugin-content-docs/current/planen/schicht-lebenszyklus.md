@@ -46,4 +46,4 @@ Como os turnos planeáveis são depois preenchidos descrevem-no [Planeamento aut
 - **Os turnos esporádicos e os turnos de janela temporal não contam.** Ambos não aparecem propositadamente na barra de turnos do [Monitor de Recursos](../optimieren/ressourcen-monitor.md), porque não representam uma necessidade diária fixa.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

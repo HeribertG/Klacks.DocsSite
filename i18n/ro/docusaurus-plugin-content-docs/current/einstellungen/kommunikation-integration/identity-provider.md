@@ -23,4 +23,4 @@ sidebar_position: 4
 - Un identificator extern din director (LDAP ObjectGUID sau, alternativ, Distinguished Name) previne duplicatele: dacă la o sincronizare ulterioară este găsit același identificator, persoana existentă este actualizată în loc să fie creată din nou.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

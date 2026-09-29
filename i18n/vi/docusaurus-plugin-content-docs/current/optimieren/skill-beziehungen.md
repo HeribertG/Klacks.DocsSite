@@ -32,4 +32,4 @@ Klacksy quan sát ngầm xem trong một phiên làm việc, các Skills nào th
 - Quy tắc chung: chỉ những mối quan hệ *đã học* với độ tin cậy cao mới thường đáng để chấp nhận. Các ứng viên được suy luận với ít bằng chứng hỗ trợ thì nên loại bỏ cho đến khi có nhiều dữ liệu sử dụng hơn.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

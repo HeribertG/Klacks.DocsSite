@@ -25,4 +25,4 @@ Klacksy también se puede manejar por voz — en Configuración > Voz de Klacksy
 - La comprobación de modelo aquí verifica exclusivamente la aptitud para la limpieza de transcripciones (ventana de contexto ≥ 16 000 tokens) — para la aptitud general como modelo principal de Klacksy existe una prueba propia y más estricta (véase Prueba de conexión de modelo).
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

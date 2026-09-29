@@ -28,4 +28,4 @@ Med pilknappene øverst til høyre bytter du år; via gruppevalget avgrenser du 
 - Ved en 24/7-kontrakt jevnes den rosa linjen ut over uken (ca. 0,71 per person og kalenderdag); ved en man–fre-kontrakt står den på 1,0 på virkedager og 0 i helgen.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

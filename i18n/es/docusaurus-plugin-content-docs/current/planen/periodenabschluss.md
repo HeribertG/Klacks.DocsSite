@@ -24,4 +24,4 @@ La página está organizada en tres pestañas: **Perioden**, **Exporte** y **Pro
 - Accede al cierre de periodo mediante el icono de cierre en la navegación izquierda.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

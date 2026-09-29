@@ -19,4 +19,4 @@ sidebar_position: 3
 - 이 설정은 개인정보 처리방침에 기술된 삭제 기간의 기술적 기반입니다. 모든 소프트 삭제 가능 데이터 유형에 전역적으로 적용되며, 모듈별로 별도 설정할 수는 없습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

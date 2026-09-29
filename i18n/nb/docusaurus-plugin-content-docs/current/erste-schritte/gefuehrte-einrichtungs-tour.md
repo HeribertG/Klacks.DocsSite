@@ -23,4 +23,4 @@ Slik oppstår steg for steg en fullstendig oversikt over applikasjonen, helt ute
 - Raskest opplever du turen i Playground: logg inn, åpne Klacksy, og begynn å skrive.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

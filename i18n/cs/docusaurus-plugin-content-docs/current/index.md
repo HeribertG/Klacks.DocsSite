@@ -13,7 +13,7 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 
 | | |
 |---|---|
-| 🎮 **Vyzkoušet** | [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1` (veřejná testovací instance, data se denně resetují) |
+| 🎮 **Vyzkoušet** | [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1` (veřejná testovací instance, data se denně resetují) |
 | 📦 **Nainstalovat** | [Stáhnout On-Premise balíček](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — jeden příkaz a Klacks běží |
 | 💬 **Dotazy a diskuze** | [Komunita Klacks na Discordu](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Web** | [klacks-software.ch](https://klacks-software.ch) |

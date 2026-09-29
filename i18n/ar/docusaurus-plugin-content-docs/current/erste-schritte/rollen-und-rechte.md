@@ -25,4 +25,4 @@ sidebar_position: 4
 - لا يشترط أن يكون حساب تسجيل الدخول مرتبطًا ببطاقة بيانات موظف أساسية — فإدارة المستخدمين وإدارة الأشخاص مجالان منفصلان.
 
 ---
-*جرّبوا مباشرة: [Klacks Playground](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [Klacks Playground](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

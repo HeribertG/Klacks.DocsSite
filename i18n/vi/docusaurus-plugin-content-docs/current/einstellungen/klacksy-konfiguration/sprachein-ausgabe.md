@@ -25,4 +25,4 @@ Klacksy cũng có thể được điều khiển bằng giọng nói — trong m
 - Kiểm tra mô hình ở đây chỉ kiểm tra sự phù hợp cho việc làm sạch bản ghi (cửa sổ ngữ cảnh ≥ 16.000 token) — đối với sự phù hợp tổng quát làm mô hình chính của Klacksy, có một bài kiểm tra riêng, nghiêm ngặt hơn (xem Kiểm tra kết nối mô hình).
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

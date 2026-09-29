@@ -25,4 +25,4 @@ sidebar_position: 3
 - בדיקת המודל כאן בודקת אך ורק את ההתאמה לניקוי תמלול (חלון הקשר ≥ 16,000 טוקנים) — עבור ההתאמה הכללית כמודל ראשי של Klacksy קיימת בדיקה נפרדת ומחמירה יותר (ראו בדיקת חיבור למודל).
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

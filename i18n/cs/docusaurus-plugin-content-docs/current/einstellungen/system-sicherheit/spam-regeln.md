@@ -19,4 +19,4 @@ V části Nastavení > Pravidla pro spam definujete filtrovací pravidla, pomoc�
 - Používejte pravidla pro doménu odesílatele k zablokování celých nežádoucích odesílajících organizací, místo abyste jednotlivě zadávali každou adresu jako pravidlo „odesílatel obsahuje".
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

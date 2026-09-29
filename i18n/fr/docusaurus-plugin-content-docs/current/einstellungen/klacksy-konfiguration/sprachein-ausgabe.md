@@ -25,4 +25,4 @@ Klacksy peut aussi être piloté par la voix — dans Paramètres > Voix de Klac
 - La vérification de modèle proposée ici ne teste que l'aptitude au nettoyage de transcription (fenêtre de contexte ≥ 16 000 tokens) — pour l'aptitude générale en tant que modèle principal de Klacksy, il existe un test dédié, plus strict (voir Test de connexion des modèles).
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

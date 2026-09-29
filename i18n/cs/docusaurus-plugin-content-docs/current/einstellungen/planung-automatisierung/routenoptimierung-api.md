@@ -18,4 +18,4 @@ OpenRouteService počítá dobu jízdy a vzdálenosti — pro jízdu autem, na k
 - Pro samotný převod adres na souřadnice (geokódování) používá Klacks jinou, samostatnou službu — tento klíč slouží výhradně pro výpočet tras.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

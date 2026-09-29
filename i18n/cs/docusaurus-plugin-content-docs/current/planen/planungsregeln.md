@@ -36,4 +36,4 @@ Plánovací pravidlo je přiřazeno ke **smlouvě**. Definované mezní hodnoty 
 - „Max. pracovních dnů" (měkká preference délky bloku) a „Max. po sobě jdoucích pracovních dnů" (pevný, nikdy nepřekročitelný horní limit) jsou dvě odlišná pravidla — nezaměňujte je.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

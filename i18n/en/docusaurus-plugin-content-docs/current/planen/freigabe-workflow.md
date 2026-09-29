@@ -28,4 +28,4 @@ Each stage **locks editing** accordingly: once something is approved, nobody cha
 - For the accounting close of a month there is additionally [Period Closing](../planen/periodenabschluss.md).
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

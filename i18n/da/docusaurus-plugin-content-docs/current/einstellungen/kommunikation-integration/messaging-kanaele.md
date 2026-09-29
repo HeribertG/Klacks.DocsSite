@@ -35,4 +35,4 @@ Under Indstillinger > Messaging-udbydere tilknytter du eksterne chat- og SMS-kan
 - Ved alle kanaler med tidsbegrænset adgangstoken (f.eks. KakaoTalk, Zalo) skal dette fornyes hos udbyderen uden for Klacks og efterfølgende indtastes i Klacks, ellers afbrydes afsendelsen via denne kanal.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

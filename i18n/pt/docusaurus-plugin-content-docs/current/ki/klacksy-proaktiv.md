@@ -39,4 +39,4 @@ A partir de "Preparar cenário" é obrigatório indicar uma pessoa responsável:
 - O ritmo horário está fixado no sistema e não é configurável através da interface; a primeira passagem começa dois minutos depois do arranque do programa.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

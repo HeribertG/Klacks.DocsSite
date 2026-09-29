@@ -29,4 +29,4 @@ Które reguły są sprawdzane i jak surowo obowiązują, ustalasz na stronie [Re
 - Raporty to czyste widoki: nie da się ich edytować i niczego nie zmieniają. Korekty wykonuje się na stronie [Siatka planu: Twoja interaktywna macierz czasu](../planen/plan-raster.md) lub przez ponowny przebieg.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

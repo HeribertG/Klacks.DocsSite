@@ -24,4 +24,4 @@ En Configuración > Horario laboral y planificación > Configuración base de pl
 - Las tasas de recargo deben entenderse como porcentajes/multiplicadores, no como importes absolutos.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

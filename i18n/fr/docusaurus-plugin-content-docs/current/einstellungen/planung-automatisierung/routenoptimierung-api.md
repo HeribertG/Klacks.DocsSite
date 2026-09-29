@@ -18,4 +18,4 @@ OpenRouteService calcule les temps de trajet et les distances — en voiture, à
 - Pour la simple conversion d'adresses en coordonnées (géocodage), Klacks utilise un autre service, distinct — cette clé est exclusivement destinée au calcul des itinéraires.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

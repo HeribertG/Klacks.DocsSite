@@ -23,4 +23,4 @@ Noen faller fra, og vakten begynner om noen timer. Klacks vekker da ikke hele te
 - Den som ikke har telefonnummer i brukerkontoen, vises ikke i ringelisten i det hele tatt. Forespørselen via Messenger krever i tillegg en koblet Messenger-kontakt. Fravær for beredskapsvakten fører du direkte inn i samme liste: fra–til, med valgfri begrunnelse, permanent om ønskelig.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

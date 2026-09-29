@@ -25,4 +25,4 @@ sidebar_position: 8
 - تؤثر هذه الألوان حصريًا على عرض شبكة الجدول نفسها، دون سواها من مناطق الواجهة.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*

@@ -25,4 +25,4 @@ sidebar_position: 1
 - 管理员无法直接设置密码：新账户会获得一个自动生成的密码，之后的任何修改都需要通过「重置密码」的邮件链接完成。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

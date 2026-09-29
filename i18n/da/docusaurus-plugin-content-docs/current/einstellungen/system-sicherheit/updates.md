@@ -29,4 +29,4 @@ Under Indstillinger > Opdateringer ser du den aktuelt installerede og den nyeste
 - Opdatering og rollback er handlinger, der kun kan udføres af administratorer.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

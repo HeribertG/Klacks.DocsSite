@@ -21,4 +21,4 @@ Klacks tukee neljää ydinkieltä kiinteästi käyttöliittymässä — saksa, e
 - Kielilisäosan kattavuusaste voi olla alle 100 %, jos uusia toimintoja on lisätty ennen kuin käännös on ehtinyt perässä — puuttuvat tekstit näkyvät tällöin englanniksi, joka on kaikkien lisäosakielten tekninen varakieli.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

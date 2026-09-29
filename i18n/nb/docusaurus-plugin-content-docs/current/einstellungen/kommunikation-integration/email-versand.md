@@ -22,4 +22,4 @@ Under Innstillinger > E-postinnstillinger legger du inn SMTP-serveren Klacks bru
 - Feiler tilkoblingstesten, melder Klacks den konkrete årsaken (f.eks. autentiseringsfeil, SSL-håndtrykksfeil, tidsavbrudd) i stedet for en generisk feilmelding.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

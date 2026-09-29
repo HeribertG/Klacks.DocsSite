@@ -26,4 +26,4 @@ Klacksy 沒有僵化、寫死在程式裡的個性 — 您可以在「設定 > K
 - 欄位留空也沒問題：Klacksy 屆時會採用內建的基本態度。部分其他內部行為細節則由系統自行維護，無法在此直接設定。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

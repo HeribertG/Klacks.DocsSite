@@ -22,4 +22,4 @@ W obszarze Ustawienia > Ustawienia e-mail zapisujesz serwer SMTP, przez który K
 - Jeśli test połączenia się nie powiedzie, Klacks zgłasza konkretny powód (np. błąd uwierzytelnienia, błąd uzgadniania SSL, przekroczenie czasu oczekiwania) zamiast ogólnego komunikatu o błędzie.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

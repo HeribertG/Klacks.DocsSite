@@ -18,4 +18,4 @@ OpenRouteService는 자동차 이동, 자전거 이동, 도보에 대한 이동 
 - 주소를 좌표로 변환하는 지오코딩(Geocoding)에는 Klacks가 별도의 다른 서비스를 사용합니다 — 이 키는 오직 경로 계산에만 사용됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

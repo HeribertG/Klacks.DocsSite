@@ -22,4 +22,4 @@ Inti dari pekerjaan sehari-hari: sebuah matriks waktu yang bertenaga, di mana ba
 ![Kisi Jadwal Kerja Klacks](/img/app-schedule-de.png)
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

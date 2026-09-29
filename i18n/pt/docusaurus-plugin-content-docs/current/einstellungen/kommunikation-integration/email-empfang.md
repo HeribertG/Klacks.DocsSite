@@ -22,4 +22,4 @@ Em Definições > Definições IMAP, configura uma caixa de correio que o Klacks
 - As mensagens na caixa de entrada podem ser traduzidas diretamente se o DeepL estiver configurado (ver página própria).
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

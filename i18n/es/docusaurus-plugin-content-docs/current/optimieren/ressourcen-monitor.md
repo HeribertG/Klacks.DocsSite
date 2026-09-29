@@ -28,4 +28,4 @@ Con los botones de flecha de arriba a la derecha cambia el año; a través de la
 - Con un contrato 24/7, la línea rosa se suaviza a lo largo de la semana (aprox. 0,71 por persona y día natural); con un contrato de lunes a viernes, se sitúa en 1,0 los días laborables y en 0 el fin de semana.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

@@ -34,4 +34,4 @@ Kun ryhmän mukaan rajattu jakso sinetöidään, Klacks voi luovuttaa sen palkka
 - Pois käytöstä otettu lisäpaketti pysyy asennettuna, mutta estää automaattisen luovutuksen yhtä täydellisesti kuin asentamaton.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

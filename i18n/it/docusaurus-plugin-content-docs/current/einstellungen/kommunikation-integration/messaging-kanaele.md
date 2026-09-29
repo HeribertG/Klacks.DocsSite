@@ -35,4 +35,4 @@ In Impostazioni > Provider di messaggistica collegate canali di chat e SMS ester
 - Per tutti i canali con token di accesso a scadenza (ad es. KakaoTalk, Zalo), il token deve essere rinnovato al di fuori di Klacks presso il provider e reinserito in Klacks, altrimenti l'invio tramite quel canale si interrompe.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

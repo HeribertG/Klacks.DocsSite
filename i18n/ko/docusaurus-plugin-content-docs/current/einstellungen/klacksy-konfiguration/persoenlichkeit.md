@@ -26,4 +26,4 @@ Klacksy는 고정되어 미리 프로그래밍된 성격을 가지고 있지 않
 - 빈 필드는 문제가 되지 않습니다: 이 경우 Klacksy는 내장된 기본 태도를 사용합니다. 몇몇 다른 내부 행동 측면은 시스템 자체가 관리하며 여기서 직접 설정할 수 없습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

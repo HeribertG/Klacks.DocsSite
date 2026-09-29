@@ -25,4 +25,4 @@ Klacksy poate fi utilizat și prin voce — în Setări > Voce Klacksy stabiliț
 - Verificarea modelului de aici testează exclusiv potrivirea pentru curățarea transcrierii (fereastră de context ≥ 16.000 de tokeni) — pentru potrivirea generală ca model principal Klacksy există un test propriu, mai strict (vezi Testul de conectivitate a modelului).
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

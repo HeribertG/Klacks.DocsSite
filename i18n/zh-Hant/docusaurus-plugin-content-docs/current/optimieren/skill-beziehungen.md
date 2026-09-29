@@ -32,4 +32,4 @@ Klacksy 會在背景觀察哪些技能經常在同一個會話中一起使用、
 - 經驗法則：通常只有信心指數較高的*已學習*關聯才值得採用。支持度不足的*推導*候選項目，建議先予以捨棄，等累積更多使用資料後再作決定。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

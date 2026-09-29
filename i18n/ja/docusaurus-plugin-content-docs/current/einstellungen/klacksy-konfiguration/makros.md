@@ -25,4 +25,4 @@ sidebar_position: 7
 - `weekday`は一貫してISO-8601(1 = 月曜 … 7 = 日曜)に従います — 独自の`SELECT CASE`で「週末」を問い合わせる場合、これは6(土曜)と7(日曜)の値になります。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

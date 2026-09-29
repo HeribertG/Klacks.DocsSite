@@ -8,7 +8,7 @@ Anda boleh mencuba Klacks dalam masa seminit — dan memasangnya dalam beberapa 
 
 ## Playground: ruang percubaan untuk berkenalan
 
-Playground bukanlah satu pilihan pemasangan, sebaliknya satu instans Klacks awam dengan data contoh untuk bermain-main tanpa sebarang komitmen — itulah sebabnya ia dinamakan sedemikian. Ia berjalan di **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground bukanlah satu pilihan pemasangan, sebaliknya satu instans Klacks awam dengan data contoh untuk bermain-main tanpa sebarang komitmen — itulah sebabnya ia dinamakan sedemikian. Ia berjalan di **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Log masuk:** `admin@test.com` · **Kata laluan:** `P@ssw0rt1`
 - Anda mempunyai hak Admin penuh — cuba apa sahaja.

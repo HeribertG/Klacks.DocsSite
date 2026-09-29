@@ -30,4 +30,4 @@ Yang istimewa: **Anda sendiri yang memilih model bahasa.** OpenAI, Anthropic, Go
 ![Klacksy sebagai panel di Klacks](/img/app-klacksy-de.png)
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

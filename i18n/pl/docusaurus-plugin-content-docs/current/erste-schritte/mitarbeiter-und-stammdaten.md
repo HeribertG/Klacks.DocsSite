@@ -29,4 +29,4 @@ Zarządzanie adresami i osobami to serce Twoich danych podstawowych: pracownicy,
 - Najpierw utwórz strukturę grup, a dopiero potem przypisz do niej osoby — dzięki temu uprawnienia na poziomie grupy działają od samego początku.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

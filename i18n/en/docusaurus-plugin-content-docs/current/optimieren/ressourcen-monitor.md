@@ -28,4 +28,4 @@ Use the arrow buttons at the top right to switch years; use the group selector t
 - With a 24/7 contract, the pink line is smoothed across the week (approx. 0.71 per person per calendar day); with a Mon–Fri contract it sits at 1.0 on weekdays and 0 on weekends.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

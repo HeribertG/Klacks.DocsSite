@@ -41,4 +41,4 @@ sidebar_position: 7
 - 带有自定义加班分级的排班规则，会完全覆盖这些全公司统一的数值，而不仅仅是个别级别。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

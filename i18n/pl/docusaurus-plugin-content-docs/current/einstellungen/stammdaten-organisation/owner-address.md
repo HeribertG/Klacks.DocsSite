@@ -24,4 +24,4 @@ W sekcji Ustawienia > Ogólne > Adres sekretariatu zapisujesz podstawowy adres s
 - Przy zmianie kraju kanton jest automatycznie resetowany; już wybrany kalendarz pozostaje zachowany tylko wtedy, gdy pasuje również do nowego kraju — w przeciwnym razie zostaje również wyczyszczony.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

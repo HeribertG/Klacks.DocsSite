@@ -29,4 +29,4 @@ Which rules are checked, and how strictly they apply, is defined in the [Schedul
 - The reports are pure views: they can't be edited and change nothing. Corrections happen in [The Schedule Grid: Your Interactive Time Matrix](../planen/plan-raster.md) or through another run.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

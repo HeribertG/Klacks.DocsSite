@@ -34,4 +34,4 @@ Při zapečetění období ohraničeného podle skupiny může Klacks jeho mzdov
 - Deaktivovaný plugin zůstává nainstalovaný, ale blokuje automatické předání stejně úplně jako nenainstalovaný.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

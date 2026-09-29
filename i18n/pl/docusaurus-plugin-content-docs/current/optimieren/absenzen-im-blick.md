@@ -22,4 +22,4 @@ Urlop, choroba, szkolenie, służba wojskowa — kto i kiedy jest nieobecny, zob
 ![Widok osi czasu w Klacks](/img/app-timeline-de.png)
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

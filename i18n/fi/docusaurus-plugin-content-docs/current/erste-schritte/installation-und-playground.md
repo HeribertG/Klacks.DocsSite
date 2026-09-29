@@ -8,7 +8,7 @@ Klacksia voit kokeilla minuutissa — ja asentaa muutamassa minuutissa. Ei rekis
 
 ## Playground: leikkikenttä tutustumiseen
 
-Playground ei ole asennusvaihtoehto, vaan julkinen Klacks-instanssi esimerkkitiedoilla, jolla voi kokeilla vapaasti ilman sitoumuksia — siitä nimi juontuu. Se on käytössä osoitteessa **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground ei ole asennusvaihtoehto, vaan julkinen Klacks-instanssi esimerkkitiedoilla, jolla voi kokeilla vapaasti ilman sitoumuksia — siitä nimi juontuu. Se on käytössä osoitteessa **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Kirjautuminen:** `admin@test.com` · **Salasana:** `P@ssw0rt1`
 - Sinulla on täydet ylläpitäjän oikeudet — kokeile mitä tahansa.

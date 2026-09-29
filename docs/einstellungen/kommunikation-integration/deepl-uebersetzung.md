@@ -20,4 +20,4 @@ Unter Einstellungen > DeepL hinterlegen Sie einen DeepL-API-Schlüssel, mit dem 
 - Der Schlüssel wird verschlüsselt gespeichert und im Formular maskiert dargestellt.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

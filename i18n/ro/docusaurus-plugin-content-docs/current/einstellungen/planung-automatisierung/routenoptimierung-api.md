@@ -18,4 +18,4 @@ OpenRouteService calculează timpii de deplasare și distanțele — pentru mers
 - Pentru simpla conversie a adreselor în coordonate (geocodare), Klacks folosește un alt serviciu, separat — această cheie este responsabilă exclusiv pentru calculul rutelor.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

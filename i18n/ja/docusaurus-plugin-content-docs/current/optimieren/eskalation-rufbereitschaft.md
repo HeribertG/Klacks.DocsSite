@@ -23,4 +23,4 @@ sidebar_position: 8
 - ユーザーアカウントに電話番号が登録されていない人は、そもそも呼び出しリストに表示されません。メッセンジャー経由の依頼には、さらに連携済みのメッセンジャー連絡先が必要です。オンコール担当者の不在は同じリストで直接管理します: 開始日〜終了日、理由は任意入力、必要に応じて無期限にも設定できます。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

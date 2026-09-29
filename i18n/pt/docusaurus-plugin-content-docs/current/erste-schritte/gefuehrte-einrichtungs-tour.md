@@ -23,4 +23,4 @@ Assim, cria-se passo a passo uma visão completa da aplicação, sem necessidade
 - A forma mais rápida de experimentar a visita é no Playground: iniciar sessão, abrir o Klacksy, começar a escrever.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

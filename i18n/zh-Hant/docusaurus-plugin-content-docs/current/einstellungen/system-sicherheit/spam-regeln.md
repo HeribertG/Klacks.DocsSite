@@ -19,4 +19,4 @@ sidebar_position: 7
 - 建議使用寄件者網域規則來封鎖整個不受歡迎的寄件組織，而不是為每個地址單獨建立「寄件者包含」規則。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

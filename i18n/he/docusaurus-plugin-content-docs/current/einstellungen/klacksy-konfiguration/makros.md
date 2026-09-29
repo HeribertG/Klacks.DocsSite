@@ -25,4 +25,4 @@ sidebar_position: 7
 - `weekday` פועל תמיד לפי ISO-8601 (1 = יום שני … 7 = יום ראשון) — בשאילתות `SELECT CASE` משלכם עבור "סוף שבוע" אלה הערכים 6 (שבת) ו-7 (ראשון).
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

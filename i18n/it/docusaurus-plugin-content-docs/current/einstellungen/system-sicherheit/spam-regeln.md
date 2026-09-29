@@ -19,4 +19,4 @@ In Impostazioni > Regole antispam si definiscono le regole di filtro con cui le 
 - Utilizzare le regole sul dominio del mittente per bloccare intere organizzazioni mittenti indesiderate, invece di registrare ogni singolo indirizzo come regola "Mittente contiene".
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

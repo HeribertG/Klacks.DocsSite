@@ -13,7 +13,7 @@ Denne wikien forklarer i små biter hvordan Klacks fungerer. Hver side leser du 
 
 | | |
 |---|---|
-| 🎮 **Prøv det** | [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1` (offentlig test-instans, data tilbakestilles daglig) |
+| 🎮 **Prøv det** | [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1` (offentlig test-instans, data tilbakestilles daglig) |
 | 📦 **Installer** | [Last ned On-Premise-pakken](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — én kommando, og Klacks kjører |
 | 💬 **Spørsmål og utveksling** | [Klacks-community på Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Nettside** | [klacks-software.ch](https://klacks-software.ch) |

@@ -23,4 +23,4 @@ Halaman ini menggabungkan beberapa kumpulan nilai pra-isi:
 - Arahan Perancangan disembunyikan secara lalai dalam jadual tugasan dan boleh dipaparkan melalui ikon khas dalam bar alat (toolbar).
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -20,4 +20,4 @@ Under Innstillinger > DeepL legger du inn en DeepL API-nøkkel som Klacks kan br
 - Nøkkelen lagres kryptert og vises maskert i skjemaet.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

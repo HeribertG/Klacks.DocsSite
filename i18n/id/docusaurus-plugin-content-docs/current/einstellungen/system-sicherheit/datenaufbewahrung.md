@@ -19,4 +19,4 @@ Di Pengaturan > Retensi Data, Anda menentukan berapa lama data yang telah dihapu
 - Pengaturan ini merupakan fondasi teknis dari masa retensi yang dijelaskan dalam kebijakan privasi; berlaku secara global untuk semua jenis data yang mendukung soft-delete, dan tidak dapat dikonfigurasi per modul.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

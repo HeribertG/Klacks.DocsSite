@@ -24,4 +24,4 @@ Dans Paramètres > Général > Adresse du secrétariat, vous saisissez l'adresse
 - Si le pays change, le canton est automatiquement réinitialisé ; un calendrier déjà sélectionné n'est conservé que s'il correspond également au nouveau pays — sinon, il est également vidé.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

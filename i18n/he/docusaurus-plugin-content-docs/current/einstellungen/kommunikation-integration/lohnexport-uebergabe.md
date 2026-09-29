@@ -34,4 +34,4 @@ sidebar_position: 7
 - תוסף מושבת נשאר מותקן, אך חוסם את המסירה האוטומטית באופן מלא בדיוק כמו תוסף שאינו מותקן.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

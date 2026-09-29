@@ -23,4 +23,4 @@ Klacksy는 이해하고 행동하기 위해 언어 모델이 필요합니다. �
 - 동기화 로그 서비스는 사용자의 세션과 무관하게 백그라운드에서 실행됩니다 — 이를 위해 페이지를 계속 열어 둘 필요는 없습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

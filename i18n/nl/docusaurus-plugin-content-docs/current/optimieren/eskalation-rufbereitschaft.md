@@ -23,4 +23,4 @@ Iemand valt uit, en de dienst begint over enkele uren. Klacks maakt dan niet luk
 - Wie geen telefoonnummer in het gebruikersaccount heeft, verschijnt al helemaal niet in de oproeplijst. Voor de aanvraag via de messenger is bovendien een gekoppeld messengercontact nodig. Afwezigheden van de oproepdienst beheert u rechtstreeks in dezelfde lijst: van–tot, met optionele reden, desgewenst permanent.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

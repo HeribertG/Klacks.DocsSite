@@ -28,4 +28,4 @@ Cada fase **bloqueia a edição** de forma correspondente: o que está aprovado 
 - Para o fecho contabilístico de um mês existe ainda o [Fecho de Período](../planen/periodenabschluss.md).
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

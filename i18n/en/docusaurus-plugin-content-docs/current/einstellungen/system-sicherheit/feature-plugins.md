@@ -19,4 +19,4 @@ Feature plugins extend Klacks with optional functional areas that aren't part of
 - Some plugins bring their own settings cards (e.g. messaging provider configuration) — these only appear elsewhere in Settings after installation.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

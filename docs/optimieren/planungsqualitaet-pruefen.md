@@ -29,4 +29,4 @@ Welche Regeln geprüft werden und wie streng sie gelten, legen Sie in den [Planu
 - Die Berichte sind reine Ansichten: Sie lassen sich nicht bearbeiten und ändern nichts. Korrigiert wird im [Plan-Raster: Ihre interaktive Zeit-Matrix](../planen/plan-raster.md) oder durch einen erneuten Lauf.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

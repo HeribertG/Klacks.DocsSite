@@ -39,4 +39,4 @@ Fra "Klargøre scenarie" skal en ansvarlig person være udpeget: Handlingen udf�
 - Den timevise rytme er fast indbygget og kan ikke indstilles via brugerfladen; det første forløb starter to minutter efter programstart.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -23,4 +23,4 @@ Alguém falta, e o turno começa dentro de poucas horas. O Klacks não acorda a 
 - Quem não tem número de telefone na conta de utilizador nem sequer aparece na lista de chamada. Para o pedido através do serviço de mensagens é ainda necessário um contacto de mensagens associado. As ausências da disponibilidade de chamada são geridas diretamente na mesma lista: de–até, com motivo opcional, e de forma permanente se desejado.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

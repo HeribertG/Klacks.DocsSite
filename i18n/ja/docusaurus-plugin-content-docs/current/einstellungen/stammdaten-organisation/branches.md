@@ -22,4 +22,4 @@ sidebar_position: 1
 - アシスタントのKlacksyも、音声コマンド（「支店を作成して...」など）で支店を作成・削除できます。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

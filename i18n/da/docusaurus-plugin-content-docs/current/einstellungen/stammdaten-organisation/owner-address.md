@@ -24,4 +24,4 @@ Under Indstillinger > Generelt > Sekretariatsadresse angiver du virksomhedens st
 - Hvis landet ændres, nulstilles kantonen automatisk; et allerede valgt kalendervalg bevares kun, hvis det også passer til det nye land — ellers ryddes det ligeledes.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

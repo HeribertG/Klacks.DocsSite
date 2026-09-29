@@ -21,4 +21,4 @@ Personal Access Tokens（個人存取權杖，簡稱 PAT）是長效的 API 金�
 - 建議每個工具使用專屬的權杖，如此一來若懷疑遭到濫用，便可精準撤銷該權杖，而不會中斷其他整合。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -8,7 +8,7 @@ Klacks kan du prøve på ett minutt — og installere på noen minutter. Ingen r
 
 ## Playground: lekeplassen for å bli kjent
 
-Playground er ikke et installasjonsalternativ, men en offentlig Klacks-instans med eksempeldata til uforpliktende utforsking — derav navnet. Den kjører på **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground er ikke et installasjonsalternativ, men en offentlig Klacks-instans med eksempeldata til uforpliktende utforsking — derav navnet. Den kjører på **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Passord:** `P@ssw0rt1`
 - Du har fulle admin-rettigheter — prøv ut alt.

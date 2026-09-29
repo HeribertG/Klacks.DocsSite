@@ -30,4 +30,4 @@ sidebar_position: 6
 - 表格合计行通过对应表格下方的复选框启用；合计行字段的 SUM 标签可单独显示或隐藏。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

@@ -23,4 +23,4 @@ sidebar_position: 2
 - أسرع طريقة لتجربة الجولة هي عبر بيئة التجربة Playground: سجّلوا الدخول، افتحوا Klacksy، وابدأوا الكتابة.
 
 ---
-*جرّبوا مباشرة: [Klacks Playground](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [Klacks Playground](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

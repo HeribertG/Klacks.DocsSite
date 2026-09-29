@@ -22,4 +22,4 @@ Serce codziennej pracy: wydajna macierz czasu, w której wiersze reprezentują p
 ![Siatka grafiku dyżurów w Klacks](/img/app-schedule-de.png)
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

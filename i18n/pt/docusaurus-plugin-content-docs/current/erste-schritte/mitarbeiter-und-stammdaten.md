@@ -29,4 +29,4 @@ A gestão de moradas e pessoas é o coração dos seus dados mestre: colaborador
 - Crie primeiro a estrutura de grupos e associe depois as pessoas — assim, as permissões ao nível do grupo aplicam-se desde o início.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

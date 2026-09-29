@@ -21,4 +21,4 @@ sidebar_position: 3
 - 模块化排班与[自动排班](../planen/auto-planung.md)相辅相成：每个区块都可以单独进行自动排班。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

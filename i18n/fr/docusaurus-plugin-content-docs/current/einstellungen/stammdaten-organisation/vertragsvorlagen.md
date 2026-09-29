@@ -37,4 +37,4 @@ Dans Paramètres > Organisation > Contrats, vous gérez les modèles de contrat 
 - La sélection du calendrier par contrat est facultative — si vous la laissez vide, aucun calendrier spécifique au contrat n'est défini.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

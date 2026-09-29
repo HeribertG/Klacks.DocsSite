@@ -25,4 +25,4 @@ Saman asetussivun alaosassa määritetään värit, joilla suunnittelutaulukko m
 - Nämä värit vaikuttavat ainoastaan suunnittelutaulukon omaan ulkoasuun, eivät muihin käyttöliittymän osiin.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

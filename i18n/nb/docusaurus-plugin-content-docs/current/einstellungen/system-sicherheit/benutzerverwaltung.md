@@ -25,4 +25,4 @@ Under Innstillinger > Brukeradministrasjon administrerer du **innloggingskontoen
 - Det finnes ingen mulighet for admin til å sette passord direkte: Nye kontoer får et automatisk generert passord, og enhver senere endring skjer via e-postlenken «Tilbakestill passord».
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

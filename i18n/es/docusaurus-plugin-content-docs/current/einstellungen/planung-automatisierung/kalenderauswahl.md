@@ -22,4 +22,4 @@ Sus propias selecciones de calendario se crean mediante "+ Añadir selección de
 - Esta página solo agrupa y nombra los conjuntos de reglas de calendario. Las reglas de días festivos en sí (fórmula de cálculo, desplazamiento por día de la semana, etc.) se gestionan por separado — véase "Días festivos y calendario".
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

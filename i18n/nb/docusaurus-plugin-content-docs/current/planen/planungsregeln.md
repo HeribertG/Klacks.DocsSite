@@ -36,4 +36,4 @@ En planleggingsregel knyttes til en **kontrakt**. De definerte grenseverdiene gj
 - «Maks. arbeidsdager» (myk preferanse for blokklengde) og «Maks. påfølgende arbeidsdager» (hard, aldri overskridbar øvre grense) er to ulike regler — ikke forveksle dem.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

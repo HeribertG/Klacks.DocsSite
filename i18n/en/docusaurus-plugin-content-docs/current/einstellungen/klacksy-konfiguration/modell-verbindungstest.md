@@ -21,4 +21,4 @@ Not every language model is suited to Klacksy — it has to reliably return stru
 - This test is specifically designed for function calls needed for actionability, and is independent of the model check in the language settings, which allows a lower context window since it's only for transcription cleanup.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

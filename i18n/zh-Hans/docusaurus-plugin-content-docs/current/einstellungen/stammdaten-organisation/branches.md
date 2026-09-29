@@ -22,4 +22,4 @@ sidebar_position: 1
 - 助手 Klacksy 也可以通过语音指令创建或删除分支机构（例如「创建一个分支机构……」）。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

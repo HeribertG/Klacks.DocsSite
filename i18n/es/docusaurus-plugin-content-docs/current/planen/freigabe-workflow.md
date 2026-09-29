@@ -28,4 +28,4 @@ Cada etapa **bloquea la edición** en consecuencia: lo que está aprobado, ya na
 - Para el cierre contable de un mes existe además el [cierre de periodo](../planen/periodenabschluss.md).
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

@@ -29,4 +29,4 @@ Aturan mana yang diperiksa dan seberapa ketat aturan tersebut berlaku, Anda teta
 - Laporan-laporan ini murni tampilan: tidak dapat diedit dan tidak mengubah apa pun. Koreksi dilakukan di [Kisi Jadwal: Matriks Waktu Interaktif Anda](../planen/plan-raster.md) atau melalui proses ulang.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

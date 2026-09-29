@@ -24,4 +24,4 @@ Kohdassa Asetukset > ERP-vastaanottopisteet määrität, miten ulkoisesta ERP-j�
 - Tämä määritys sijaitsee asetusalueella ja on siten varattu ylläpitäjärooleille.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

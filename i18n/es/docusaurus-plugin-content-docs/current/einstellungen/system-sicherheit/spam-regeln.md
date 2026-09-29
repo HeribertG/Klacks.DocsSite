@@ -19,4 +19,4 @@ En Configuración > Reglas de spam se definen reglas de filtrado con las que los
 - Utilice reglas de dominio de remitente para bloquear organizaciones remitentes no deseadas en su totalidad, en lugar de registrar cada dirección individual como regla de remitente-contiene.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

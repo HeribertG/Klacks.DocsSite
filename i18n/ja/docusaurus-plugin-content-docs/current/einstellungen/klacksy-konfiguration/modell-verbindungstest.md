@@ -21,4 +21,4 @@ sidebar_position: 5
 - このテストは行動能力のための関数呼び出しに特化して設計されており、言語設定にあるモデルチェック(純粋な文字起こしの整形にはより低いコンテキストウィンドウで十分とするもの)とは独立しています。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

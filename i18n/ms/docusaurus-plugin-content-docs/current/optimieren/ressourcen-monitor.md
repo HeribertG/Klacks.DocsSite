@@ -28,4 +28,4 @@ Dengan butang anak panah di kanan atas, anda menukar tahun; melalui pemilihan Ku
 - Bagi kontrak 24/7, garis merah jambu diratakan sepanjang minggu (lebih kurang 0.71 bagi setiap orang dan hari kalendar); bagi kontrak Isnin–Jumaat, ia berada pada 1.0 pada hari bekerja, dan 0 pada hujung minggu.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

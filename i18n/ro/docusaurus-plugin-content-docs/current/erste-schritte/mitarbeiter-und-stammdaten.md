@@ -29,4 +29,4 @@ Administrarea adreselor și persoanelor este elementul central al datelor dumnea
 - Creați mai întâi structura de grupuri și abia apoi atribuiți persoanele — astfel drepturile la nivel de grup se aplică de la bun început.
 
 ---
-*Testați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Testați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

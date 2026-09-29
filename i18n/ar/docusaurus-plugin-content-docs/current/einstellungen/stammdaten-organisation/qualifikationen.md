@@ -30,4 +30,4 @@ sidebar_position: 5
 - لا يظهر حقل الفئة إلا مع النوع "عمل" — مؤهلات اللغة ليس لها فئة.
 
 ---
-*جرّبوا مباشرة: [ساحة تجارب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يومياً.*
+*جرّبوا مباشرة: [ساحة تجارب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يومياً.*

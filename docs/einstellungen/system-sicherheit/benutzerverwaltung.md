@@ -25,4 +25,4 @@ Unter Einstellungen > Benutzerverwaltung verwalten Sie die **Login-Konten** (Sys
 - Ein direktes Passwort-Setzen durch den Admin gibt es nicht: Neue Konten erhalten ein automatisch generiertes Passwort, jede spätere Änderung läuft über den E-Mail-Link "Passwort zurücksetzen".
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

@@ -22,4 +22,4 @@ O coração do trabalho diário: uma matriz de tempo poderosa, em que as linhas 
 ![Grelha do plano de serviço Klacks](/img/app-schedule-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

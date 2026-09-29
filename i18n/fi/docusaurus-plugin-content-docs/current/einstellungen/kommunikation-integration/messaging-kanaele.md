@@ -35,4 +35,4 @@ Kohdassa Asetukset > Viestintäpalveluntarjoajat liität ulkoisia chat- ja tekst
 - Kaikilla kanavilla, joilla on määräaikainen käyttöoikeustunnus (esim. KakaoTalk, Zalo), tunnus on uusittava Klacksin ulkopuolella tarjoajan luona ja lisättävä Klacksiin, muuten lähetys tämän kanavan kautta keskeytyy.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

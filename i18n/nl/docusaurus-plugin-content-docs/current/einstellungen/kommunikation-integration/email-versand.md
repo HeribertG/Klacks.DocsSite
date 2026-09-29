@@ -22,4 +22,4 @@ Onder Instellingen > E-mailinstellingen legt u de SMTP-server vast waarmee Klack
 - Mislukt de verbindingstest, dan meldt Klacks de concrete reden (bijv. authenticatiefout, SSL-handshakefout, time-out) in plaats van een generieke foutmelding.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

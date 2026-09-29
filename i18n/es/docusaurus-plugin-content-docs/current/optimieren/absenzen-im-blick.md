@@ -22,4 +22,4 @@ Vacaciones, enfermedad, formación continua, servicio militar — quién falta y
 ![Vista de línea temporal en Klacks](/img/app-timeline-de.png)
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

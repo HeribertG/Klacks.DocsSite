@@ -20,4 +20,4 @@ Administrator dikecualikan dari batasan ini: tombolnya dinonaktifkan untuk merek
 - Pengaturan ini mengontrol **visibilitas** data, bukan **hak akses** dasar suatu peran — peran/hak akses dikelola secara terpisah dari ini.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

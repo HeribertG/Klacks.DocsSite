@@ -25,4 +25,4 @@ Klacks는 로그인 계정에 대해 정확히 두 가지 할당 가능한 권�
 - 로그인 계정이 반드시 직원 기준 데이터 카드와 연결되어 있을 필요는 없습니다 — 사용자 관리와 인물 관리는 서로 분리된 영역입니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

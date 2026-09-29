@@ -41,4 +41,4 @@ V nastavení Nastavení > Compliance a pravidla příplatků (expertní režim) 
 - Plánovací pravidlo s vlastními stupni přesčasů zcela přepisuje tyto celofiremní hodnoty, nejen jednotlivé stupně.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

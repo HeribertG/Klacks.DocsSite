@@ -21,4 +21,4 @@ sidebar_position: 5
 - 這項測試專門針對支援行動能力的函式呼叫而設計，與語音設定中的模型檢測相互獨立 — 後者對於純粹的轉錄文字清理，允許使用較小的上下文視窗。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

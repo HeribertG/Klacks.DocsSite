@@ -28,4 +28,4 @@ sidebar_position: 3
 - בחוזה 24/7 הקו הוורוד מוחלק על פני השבוע (כ-0.71 לאדם ליום קלנדרי); בחוזה שני-שישי הוא עומד על 1.0 בימי חול ועל 0 בסוף השבוע.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

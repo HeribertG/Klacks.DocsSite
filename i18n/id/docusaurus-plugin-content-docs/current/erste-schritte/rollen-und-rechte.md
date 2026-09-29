@@ -25,4 +25,4 @@ Dalam keseharian, biasanya akun Supervisor yang melakukan pekerjaan perencanaan 
 - Sebuah akun login tidak harus terhubung dengan kartu data induk karyawan — manajemen pengguna dan manajemen orang adalah dua area yang terpisah.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

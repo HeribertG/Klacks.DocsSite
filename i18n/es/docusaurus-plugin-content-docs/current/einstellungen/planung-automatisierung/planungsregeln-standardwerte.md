@@ -23,4 +23,4 @@ La página agrupa varios conjuntos de valores predeterminados:
 - Los comandos de planificación están ocultos de forma predeterminada en el plan de turnos y se pueden mostrar mediante un icono propio en la barra de herramientas.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

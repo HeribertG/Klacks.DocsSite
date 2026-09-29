@@ -24,9 +24,9 @@ Klacks handles every kind of shift and deployment scheduling — from regular, s
 
 ## What this means in practice
 
-- Klacks is always, and for everyone, completely free — no registration, no sales conversation. The [Playground](https://klacks-software.ch:7643) is simply one way to get a no-obligation feel for it and become familiar with how it works.
+- Klacks is always, and for everyone, completely free — no registration, no sales conversation. The [Playground](https://play.klacks-software.ch) is simply one way to get a no-obligation feel for it and become familiar with how it works.
 - You can run it on your own server with an on-premise package (Docker images, installer, database, HTTPS, automatic updates).
 - You can inspect the source code and make changes yourself — Klacks remains yours, even as you keep developing it.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

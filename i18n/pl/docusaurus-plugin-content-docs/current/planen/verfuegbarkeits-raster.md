@@ -25,4 +25,4 @@ Zamiast zgadywać, kto kiedy jest gotowy do pracy, zapisujesz to: w siatce dost�
 ![Siatka dostępności w Klacks](/img/app-availability-de.png)
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

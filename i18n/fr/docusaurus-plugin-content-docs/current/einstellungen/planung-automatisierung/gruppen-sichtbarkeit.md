@@ -20,4 +20,4 @@ Les administrateurs ne sont pas soumis à cette restriction : pour eux, le bouto
 - Ce paramètre contrôle la **visibilité** des données, et non les **droits** fondamentaux d'un rôle — les rôles et droits sont gérés indépendamment.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

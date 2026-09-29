@@ -25,4 +25,4 @@ Lenger nede på samme innstillingsside angir du fargene som planrutenettet bruke
 - Disse fargene påvirker utelukkende visningen av selve planrutenettet, ikke andre deler av grensesnittet.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

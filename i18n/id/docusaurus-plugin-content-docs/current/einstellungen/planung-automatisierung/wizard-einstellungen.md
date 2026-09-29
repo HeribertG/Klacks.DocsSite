@@ -20,4 +20,4 @@ Pemrosesan gambar di sini bukan hal sepele, melainkan sebuah prasyarat: menurut 
 - Tombol periksa hanyalah sebuah pengujian mandiri (keterjangkauan + pemahaman gambar + waktu respons) dan pada dasarnya tidak mengubah data perencanaan apa pun.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

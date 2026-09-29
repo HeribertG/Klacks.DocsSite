@@ -35,4 +35,4 @@ sidebar_position: 6
 - 对于所有使用限时访问令牌的渠道（例如 KakaoTalk、Zalo），必须在 Klacks 之外向服务商续期该令牌，并在 Klacks 中补录，否则该渠道的发送功能会中断。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

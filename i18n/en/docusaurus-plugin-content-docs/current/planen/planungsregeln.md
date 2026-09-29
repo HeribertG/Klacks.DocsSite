@@ -36,4 +36,4 @@ A scheduling rule is assigned to a **contract**. The limits it defines then appl
 - "Max. working days" (a soft preference for block length) and "Max. consecutive working days" (a hard limit that's never exceeded) are two different rules — don't confuse them.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

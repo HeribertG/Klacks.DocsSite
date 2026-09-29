@@ -21,4 +21,4 @@ Niet elk taalmodel is geschikt voor Klacksy — het moet betrouwbaar gestructure
 - Deze test is specifiek gericht op functieaanroepen voor handelingsbekwaamheid en staat los van de modelcontrole bij de taalinstellingen, die een lager contextvenster voor pure transcriptie-opschoning laat volstaan.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

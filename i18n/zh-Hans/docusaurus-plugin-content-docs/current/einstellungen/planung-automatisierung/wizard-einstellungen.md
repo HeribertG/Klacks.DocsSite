@@ -20,4 +20,4 @@ sidebar_position: 3
 - 检查按钮只是一个纯粹的自检功能（可达性 + 图像理解能力 + 响应时间），本身不会改变任何排班数据。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

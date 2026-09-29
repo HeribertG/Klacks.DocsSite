@@ -25,4 +25,4 @@ Más abajo, en la misma página de configuración, se definen los colores con lo
 - Estos colores afectan exclusivamente a la representación de la propia cuadrícula del plan, no a otras áreas de la interfaz.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

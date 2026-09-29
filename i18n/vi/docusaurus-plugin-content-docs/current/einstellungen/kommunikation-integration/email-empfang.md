@@ -22,4 +22,4 @@ Trong mục Cài đặt > Cài đặt IMAP, bạn lưu một hộp thư mà Klac
 - Các tin nhắn trong hộp thư đến có thể được dịch trực tiếp nếu DeepL đã được cấu hình (xem trang riêng).
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

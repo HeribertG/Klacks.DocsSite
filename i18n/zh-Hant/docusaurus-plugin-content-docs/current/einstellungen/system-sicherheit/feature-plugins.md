@@ -19,4 +19,4 @@ sidebar_position: 5
 - 有些外掛會自帶專屬的設定卡片（例如通訊服務提供者設定）— 這些卡片只有在安裝完成後，才會出現在設定頁面的其他位置。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

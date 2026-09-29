@@ -23,4 +23,4 @@ Klacks가 처음이신가요? 아무것도 찾아볼 필요 없습니다. 내장
 - 투어를 가장 빠르게 체험하는 방법은 Playground입니다. 로그인하고, Klacksy를 열고, 바로 입력을 시작하세요.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

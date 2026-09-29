@@ -24,4 +24,4 @@ sidebar_position: 4
 - 津贴比例应理解为百分比/倍数，而非绝对金额。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

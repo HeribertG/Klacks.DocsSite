@@ -20,4 +20,4 @@ Trong mục Cài đặt > DeepL, bạn lưu một khóa API DeepL để Klacks c
 - Khóa được lưu trữ ở dạng mã hóa và được hiển thị ẩn đi trong biểu mẫu.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

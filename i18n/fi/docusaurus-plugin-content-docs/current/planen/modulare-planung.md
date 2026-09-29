@@ -21,4 +21,4 @@ Tempun taustalla on tämä: suunnitelmalehdet säilyttävät **viittauksia, ei k
 - Modulaarinen suunnittelu ja [Automaattisuunnittelu: yksi klikkaus, loput hoituvat taustalla](../planen/auto-planung.md) täydentävät toisiaan: jokainen osa-alue voidaan suunnitella automaattisesti erikseen.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

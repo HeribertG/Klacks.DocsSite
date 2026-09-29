@@ -23,4 +23,4 @@ Seseorang tidak dapat hadir, dan Syif bermula dalam beberapa jam sahaja. Klacks 
 - Sesiapa yang tiada nombor telefon dalam akaun pengguna langsung tidak muncul dalam Senarai Panggilan. Untuk permintaan melalui Messenger, satu kenalan Messenger yang dipautkan turut diperlukan. Ketidakhadiran kesediaan panggilan diselenggara terus dalam senarai yang sama: dari–hingga, dengan sebab pilihan, dan kekal jika dikehendaki.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -13,7 +13,7 @@ This wiki explains how Klacks works, in bite-sized pieces. Each page takes just 
 
 | | |
 |---|---|
-| 🎮 **Try it out** | [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1` (public test instance, data resets daily) |
+| 🎮 **Try it out** | [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1` (public test instance, data resets daily) |
 | 📦 **Install** | [Download the On-Premise package](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — one command and Klacks is up and running |
 | 💬 **Questions & community** | [Klacks community on Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |

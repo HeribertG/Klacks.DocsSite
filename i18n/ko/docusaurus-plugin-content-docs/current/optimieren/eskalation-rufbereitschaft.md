@@ -23,4 +23,4 @@ sidebar_position: 8
 - 사용자 계정에 전화번호가 없으면 애초에 호출 목록에 나타나지 않습니다. 메신저를 통한 요청을 받으려면 추가로 연동된 메신저 연락처가 필요합니다. 당직자의 결근은 같은 목록에서 직접 관리합니다: 시작일–종료일, 선택적 사유와 함께, 원하는 경우 영구적으로도 설정할 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

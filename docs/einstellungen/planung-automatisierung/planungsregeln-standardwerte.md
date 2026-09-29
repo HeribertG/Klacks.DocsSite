@@ -23,4 +23,4 @@ Die Seite bündelt mehrere Gruppen von Vorbelegungen:
 - Die Planungsbefehle sind im Dienstplan standardmässig ausgeblendet und lassen sich über ein eigenes Symbol in der Toolbar einblenden.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

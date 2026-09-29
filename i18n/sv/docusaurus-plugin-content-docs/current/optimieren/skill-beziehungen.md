@@ -32,4 +32,4 @@ Klacksy observerar i bakgrunden vilka Skills som ofta används tillsammans eller
 - Tumregel: Det är vanligtvis bara *inlärda* relationer med hög konfidens som är värda att godkänna. Härledda kandidater med lite stöd bör du hellre förkasta tills mer användningsdata finns tillgänglig.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

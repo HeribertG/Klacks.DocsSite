@@ -26,4 +26,4 @@ sidebar_position: 1
 ![ツアー計画のタイムラインビュー](/img/app-timeline-de.png)
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

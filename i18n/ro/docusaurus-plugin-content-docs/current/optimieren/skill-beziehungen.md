@@ -32,4 +32,4 @@ Klacksy observă în fundal ce skill-uri sunt folosite frecvent împreună sau u
 - Regulă practică: de obicei merită acceptate doar relațiile *învățate*, cu încredere ridicată. Candidații deduși cu suport redus e mai bine să fie respinși, până când sunt disponibile mai multe date de utilizare.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

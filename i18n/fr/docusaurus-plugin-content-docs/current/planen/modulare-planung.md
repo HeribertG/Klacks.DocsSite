@@ -21,4 +21,4 @@ L'astuce : les feuilles de plan contiennent des **références, pas des copies**
 - La planification modulaire et la [Planification automatique : un clic, le reste tourne en arrière-plan](../planen/auto-planung.md) se complètent : chaque secteur peut être planifié automatiquement de façon indépendante.
 
 ---
-*À tester directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À tester directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

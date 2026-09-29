@@ -25,4 +25,4 @@ Dalam urusan harian, biasanya akaun Supervisor yang menjalankan kerja perancanga
 - Akaun log masuk tidak semestinya perlu dikaitkan dengan kad Data Induk pekerja — Pengurusan Pengguna dan pengurusan orang adalah kawasan yang berasingan.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

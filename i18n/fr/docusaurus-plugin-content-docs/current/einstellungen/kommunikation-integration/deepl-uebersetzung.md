@@ -20,4 +20,4 @@ Dans Paramètres > DeepL, vous enregistrez une clé API DeepL permettant à Klac
 - La clé est stockée chiffrée et masquée dans le formulaire.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -25,4 +25,4 @@ Di Pengaturan > Manajemen Pengguna, Anda mengelola **akun login** (pengguna sist
 - Tidak ada penetapan kata sandi secara langsung oleh admin: akun baru menerima kata sandi yang dibuat secara otomatis, dan setiap perubahan berikutnya dilakukan melalui tautan email "Reset Kata Sandi".
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -39,4 +39,4 @@ Od poziomu „Przygotuj scenariusz" musi być wskazana osoba odpowiedzialna: akc
 - Godzinny rytm jest wbudowany na stałe i nie da się go ustawić przez interfejs; pierwszy przebieg startuje dwie minuty po uruchomieniu programu.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

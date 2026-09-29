@@ -24,9 +24,9 @@ Klacks avbildar varje typ av skift- och insatsplanering — från regelbundna, e
 
 ## Vad det innebär i praktiken
 
-- Klacks är alltid och för alla helt kostnadsfritt — ingen registrering, inget säljsamtal. [Playground](https://klacks-software.ch:7643) är bara ett sätt att kika in förutsättningslöst och bekanta sig med hanteringen.
+- Klacks är alltid och för alla helt kostnadsfritt — ingen registrering, inget säljsamtal. [Playground](https://play.klacks-software.ch) är bara ett sätt att kika in förutsättningslöst och bekanta sig med hanteringen.
 - Du kan driva det med ett on-premise-paket (Docker-images, installationsprogram, databas, HTTPS, automatiska uppdateringar) på din egen server.
 - Du kan granska källkoden och själv göra ändringar — Klacks förblir ditt, även när du vidareutvecklar det.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

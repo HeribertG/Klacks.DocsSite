@@ -21,4 +21,4 @@ Klacks hỗ trợ cố định bốn ngôn ngữ cốt lõi trong frontend — �
 - Mức độ bao phủ của một plugin ngôn ngữ có thể dưới 100% nếu các tính năng mới được thêm vào trước khi bản dịch được cập nhật theo; các văn bản còn thiếu khi đó sẽ chuyển về tiếng Anh, ngôn ngữ dự phòng kỹ thuật cho tất cả các ngôn ngữ plugin.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -30,4 +30,4 @@ Pour chaque règle, vous saisissez en outre un nom et une description (multiling
 ![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

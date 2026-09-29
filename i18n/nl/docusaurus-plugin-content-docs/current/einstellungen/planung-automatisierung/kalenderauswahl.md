@@ -22,4 +22,4 @@ Eigen kalenderselecties maakt u aan via „+ Kalenderselectie toevoegen" — bij
 - Deze pagina bundelt en benoemt alleen kalenderregelsets. De feestdagenregels zelf (berekeningsformule, verschuiving van weekdagen enz.) worden apart beheerd — zie „Feestdagen & kalender".
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

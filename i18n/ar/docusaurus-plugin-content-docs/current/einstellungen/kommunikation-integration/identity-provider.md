@@ -23,4 +23,4 @@ sidebar_position: 4
 - يمنع معرّف خارجي من الدليل (LDAP ObjectGUID أو، بديلًا عن ذلك، الاسم المميَّز Distinguished Name) الازدواجية: إذا عُثر على نفس المعرّف عند مزامنة لاحقة، يُحدَّث الشخص الموجود بدلًا من إنشاء سجل جديد.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

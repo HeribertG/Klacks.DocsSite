@@ -30,4 +30,4 @@ Onder Instellingen > Organisatie > Kwalificaties beheert u de catalogus van alle
 - Het categorieveld verschijnt alleen bij het type "Werk" — taalkwalificaties hebben geen categorie.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

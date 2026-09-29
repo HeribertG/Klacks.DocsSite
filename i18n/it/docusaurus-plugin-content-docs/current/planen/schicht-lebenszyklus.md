@@ -46,4 +46,4 @@ Come i turni pianificabili vengano poi coperti è descritto in [Pianificazione a
 - **I turni sporadici e quelli a fascia oraria non vengono conteggiati.** Entrambi non compaiono deliberatamente nella barra dei servizi del [monitor delle risorse](../optimieren/ressourcen-monitor.md), perché non rappresentano un fabbisogno giornaliero fisso.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

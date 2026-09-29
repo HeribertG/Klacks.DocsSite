@@ -13,7 +13,7 @@ slug: /
 
 | | |
 |---|---|
-| 🎮 **체험하기** | [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1` (공개 테스트 인스턴스, 데이터는 매일 초기화됩니다) |
+| 🎮 **체험하기** | [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1` (공개 테스트 인스턴스, 데이터는 매일 초기화됩니다) |
 | 📦 **설치하기** | [온프레미스 패키지 다운로드](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — 명령어 한 줄이면 Klacks가 실행됩니다 |
 | 💬 **질문 및 교류** | [Discord의 Klacks 커뮤니티](https://discord.gg/YRP8p2abVC) |
 | 🌐 **웹사이트** | [klacks-software.ch](https://klacks-software.ch) |

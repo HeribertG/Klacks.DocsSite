@@ -21,4 +21,4 @@ Personal Access Tokens (PAT) to długożyjące klucze API, dzięki którym zewn�
 - Dla każdego narzędzia należy używać osobnego tokenu, aby w razie podejrzenia nadużycia można było odwołać go celowo, bez przerywania innych integracji.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

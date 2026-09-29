@@ -37,4 +37,4 @@ sidebar_position: 6
 - בחירת לוח השנה לכל חוזה היא אופציונלית — אם תשאירו אותה ריקה, לא ייקבע לוח שנה ספציפי לחוזה.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

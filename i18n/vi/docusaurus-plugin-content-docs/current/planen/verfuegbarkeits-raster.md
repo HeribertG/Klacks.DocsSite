@@ -25,4 +25,4 @@ Thay vì phải đoán ai sẵn sàng làm việc khi nào, bạn ghi nhận đi
 ![Klacks Verfügbarkeits-Raster](/img/app-availability-de.png)
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -26,4 +26,4 @@ Zijn er voor een inzet vaste tijdvensters vastgelegd (bijv. alleen 's ochtends),
 ![Tijdlijnweergave voor de routeplanning](/img/app-timeline-de.png)
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

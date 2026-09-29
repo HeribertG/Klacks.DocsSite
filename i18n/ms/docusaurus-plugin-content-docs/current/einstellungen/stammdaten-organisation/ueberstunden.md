@@ -41,4 +41,4 @@ Di bawah Tetapan > Kepatuhan & Peraturan Elaun Tambahan (Mod Pakar) > Kerja Lebi
 - Satu Peraturan Perancangan dengan Tahap Kerja Lebih Masa tersendiri menggantikan nilai peringkat syarikat ini sepenuhnya, bukan hanya Tahap tertentu.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

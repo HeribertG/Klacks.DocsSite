@@ -29,4 +29,4 @@ sidebar_position: 3
 - 建議先建立好群組結構，再將人員分配進去 — 這樣群組層級的權限從一開始就能生效。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

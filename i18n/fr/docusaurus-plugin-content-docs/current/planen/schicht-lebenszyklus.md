@@ -46,4 +46,4 @@ La manière dont les services planifiables sont ensuite pourvus est décrite dan
 - **Les services sporadiques et les services à plage horaire ne sont pas comptabilisés.** Ni les uns ni les autres n'apparaissent délibérément dans la barre des services du [moniteur de ressources](../optimieren/ressourcen-monitor.md), car ils ne représentent pas un besoin quotidien fixe.
 
 ---
-*À tester directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À tester directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

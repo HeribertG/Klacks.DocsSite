@@ -39,4 +39,4 @@ From "Prepare a scenario" upwards, an accountable person must be named: the acti
 - The hourly rhythm is built in and not adjustable from the user interface; the first pass starts two minutes after the program launches.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

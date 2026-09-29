@@ -21,4 +21,4 @@ Tous les modèles de langage ne conviennent pas à Klacksy — il doit fournir d
 - Ce test est spécifiquement conçu pour les appels de fonction liés à la capacité d'action, et il est indépendant du test de modèle des paramètres vocaux, qui se contente d'une fenêtre de contexte plus faible pour le simple nettoyage de transcription.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

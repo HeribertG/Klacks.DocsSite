@@ -26,4 +26,4 @@ sidebar_position: 1
 ![用於巡迴規劃的時間軸檢視](/img/app-timeline-de.png)
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

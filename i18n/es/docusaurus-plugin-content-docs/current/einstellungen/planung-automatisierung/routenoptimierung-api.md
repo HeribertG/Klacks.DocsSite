@@ -18,4 +18,4 @@ OpenRouteService calcula tiempos de viaje y distancias — para desplazamientos 
 - Para la mera conversión de direcciones en coordenadas (geocodificación), Klacks utiliza otro servicio independiente — esta clave es responsable exclusivamente del cálculo de rutas.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

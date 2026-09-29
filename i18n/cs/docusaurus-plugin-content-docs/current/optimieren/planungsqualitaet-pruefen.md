@@ -29,4 +29,4 @@ Která pravidla se kontrolují a jak přísně platí, stanovíte v [Plánovací
 - Přehledy jsou čistě zobrazovací: nelze je upravovat a nic nemění. Opravuje se v [Plánovací mřížka: vaše interaktivní časová matice](../planen/plan-raster.md) nebo novým během.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

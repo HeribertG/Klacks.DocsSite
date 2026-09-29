@@ -46,4 +46,4 @@ Jak dyżury planowalne są następnie obsadzane, opisują [Planowanie automatycz
 - **Dyżury sporadyczne i dyżury w ramach czasowych nie są wliczane.** Oba celowo nie pojawiają się na pasku dyżurów w [Monitorze zasobów](../optimieren/ressourcen-monitor.md), ponieważ nie odwzorowują stałego dziennego zapotrzebowania.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

@@ -30,4 +30,4 @@ Szczególna cecha: **model językowy wybierają Państwo sami.** Obsługiwani s�
 ![Klacksy jako panel w Klacks](/img/app-klacksy-de.png)
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

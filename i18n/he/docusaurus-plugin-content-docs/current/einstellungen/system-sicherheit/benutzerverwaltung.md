@@ -25,4 +25,4 @@ sidebar_position: 1
 - אין הגדרת סיסמה ישירה על ידי המנהל: חשבונות חדשים מקבלים סיסמה שנוצרת אוטומטית, וכל שינוי מאוחר יותר מתבצע דרך קישור הדוא"ל "איפוס סיסמה".
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

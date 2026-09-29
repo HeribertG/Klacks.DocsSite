@@ -39,4 +39,4 @@ Fra og med «Klargjøre scenario» må en ansvarlig person være utpekt: Handlin
 - Den timelige rytmen er fast innebygd og ikke justerbar via grensesnittet; den første kjøringen starter to minutter etter programstart.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

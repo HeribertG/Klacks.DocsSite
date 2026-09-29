@@ -28,4 +28,4 @@ sidebar_position: 3
 - 24時間365日体制の契約の場合、ピンクの線は週全体で平準化されます(1人・暦日あたり約0.71)。月〜金の契約の場合、平日は1.0、週末は0になります。
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

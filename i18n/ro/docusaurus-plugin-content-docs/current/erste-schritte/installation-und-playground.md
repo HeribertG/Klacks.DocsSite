@@ -8,7 +8,7 @@ Klacks poate fi testat într-un minut — și instalat în câteva minute. Făr�
 
 ## Playground: locul de joacă pentru a-l cunoaște
 
-Playground-ul nu este o variantă de instalare, ci o instanță publică Klacks cu date de exemplu, pentru a experimenta fără nicio obligație — de aici și numele. Rulează la adresa **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground-ul nu este o variantă de instalare, ci o instanță publică Klacks cu date de exemplu, pentru a experimenta fără nicio obligație — de aici și numele. Rulează la adresa **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Autentificare:** `admin@test.com` · **Parolă:** `P@ssw0rt1`
 - Aveți drepturi complete de administrator — testați tot ce doriți.

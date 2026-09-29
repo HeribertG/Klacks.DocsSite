@@ -32,4 +32,4 @@ A **confiança** (0–100%) mostra o quão seguro o Klacksy está de uma relaç�
 - Regra prática: normalmente só compensa adotar relações *aprendidas* com elevada confiança. Candidatas derivadas com pouco suporte é melhor rejeitá-las até haver mais dados de utilização disponíveis.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

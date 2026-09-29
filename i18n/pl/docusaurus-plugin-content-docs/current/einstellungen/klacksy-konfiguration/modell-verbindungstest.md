@@ -21,4 +21,4 @@ Nie każdy model językowy nadaje się dla Klacksy — musi on niezawodnie zwrac
 - Ten test jest specjalnie zaprojektowany pod kątem wywołań funkcji potrzebnych do zdolności działania i jest niezależny od sprawdzenia modelu w ustawieniach mowy, które dopuszcza mniejsze okno kontekstu wystarczające jedynie do czyszczenia transkrypcji.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

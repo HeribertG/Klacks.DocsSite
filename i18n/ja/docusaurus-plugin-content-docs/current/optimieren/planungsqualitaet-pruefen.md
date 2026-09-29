@@ -29,4 +29,4 @@ sidebar_position: 7
 - レポートは純粋な閲覧専用です: 編集はできず、何かを変更することもありません。修正は[プラン・グリッド: あなたの対話型タイム・マトリックス](../planen/plan-raster.md)で行うか、再実行によって行います。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

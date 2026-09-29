@@ -18,4 +18,4 @@ OpenRouteService คำนวณเวลาเดินทางและระ
 - สำหรับการแปลงที่อยู่เป็นพิกัด (Geocoding) เพียงอย่างเดียว Klacks ใช้บริการอื่นแยกต่างหาก — Key นี้ใช้สำหรับการคำนวณเส้นทางเท่านั้น
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

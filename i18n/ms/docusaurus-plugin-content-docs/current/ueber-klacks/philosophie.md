@@ -24,9 +24,9 @@ Klacks menggambarkan setiap jenis perancangan syif dan tugasan — daripada Tuga
 
 ## Apa Ertinya Secara Praktikal
 
-- Klacks sentiasa dan untuk semua orang sepenuhnya percuma — tiada pendaftaran, tiada perbualan jualan. [Playground](https://klacks-software.ch:7643) hanyalah satu cara untuk menjengah tanpa sebarang komitmen dan membiasakan diri dengan cara penggunaannya.
+- Klacks sentiasa dan untuk semua orang sepenuhnya percuma — tiada pendaftaran, tiada perbualan jualan. [Playground](https://play.klacks-software.ch) hanyalah satu cara untuk menjengah tanpa sebarang komitmen dan membiasakan diri dengan cara penggunaannya.
 - Anda boleh menjalankannya dengan pakej On-Premise (imej Docker, pemasang, pangkalan data, HTTPS, kemas kini automatik) pada pelayan anda sendiri.
 - Anda boleh menyemak kod sumber dan membuat perubahan sendiri — Klacks kekal milik anda, walaupun anda membangunkannya lebih lanjut.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

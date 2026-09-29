@@ -29,4 +29,4 @@ Onder Instellingen > Updates ziet u de momenteel geïnstalleerde en de nieuwste 
 - Update en rollback zijn acties die alleen voor admins beschikbaar zijn.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

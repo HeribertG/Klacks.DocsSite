@@ -24,9 +24,9 @@ Klacks kuvaa kaikenlaista vuoro- ja käyntisuunnittelua — säännöllisistä, 
 
 ## Mitä tämä tarkoittaa käytännössä
 
-- Klacks on aina ja kaikille täysin maksuton — ei rekisteröitymistä, ei myyntipuheita. [Playground](https://klacks-software.ch:7643) on vain yksi tapa tutustua siihen sitoumuksetta ja opetella käyttöä.
+- Klacks on aina ja kaikille täysin maksuton — ei rekisteröitymistä, ei myyntipuheita. [Playground](https://play.klacks-software.ch) on vain yksi tapa tutustua siihen sitoumuksetta ja opetella käyttöä.
 - Voit ajaa sitä On-Premise-paketilla (Docker-imaget, asennusohjelma, tietokanta, HTTPS, automaattiset päivitykset) omalla palvelimellasi.
 - Voit tarkastella lähdekoodia ja tehdä siihen itse muutoksia — Klacks pysyy sinun omanasi, vaikka kehittäisit sitä eteenpäin.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

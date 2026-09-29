@@ -25,4 +25,4 @@ sidebar_position: 1
 - Nu există o setare directă a parolei de către admin: conturile noi primesc o parolă generată automat, orice modificare ulterioară se face prin link-ul de e-mail „Resetează parola".
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

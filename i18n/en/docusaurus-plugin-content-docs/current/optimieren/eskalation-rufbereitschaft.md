@@ -23,4 +23,4 @@ Someone drops out and the shift starts in a few hours. Klacks doesn't wake the w
 - Anyone without a phone number in their user account doesn't appear in the call list at all. The messenger request additionally requires a paired messenger contact. On-call absences are managed directly in that same list: from–until, with an optional reason, permanently if you like.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

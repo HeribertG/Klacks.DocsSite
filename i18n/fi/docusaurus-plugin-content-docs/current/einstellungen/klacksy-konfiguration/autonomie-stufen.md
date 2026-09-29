@@ -26,4 +26,4 @@ Kuinka itsenäisesti Klacksy saa toimia ennen kuin hän kysyy lupaa? Kohdassa As
 - Oletuksena taso Autonominen on käytössä — tämä vastaa käytöstä, joka Klacksylla oli jo ennen autonomiatasojen käyttöönottoa.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

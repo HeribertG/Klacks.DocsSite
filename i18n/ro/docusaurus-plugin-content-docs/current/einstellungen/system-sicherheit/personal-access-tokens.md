@@ -21,4 +21,4 @@ Personal Access Tokens (PAT-uri) sunt chei API cu durată lungă de viață, cu 
 - Folosiți câte un token separat pentru fiecare instrument, astfel încât, în caz de suspiciune de abuz, să îl puteți revoca țintit, fără a întrerupe alte integrări.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

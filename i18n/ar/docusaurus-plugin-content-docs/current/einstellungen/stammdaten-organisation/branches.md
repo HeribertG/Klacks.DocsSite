@@ -22,4 +22,4 @@ sidebar_position: 1
 - يمكن أيضاً للمساعد Klacksy إنشاء أو حذف الفروع عبر أمر صوتي ("أنشئ فرعاً ...").
 
 ---
-*جرّبوا مباشرة: [ساحة تجارب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يومياً.*
+*جرّبوا مباشرة: [ساحة تجارب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يومياً.*

@@ -8,7 +8,7 @@ Klacks는 1분 안에 체험해 볼 수 있으며, 설치도 몇 분이면 완�
 
 ## Playground: 편하게 둘러보는 놀이터
 
-Playground는 설치 방식이 아니라, 부담 없이 마음껏 써볼 수 있는 샘플 데이터 기반의 공개 Klacks 인스턴스입니다 — 이름 그대로 '놀이터'인 셈이죠. **[klacks-software.ch](https://klacks-software.ch:7643)** 에서 운영되고 있습니다:
+Playground는 설치 방식이 아니라, 부담 없이 마음껏 써볼 수 있는 샘플 데이터 기반의 공개 Klacks 인스턴스입니다 — 이름 그대로 '놀이터'인 셈이죠. **[klacks-software.ch](https://play.klacks-software.ch)** 에서 운영되고 있습니다:
 
 - **로그인:** `admin@test.com` · **비밀번호:** `P@ssw0rt1`
 - 전체 관리자 권한이 부여되므로 모든 기능을 자유롭게 사용해 보실 수 있습니다.

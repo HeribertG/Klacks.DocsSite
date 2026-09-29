@@ -26,4 +26,4 @@ Spitex 투어, 보안 순찰, 청소 대상 시설, 배송 등 이동이 필요�
 ![투어 계획을 위한 타임라인 화면](/img/app-timeline-de.png)
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

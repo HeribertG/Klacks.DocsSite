@@ -25,4 +25,4 @@ Atribuirea se face printr-un meniu derulant în administrarea utilizatorilor (si
 - Un cont de autentificare nu trebuie neapărat să fie asociat cu o fișă de date de bază a unui angajat — administrarea utilizatorilor și administrarea persoanelor sunt zone separate.
 
 ---
-*Testați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Testați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

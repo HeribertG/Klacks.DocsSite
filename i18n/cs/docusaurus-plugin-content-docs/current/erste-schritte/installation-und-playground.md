@@ -8,7 +8,7 @@ Klacks si vyzkoušíte za minutu — a nainstalujete ho za pár minut. Žádná 
 
 ## Playground: prostor pro seznámení
 
-Playground není varianta instalace, ale veřejná instance Klacks s ukázkovými daty k nezávaznému vyzkoušení — odtud ten název. Běží na adrese **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground není varianta instalace, ale veřejná instance Klacks s ukázkovými daty k nezávaznému vyzkoušení — odtud ten název. Běží na adrese **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Přihlášení:** `admin@test.com` · **Heslo:** `P@ssw0rt1`
 - Máte plná administrátorská práva — vyzkoušejte si vše.

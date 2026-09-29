@@ -39,4 +39,4 @@ Từ mức "Chuẩn bị sẵn kịch bản" trở lên, phải có một ngư�
 - Nhịp hàng giờ được lập trình cố định và không thể điều chỉnh qua giao diện; lượt chạy đầu tiên bắt đầu hai phút sau khi chương trình khởi động.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

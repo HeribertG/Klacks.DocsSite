@@ -23,4 +23,4 @@ Nogen falder fra, og vagten begynder om få timer. Klacks vækker da ikke hele t
 - Den, der ikke har et telefonnummer i brugerkontoen, vises slet ikke i tilkaldelisten. Til forespørgslen via messenger kræves desuden en koblet messenger-kontakt. Fravær for tilkaldevagten vedligeholder du direkte i samme liste: fra–til, med valgfri årsag, om ønsket permanent.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

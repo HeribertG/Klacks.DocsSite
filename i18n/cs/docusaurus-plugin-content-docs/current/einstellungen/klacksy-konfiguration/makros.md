@@ -25,4 +25,4 @@ Příplatky za noční, nedělní a sváteční práci nebo přesný výpočet h
 - `weekday` důsledně dodržuje ISO-8601 (1 = pondělí … 7 = neděle) — u vlastních dotazů `SELECT CASE` pro „víkend" jde o hodnoty 6 (sobota) a 7 (neděle).
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

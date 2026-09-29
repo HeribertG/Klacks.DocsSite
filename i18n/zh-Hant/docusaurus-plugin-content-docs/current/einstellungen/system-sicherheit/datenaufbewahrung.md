@@ -19,4 +19,4 @@ sidebar_position: 3
 - 此設定是隱私權政策中所述刪除期限的技術基礎；它對所有支援軟刪除的資料類型全域生效，無法依模組個別設定。
 
 ---
-*直接體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*直接體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入帳號 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

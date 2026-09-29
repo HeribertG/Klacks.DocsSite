@@ -23,4 +23,4 @@ Sivu kokoaa useita esitäyttöryhmiä:
 - Suunnittelukomennot on oletuksena piilotettu työvuorolistasta, ja ne voi tuoda näkyviin työkalurivin omalla kuvakkeella.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

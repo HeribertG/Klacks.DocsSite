@@ -22,4 +22,4 @@ Ferie, sykdom, videreutdanning, militærtjeneste — hvem som er borte når, ser
 ![Timeline-visning i Klacks](/img/app-timeline-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

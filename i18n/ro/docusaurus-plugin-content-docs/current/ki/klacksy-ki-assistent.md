@@ -30,4 +30,4 @@ Ceea ce este special: **alegeți singur modelul de limbaj.** Sunt acceptați Ope
 ![Klacksy ca panou în Klacks](/img/app-klacksy-de.png)
 
 ---
-*Testați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Testați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

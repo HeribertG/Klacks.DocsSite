@@ -20,4 +20,4 @@ Kohdassa Asetukset > DeepL tallennat DeepL-API-avaimen, jonka avulla Klacks voi 
 - Avain tallennetaan salattuna ja esitetään lomakkeessa peitettynä.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

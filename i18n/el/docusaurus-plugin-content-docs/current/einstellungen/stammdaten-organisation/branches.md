@@ -22,4 +22,4 @@ sidebar_position: 1
 - Ο βοηθός Klacksy μπορεί επίσης να δημιουργεί ή να διαγράφει υποκαταστήματα μέσω φωνητικής εντολής ("δημιούργησε ένα υποκατάστημα ...").
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

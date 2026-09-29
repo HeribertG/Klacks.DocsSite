@@ -28,4 +28,4 @@ Mỗi giai đoạn **khóa việc chỉnh sửa** tương ứng: những gì đ�
 - Đối với việc chốt sổ kế toán hàng tháng, còn có thêm chức năng [Chốt kỳ](../planen/periodenabschluss.md).
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

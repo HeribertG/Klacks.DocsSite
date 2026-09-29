@@ -39,4 +39,4 @@ Tasosta "Valmistele skenaario" alkaen on nimettävä vastuuhenkilö: toiminto su
 - Tunneittainen rytmi on kiinteästi sisäänrakennettu eikä sitä voi säätää käyttöliittymän kautta; ensimmäinen ajo käynnistyy kaksi minuuttia ohjelman käynnistymisen jälkeen.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -21,4 +21,4 @@ O Klacks suporta de forma fixa quatro idiomas centrais no frontend — Alemão, 
 - O grau de cobertura de um plugin de idioma pode ser inferior a 100% se novas funcionalidades tiverem sido adicionadas antes de a tradução ser atualizada; os textos em falta recorrem então ao Inglês, o idioma de recurso técnico para todos os idiomas de plugin.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

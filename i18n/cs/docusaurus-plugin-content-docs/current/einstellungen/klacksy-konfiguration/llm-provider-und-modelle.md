@@ -23,4 +23,4 @@ Klacksy potřebuje jazykový model, aby rozuměl a jednal. V nastavení Nastaven
 - Služba synchronizačního logu běží na pozadí nezávisle na vaší relaci — nemusíte kvůli tomu držet stránku otevřenou.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

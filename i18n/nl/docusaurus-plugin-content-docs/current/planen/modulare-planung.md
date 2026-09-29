@@ -21,4 +21,4 @@ De truc erachter: roosterbladen bevatten **verwijzingen in plaats van kopieën**
 - Modulaire planning en [Auto-planning: één klik, de rest draait op de achtergrond](../planen/auto-planung.md) vullen elkaar aan: elk gebied kan afzonderlijk automatisch worden ingepland.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

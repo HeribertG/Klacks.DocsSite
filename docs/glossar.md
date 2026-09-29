@@ -66,7 +66,7 @@ Die drei Zugriffsstufen. Admin darf alles, Supervisor anlegen und bearbeiten, ei
 Ein vorbereiteter Einstellungssatz für ein Land: Sprache, Zeitzone, Feiertagskalender, Wochenende und Wochenstart, Arbeitszeitgrenzen, Ferienanspruch, Zuschläge, Standard-Lohnexport und Branchenvorlagen. Wird beim Installieren über `REGION` gewählt.
 
 **Playground**
-Die öffentliche Testinstanz unter [klacks-software.ch:7643](https://klacks-software.ch:7643) mit Demodaten — ausdrücklich zum Ausprobieren, ohne echte Personendaten. Siehe [Installation und Playground](./erste-schritte/installation-und-playground).
+Die öffentliche Testinstanz unter [play.klacks-software.ch](https://play.klacks-software.ch) mit Demodaten — ausdrücklich zum Ausprobieren, ohne echte Personendaten. Siehe [Installation und Playground](./erste-schritte/installation-und-playground).
 
 **On-Premise**
 Der Betrieb auf Ihrer eigenen Infrastruktur: Ihre Hardware, Ihre Datenbank, Ihre Daten. Der Gegenbegriff zur gehosteten Variante.

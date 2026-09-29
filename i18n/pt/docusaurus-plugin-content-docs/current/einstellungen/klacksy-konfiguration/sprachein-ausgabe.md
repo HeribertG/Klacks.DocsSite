@@ -25,4 +25,4 @@ O Klacksy também pode ser utilizado por voz — em Definições > Voz do Klacks
 - A verificação de modelo aqui testa exclusivamente a adequação para a limpeza da transcrição (janela de contexto ≥ 16 000 tokens) — para a adequação geral como modelo principal do Klacksy existe um teste próprio e mais rigoroso (ver Teste de ligação de modelo).
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

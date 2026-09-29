@@ -13,7 +13,7 @@ slug: /
 
 | | |
 |---|---|
-| 🎮 **נסו זאת** | [Klacks Playground](https://klacks-software.ch:7643) - התחברות `admin@test.com` / `P@ssw0rt1` (מופע בדיקה ציבורי, הנתונים מתאפסים מדי יום) |
+| 🎮 **נסו זאת** | [Klacks Playground](https://play.klacks-software.ch) - התחברות `admin@test.com` / `P@ssw0rt1` (מופע בדיקה ציבורי, הנתונים מתאפסים מדי יום) |
 | 📦 **התקנה** | [הורדת חבילת On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) - פקודה אחת, ו-Klacks פועלת |
 | 💬 **שאלות ושיח** | [קהילת Klacks ב-Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **אתר** | [klacks-software.ch](https://klacks-software.ch) |

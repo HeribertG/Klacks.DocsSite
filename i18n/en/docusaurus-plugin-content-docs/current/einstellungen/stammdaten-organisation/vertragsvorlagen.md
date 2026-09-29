@@ -37,4 +37,4 @@ Under Settings > Organization > Contracts you manage the freely definable contra
 - The calendar selection per contract is optional — leave it empty and no contract-specific calendar is stored.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

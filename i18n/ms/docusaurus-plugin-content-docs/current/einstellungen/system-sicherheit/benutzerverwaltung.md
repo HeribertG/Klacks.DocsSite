@@ -25,4 +25,4 @@ Di bawah Tetapan > Pengurusan Pengguna, anda mengurus **akaun log masuk** (pengg
 - Tiada penetapan kata laluan terus oleh admin: Akaun baharu menerima kata laluan yang dijana secara automatik, sebarang perubahan seterusnya dilakukan melalui pautan e-mel "Tetapkan Semula Kata Laluan".
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

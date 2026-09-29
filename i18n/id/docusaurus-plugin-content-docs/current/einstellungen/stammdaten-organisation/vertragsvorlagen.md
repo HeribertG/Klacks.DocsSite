@@ -37,4 +37,4 @@ Di Pengaturan > Organisasi > Kontrak, Anda mengelola templat kontrak yang dapat 
 - Pilihan kalender per kontrak bersifat opsional — jika dibiarkan kosong, tidak akan ada kalender khusus kontrak yang disimpan.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

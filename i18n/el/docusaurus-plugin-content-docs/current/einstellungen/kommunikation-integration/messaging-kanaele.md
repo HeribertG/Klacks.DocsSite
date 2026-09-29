@@ -35,4 +35,4 @@ sidebar_position: 6
 - Σε όλα τα κανάλια με χρονικά περιορισμένο token πρόσβασης (π.χ. KakaoTalk, Zalo), αυτό πρέπει να ανανεώνεται εκτός Klacks στον πάροχο και να καταχωρείται εκ νέου στο Klacks, διαφορετικά η αποστολή μέσω αυτού του καναλιού διακόπτεται.
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

@@ -46,4 +46,4 @@ sidebar_position: 8
 - **散発的な勤務と時間枠勤務はカウントされません。** どちらも、固定的な日次の必要人数を表すものではないため、意図的に[リソース・モニター](../optimieren/ressourcen-monitor.md)の勤務バーには表示されません。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

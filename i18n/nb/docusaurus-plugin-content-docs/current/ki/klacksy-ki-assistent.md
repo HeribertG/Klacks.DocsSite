@@ -30,4 +30,4 @@ Det spesielle: **Du velger språkmodellen selv.** OpenAI, Anthropic, Google, Dee
 ![Klacksy som panel i Klacks](/img/app-klacksy-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

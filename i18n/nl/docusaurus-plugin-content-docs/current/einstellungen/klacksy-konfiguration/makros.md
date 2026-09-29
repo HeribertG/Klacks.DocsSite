@@ -25,4 +25,4 @@ Toeslagen voor nacht-, zondags- en feestdagwerk of de exacte urenberekening bij 
 - `weekday` volgt doorgaans ISO-8601 (1 = maandag … 7 = zondag) — bij eigen `SELECT CASE`-controles voor "weekend" zijn dat de waarden 6 (zaterdag) en 7 (zondag).
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

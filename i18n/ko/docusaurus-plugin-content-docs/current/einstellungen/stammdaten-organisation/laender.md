@@ -24,4 +24,4 @@ sidebar_position: 2
 - 이 국가 목록은 사무국 주소의 국가 선택 등에 사용됩니다 — 여기서 선택하려는 국가가 목록에 없으면 먼저 이곳에서 추가해야 합니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

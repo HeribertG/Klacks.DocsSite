@@ -24,4 +24,4 @@ W sekcji Ustawienia > Organizacja > Kraje zarządzasz listą krajów dostępnych
 - Lista krajów zasila między innymi wybór kraju przy adresie sekretariatu — brakujący kraj dodaj najpierw tutaj, zanim zechcesz go tam wybrać.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

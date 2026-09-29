@@ -24,4 +24,4 @@ Tại Cài đặt > Tổ chức > Quốc gia, bạn quản lý danh sách các q
 - Danh sách quốc gia cung cấp dữ liệu cho, trong số những thứ khác, lựa chọn quốc gia tại địa chỉ Văn phòng thư ký — hãy tạo một quốc gia còn thiếu ở đây trước khi muốn chọn nó ở đó.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

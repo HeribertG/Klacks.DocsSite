@@ -21,4 +21,4 @@ Der Trick dahinter: Planblätter halten **Verweise statt Kopien**. Ein Dienst ex
 - Modulare Planung und [Auto-Planung: Ein Klick, der Rest läuft im Hintergrund](../planen/auto-planung.md) ergänzen sich: Jeder Bereich kann für sich automatisch geplant werden.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

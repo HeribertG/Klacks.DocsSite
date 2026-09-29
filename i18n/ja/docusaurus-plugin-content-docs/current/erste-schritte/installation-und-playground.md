@@ -8,7 +8,7 @@ Klacksは1分で試すことができ、数分でインストールできます�
 
 ## Playground: 気軽に試せる遊び場
 
-Playgroundはインストール方法の一つではなく、気軽に触って試せるサンプルデータ入りの公開Klacksインスタンスです — この名前の由来もそこにあります。**[klacks-software.ch](https://klacks-software.ch:7643)**で稼働しています。
+Playgroundはインストール方法の一つではなく、気軽に触って試せるサンプルデータ入りの公開Klacksインスタンスです — この名前の由来もそこにあります。**[klacks-software.ch](https://play.klacks-software.ch)**で稼働しています。
 
 - **ログイン:** `admin@test.com` ・ **パスワード:** `P@ssw0rt1`
 - フル管理者権限を持っているので、何でも試すことができます。

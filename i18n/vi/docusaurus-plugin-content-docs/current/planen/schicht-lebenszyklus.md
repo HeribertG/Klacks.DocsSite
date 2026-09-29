@@ -46,4 +46,4 @@ Cách các dịch vụ có thể lập kế hoạch sau đó được bố trí 
 - **Dịch vụ không thường xuyên và dịch vụ khung thời gian không được tính vào.** Cả hai đều cố ý không xuất hiện trong thanh Ca làm việc của [Giám sát tài nguyên](../optimieren/ressourcen-monitor.md), vì chúng không thể hiện một nhu cầu hàng ngày cố định.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

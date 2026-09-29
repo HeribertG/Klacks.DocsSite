@@ -21,4 +21,4 @@ Klacks mendukung empat bahasa inti secara tetap di frontend — Jerman, Inggris,
 - Tingkat cakupan sebuah plugin bahasa dapat berada di bawah 100% jika fitur baru ditambahkan sebelum terjemahannya menyusul; teks yang hilang kemudian akan kembali ke bahasa Inggris, yang menjadi bahasa fallback teknis untuk semua bahasa plugin.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

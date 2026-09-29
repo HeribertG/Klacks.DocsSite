@@ -25,4 +25,4 @@ Caj tambahan untuk kerja malam, Ahad dan cuti umum, atau pengiraan jam yang tepa
 - `weekday` sentiasa mengikut ISO-8601 (1 = Isnin … 7 = Ahad) — untuk pertanyaan `SELECT CASE` sendiri bagi "hujung minggu", ini adalah nilai 6 (Sabtu) dan 7 (Ahad).
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

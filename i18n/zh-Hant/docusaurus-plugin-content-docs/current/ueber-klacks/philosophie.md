@@ -24,9 +24,9 @@ Klacks 可以應對各種形式的排班與外勤調度 — 從規律、簡單�
 
 ## 這在實務上代表什麼
 
-- Klacks 對任何人、在任何時候都完全免費 — 不需要註冊，也不需要任何銷售洽談。[Playground](https://klacks-software.ch:7643) 只是讓您可以不受拘束地先體驗看看、熟悉操作方式的一種途徑。
+- Klacks 對任何人、在任何時候都完全免費 — 不需要註冊，也不需要任何銷售洽談。[Playground](https://play.klacks-software.ch) 只是讓您可以不受拘束地先體驗看看、熟悉操作方式的一種途徑。
 - 您可以透過 On-Premise 套件（Docker 映像檔、安裝程式、資料庫、HTTPS、自動更新）將它架設在自己的伺服器上運作。
 - 您可以檢視原始碼並自行進行修改 — 即使您對它做了進一步開發，Klacks 依然屬於您。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -24,4 +24,4 @@ sidebar_position: 3
 - Dacă se schimbă țara, cantonul este resetat automat; o selecție de calendar deja aleasă rămâne valabilă doar dacă se potrivește și cu noua țară — altfel este și ea golită.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

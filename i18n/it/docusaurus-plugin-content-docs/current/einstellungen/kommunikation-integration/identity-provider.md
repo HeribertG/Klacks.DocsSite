@@ -23,4 +23,4 @@ In Impostazioni > Identity Provider collegate Klacks a un servizio di directory 
 - Un identificativo esterno proveniente dalla directory (LDAP ObjectGUID oppure, in alternativa, il Distinguished Name) impedisce i duplicati: se in una nuova sincronizzazione viene trovato lo stesso identificativo, la persona esistente viene aggiornata anziché creata di nuovo.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -24,4 +24,4 @@ W sekcji Ustawienia > Czas pracy i planowanie > Podstawowe ustawienia planowania
 - Stawki dodatków należy rozumieć jako procenty/mnożniki, a nie kwoty bezwzględne.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

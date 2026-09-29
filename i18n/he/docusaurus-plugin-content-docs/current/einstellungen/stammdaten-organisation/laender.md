@@ -24,4 +24,4 @@ sidebar_position: 2
 - רשימת המדינות מזינה, בין היתר, את בחירת המדינה בכתובת המזכירות — אם מדינה חסרה, יש ליצור אותה כאן תחילה, לפני שתרצו לבחור אותה שם.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

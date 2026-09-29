@@ -23,4 +23,4 @@ sidebar_position: 1
 - 계획 명령어는 근무표에서 기본적으로 숨겨져 있으며, 툴바의 전용 아이콘을 통해 표시할 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

@@ -22,4 +22,4 @@ Under Innstillinger > Organisasjon > Filialer vedlikeholder du adressene til vir
 - Også assistenten Klacksy kan opprette eller slette filialer via talekommando («opprett en filial ...»).
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

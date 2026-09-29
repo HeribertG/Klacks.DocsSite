@@ -39,4 +39,4 @@ Dal passo «Predisporre uno scenario» in poi deve essere indicata una persona r
 - Il ritmo orario è fisso e non regolabile dall'interfaccia; il primo passaggio parte due minuti dopo l'avvio del programma.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

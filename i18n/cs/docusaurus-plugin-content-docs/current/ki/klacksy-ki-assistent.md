@@ -30,4 +30,4 @@ Zvláštnost: **jazykový model si volíte sami.** Podporováni jsou OpenAI, Ant
 ![Klacksy jako panel v Klacks](/img/app-klacksy-de.png)
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

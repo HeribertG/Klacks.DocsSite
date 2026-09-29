@@ -13,7 +13,7 @@ slug: /
 
 | | |
 |---|---|
-| 🎮 **在线试用** | [Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`（公共测试实例，数据每日自动重置） |
+| 🎮 **在线试用** | [Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`（公共测试实例，数据每日自动重置） |
 | 📦 **安装部署** | [下载本地部署套件](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — 一条命令，Klacks 即刻运行 |
 | 💬 **提问与交流** | [Discord 上的 Klacks 社区](https://discord.gg/YRP8p2abVC) |
 | 🌐 **官方网站** | [klacks-software.ch](https://klacks-software.ch) |

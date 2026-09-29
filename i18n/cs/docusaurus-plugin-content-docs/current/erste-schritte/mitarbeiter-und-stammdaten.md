@@ -29,4 +29,4 @@ Správa adres a osob je jádrem vašich kmenových dat: zaměstnanci, zákazníc
 - Nejprve vytvořte strukturu skupin a teprve poté k nim přiřazujte osoby — tak budou oprávnění na úrovni skupiny fungovat od začátku.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

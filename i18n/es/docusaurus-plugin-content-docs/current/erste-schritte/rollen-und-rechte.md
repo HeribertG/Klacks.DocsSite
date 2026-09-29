@@ -25,4 +25,4 @@ En el día a día, normalmente es una cuenta de Supervisor la que se encarga del
 - Una cuenta de acceso no tiene por qué estar vinculada obligatoriamente a una ficha de datos maestros de empleado — la administración de usuarios y la gestión de personas son áreas separadas.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

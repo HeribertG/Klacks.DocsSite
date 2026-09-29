@@ -30,4 +30,4 @@ Ce qui rend Klacksy unique : **c'est vous qui choisissez le modèle de langage.*
 ![Klacksy en tant que panneau dans Klacks](/img/app-klacksy-de.png)
 
 ---
-*Essayez-le directement : [Playground Klacks](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*Essayez-le directement : [Playground Klacks](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

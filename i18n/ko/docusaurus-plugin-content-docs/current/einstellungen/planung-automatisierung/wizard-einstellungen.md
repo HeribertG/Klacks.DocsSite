@@ -20,4 +20,4 @@ sidebar_position: 3
 - 확인 버튼은 순수한 자체 테스트(연결 가능 여부 + 이미지 판독 능력 + 응답 시간)일 뿐이며, 그 자체로는 계획 데이터를 변경하지 않습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

@@ -21,4 +21,4 @@ Personal Access Tokens (PAT) jsou dlouhodobě platné API klíče, pomocí kter�
 - Pro každý nástroj používejte samostatný token, abyste jej v případě podezření na zneužití mohli cíleně odvolat, aniž byste přerušili ostatní integrace.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

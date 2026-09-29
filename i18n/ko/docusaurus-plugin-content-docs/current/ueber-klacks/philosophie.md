@@ -24,9 +24,9 @@ Klacks는 모든 종류의 교대 및 현장 운영 계획을 다룹니다 — �
 
 ## 실제로 의미하는 것
 
-- Klacks는 언제나 누구에게나 완전히 무료입니다 — 등록도, 영업 상담도 필요 없습니다. [Playground](https://klacks-software.ch:7643)는 그저 부담 없이 살짝 둘러보고 사용법을 익혀볼 수 있는 방법일 뿐입니다.
+- Klacks는 언제나 누구에게나 완전히 무료입니다 — 등록도, 영업 상담도 필요 없습니다. [Playground](https://play.klacks-software.ch)는 그저 부담 없이 살짝 둘러보고 사용법을 익혀볼 수 있는 방법일 뿐입니다.
 - 온프레미스 패키지(Docker 이미지, 설치 프로그램, 데이터베이스, HTTPS, 자동 업데이트)를 통해 자체 서버에서 운영할 수 있습니다.
 - 소스 코드를 열람하고 직접 변경할 수 있습니다 — Klacks를 계속 발전시켜 나가더라도 그것은 여전히 여러분의 것으로 남습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

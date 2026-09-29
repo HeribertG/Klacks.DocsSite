@@ -23,4 +23,4 @@ sidebar_position: 4
 - 来自目录的外部标识（LDAP ObjectGUID，若无则退而使用 Distinguished Name）可防止重复：如果再次同步时找到相同的标识，系统会更新现有人员记录，而不是新建一个。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

@@ -21,4 +21,4 @@ sidebar_position: 5
 - 该测试专门针对支持行动能力的函数调用而设计，与语音设置中的模型检测相互独立 — 后者对于纯粹的转录文本清理，允许使用更小的上下文窗口。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

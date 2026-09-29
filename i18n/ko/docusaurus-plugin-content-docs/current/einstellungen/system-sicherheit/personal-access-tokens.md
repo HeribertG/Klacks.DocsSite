@@ -21,4 +21,4 @@ Personal Access Token(PAT)은 사용자 이름과 비밀번호 없이도 외부 
 - 도구마다 별도의 토큰을 사용하면, 오남용이 의심될 때 다른 통합을 중단시키지 않고도 해당 토큰만 선택적으로 취소할 수 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

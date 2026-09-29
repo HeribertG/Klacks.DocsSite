@@ -22,4 +22,4 @@ Klacks에는 미리 설치된 캘린더 선택이 제공됩니다: 스위스의 
 - 이 페이지는 캘린더 규칙 세트를 묶고 이름을 붙이는 역할만 합니다. 공휴일 규칙 자체(계산 공식, 요일 이동 등)는 별도로 관리됩니다 — "공휴일 & 캘린더" 항목을 참고하세요.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

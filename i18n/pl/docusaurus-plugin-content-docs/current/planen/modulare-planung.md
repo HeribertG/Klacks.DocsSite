@@ -21,4 +21,4 @@ Sztuczka polega na tym, że arkusze planów przechowują **odniesienia, a nie ko
 - Planowanie modułowe i [Planowanie automatyczne: jedno kliknięcie, reszta w tle](../planen/auto-planung.md) uzupełniają się: każdy obszar może być planowany automatycznie osobno.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

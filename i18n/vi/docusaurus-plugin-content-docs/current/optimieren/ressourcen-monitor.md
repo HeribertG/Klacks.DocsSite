@@ -28,4 +28,4 @@ Dùng các nút mũi tên ở góc trên bên phải để chuyển năm; dùng 
 - Với hợp đồng 24/7, đường màu hồng được làm mượt qua cả tuần (khoảng 0,71 mỗi người mỗi ngày lịch); với hợp đồng Thứ Hai–Thứ Sáu, nó ở mức 1,0 vào các ngày làm việc và 0 vào cuối tuần.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

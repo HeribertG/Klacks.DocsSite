@@ -37,4 +37,4 @@ sidebar_position: 6
 - 每份合同的日历选择是可选的 — 如果留空，则不会为该合同设置专属日历。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

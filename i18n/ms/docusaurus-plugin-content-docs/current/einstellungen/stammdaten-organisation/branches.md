@@ -22,4 +22,4 @@ Di bawah Tetapan > Organisasi > Cawangan, anda menyelenggara alamat premis perni
 - Pembantu Klacksy juga boleh membina atau memadam Cawangan melalui arahan suara ("buat satu Cawangan ...").
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

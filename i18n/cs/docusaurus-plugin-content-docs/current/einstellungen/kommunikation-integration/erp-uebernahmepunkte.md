@@ -24,4 +24,4 @@ V nastavení Nastavení > Body přebírání ERP konfigurujete, jak se objednáv
 - Tato konfigurace se nachází v sekci Nastavení, a je tak vyhrazena administrátorským rolím.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

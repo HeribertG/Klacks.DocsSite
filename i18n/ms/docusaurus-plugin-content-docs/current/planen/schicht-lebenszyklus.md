@@ -46,4 +46,4 @@ Cara Tugasan boleh dirancang seterusnya diisi kakitangan diterangkan dalam [Auto
 - **Tugasan sekali-sekala dan Tugasan rangka masa tidak dikira.** Kedua-duanya sengaja tidak muncul dalam bar Tugasan pada [Pemantau Sumber](../optimieren/ressourcen-monitor.md), kerana ia tidak menggambarkan keperluan harian yang tetap.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

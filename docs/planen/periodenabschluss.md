@@ -24,4 +24,4 @@ Die Seite ist in drei Tabs gegliedert: **Perioden**, **Exporte** und **Protokoll
 - Sie erreichen den Periodenabschluss über das Abschluss-Symbol in der linken Navigation.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

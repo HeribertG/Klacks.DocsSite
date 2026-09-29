@@ -24,4 +24,4 @@ Onder Instellingen > Organisatie > Landen beheert u de lijst van landen die in K
 - De landenlijst voedt onder meer de landselectie bij het adres Secretariaat — maak een ontbrekend land hier eerst aan voordat u het daar wilt selecteren.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

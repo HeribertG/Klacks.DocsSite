@@ -24,4 +24,4 @@ sidebar_position: 2
 - 国家列表除其他用途外，还为「秘书处地址」中的国家选择提供数据来源 — 如果某个国家缺失，请先在此处创建，然后才能在那里选择它。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

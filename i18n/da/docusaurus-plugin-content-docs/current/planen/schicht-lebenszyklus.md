@@ -46,4 +46,4 @@ Hvordan de planlægbare vagter derefter besættes, beskriver [Auto-planlægning:
 - **Sporadiske vagter og tidsramme-vagter tæller ikke med.** Begge vises bevidst ikke i vagt-søjlen i [Ressourcemonitoren](../optimieren/ressourcen-monitor.md), fordi de ikke afbilder et fast dagligt behov.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

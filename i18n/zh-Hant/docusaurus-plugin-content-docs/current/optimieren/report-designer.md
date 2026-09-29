@@ -30,4 +30,4 @@ sidebar_position: 6
 - 表格合計列可透過該表格正下方的核取方塊啟用；合計列欄位的 SUM 標籤也可以另外單獨顯示或隱藏。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

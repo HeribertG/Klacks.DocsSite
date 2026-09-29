@@ -24,4 +24,4 @@ Sivu on jaettu kolmeen välilehteen: **Jaksot**, **Viennit** ja **Loki**.
 - Jakson päättämisen löydätte päättämis-kuvakkeesta vasemmasta navigaatiosta.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

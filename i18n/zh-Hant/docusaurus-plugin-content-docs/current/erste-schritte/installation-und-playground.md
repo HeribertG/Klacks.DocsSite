@@ -8,7 +8,7 @@ Klacks 一分鐘內即可試用 — 安裝也只需幾分鐘。不需要註冊�
 
 ## Playground：認識 Klacks 的遊樂場
 
-Playground 並不是一種安裝方式，而是一個附帶範例資料的公開 Klacks 實例，可以隨意試玩、不必拘謹 — 這正是它名稱的由來。它運作於 **[klacks-software.ch](https://klacks-software.ch:7643)**：
+Playground 並不是一種安裝方式，而是一個附帶範例資料的公開 Klacks 實例，可以隨意試玩、不必拘謹 — 這正是它名稱的由來。它運作於 **[klacks-software.ch](https://play.klacks-software.ch)**：
 
 - **登入：** `admin@test.com` · **密碼：** `P@ssw0rt1`
 - 您擁有完整的管理員權限 — 儘管嘗試所有功能。

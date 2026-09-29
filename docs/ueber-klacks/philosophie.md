@@ -24,9 +24,9 @@ Klacks bildet jede Art von Schicht- und Einsatzplanung ab — von regelmässigen
 
 ## Was das praktisch bedeutet
 
-- Klacks ist immer und für jeden vollständig kostenlos — keine Registrierung, kein Verkaufsgespräch. Der [Playground](https://klacks-software.ch:7643) ist lediglich eine Möglichkeit, unverbindlich hineinzuschnuppern und sich mit der Bedienung vertraut zu machen.
+- Klacks ist immer und für jeden vollständig kostenlos — keine Registrierung, kein Verkaufsgespräch. Der [Playground](https://play.klacks-software.ch) ist lediglich eine Möglichkeit, unverbindlich hineinzuschnuppern und sich mit der Bedienung vertraut zu machen.
 - Sie können es mit einem On-Premise-Paket (Docker-Images, Installer, Datenbank, HTTPS, automatische Updates) auf Ihrem eigenen Server betreiben.
 - Sie können den Quellcode einsehen und selbst Änderungen vornehmen — Klacks bleibt Ihres, auch wenn Sie es weiterentwickeln.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

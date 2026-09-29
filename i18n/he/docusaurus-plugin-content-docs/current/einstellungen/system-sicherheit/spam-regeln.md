@@ -19,4 +19,4 @@ sidebar_position: 7
 - השתמשו בכללי דומיין שולח כדי לחסום ארגוני שולח לא רצויים שלמים, במקום לרשום כל כתובת בנפרד ככלל השולח-מכיל.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

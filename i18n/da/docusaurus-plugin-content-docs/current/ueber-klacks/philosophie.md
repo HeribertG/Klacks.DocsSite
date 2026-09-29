@@ -24,9 +24,9 @@ Klacks afbilder enhver form for vagt- og indsatsplanlægning — fra regelmæssi
 
 ## Hvad det betyder i praksis
 
-- Klacks er altid og for alle fuldstændig gratis — ingen registrering, ingen salgssamtale. [Playground](https://klacks-software.ch:7643) er blot en mulighed for uforpligtende at snuse til det og blive fortrolig med betjeningen.
+- Klacks er altid og for alle fuldstændig gratis — ingen registrering, ingen salgssamtale. [Playground](https://play.klacks-software.ch) er blot en mulighed for uforpligtende at snuse til det og blive fortrolig med betjeningen.
 - Du kan drive det med en on-premise-pakke (Docker-images, installer, database, HTTPS, automatiske opdateringer) på din egen server.
 - Du kan gennemgå kildekoden og selv foretage ændringer — Klacks forbliver dit, også når du videreudvikler det.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -30,4 +30,4 @@ Pentru design sunt disponibile:
 - Subsolul de tabel se activează printr-o casetă de bifat plasată direct sub tabelul respectiv; eticheta SUM poate fi afișată sau ascunsă separat pentru câmpul de subsol.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

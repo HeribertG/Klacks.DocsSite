@@ -36,4 +36,4 @@ Una regla de planificación se asigna a una **plantilla de contrato**. Los valor
 - «Máx. días de trabajo» (preferencia flexible para la duración de bloque) y «máx. días de trabajo consecutivos» (límite superior estricto, nunca superable) son dos reglas distintas — no deben confundirse.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

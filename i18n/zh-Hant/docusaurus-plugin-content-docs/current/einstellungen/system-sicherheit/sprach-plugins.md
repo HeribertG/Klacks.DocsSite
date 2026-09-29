@@ -21,4 +21,4 @@ Klacks 前端固定內建四種核心語言 — 德文、英文、法文、義�
 - 當新功能上線但翻譯尚未跟上時，語言外掛的涵蓋率可能低於 100%；缺少的文字會回退到英文，這是所有外掛語言共用的技術性備援語言。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -29,4 +29,4 @@ sidebar_position: 3
 - ควรสร้างโครงสร้างกลุ่มก่อน แล้วจึงจัดบุคคลเข้ากลุ่มภายหลัง เพื่อให้สิทธิ์การเข้าถึงระดับกลุ่มมีผลตั้งแต่แรก
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

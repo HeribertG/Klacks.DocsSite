@@ -25,4 +25,4 @@ sidebar_position: 1
 - 관리자가 직접 비밀번호를 설정하는 기능은 없습니다: 새 계정은 자동으로 생성된 비밀번호를 받으며, 이후의 모든 변경은 이메일 링크 "비밀번호 재설정"을 통해 이루어집니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

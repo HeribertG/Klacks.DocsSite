@@ -20,4 +20,4 @@ V nastavení Nastavení > DeepL zadáváte API klíč DeepL, pomocí kterého Kl
 - Klíč se ukládá zašifrovaně a ve formuláři se zobrazuje maskovaný.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

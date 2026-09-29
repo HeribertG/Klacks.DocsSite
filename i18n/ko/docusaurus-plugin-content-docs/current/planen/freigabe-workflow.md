@@ -28,4 +28,4 @@ Klacks에서 근무 계획은 명확히 정의된 단계를 거칩니다 — 팀
 - 한 달의 회계 마감을 위해서는 별도로 [기간 마감](../planen/periodenabschluss.md) 기능이 있습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

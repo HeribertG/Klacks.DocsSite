@@ -13,7 +13,7 @@ Acest wiki explică în porții mici cum funcționează Klacks. Fiecare pagină 
 
 | | |
 |---|---|
-| 🎮 **Testați** | [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1` (instanță publică de test, datele sunt resetate zilnic) |
+| 🎮 **Testați** | [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1` (instanță publică de test, datele sunt resetate zilnic) |
 | 📦 **Instalați** | [Descărcați pachetul On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — o singură comandă și Klacks rulează |
 | 💬 **Întrebări și schimb de idei** | [Comunitatea Klacks pe Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |

@@ -23,4 +23,4 @@ Dengan cara ini, gambaran menyeluruh aplikasi terbentuk langkah demi langkah, ta
 - Cara terpantas untuk mengalami tur ini ialah di Playground: log masuk, buka Klacksy, mula menaip.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

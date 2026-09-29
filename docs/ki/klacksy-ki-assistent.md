@@ -30,4 +30,4 @@ Das Besondere: **Sie wählen das Sprachmodell selbst.** OpenAI, Anthropic, Googl
 ![Klacksy als Panel in Klacks](/img/app-klacksy-de.png)
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

@@ -37,4 +37,4 @@ Kohdassa Asetukset > Organisaatio > Sopimukset hallinnoit vapaasti määriteltä
 - Sopimuskohtainen kalenterivalinta on valinnainen — jos jätät sen tyhjäksi, sopimuskohtaista kalenteria ei tallenneta.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

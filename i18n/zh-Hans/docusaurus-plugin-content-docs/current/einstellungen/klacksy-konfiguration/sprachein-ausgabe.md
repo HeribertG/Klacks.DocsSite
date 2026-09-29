@@ -25,4 +25,4 @@ Klacksy 也可以通过语音进行操作 — 您可以在「设置 > Klacksy �
 - 此处的模型检测只判断是否适合用于转录文本清理（上下文窗口 ≥ 16,000 个 Token）— 若要判断是否整体适合作为 Klacksy 的主模型，则有专门更严格的测试（参见「模型连接测试」）。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

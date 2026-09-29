@@ -20,4 +20,4 @@ Beheerders zijn van deze beperking uitgezonderd: bij hen is de knop uitgeschakel
 - Deze instelling regelt de **zichtbaarheid** van gegevens, niet de fundamentele **rechten** van een rol — rollen/rechten worden onafhankelijk hiervan beheerd.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

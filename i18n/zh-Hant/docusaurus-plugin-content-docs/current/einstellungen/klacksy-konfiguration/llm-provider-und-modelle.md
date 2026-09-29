@@ -23,4 +23,4 @@ Klacksy 需要一個語言模型才能理解並採取行動。您可以在「設
 - 同步紀錄服務會獨立於您的工作階段在背景執行 — 您不需要讓頁面保持開啟。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

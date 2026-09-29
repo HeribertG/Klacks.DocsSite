@@ -26,4 +26,4 @@ Klacksy 没有一成不变、硬编码的性格 — 您可以在「设置 > Klac
 - 留空字段没有问题：Klacksy 会使用其内置的默认基调。还有一些内部行为细节由系统自身维护，无法在此处直接设置。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

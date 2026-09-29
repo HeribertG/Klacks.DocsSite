@@ -25,4 +25,4 @@ V části Nastavení > Správa uživatelů spravujete **přihlašovací účty**
 - Přímé nastavení hesla administrátorem neexistuje: nové účty dostávají automaticky vygenerované heslo, každá pozdější změna probíhá přes e-mailový odkaz „Obnovit heslo".
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

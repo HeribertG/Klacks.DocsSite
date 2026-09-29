@@ -32,4 +32,4 @@ Klacksy는 백그라운드에서 한 세션 안에서 어떤 스킬들이 자주
 - 경험칙: 일반적으로 신뢰도가 높은 *학습된* 관계만 채택할 가치가 있습니다. 지지 근거가 적은 유추된 후보는 더 많은 사용 데이터가 쌓일 때까지 폐기하는 것이 좋습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

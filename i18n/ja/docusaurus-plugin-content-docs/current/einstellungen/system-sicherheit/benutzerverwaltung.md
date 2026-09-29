@@ -25,4 +25,4 @@ sidebar_position: 1
 - 管理者が直接パスワードを設定することはできません。新規アカウントには自動生成されたパスワードが割り当てられ、その後の変更はすべてメールの「パスワードをリセット」リンク経由で行われます。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

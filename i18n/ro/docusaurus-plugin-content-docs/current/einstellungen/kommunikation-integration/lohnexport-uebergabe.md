@@ -34,4 +34,4 @@ La sigilarea unei perioade delimitate pe grup, Klacks poate preda automat datele
 - Un pachet suplimentar dezactivat rămâne instalat, dar blochează predarea automată la fel de complet ca unul neinstalat.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

@@ -23,4 +23,4 @@ Joku on estynyt, ja työvuoro alkaa muutaman tunnin päästä. Klacks ei silloin
 - Jolla ei ole puhelinnumeroa käyttäjätilillä, ei näy edes soittolistalla. Pyyntöön viestisovelluksen kautta tarvitaan lisäksi yhdistetty viestisovellusyhteys. Päivystyksen poissaolot ylläpidätte suoraan samassa listassa: alkaen–päättyen, valinnaisella syyllä, halutessanne pysyvästi.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

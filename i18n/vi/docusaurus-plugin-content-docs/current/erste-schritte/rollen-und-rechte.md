@@ -25,4 +25,4 @@ Trong thực tế hàng ngày, thường một tài khoản Supervisor sẽ đ�
 - Một tài khoản đăng nhập không nhất thiết phải được liên kết với một hồ sơ dữ liệu gốc của nhân viên — quản lý người dùng và quản lý con người là hai khu vực tách biệt.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

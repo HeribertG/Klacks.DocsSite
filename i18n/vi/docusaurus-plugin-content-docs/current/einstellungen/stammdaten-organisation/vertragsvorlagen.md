@@ -37,4 +37,4 @@ Tại Cài đặt > Tổ chức > Hợp đồng, bạn quản lý các mẫu h�
 - Lựa chọn lịch theo từng hợp đồng là tùy chọn — nếu để trống, sẽ không có lịch riêng theo hợp đồng nào được lưu.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

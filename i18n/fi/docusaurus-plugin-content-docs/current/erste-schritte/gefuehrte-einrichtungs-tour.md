@@ -23,4 +23,4 @@ Näin syntyy vaihe vaiheelta kattava yleiskuva sovelluksesta ilman käsikirjan l
 - Nopeimmin kierroksen kokee Playgroundissa: kirjaudu sisään, avaa Klacksy ja aloita kirjoittaminen.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

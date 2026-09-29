@@ -22,4 +22,4 @@ Under Inställningar > Organisation > Filialer hanterar du adresserna till dina 
 - Även assistenten Klacksy kan skapa eller radera filialer via röstkommando ("skapa en filial ...").
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

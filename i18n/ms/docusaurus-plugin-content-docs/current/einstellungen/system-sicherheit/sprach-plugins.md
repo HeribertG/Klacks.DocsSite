@@ -21,4 +21,4 @@ Klacks menyokong empat bahasa teras secara tetap dalam frontend — Jerman, Ingg
 - Tahap liputan sesuatu Plugin Bahasa boleh berada di bawah 100% jika fungsi baharu ditambah sebelum terjemahan mengejarnya; teks yang hilang akan kembali kepada bahasa Inggeris, iaitu bahasa fallback teknikal bagi semua bahasa plugin.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

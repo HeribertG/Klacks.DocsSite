@@ -22,4 +22,4 @@ sidebar_position: 2
 - DeepL が設定されている場合、受信トレイ内のメッセージは直接翻訳できます（別ページ参照）。
 
 ---
-*直接試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

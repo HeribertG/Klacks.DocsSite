@@ -22,4 +22,4 @@ Le cœur du travail quotidien : une matrice temporelle performante, où les lign
 ![Grille du plan de service Klacks](/img/app-schedule-de.png)
 
 ---
-*À tester directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À tester directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -24,4 +24,4 @@ V nastavení Nastavení > Organizace > Země spravujete seznam zemí, které jso
 - Seznam zemí mimo jiné napájí výběr zemí u adresy Sekretariát — chybějící zemi zde nejprve vytvořte, než ji budete chtít vybrat tam.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

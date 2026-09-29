@@ -30,4 +30,4 @@ V nastavení Nastavení > Organizace > Kvalifikace spravujete katalog všech kva
 - Pole Kategorie se zobrazuje pouze u typu „Práce" — jazykové kvalifikace kategorii nemají.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

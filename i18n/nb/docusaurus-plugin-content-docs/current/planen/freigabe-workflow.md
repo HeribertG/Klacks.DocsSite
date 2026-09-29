@@ -28,4 +28,4 @@ Hvert trinn **sperrer redigeringen** tilsvarende: Det som er godkjent, kan ingen
 - For den regnskapsmessige avslutningen av en måned finnes det i tillegg [Periodeavslutning](../planen/periodenabschluss.md).
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

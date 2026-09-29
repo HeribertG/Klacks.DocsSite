@@ -24,4 +24,4 @@ Pagina este structurată în trei file: **Perioade**, **Exporturi** și **Jurnal
 - Ajungeți la închiderea perioadei prin pictograma de închidere din navigarea din stânga.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

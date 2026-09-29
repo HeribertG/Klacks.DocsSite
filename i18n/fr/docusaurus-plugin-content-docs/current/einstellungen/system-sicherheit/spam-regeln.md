@@ -19,4 +19,4 @@ Sous Paramètres > Règles anti-spam, vous définissez des règles de filtrage q
 - Utilisez les règles de domaine d'expéditeur pour bloquer des organisations expéditrices entières indésirables, plutôt que de saisir chaque adresse individuellement en tant que règle « l'expéditeur contient ».
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -30,4 +30,4 @@ Lo especial: **usted mismo elige el modelo de lenguaje.** Se admiten OpenAI, Ant
 ![Klacksy como panel en Klacks](/img/app-klacksy-de.png)
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

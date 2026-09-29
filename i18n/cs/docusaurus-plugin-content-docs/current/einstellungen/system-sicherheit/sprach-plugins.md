@@ -21,4 +21,4 @@ Klacks pevně podporuje čtyři základní jazyky ve frontendu — němčinu, an
 - Míra pokrytí jazykového pluginu může být nižší než 100 %, pokud byly přidány nové funkce dříve, než byl doplněn jejich překlad; chybějící texty se pak zobrazí v angličtině, která je technickým záložním jazykem pro všechny jazyky pluginů.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -23,4 +23,4 @@ Trong mục Cài đặt > Identity Provider, bạn kết nối Klacks với mộ
 - Một mã định danh bên ngoài từ thư mục (LDAP ObjectGUID hoặc thay thế bằng Distinguished Name) ngăn chặn việc trùng lặp: nếu cùng một mã định danh được tìm thấy trong lần đồng bộ hóa tiếp theo, người đã tồn tại sẽ được cập nhật thay vì tạo mới.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

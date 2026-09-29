@@ -24,4 +24,4 @@ Onder Instellingen > ERP-overnamepunten configureert u hoe bestellingen uit een 
 - Deze configuratie bevindt zich in het instellingengedeelte en is daarmee voorbehouden aan administratieve rollen.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

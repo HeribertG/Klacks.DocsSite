@@ -19,4 +19,4 @@ Di bawah Tetapan > Pengekalan Data, anda menetapkan berapa lama rekod yang dipad
 - Tetapan ini adalah asas teknikal bagi tempoh pemadaman yang diterangkan dalam dasar privasi; ia berkuat kuasa secara global untuk semua jenis data yang menyokong soft-delete, tidak boleh dikonfigurasikan mengikut modul.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

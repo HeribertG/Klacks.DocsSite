@@ -32,4 +32,4 @@ The **confidence** (0–100%) shows how sure Klacksy is about a relation. It ris
 - Rule of thumb: only *learned* relations with high confidence are typically worth accepting. Derived candidates with little support are better discarded until more usage data is available.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

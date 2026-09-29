@@ -37,4 +37,4 @@ W sekcji Ustawienia > Organizacja > Umowy zarządzasz dowolnie definiowanymi sza
 - Wybór kalendarza dla umowy jest opcjonalny — jeśli pozostawisz go pustym, nie zostanie zapisany żaden kalendarz specyficzny dla umowy.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

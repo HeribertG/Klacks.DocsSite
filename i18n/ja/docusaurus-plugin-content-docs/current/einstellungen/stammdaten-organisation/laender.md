@@ -24,4 +24,4 @@ sidebar_position: 2
 - この国の一覧は、例えば「秘書処アドレス」における国選択の元データとなります——そちらで選択したい国がまだない場合は、先にここで作成してください。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

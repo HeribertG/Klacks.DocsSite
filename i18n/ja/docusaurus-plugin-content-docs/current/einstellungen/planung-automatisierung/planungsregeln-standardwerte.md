@@ -23,4 +23,4 @@ sidebar_position: 1
 - 計画コマンドは勤務表では標準では非表示になっており、ツールバーの専用アイコンから表示させることができます。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

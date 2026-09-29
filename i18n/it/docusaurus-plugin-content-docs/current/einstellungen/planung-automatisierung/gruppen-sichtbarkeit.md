@@ -20,4 +20,4 @@ Gli amministratori sono esclusi da questa restrizione: per loro il pulsante è d
 - Questa impostazione controlla la **visibilità** dei dati, non le **autorizzazioni** di base di un ruolo — ruoli/diritti vengono gestiti indipendentemente da essa.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -30,4 +30,4 @@ sidebar_position: 6
 - テーブルフッターは、各テーブルの直下にあるチェックボックスで有効にできます。SUMのラベルはフッターフィールドごとに個別に表示・非表示を切り替えられます。
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

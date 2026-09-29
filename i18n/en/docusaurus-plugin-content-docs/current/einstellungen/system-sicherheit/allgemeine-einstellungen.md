@@ -25,4 +25,4 @@ Further down on the same settings page, you set the colors the schedule grid use
 - These colors only affect the display of the schedule grid itself, not other areas of the UI.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

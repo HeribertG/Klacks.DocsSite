@@ -29,4 +29,4 @@ Qué reglas se comprueban y con qué grado de exigencia se aplican lo define en 
 - Los informes son vistas puras: no se pueden editar y no cambian nada. La corrección se realiza en [La cuadrícula del plan: su matriz de tiempo interactiva](../planen/plan-raster.md) o mediante una nueva ejecución.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

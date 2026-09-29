@@ -21,4 +21,4 @@ Nu orice model de limbaj este potrivit pentru Klacksy — acesta trebuie să liv
 - Acest test este conceput special pentru apelurile de funcții necesare capacității de acțiune și este independent de verificarea modelului din setările de voce, care acceptă o fereastră de context mai mică, suficientă pentru simpla curățare a transcrierii.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

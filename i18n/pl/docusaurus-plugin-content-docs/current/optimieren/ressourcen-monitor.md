@@ -28,4 +28,4 @@ Za pomocą przycisków strzałek w prawym górnym rogu zmieniasz rok; poprzez wy
 - Przy umowie 24/7 różowa linia jest wygładzana w skali tygodnia (ok. 0,71 na osobę i dzień kalendarzowy); przy umowie pon.–pt. w dni robocze wynosi 1,0, a w weekend 0.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

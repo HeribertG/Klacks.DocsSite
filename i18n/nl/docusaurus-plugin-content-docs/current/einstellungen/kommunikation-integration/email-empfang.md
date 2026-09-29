@@ -22,4 +22,4 @@ Onder Instellingen > IMAP-instellingen legt u een postbus vast die Klacks contin
 - Berichten in het postvak IN kunnen direct vertaald worden als DeepL is geconfigureerd (zie de betreffende pagina).
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

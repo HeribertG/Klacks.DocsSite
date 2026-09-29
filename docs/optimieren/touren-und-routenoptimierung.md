@@ -26,4 +26,4 @@ Sind für einen Einsatz feste Zeitfenster hinterlegt (z.B. nur vormittags), flie
 ![Timeline-Ansicht für die Tourenplanung](/img/app-timeline-de.png)
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

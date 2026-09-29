@@ -19,4 +19,4 @@ sidebar_position: 5
 - 일부 플러그인은 자체 설정 카드를 함께 제공합니다(예: 메시징 제공자 구성) — 이러한 항목은 설치 후에야 설정의 다른 위치에 나타납니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

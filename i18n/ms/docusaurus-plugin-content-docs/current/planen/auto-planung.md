@@ -27,4 +27,4 @@ Anda memulakan Auto-Perancangan terus daripada Jadual Tugasan untuk tempoh yang 
 ![Grid Jadual Tugasan Klacks](/img/app-schedule-de.png)
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

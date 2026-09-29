@@ -23,4 +23,4 @@ Klacksy oppii omista virheistään: kun korjaat keskustelussa, että Klacksy val
 - Tämä toiminto vaatii ylläpitäjän oikeudet.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

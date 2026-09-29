@@ -24,9 +24,9 @@ Klacks 可以涵盖各种形式的排班——从规律、简单的班次，到�
 
 ## 这在实践中意味着什么
 
-- Klacks 对所有人来说始终完全免费——无需注册，也无需销售洽谈。[Playground](https://klacks-software.ch:7643) 只是让您可以不受约束地先体验一下、熟悉操作方式的一个途径。
+- Klacks 对所有人来说始终完全免费——无需注册，也无需销售洽谈。[Playground](https://play.klacks-software.ch) 只是让您可以不受约束地先体验一下、熟悉操作方式的一个途径。
 - 您可以通过 On-Premise 套件(Docker 镜像、安装程序、数据库、HTTPS、自动更新)将其部署在自己的服务器上运行。
 - 您可以查看源代码并自行修改——即便您对它做了二次开发，Klacks 依然属于您。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

@@ -24,4 +24,4 @@ sidebar_position: 6
 - 期間締めには、左側のナビゲーションにある締めアイコンからアクセスできます。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

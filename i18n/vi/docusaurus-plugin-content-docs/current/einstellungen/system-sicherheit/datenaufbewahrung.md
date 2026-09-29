@@ -19,4 +19,4 @@ Trong mục Cài đặt > Lưu giữ dữ liệu, bạn xác định thời gian
 - Cài đặt này là nền tảng kỹ thuật của các thời hạn xóa được mô tả trong tuyên bố bảo vệ dữ liệu; nó có hiệu lực toàn cục cho tất cả các loại dữ liệu hỗ trợ xóa mềm, không thể cấu hình riêng theo từng mô-đun.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

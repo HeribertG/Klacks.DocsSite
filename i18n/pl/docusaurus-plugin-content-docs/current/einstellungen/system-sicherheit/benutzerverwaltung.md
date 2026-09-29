@@ -25,4 +25,4 @@ W sekcji Ustawienia > Zarządzanie użytkownikami zarządzają Państwo **kontam
 - Bezpośrednie ustawienie hasła przez administratora nie istnieje: nowe konta otrzymują automatycznie wygenerowane hasło, a każda późniejsza zmiana odbywa się przez link e-mail "Resetuj hasło".
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

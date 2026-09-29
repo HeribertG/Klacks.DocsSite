@@ -39,4 +39,4 @@ Klacksy 不會等您開口才行動。他每小時都會在背景中檢視一次
 - 每小時執行一次的節奏是內建的，無法透過操作介面調整；第一次掃描會在程式啟動兩分鐘後開始。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

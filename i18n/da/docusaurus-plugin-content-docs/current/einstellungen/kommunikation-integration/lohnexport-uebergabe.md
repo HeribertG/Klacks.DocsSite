@@ -34,4 +34,4 @@ Ved forsegling af en gruppeafgrænset periode kan Klacks automatisk overdrage de
 - En deaktiveret tillægspakke forbliver installeret, men spærrer den automatiske overdragelse ligeså fuldstændigt som en ikke-installeret.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

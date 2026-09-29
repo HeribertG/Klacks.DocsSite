@@ -21,4 +21,4 @@ Les Personal Access Tokens (PAT) sont des clés d'API à longue durée de vie qu
 - Utilisez un token distinct par outil, afin de pouvoir le révoquer de manière ciblée en cas de suspicion d'abus, sans interrompre les autres intégrations.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

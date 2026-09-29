@@ -19,4 +19,4 @@ Funkční pluginy rozšiřují Klacks o volitelné funkční oblasti, které nej
 - Některé pluginy přinášejí vlastní karty nastavení (např. konfiguraci poskytovatele Messaging) — ty se objeví až po instalaci na jiném místě v nastavení.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

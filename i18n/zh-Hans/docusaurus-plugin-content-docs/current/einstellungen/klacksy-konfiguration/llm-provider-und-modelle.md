@@ -23,4 +23,4 @@ Klacksy 需要一个语言模型才能理解和行动。您可以在「设置 > 
 - 同步日志服务在后台独立于您的会话运行 — 您无需为此保持页面处于打开状态。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

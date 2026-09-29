@@ -26,4 +26,4 @@ Klacksy tidak mempunyai watak yang tegar dan diprogramkan secara tetap — di ba
 - Medan kosong bukan masalah: Klacksy akan menggunakan sikap asas terbina dalamnya. Beberapa aspek tingkah laku dalaman lain diselenggara oleh sistem itu sendiri dan tidak boleh ditetapkan secara langsung di sini.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

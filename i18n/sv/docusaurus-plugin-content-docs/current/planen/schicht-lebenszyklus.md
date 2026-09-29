@@ -46,4 +46,4 @@ Hur de planeringsbara skiften därefter bemannas beskrivs i [Autoplanering: ett 
 - **Sporadiska skift och tidsramsskift räknas inte med.** Båda visas medvetet inte i arbetspass-stapeln i [resursmonitorn](../optimieren/ressourcen-monitor.md), eftersom de inte avbildar något fast dagligt behov.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

@@ -30,4 +30,4 @@ Klacksyはあなたの要望を理解し、それを具体的なアクション�
 ![Klacks内のパネルとしてのKlacksy](/img/app-klacksy-de.png)
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

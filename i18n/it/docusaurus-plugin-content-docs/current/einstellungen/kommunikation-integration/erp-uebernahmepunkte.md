@@ -24,4 +24,4 @@ In Impostazioni > Punti di acquisizione ERP configurate come gli ordini provenie
 - Questa configurazione si trova nella sezione Impostazioni ed è quindi riservata ai ruoli amministrativi.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

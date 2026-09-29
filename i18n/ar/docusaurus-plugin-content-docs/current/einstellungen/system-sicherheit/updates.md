@@ -29,4 +29,4 @@ sidebar_position: 4
 - التحديث والتراجع إجراءان مخصّصان للمسؤول (Admin) فقط.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*

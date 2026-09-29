@@ -20,4 +20,4 @@ Quản trị viên được miễn trừ khỏi giới hạn này: đối với 
 - Cài đặt này kiểm soát **khả năng hiển thị** của dữ liệu, không phải **quyền hạn** cơ bản của một vai trò — vai trò/quyền được quản lý độc lập với cài đặt này.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

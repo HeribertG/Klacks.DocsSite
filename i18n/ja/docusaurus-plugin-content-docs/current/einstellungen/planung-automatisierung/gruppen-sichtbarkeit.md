@@ -20,4 +20,4 @@ sidebar_position: 5
 - この設定はデータの**表示範囲**を制御するものであり、ロールの根本的な**権限**を制御するものではありません——ロール／権限はこれとは別に管理されます。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

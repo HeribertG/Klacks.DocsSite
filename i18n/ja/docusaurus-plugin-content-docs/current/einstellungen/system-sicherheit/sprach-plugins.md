@@ -21,4 +21,4 @@ Klacksはフロントエンドに4つのコア言語 ― ドイツ語、英語�
 - 翻訳が追いつく前に新機能が追加された場合、言語プラグインのカバー率が100%を下回ることがあります。その場合、不足しているテキストは、全プラグイン言語共通の技術的フォールバック言語である英語で表示されます。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

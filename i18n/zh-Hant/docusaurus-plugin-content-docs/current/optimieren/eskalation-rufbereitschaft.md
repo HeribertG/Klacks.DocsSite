@@ -23,4 +23,4 @@ sidebar_position: 8
 - 使用者帳號中若沒有登錄電話號碼，就根本不會出現在升級聯絡清單中。透過通訊軟體發送詢問，還需要額外綁定通訊軟體聯絡人。待命人員的缺勤，可以直接在同一份清單中維護：起訖日期、可選填原因，也可以設定為永久有效。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

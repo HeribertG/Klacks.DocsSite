@@ -46,4 +46,4 @@ sidebar_position: 8
 - **不定期班次與時間範圍班次不計入統計。** 這兩種班次刻意不會出現在[資源監控](../optimieren/ressourcen-monitor.md)的班次長條中，因為它們並不代表固定的每日需求。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

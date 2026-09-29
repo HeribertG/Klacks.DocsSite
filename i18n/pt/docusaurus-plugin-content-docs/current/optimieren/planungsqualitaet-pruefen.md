@@ -29,4 +29,4 @@ Quais as regras verificadas e com que rigor se aplicam, define-o em [Regras de p
 - Os relatórios são apenas vistas: não podem ser editados e não alteram nada. As correções fazem-se na [Grelha de planeamento: a sua matriz de tempo interativa](../planen/plan-raster.md) ou através de uma nova execução.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

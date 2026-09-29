@@ -21,4 +21,4 @@ sidebar_position: 3
 - 模組化排班與[自動排班：一鍵啟動，其餘在背景執行](../planen/auto-planung.md)相輔相成：每個區塊都可以個別進行自動排班。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -24,4 +24,4 @@ Under Innstillinger > Generelt > Adresse Sekretariat lagrer du stamadressen til 
 - Endres landet, tilbakestilles kantonen automatisk; et allerede valgt kalendervalg beholdes bare hvis det også passer til det nye landet — ellers tømmes det også.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

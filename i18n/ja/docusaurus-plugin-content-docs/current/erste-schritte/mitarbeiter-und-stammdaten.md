@@ -29,4 +29,4 @@ sidebar_position: 3
 - まずグループ構造を作成してから人物を割り当ててください ― そうすることで、グループレベルの権限が最初から機能します。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

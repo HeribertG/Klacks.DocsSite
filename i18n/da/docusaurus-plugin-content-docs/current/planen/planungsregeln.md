@@ -36,4 +36,4 @@ En planlægningsregel tilknyttes en **kontrakt**. De definerede grænseværdier 
 - "Maks. arbejdsdage" (blød præference for blok-længden) og "Maks. sammenhængende arbejdsdage" (hård, aldrig overskridelig øvre grænse) er to forskellige regler — må ikke forveksles.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -21,4 +21,4 @@ Ikke enhver sprogmodel egner sig til Klacksy — han skal pålideligt levere str
 - Denne test er specifikt designet til funktionskald for handlingsevne og er uafhængig af model-tjekket under sprogindstillingerne, som accepterer et lavere kontekstvindue til ren transskriptionsoprydning.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -30,4 +30,4 @@ Em Definições > Organização > Qualificações, gere o catálogo de todas as 
 - O campo Categoria só aparece no tipo "Trabalho" — as qualificações de língua não têm categoria.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

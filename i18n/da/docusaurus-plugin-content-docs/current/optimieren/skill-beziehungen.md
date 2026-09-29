@@ -32,4 +32,4 @@ Klacksy observerer i baggrunden, hvilke skills der ofte bruges sammen eller efte
 - Tommelfingerregel: Kun *lærte* relationer med høj konfidens er typisk værd at overtage. Afledte kandidater med lidt understøttelse bør du hellere kassere, indtil der foreligger flere brugsdata.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

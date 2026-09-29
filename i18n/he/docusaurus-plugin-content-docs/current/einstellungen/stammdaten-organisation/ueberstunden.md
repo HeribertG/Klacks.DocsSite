@@ -41,4 +41,4 @@ sidebar_position: 7
 - כלל תכנון עם מדרגות שעות נוספות משלו דורס את הערכים ברמת החברה כולה לחלוטין, לא רק מדרגות בודדות.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

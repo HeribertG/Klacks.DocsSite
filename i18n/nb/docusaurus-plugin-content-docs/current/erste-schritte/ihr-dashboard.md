@@ -25,4 +25,4 @@ Dashbordet er delt inn i fire seksjoner som kan foldes ut og sammen hver for seg
 ![Klacks dashbord](/img/app-dashboard-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

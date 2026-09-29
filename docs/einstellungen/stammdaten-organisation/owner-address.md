@@ -24,4 +24,4 @@ Unter Einstellungen > Allgemein > Adresse Sekretariat hinterlegen Sie die Stamma
 - Ändert sich das Land, wird der Kanton automatisch zurückgesetzt; eine bereits gewählte Kalenderauswahl bleibt nur erhalten, wenn sie auch zum neuen Land passt — sonst wird sie ebenfalls geleert.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

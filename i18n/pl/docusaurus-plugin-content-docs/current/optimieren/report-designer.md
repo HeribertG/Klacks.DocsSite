@@ -30,4 +30,4 @@ Do dyspozycji przy projektowaniu są:
 - Stopkę tabeli włączasz za pomocą pola wyboru bezpośrednio pod daną tabelą; etykietę SUM dla pola stopki można pokazać lub ukryć niezależnie.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

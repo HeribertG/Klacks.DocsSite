@@ -28,4 +28,4 @@ Com os botões de seta no canto superior direito, muda de ano; através da sele�
 - Num contrato 24/7, a linha cor-de-rosa é suavizada ao longo da semana (cerca de 0,71 por pessoa e dia de calendário); num contrato de segunda a sexta-feira, está em 1,0 nos dias úteis e em 0 ao fim de semana.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

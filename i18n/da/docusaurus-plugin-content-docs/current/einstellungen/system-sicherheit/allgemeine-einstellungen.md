@@ -25,4 +25,4 @@ Længere nede på samme indstillingsside fastlægger du de farver, som planraste
 - Disse farver påvirker udelukkende visningen af selve planrasteret, ikke andre områder af brugergrænsefladen.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

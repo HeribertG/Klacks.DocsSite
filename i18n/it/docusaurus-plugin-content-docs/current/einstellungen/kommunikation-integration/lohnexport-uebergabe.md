@@ -34,4 +34,4 @@ Alla sigillatura di un periodo delimitato per gruppo, Klacks può trasferire aut
 - Un componente aggiuntivo disattivato rimane installato, ma blocca il trasferimento automatico in modo altrettanto completo di uno non installato.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

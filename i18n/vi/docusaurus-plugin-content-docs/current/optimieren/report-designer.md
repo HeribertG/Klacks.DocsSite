@@ -30,4 +30,4 @@ Mỗi bảng được liên kết với một **nguồn dữ liệu**, được 
 - Dòng chân bảng được kích hoạt qua một ô chọn ngay dưới bảng tương ứng; nhãn SUM có thể được ẩn hoặc hiện riêng cho trường dòng chân.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

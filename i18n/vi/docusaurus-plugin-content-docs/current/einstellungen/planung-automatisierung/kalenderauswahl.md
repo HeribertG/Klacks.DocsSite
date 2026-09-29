@@ -22,4 +22,4 @@ Bạn tạo lựa chọn lịch riêng của mình qua "+ Thêm lựa chọn l�
 - Trang này chỉ gộp và đặt tên cho các bộ quy tắc lịch. Bản thân các quy tắc ngày lễ (công thức tính toán, dịch chuyển theo ngày trong tuần, v.v.) được quản lý riêng — xem "Ngày lễ & Lịch".
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

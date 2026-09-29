@@ -34,4 +34,4 @@ sidebar_position: 7
 - 已停用的附加套件仍會保持安裝狀態，但會像未安裝一樣，完全阻擋自動交接。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

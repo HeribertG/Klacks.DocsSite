@@ -23,4 +23,4 @@ sidebar_position: 2
 - วิธีที่เร็วที่สุดในการลองทัวร์นี้คือใน Playground: เข้าสู่ระบบ เปิด Klacksy แล้วเริ่มพิมพ์ได้เลย
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

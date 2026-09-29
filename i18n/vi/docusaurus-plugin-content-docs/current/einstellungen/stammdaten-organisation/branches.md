@@ -22,4 +22,4 @@ Tại Cài đặt > Tổ chức > Chi nhánh, bạn quản lý địa chỉ củ
 - Trợ lý Klacksy cũng có thể tạo hoặc xóa chi nhánh bằng lệnh thoại ("tạo một chi nhánh ...").
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

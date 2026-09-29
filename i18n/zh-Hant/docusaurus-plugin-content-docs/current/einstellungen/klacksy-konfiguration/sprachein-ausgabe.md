@@ -25,4 +25,4 @@ Klacksy 也可以透過語音操作 — 您可以在「設定 > Klacksy 語音�
 - 此處的模型檢測只判斷是否適合用於轉錄文字清理（上下文視窗 ≥ 16,000 個 Token）— 若要判斷是否整體適合作為 Klacksy 的主要模型，另有專門且更嚴格的測試（參見「模型連線測試」）。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

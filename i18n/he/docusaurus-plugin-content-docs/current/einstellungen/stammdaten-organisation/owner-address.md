@@ -24,4 +24,4 @@ sidebar_position: 3
 - שינוי המדינה מאפס אוטומטית את הקנטון; בחירת לוח שנה שכבר נבחרה נשמרת רק אם היא מתאימה גם למדינה החדשה — אחרת היא מתאפסת אף היא.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

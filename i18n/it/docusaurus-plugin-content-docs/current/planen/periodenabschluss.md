@@ -24,4 +24,4 @@ La pagina è suddivisa in tre schede: **Periodi**, **Esportazioni** e **Registro
 - La chiusura periodo si raggiunge tramite l'icona di chiusura nella navigazione a sinistra.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

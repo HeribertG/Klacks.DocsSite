@@ -30,4 +30,4 @@ Pentru fiecare regulă completați, de asemenea, numele și descrierea (multilin
 ![Reguli de sărbători în Klacks](/img/app-calendar-de.png)
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

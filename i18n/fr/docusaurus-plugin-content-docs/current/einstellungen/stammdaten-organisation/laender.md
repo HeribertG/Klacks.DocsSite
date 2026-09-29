@@ -24,4 +24,4 @@ Dans Paramètres > Organisation > Pays, vous gérez la liste des pays disponible
 - La liste des pays alimente entre autres la sélection des pays pour l'adresse du secrétariat — créez d'abord ici un pays manquant avant de vouloir le sélectionner là-bas.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -26,4 +26,4 @@ Klacksy heeft geen star, vast geprogrammeerd karakter — onder Instellingen > K
 - Lege velden zijn geen probleem: Klacksy gebruikt dan zijn ingebouwde grondhouding. Enkele andere interne gedragsaspecten worden door het systeem zelf beheerd en zijn hier niet rechtstreeks instelbaar.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

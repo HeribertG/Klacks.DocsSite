@@ -7,7 +7,7 @@ Klacks probieren Sie in einer Minute aus — und installieren es in wenigen Minu
 
 ## Playground: die Spielwiese zum Kennenlernen
 
-Der Playground ist keine Installationsvariante, sondern eine öffentliche Klacks-Instanz mit Beispieldaten zum unverbindlichen Herumspielen — daher der Name. Sie läuft unter **[klacks-software.ch:7643](https://klacks-software.ch:7643)**:
+Der Playground ist keine Installationsvariante, sondern eine öffentliche Klacks-Instanz mit Beispieldaten zum unverbindlichen Herumspielen — daher der Name. Sie läuft unter **[play.klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Passwort:** `P@ssw0rt1`
 - Sie haben volle Admin-Rechte — probieren Sie alles aus.

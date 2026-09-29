@@ -25,4 +25,4 @@ Het dashboard is opgebouwd uit vier onderdelen die u afzonderlijk kunt in- en ui
 ![Klacks-dashboard](/img/app-dashboard-de.png)
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

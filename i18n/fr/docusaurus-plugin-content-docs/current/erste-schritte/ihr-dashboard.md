@@ -25,4 +25,4 @@ Le tableau de bord se compose de quatre sections, que vous pouvez déployer ou r
 ![Klacks Dashboard](/img/app-dashboard-de.png)
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

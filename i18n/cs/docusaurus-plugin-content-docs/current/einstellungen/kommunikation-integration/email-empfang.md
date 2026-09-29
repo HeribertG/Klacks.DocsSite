@@ -22,4 +22,4 @@ V nastavení Nastavení > Nastavení IMAP zadáváte poštovní schránku, ktero
 - Zprávy ve schránce příchozí pošty lze přímo přeložit, pokud je nakonfigurován DeepL (viz vlastní stránka).
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

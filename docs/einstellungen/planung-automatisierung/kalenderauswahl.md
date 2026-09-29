@@ -22,4 +22,4 @@ Eigene Kalenderauswahlen legen Sie über „+ Kalenderauswahl hinzufügen" an �
 - Diese Seite bündelt und benennt nur Kalender-Regelwerke. Die Feiertagsregeln selbst (Berechnungsformel, Wochentag-Verschiebung usw.) werden separat gepflegt — siehe „Feiertage & Kalender".
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

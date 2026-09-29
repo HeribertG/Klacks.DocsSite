@@ -28,4 +28,4 @@ Ogni fase **blocca la modifica** di conseguenza: ciò che è approvato non viene
 - Per la chiusura contabile di un mese esiste inoltre la [Chiusura periodo](../planen/periodenabschluss.md).
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

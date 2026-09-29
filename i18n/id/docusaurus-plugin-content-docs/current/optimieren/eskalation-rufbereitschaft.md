@@ -23,4 +23,4 @@ Seseorang berhalangan hadir, dan shift akan dimulai dalam beberapa jam. Klacks t
 - Siapa yang tidak memiliki nomor telepon dalam akun penggunanya, sama sekali tidak akan muncul di daftar panggilan. Untuk permintaan melalui Messenger, dibutuhkan tambahan kontak Messenger yang telah ditautkan. Ketidakhadiran petugas siaga panggilan Anda kelola langsung di daftar yang sama: dari–sampai, dengan alasan opsional, dan dapat bersifat permanen sesuai kebutuhan.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

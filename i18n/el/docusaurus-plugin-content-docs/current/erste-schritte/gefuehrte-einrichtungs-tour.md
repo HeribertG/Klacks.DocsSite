@@ -23,4 +23,4 @@ sidebar_position: 2
 - Ο ταχύτερος τρόπος να δοκιμάσετε την περιήγηση είναι στο Playground: συνδεθείτε, ανοίξτε τον Klacksy, ξεκινήστε να πληκτρολογείτε.
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

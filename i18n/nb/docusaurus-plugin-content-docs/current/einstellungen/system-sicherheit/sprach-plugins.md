@@ -21,4 +21,4 @@ Klacks støtter fire kjernespråk fast i frontend — tysk, engelsk, fransk, ita
 - Dekningsgraden til en språkplugin kan ligge under 100 % dersom nye funksjoner ble lagt til før oversettelsen fulgte etter; manglende tekster faller da tilbake til engelsk, som er det tekniske fallback-språket for alle plugin-språk.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

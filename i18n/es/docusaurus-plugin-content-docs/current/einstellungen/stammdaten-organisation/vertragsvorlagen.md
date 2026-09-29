@@ -37,4 +37,4 @@ En Configuración > Organización > Contratos se gestionan las plantillas de con
 - La selección de calendario por contrato es opcional — si se deja vacía, no se asigna ningún calendario específico del contrato.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

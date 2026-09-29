@@ -25,4 +25,4 @@ Weiter unten auf derselben Einstellungsseite legen Sie die Farben fest, mit dene
 - Diese Farben wirken ausschliesslich auf die Darstellung des Plan-Rasters selbst, nicht auf andere Bereiche der Oberfläche.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

@@ -23,4 +23,4 @@ Klacksyは、理解し行動するために言語モデルを必要とします�
 - 同期ログサービスはあなたのセッションとは独立してバックグラウンドで動作します — そのためにページを開いたままにしておく必要はありません。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

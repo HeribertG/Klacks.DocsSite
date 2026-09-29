@@ -39,4 +39,4 @@ Från och med "Förbereda scenario" måste en ansvarig person vara utsedd: Åtg�
 - Den timvisa rytmen är fast inbyggd och går inte att ställa in via gränssnittet; den första körningen startar två minuter efter programstart.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

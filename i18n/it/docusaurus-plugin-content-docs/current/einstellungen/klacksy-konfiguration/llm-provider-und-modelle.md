@@ -23,4 +23,4 @@ Klacksy ha bisogno di un modello linguistico per capire e agire. In Impostazioni
 - Il servizio di log di sincronizzazione gira in background indipendentemente dalla vostra sessione — non è necessario tenere aperta la pagina.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

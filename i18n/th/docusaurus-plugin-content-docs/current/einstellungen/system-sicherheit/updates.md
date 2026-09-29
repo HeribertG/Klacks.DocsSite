@@ -29,4 +29,4 @@ sidebar_position: 4
 - การอัปเดตและการย้อนกลับเป็นการดำเนินการที่สงวนไว้สำหรับผู้ดูแลระบบ (Admin) เท่านั้น
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

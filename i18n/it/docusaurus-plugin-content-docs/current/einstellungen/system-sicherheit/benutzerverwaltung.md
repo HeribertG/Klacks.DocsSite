@@ -25,4 +25,4 @@ In Impostazioni > Gestione utenti si gestiscono gli **account di accesso** (uten
 - Non è possibile impostare direttamente una password da parte dell'amministratore: i nuovi account ricevono una password generata automaticamente, e ogni modifica successiva avviene tramite il link e-mail "Reimposta password".
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -39,4 +39,4 @@ Klacksyは、尋ねられるのを待ちません。1時間に1回、バック�
 - 1時間ごとのリズムは固定で組み込まれており、画面上から変更することはできません。最初の実行はプログラム起動の2分後に開始します。
 
 ---
-*直接お試しください: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*直接お試しください: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

@@ -24,4 +24,4 @@ En Configuración > General > Dirección secretaría se registra la dirección p
 - Si cambia el país, el cantón se restablece automáticamente; una selección de calendario ya elegida se conserva solo si también corresponde al nuevo país — en caso contrario también se vacía.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

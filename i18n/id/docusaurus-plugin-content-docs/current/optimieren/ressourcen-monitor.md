@@ -28,4 +28,4 @@ Dengan tombol panah di kanan atas, Anda mengganti tahun; melalui pemilihan grup,
 - Pada kontrak 24/7, garis merah muda diratakan sepanjang minggu (sekitar 0,71 per orang per hari kalender); pada kontrak Senin–Jumat, garis tersebut berada pada 1,0 di hari kerja dan 0 pada akhir pekan.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

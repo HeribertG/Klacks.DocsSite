@@ -25,4 +25,4 @@ Klacksy lze ovládat i hlasem — v nastavení Nastavení > Jazyk Klacksy určuj
 - Kontrola modelu zde ověřuje výhradně vhodnost pro čištění přepisu (kontextové okno ≥ 16 000 tokenů) — pro obecnou vhodnost jako hlavní model Klacksy existuje vlastní, přísnější test (viz Test připojení modelu).
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -32,4 +32,4 @@ De **confidentie** (0–100%) toont hoe zeker Klacksy is van een relatie. Ze sti
 - Vuistregel: alleen *geleerde* relaties met hoge confidentie zijn doorgaans de moeite waard om over te nemen. Afgeleide kandidaten met weinig onderbouwing verwerpt u beter, totdat er meer gebruiksgegevens beschikbaar zijn.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

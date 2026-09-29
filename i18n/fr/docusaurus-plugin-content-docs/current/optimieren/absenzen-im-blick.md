@@ -22,4 +22,4 @@ Vacances, maladie, formation continue, service militaire — qui est absent et q
 ![Timeline-Ansicht in Klacks](/img/app-timeline-de.png)
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -30,4 +30,4 @@ Erityispiirre: **valitset kielimallin itse.** OpenAI, Anthropic, Google, DeepSee
 ![Klacksy paneelina Klacksissa](/img/app-klacksy-de.png)
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

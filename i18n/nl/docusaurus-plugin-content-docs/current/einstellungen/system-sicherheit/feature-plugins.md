@@ -19,4 +19,4 @@ Feature-plugins breiden Klacks uit met optionele functiegebieden die niet tot he
 - Sommige plugins brengen eigen instellingenkaarten mee (bijv. configuratie van messaging-providers) — deze verschijnen pas na de installatie op een andere plek in de instellingen.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

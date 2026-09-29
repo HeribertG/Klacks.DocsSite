@@ -22,4 +22,4 @@ Di bawah Tetapan > Tetapan IMAP anda menyimpan peti mel yang diambil secara bert
 - Mesej dalam Peti Masuk boleh diterjemahkan secara terus jika DeepL telah dikonfigurasikan (lihat halaman tersendiri).
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -25,4 +25,4 @@ Onder Instellingen > Gebruikersbeheer beheert u de **inlogaccounts** (systeemgeb
 - Een rechtstreekse wachtwoordinstelling door de admin bestaat niet: nieuwe accounts krijgen een automatisch gegenereerd wachtwoord, elke latere wijziging verloopt via de e-maillink "Wachtwoord resetten".
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

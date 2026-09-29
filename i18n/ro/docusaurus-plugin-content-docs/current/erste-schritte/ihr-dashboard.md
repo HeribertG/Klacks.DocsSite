@@ -25,4 +25,4 @@ Tabloul de bord este împărțit în patru secțiuni, care pot fi extinse și re
 ![Tabloul de bord Klacks](/img/app-dashboard-de.png)
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

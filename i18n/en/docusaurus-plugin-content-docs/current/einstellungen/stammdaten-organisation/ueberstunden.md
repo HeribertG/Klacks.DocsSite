@@ -41,4 +41,4 @@ Under Settings > Compliance & Surcharge Rules (expert mode) > Overtime you set f
 - A scheduling rule with its own overtime tiers replaces these company-wide values entirely, not just individual tiers.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

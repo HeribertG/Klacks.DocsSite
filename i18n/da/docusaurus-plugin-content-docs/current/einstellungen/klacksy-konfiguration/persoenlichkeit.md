@@ -26,4 +26,4 @@ Klacksy har ingen fast, hårdt programmeret karakter — under Indstillinger > K
 - Tomme felter er ikke et problem: Klacksy bruger så sin indbyggede grundholdning. Enkelte yderligere interne adfærdsaspekter vedligeholdes af systemet selv og kan ikke indstilles direkte her.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

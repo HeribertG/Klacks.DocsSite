@@ -23,4 +23,4 @@ sidebar_position: 4
 - รหัสประจำตัวจากภายนอก (LDAP ObjectGUID หรือ Distinguished Name เป็นทางเลือกสำรอง) ช่วยป้องกันข้อมูลซ้ำซ้อน: หากพบรหัสเดียวกันในการซิงค์ครั้งถัดไป บุคคลที่มีอยู่เดิมจะถูกอัปเดตแทนที่จะสร้างใหม่
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

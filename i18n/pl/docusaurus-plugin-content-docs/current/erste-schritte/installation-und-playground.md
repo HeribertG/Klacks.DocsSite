@@ -8,7 +8,7 @@ Klacks wypróbujesz w minutę — a zainstalujesz w kilka minut. Bez rejestracji
 
 ## Playground: Plac zabaw do poznania Klacks
 
-Playground nie jest wariantem instalacji, lecz publiczną instancją Klacks z przykładowymi danymi do niezobowiązującego eksperymentowania — stąd nazwa. Działa pod adresem **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground nie jest wariantem instalacji, lecz publiczną instancją Klacks z przykładowymi danymi do niezobowiązującego eksperymentowania — stąd nazwa. Działa pod adresem **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Hasło:** `P@ssw0rt1`
 - Masz pełne uprawnienia administratora — wypróbuj wszystko.

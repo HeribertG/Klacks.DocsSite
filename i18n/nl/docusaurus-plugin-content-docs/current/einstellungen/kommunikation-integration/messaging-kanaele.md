@@ -35,4 +35,4 @@ Onder Instellingen > Messaging-providers koppelt u externe chat- en sms-kanalen 
 - Bij alle kanalen met een tijdelijk toegangstoken (bijv. KakaoTalk, Zalo) moet dit buiten Klacks bij de provider worden vernieuwd en in Klacks worden aangevuld, anders stopt het verzenden via dit kanaal.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

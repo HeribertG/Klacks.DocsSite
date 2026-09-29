@@ -36,4 +36,4 @@ Một quy tắc lập kế hoạch được gán cho một **hợp đồng**. C�
 - „Số ngày làm việc tối đa" (ưu tiên mềm cho độ dài khối làm việc) và „Số ngày làm việc liên tiếp tối đa" (giới hạn cứng, không bao giờ được vượt quá) là hai quy tắc khác nhau — không nên nhầm lẫn.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

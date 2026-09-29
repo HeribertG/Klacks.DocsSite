@@ -23,4 +23,4 @@ Någon blir frånvarande, och skiftet börjar om några timmar. Klacks väcker d
 - Den som saknar telefonnummer i användarkontot dyker inte ens upp i jourlistan. För förfrågan via Messenger krävs dessutom en kopplad Messenger-kontakt. Frånvaro för jourberedskapen underhåller du direkt i samma lista: från–till, med valfri orsak, på önskemål permanent.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

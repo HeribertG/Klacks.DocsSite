@@ -22,4 +22,4 @@ sidebar_position: 1
 - 若連線測試失敗，Klacks 會提示具體原因（例如驗證錯誤、SSL 交握失敗、逾時），而不是顯示一則籠統的錯誤訊息。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

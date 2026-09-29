@@ -23,4 +23,4 @@ Někdo vypadne a služba začíná za pár hodin. Klacks pak nebudí namátkou c
 - Kdo nemá v uživatelském účtu telefonní číslo, v eskalačním seznamu se vůbec neobjeví. Pro dotaz přes messenger je navíc potřeba spárovaný kontakt v messengeru. Nepřítomnosti v pohotovosti spravujete přímo ve stejném seznamu: od–do, s volitelným důvodem, na přání trvale.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

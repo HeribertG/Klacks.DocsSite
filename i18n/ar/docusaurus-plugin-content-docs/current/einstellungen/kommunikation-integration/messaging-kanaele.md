@@ -35,4 +35,4 @@ sidebar_position: 6
 - بالنسبة لجميع القنوات التي لها رمز وصول محدود المدة (مثل KakaoTalk وZalo)، يجب تجديد الرمز خارج Klacks لدى المزوّد وإدخاله في Klacks مجددًا، وإلا انقطع الإرسال عبر هذه القناة.
 
 ---
-*جرّبوا مباشرة: [ملعب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*
+*جرّبوا مباشرة: [ملعب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة ضبط البيانات يوميًا.*

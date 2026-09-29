@@ -30,4 +30,4 @@ Với mỗi quy tắc, bạn cũng nhập tên và mô tả (đa ngôn ngữ), q
 ![Quy tắc ngày lễ trong Klacks](/img/app-calendar-de.png)
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

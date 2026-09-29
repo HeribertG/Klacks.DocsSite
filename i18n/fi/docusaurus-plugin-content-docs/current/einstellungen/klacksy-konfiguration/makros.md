@@ -25,4 +25,4 @@ Yö-, sunnuntai- ja pyhäpäivälisät tai loma- ja asepalvelustuntien tarkka la
 - `weekday` noudattaa läpi ISO-8601-standardia (1 = maanantai … 7 = sunnuntai) — omissa "viikonloppu"-tarkoitukseen tehdyissä `SELECT CASE`-kyselyissä nämä ovat arvot 6 (lauantai) ja 7 (sunnuntai).
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

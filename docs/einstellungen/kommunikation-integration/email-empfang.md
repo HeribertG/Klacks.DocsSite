@@ -22,4 +22,4 @@ Unter Einstellungen > IMAP-Einstellungen hinterlegen Sie ein Postfach, das Klack
 - Nachrichten im Posteingang lassen sich direkt übersetzen, wenn DeepL konfiguriert ist (siehe eigene Seite).
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

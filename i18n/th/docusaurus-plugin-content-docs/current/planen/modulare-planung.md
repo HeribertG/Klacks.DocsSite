@@ -21,4 +21,4 @@ sidebar_position: 3
 - การวางแผนแบบโมดูลาร์และ [การวางแผนอัตโนมัติ: คลิกเดียว ส่วนที่เหลือทำงานอยู่เบื้องหลัง](../planen/auto-planung.md) เสริมกันได้ดี: แต่ละส่วนสามารถถูกวางแผนโดยอัตโนมัติได้ด้วยตนเอง
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

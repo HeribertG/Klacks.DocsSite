@@ -24,4 +24,4 @@ Em Definições > Geral > Endereço da secretaria, regista o endereço principal
 - Se o país for alterado, o cantão é reposto automaticamente; uma seleção de calendário já escolhida só se mantém se também for compatível com o novo país — caso contrário, também é limpa.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

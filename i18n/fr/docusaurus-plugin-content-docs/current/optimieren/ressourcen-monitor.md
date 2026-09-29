@@ -28,4 +28,4 @@ Les boutons flèches en haut à droite permettent de changer d'année ; la séle
 - Pour un contrat 24/7, la ligne rose est lissée sur la semaine (environ 0,71 par personne et jour calendaire) ; pour un contrat du lundi au vendredi, elle se situe à 1,0 les jours ouvrables et à 0 le week-end.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

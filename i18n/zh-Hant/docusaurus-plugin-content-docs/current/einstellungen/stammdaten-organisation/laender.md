@@ -24,4 +24,4 @@ sidebar_position: 2
 - 國家清單除了其他用途外，也是「營運商地址」中國家選項的資料來源 — 若某個國家尚未建立，請先在此新增，才能在那裡選用。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -21,4 +21,4 @@ Kaikki kielimallit eivät sovellu Klacksylle — sen täytyy pystyä luotettavas
 - Tämä testi on erityisesti suunniteltu funktiokutsuille ja toimintakyvylle, ja se on riippumaton kielasetusten mallitarkistuksesta, jossa riittää matalampi kontekstikkuna pelkkää transkription siistimistä varten.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -25,4 +25,4 @@ Kohdassa Asetukset > Käyttäjähallinta hallitaan **kirjautumistilejä** (järj
 - Admin ei voi asettaa salasanaa suoraan: uudet tilit saavat automaattisesti luodun salasanan, ja kaikki myöhemmät muutokset tehdään sähköpostilinkin "Palauta salasana" kautta.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -30,4 +30,4 @@ För utformningen finns:
 - Tabellens fotrad aktiverar du via en kryssruta direkt under respektive tabell; SUM-etiketten kan visas eller döljas separat för fotradsfältet.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

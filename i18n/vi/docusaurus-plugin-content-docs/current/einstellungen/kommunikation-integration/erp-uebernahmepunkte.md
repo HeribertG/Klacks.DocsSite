@@ -24,4 +24,4 @@ Trong mục Cài đặt > Điểm tiếp nhận ERP, bạn cấu hình cách cá
 - Cấu hình này nằm trong khu vực Cài đặt và do đó chỉ dành cho các vai trò quản trị.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -19,4 +19,4 @@ sidebar_position: 5
 - חלק מהתוספים מביאים עמם כרטיסי הגדרות משלהם (למשל תצורת ספקי Messaging) — אלה מופיעים רק לאחר ההתקנה במקום אחר בהגדרות.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

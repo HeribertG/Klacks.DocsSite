@@ -46,4 +46,4 @@ sidebar_position: 8
 - **비정기 근무와 시간 범위 근무는 집계에 포함되지 않습니다.** 둘 다 고정된 일일 수요를 나타내지 않기 때문에, 의도적으로 [리소스 모니터](../optimieren/ressourcen-monitor.md)의 근무 막대에 표시되지 않습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

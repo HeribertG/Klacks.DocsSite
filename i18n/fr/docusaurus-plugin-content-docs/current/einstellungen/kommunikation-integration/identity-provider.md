@@ -23,4 +23,4 @@ Dans Paramètres > Fournisseur d'identité, vous connectez Klacks à un service 
 - Un identifiant externe issu de l'annuaire (ObjectGUID LDAP ou, à défaut, le Distinguished Name) permet d'éviter les doublons : si le même identifiant est retrouvé lors d'une nouvelle synchronisation, la personne existante est mise à jour plutôt que recréée.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

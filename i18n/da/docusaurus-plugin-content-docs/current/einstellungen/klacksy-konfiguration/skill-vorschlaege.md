@@ -23,4 +23,4 @@ Klacksy lærer af sine egne fejl: Retter du i chatten, at Klacksy har valgt den 
 - Denne funktion kræver administratorrettigheder.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

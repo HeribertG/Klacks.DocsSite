@@ -24,4 +24,4 @@ Under Settings > General > Head Office Address you set your company's master add
 - If the country changes, the canton is automatically reset; an already-selected calendar selection is only kept if it also matches the new country — otherwise it is cleared as well.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

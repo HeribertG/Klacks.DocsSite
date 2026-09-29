@@ -25,4 +25,4 @@ Klacks 針對登入帳號僅提供兩種可指派的權限層級：**主管（Su
 - 登入帳號不一定要與員工的基礎資料卡片連結 — 使用者管理與人員管理是兩個各自獨立的區域。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

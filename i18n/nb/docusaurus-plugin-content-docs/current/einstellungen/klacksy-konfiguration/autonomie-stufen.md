@@ -26,4 +26,4 @@ Hvor selvstendig skal Klacksy kunne handle før den spør deg? Under Innstilling
 - Som standard er nivået Autonom aktivt — det tilsvarer atferden Klacksy hadde allerede før autonominivåene ble innført.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

@@ -41,4 +41,4 @@ sidebar_position: 7
 - กฎการวางแผนที่มีระดับค่าล่วงเวลาของตัวเองจะเขียนทับค่าที่ใช้ทั่วทั้งองค์กรนี้อย่างสมบูรณ์ ไม่ใช่แค่บางระดับเท่านั้น
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

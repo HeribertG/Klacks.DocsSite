@@ -37,4 +37,4 @@ Em Definições > Organização > Contratos gere os modelos de contrato de defin
 - A seleção de calendário por contrato é opcional — se a deixar em branco, não é associado nenhum calendário específico do contrato.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

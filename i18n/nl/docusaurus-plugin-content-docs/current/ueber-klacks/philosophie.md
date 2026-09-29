@@ -24,9 +24,9 @@ Klacks beeldt elke vorm van ploegendienst- en inzetplanning af — van regelmati
 
 ## Wat dit in de praktijk betekent
 
-- Klacks is altijd en voor iedereen volledig gratis — geen registratie, geen verkoopgesprek. De [playground](https://klacks-software.ch:7643) is slechts een manier om vrijblijvend te komen kijken en vertrouwd te raken met de bediening.
+- Klacks is altijd en voor iedereen volledig gratis — geen registratie, geen verkoopgesprek. De [playground](https://play.klacks-software.ch) is slechts een manier om vrijblijvend te komen kijken en vertrouwd te raken met de bediening.
 - U kunt het met een on-premise-pakket (Docker-images, installatieprogramma, database, HTTPS, automatische updates) op uw eigen server draaien.
 - U kunt de broncode inzien en zelf wijzigingen aanbrengen — Klacks blijft van u, ook als u het verder ontwikkelt.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

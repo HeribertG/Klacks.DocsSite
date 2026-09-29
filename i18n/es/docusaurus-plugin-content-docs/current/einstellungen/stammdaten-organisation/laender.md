@@ -24,4 +24,4 @@ En Configuración > Organización > Países gestiona la lista de países disponi
 - La lista de países alimenta, entre otras cosas, la selección de países en la dirección Secretaría — cree aquí primero un país que falte antes de querer seleccionarlo allí.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

@@ -29,4 +29,4 @@ Die Adress- und Personenverwaltung ist das Herzstück Ihrer Stammdaten: Mitarbei
 - Legen Sie zuerst die Gruppenstruktur an und ordnen Sie die Personen dann zu — so greifen die Berechtigungen auf Gruppenebene von Anfang an.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

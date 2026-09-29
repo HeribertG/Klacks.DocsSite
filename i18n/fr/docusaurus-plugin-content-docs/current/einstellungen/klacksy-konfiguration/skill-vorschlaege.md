@@ -23,4 +23,4 @@ Klacksy apprend de ses propres erreurs : si vous corrigez dans le chat le fait q
 - Cette fonction nécessite des droits d'administrateur.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

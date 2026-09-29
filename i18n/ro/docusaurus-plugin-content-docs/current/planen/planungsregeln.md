@@ -36,4 +36,4 @@ O regulă de planificare este asociată unui **contract**. Valorile limită defi
 - „Max. zile lucrătoare" (preferință flexibilă pentru lungimea blocului) și „Max. zile lucrătoare consecutive" (limită superioară strictă, niciodată depășibilă) sunt două reguli diferite — a nu se confunda.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

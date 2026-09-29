@@ -35,4 +35,4 @@ sidebar_position: 6
 - สำหรับทุกช่องทางที่มี Access Token แบบมีอายุจำกัด (เช่น KakaoTalk, Zalo) ต้องต่ออายุนอกระบบ Klacks ที่ผู้ให้บริการ แล้วนำมากรอกใน Klacks ใหม่ มิฉะนั้นการส่งผ่านช่องทางนั้นจะหยุดทำงาน
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

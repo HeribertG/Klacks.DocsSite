@@ -23,4 +23,4 @@ Ktoś wypada, a dyżur zaczyna się za kilka godzin. Klacks nie budzi wtedy na o
 - Kto nie ma numeru telefonu w koncie użytkownika, w ogóle nie pojawia się na liście telefonicznej. Do zapytania przez komunikator potrzebny jest dodatkowo powiązany kontakt w komunikatorze. Nieobecnościami osób pełniących dyżur telefoniczny zarządzasz bezpośrednio w tej samej liście: od–do, z opcjonalnym powodem, na życzenie na stałe.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

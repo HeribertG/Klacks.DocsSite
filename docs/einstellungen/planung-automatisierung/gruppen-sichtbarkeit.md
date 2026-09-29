@@ -20,4 +20,4 @@ Administratoren sind von dieser Einschränkung ausgenommen: Bei ihnen ist der Bu
 - Diese Einstellung steuert die **Sichtbarkeit** von Daten, nicht die grundsätzlichen **Berechtigungen** einer Rolle — Rollen/Rechte werden unabhängig davon verwaltet.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

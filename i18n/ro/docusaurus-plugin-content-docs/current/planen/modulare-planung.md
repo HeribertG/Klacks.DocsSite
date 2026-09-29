@@ -21,4 +21,4 @@ Trucul din spate: fișele de plan păstrează **referințe, nu copii**. Un servi
 - Planificarea modulară și [Planificare automată: un clic, restul rulează în fundal](../planen/auto-planung.md) se completează reciproc: fiecare zonă poate fi planificată automat pe cont propriu.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

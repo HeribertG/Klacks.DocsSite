@@ -29,4 +29,4 @@ sidebar_position: 3
 - 그룹 구조를 먼저 만든 다음 인물을 배정하십시오 — 그래야 그룹 단위 권한이 처음부터 적용됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

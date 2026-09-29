@@ -25,4 +25,4 @@ Mais abaixo, na mesma página de definições, define as cores com que a grelha 
 - Estas cores têm efeito exclusivamente na apresentação da própria grelha de planeamento, não noutras áreas da interface.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

@@ -23,4 +23,4 @@ Di bawah Tetapan > Identity Provider anda menyambungkan Klacks dengan perkhidmat
 - Satu pengecam luaran daripada direktori (LDAP ObjectGUID atau sebagai gantinya Distinguished Name) menghalang pertindanan: jika pengecam yang sama ditemui pada penyegerakan seterusnya, individu sedia ada dikemas kini dan bukannya dicipta baharu.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

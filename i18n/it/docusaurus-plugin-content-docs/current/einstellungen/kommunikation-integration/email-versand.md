@@ -22,4 +22,4 @@ In Impostazioni > Impostazioni e-mail configurate il server SMTP tramite il qual
 - Se il test di connessione fallisce, Klacks segnala il motivo concreto (ad es. errore di autenticazione, errore di handshake SSL, timeout) invece di un messaggio di errore generico.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

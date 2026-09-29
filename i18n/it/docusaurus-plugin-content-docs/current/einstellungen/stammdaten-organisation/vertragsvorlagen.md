@@ -37,4 +37,4 @@ In Impostazioni > Organizzazione > Contratti si gestiscono i modelli di contratt
 - La selezione del calendario per ogni contratto è facoltativa — se la si lascia vuota, non viene impostato alcun calendario specifico per il contratto.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

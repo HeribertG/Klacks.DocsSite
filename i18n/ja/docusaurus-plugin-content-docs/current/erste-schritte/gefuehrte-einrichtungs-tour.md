@@ -23,4 +23,4 @@ Klacksをはじめて使いますか?何かを探し回る必要はありませ�
 - 一番手っ取り早くツアーを体験するにはPlaygroundを使うことです。ログインしてKlacksyを開き、入力を始めるだけです。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

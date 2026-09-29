@@ -19,4 +19,4 @@ V části Nastavení > Uchovávání dat určujete, jak dlouho zůstávají smaz
 - Toto nastavení je technickým základem lhůt mazání popsaných v zásadách ochrany osobních údajů; platí globálně pro všechny typy dat podporující soft-delete, není konfigurovatelné po jednotlivých modulech.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

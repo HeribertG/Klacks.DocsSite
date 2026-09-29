@@ -28,4 +28,4 @@ sidebar_position: 3
 - 若合約為 24/7 型態，粉紅色點線會依整週平滑化計算（每人每個日曆日約為 0.71）；若為週一至週五的合約，平日為 1.0，週末則為 0。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

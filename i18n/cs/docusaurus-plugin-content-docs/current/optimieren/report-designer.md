@@ -30,4 +30,4 @@ Pro úpravu vzhledu máte k dispozici:
 - Patičku tabulky aktivujete zaškrtávacím polem přímo pod danou tabulkou; popisek SUM lze pro pole patičky samostatně zobrazit nebo skrýt.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

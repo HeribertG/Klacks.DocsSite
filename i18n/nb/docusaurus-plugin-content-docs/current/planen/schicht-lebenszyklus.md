@@ -46,4 +46,4 @@ Hvordan de planbare vaktene deretter bemannes, beskrives i [Autoplanlegging: Ett
 - **Sporadiske vakter og tidsramme-vakter telles ikke med.** Begge vises bevisst ikke i vaktstolpen til [Ressursmonitoren](../optimieren/ressourcen-monitor.md), fordi de ikke avbilder et fast daglig behov.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

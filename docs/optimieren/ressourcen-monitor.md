@@ -28,4 +28,4 @@ Mit den Pfeil-Buttons oben rechts wechseln Sie das Jahr; über die Gruppen-Auswa
 - Bei einem 24/7-Vertrag wird die rosa Linie über die Woche geglättet (ca. 0.71 pro Person und Kalendertag); bei einem Mo–Fr-Vertrag steht sie an Werktagen auf 1.0, am Wochenende auf 0.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

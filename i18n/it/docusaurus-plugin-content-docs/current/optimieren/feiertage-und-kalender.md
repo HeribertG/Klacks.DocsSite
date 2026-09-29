@@ -30,4 +30,4 @@ Per ogni regola registrate inoltre nome e descrizione (multilingue), paese e can
 ![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

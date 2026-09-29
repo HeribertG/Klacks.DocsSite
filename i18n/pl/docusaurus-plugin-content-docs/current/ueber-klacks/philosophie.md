@@ -24,9 +24,9 @@ Klacks odwzorowuje każdy rodzaj planowania zmian i wyjazdów — od regularnych
 
 ## Co to oznacza w praktyce
 
-- Klacks jest zawsze i dla każdego całkowicie bezpłatny — bez rejestracji, bez rozmowy handlowej. [Playground](https://klacks-software.ch:7643) to po prostu możliwość, by bez zobowiązań zajrzeć do aplikacji i oswoić się z jej obsługą.
+- Klacks jest zawsze i dla każdego całkowicie bezpłatny — bez rejestracji, bez rozmowy handlowej. [Playground](https://play.klacks-software.ch) to po prostu możliwość, by bez zobowiązań zajrzeć do aplikacji i oswoić się z jej obsługą.
 - Możesz uruchomić go za pomocą pakietu On-Premise (obrazy Docker, instalator, baza danych, HTTPS, automatyczne aktualizacje) na własnym serwerze.
 - Możesz przejrzeć kod źródłowy i samodzielnie wprowadzać zmiany — Klacks pozostaje Twój, nawet jeśli go rozwijasz.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

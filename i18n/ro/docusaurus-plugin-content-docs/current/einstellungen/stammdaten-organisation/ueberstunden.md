@@ -41,4 +41,4 @@ Sub Setări > Conformitate și reguli de sporuri (mod expert) > Ore suplimentare
 - O regulă de planificare cu niveluri proprii de ore suplimentare suprascrie complet aceste valori la nivelul întregii companii, nu doar niveluri individuale.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

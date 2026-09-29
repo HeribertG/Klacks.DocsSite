@@ -19,4 +19,4 @@ Sous Paramètres > Conservation des données, vous définissez la durée pendant
 - Ce paramètre constitue le fondement technique des délais de suppression décrits dans la déclaration de protection des données ; il s'applique globalement à tous les types de données pouvant faire l'objet d'une suppression logicielle, et n'est pas configurable par module.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

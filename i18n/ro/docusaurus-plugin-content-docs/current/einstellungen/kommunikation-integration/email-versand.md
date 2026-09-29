@@ -22,4 +22,4 @@ sidebar_position: 1
 - Dacă testul de conexiune eșuează, Klacks semnalează motivul concret (de ex. eroare de autentificare, eroare de handshake SSL, depășire de timp) în loc de un mesaj de eroare generic.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

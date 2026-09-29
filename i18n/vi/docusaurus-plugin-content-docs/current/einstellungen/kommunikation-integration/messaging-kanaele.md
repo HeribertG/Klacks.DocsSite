@@ -35,4 +35,4 @@ Trong mục Cài đặt > Nhà cung cấp nhắn tin, bạn kết nối các kê
 - Đối với tất cả các kênh có token truy cập giới hạn thời gian (ví dụ KakaoTalk, Zalo), token này phải được gia hạn bên ngoài Klacks tại nhà cung cấp và bổ sung lại vào Klacks, nếu không việc gửi tin qua kênh này sẽ bị gián đoạn.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

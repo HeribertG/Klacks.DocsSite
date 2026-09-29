@@ -35,4 +35,4 @@ Di bawah Tetapan > Penyedia Pemesejan anda menyambungkan saluran sembang dan SMS
 - Bagi semua saluran dengan token akses berjangka masa (contohnya KakaoTalk, Zalo), token ini mesti diperbaharui di luar Klacks pada penyedia dan ditambah semula dalam Klacks, jika tidak penghantaran melalui saluran ini akan terhenti.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

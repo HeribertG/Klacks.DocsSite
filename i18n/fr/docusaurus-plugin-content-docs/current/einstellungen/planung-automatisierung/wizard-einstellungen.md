@@ -20,4 +20,4 @@ Le traitement d'image n'est pas ici un détail accessoire, mais une condition pr
 - Le bouton de test est un simple auto-test (accessibilité + compréhension d'image + temps de réponse) et ne modifie en soi aucune donnée de planification.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

@@ -20,4 +20,4 @@ Administrátoři jsou z tohoto omezení vyňati: u nich je tlačítko deaktivov�
 - Toto nastavení řídí **viditelnost** dat, nikoli základní **oprávnění** role — role/práva se spravují nezávisle na tomto nastavení.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -22,4 +22,4 @@ Selecțiile de calendar proprii se creează prin „+ Adăugați selecție de ca
 - Această pagină doar reunește și denumește seturi de reguli de calendar. Regulile propriu-zise ale sărbătorilor legale (formula de calcul, deplasarea zilei săptămânii etc.) sunt gestionate separat — a se vedea „Sărbători legale & calendar".
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

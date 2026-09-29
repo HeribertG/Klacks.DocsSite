@@ -24,9 +24,9 @@ Klacks acoperă orice tip de planificare pe ture și intervenții — de la ture
 
 ## Ce înseamnă asta în practică
 
-- Klacks este întotdeauna și pentru oricine complet gratuit — fără înregistrare, fără discuție de vânzare. [Playground](https://klacks-software.ch:7643) este doar o modalitate de a-l testa fără obligații și de a vă familiariza cu modul de utilizare.
+- Klacks este întotdeauna și pentru oricine complet gratuit — fără înregistrare, fără discuție de vânzare. [Playground](https://play.klacks-software.ch) este doar o modalitate de a-l testa fără obligații și de a vă familiariza cu modul de utilizare.
 - Îl puteți opera cu un pachet On-Premise (imagini Docker, program de instalare, bază de date, HTTPS, actualizări automate) pe propriul server.
 - Puteți consulta codul sursă și face modificări proprii — Klacks rămâne al dumneavoastră, chiar dacă îl dezvoltați în continuare.
 
 ---
-*Testați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Testați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

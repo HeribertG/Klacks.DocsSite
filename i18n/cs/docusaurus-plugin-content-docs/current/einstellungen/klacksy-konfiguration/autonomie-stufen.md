@@ -26,4 +26,4 @@ Jak samostatně smí Klacksy jednat, než se zeptá? V nastavení Nastavení > A
 - Standardně je aktivní úroveň Autonomní — to odpovídá chování, které měl Klacksy již před zavedením úrovní autonomie.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

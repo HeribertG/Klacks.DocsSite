@@ -46,4 +46,4 @@ sidebar_position: 8
 - **临时性班次与时间范围班次不计入统计。** 两者都特意不出现在[资源监控](../optimieren/ressourcen-monitor.md)的班次柱形图中，因为它们并不代表固定的每日需求。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

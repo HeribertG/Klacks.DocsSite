@@ -80,7 +80,7 @@ const config = {
         },
         items: [
           { href: 'https://klacks-software.ch', label: 'Website', position: 'right' },
-          { href: 'https://klacks-software.ch:7643', label: 'Playground', position: 'right' },
+          { href: 'https://play.klacks-software.ch', label: 'Playground', position: 'right' },
           { href: 'https://discord.gg/YRP8p2abVC', label: 'Discord', position: 'right' },
           { href: 'https://github.com/HeribertG/Klacks.Api', label: 'GitHub', position: 'right' },
           { type: 'localeDropdown', position: 'right' },

@@ -24,4 +24,4 @@ sidebar_position: 5
 - การกำหนดค่านี้อยู่ในส่วนการตั้งค่า จึงสงวนไว้สำหรับบทบาทที่มีสิทธิ์ผู้ดูแลระบบเท่านั้น
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

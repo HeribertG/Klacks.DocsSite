@@ -28,4 +28,4 @@ Jokainen vaihe **lukitsee muokkauksen** vastaavasti: sitä, mikä on hyväksytty
 - Kuukauden kirjanpidollista päättämistä varten on lisäksi [Jakson päättäminen](../planen/periodenabschluss.md).
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

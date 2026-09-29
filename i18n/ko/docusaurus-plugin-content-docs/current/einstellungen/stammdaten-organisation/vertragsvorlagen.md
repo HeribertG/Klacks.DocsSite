@@ -37,4 +37,4 @@ sidebar_position: 6
 - 계약별 캘린더 선택은 선택 사항입니다 — 비워 두면 계약별 캘린더가 지정되지 않습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

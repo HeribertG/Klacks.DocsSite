@@ -34,4 +34,4 @@ sidebar_position: 7
 - 一个被禁用的扩展包仍处于已安装状态，但会像未安装一样，完全锁定自动交接功能。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

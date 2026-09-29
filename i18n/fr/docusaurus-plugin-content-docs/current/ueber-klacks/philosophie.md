@@ -24,9 +24,9 @@ Klacks prend en charge tout type de planification par équipes et interventions 
 
 ## Ce que cela signifie concrètement
 
-- Klacks est toujours et pour tout le monde entièrement gratuit — sans inscription, sans entretien commercial. Le [Playground](https://klacks-software.ch:7643) n'est qu'un moyen de le découvrir sans engagement et de se familiariser avec son fonctionnement.
+- Klacks est toujours et pour tout le monde entièrement gratuit — sans inscription, sans entretien commercial. Le [Playground](https://play.klacks-software.ch) n'est qu'un moyen de le découvrir sans engagement et de se familiariser avec son fonctionnement.
 - Vous pouvez l'exploiter sur votre propre serveur grâce à un paquet On-Premise (images Docker, programme d'installation, base de données, HTTPS, mises à jour automatiques).
 - Vous pouvez consulter le code source et y apporter vous-même des modifications — Klacks reste le vôtre, même lorsque vous le faites évoluer.
 
 ---
-*Essayez-le directement : [Playground Klacks](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*Essayez-le directement : [Playground Klacks](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

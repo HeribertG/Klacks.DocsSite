@@ -20,4 +20,4 @@ Xử lý hình ảnh ở đây không phải là chuyện phụ mà là điều 
 - Nút kiểm tra chỉ là một bài tự kiểm tra thuần túy (khả năng truy cập + hiểu hình ảnh + thời gian phản hồi) và tự nó không thay đổi bất kỳ dữ liệu lập kế hoạch nào.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

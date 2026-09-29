@@ -25,4 +25,4 @@ Trong mục Cài đặt > Quản lý người dùng, bạn quản lý các **tà
 - Không có việc admin đặt mật khẩu trực tiếp: các tài khoản mới nhận được một mật khẩu được tạo tự động, mọi thay đổi sau này đều đi qua liên kết email "Đặt lại mật khẩu".
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

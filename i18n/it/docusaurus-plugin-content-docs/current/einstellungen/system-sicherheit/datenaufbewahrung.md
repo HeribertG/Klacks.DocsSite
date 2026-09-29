@@ -19,4 +19,4 @@ In Impostazioni > Conservazione dei dati si stabilisce per quanto tempo i record
 - Questa impostazione costituisce il fondamento tecnico dei termini di cancellazione descritti nell'informativa sulla privacy; si applica globalmente a tutti i tipi di dati che supportano l'eliminazione logica e non è configurabile per singolo modulo.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

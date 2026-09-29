@@ -25,4 +25,4 @@ Los recargos por trabajo nocturno, dominical y en días festivos, o el cálculo 
 - `weekday` sigue siempre ISO-8601 (1 = lunes … 7 = domingo) — en sus propias consultas `SELECT CASE` para "fin de semana", esos son los valores 6 (sábado) y 7 (domingo).
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

@@ -41,4 +41,4 @@ sidebar_position: 7
 - 자체 초과근무 단계를 가진 계획 규칙은 개별 단계뿐 아니라 이 회사 전체 값을 완전히 덮어씁니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

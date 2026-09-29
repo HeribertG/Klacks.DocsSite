@@ -24,4 +24,4 @@ sidebar_position: 2
 - Lista de țări alimentează, printre altele, selecția de țări de la adresa Secretariat — adăugați aici mai întâi o țară lipsă, înainte de a dori să o selectați acolo.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

@@ -18,4 +18,4 @@ OpenRouteService beregner reisetider og avstander — for bilkjøring, sykling o
 - For den rene omregningen av adresser til koordinater (geokoding) bruker Klacks en annen, separat tjeneste — denne nøkkelen er utelukkende beregnet for ruteberegning.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

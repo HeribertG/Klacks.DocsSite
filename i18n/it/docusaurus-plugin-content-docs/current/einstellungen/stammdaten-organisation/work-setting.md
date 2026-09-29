@@ -24,4 +24,4 @@ In Impostazioni > Orario di lavoro e pianificazione > Impostazioni di base della
 - I tassi di maggiorazione vanno intesi come percentuali/moltiplicatori, non come importi assoluti.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

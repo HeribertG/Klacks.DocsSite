@@ -28,4 +28,4 @@ Klacksでは、勤務表は明確に定義された段階を経て進んでい�
 - 月次の経理締めについては、別途[期間締め](../planen/periodenabschluss.md)があります。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

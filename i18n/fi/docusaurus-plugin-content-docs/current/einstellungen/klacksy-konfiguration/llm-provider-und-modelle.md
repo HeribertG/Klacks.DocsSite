@@ -23,4 +23,4 @@ Klacksy tarvitsee kielimallin ymmärtääkseen ja toimiakseen. Kohdassa Asetukse
 - Synkronointilokipalvelu toimii taustalla istunnostasi riippumatta — sivua ei tarvitse pitää auki sitä varten.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

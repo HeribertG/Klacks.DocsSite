@@ -23,4 +23,4 @@ sidebar_position: 1
 - คำสั่งการวางแผนถูกซ่อนไว้เป็นค่าเริ่มต้นในตารางเวร และสามารถเปิดให้แสดงผ่านไอคอนเฉพาะในแถบเครื่องมือ
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

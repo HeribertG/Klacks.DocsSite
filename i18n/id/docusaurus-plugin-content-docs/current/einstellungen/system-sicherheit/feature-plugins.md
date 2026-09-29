@@ -19,4 +19,4 @@ Plugin fitur memperluas Klacks dengan area fungsi opsional yang bukan bagian dar
 - Beberapa plugin membawa kartu pengaturan sendiri (misalnya konfigurasi penyedia Messaging) — kartu ini baru muncul di tempat lain dalam pengaturan setelah pemasangan.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

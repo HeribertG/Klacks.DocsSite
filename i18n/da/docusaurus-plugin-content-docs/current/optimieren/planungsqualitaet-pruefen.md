@@ -29,4 +29,4 @@ Hvilke regler der kontrolleres, og hvor strengt de gælder, fastlægger du i [pl
 - Rapporterne er rene visninger: De kan ikke redigeres og ændrer intet. Rettelser sker i [Plan-gitteret: Din interaktive tidsmatrix](../planen/plan-raster.md) eller ved et nyt forløb.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

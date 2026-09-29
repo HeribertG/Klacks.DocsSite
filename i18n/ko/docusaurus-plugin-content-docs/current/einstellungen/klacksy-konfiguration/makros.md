@@ -25,4 +25,4 @@ sidebar_position: 7
 - `weekday`는 항상 ISO-8601을 따릅니다(1 = 월요일 … 7 = 일요일) — 직접 "주말"을 판별하는 `SELECT CASE` 조건을 작성할 때는 6(토요일)과 7(일요일) 값을 사용해야 합니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

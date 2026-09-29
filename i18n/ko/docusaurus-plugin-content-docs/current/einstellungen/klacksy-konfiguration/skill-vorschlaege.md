@@ -23,4 +23,4 @@ Klacksy는 자신의 실수로부터 배웁니다: 채팅에서 Klacksy가 잘�
 - 이 기능은 관리자 권한이 필요합니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

@@ -22,4 +22,4 @@ Päivittäisen työn sydän: tehokas aikamatriisi, jossa rivit edustavat työnte
 ![Klacks-työvuorosuunnitelman ruudukko](/img/app-schedule-de.png)
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

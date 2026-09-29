@@ -23,4 +23,4 @@ Có người vắng mặt đột xuất, và ca làm việc bắt đầu trong v
 - Ai không có số điện thoại trong tài khoản người dùng sẽ hoàn toàn không xuất hiện trong danh sách trực gọi. Đối với yêu cầu qua ứng dụng nhắn tin, cần thêm một liên hệ nhắn tin đã được liên kết. Bạn quản lý các khoảng vắng mặt của bộ phận trực gọi trực tiếp trong cùng danh sách đó: từ–đến, kèm lý do tùy chọn, có thể đặt vĩnh viễn nếu muốn.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

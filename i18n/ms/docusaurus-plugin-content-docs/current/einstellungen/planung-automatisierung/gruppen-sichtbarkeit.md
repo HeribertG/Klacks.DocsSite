@@ -20,4 +20,4 @@ Pentadbir (Administrator) dikecualikan daripada had ini: bagi mereka, butang din
 - Tetapan ini mengawal **Keterlihatan** data, bukan **Hak Akses** asas sesuatu Peranan — Peranan/Hak Akses diuruskan secara berasingan.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

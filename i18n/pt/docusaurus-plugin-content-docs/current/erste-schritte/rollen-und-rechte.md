@@ -25,4 +25,4 @@ No dia a dia, é geralmente uma conta de Supervisor que assume o verdadeiro trab
 - Uma conta de início de sessão não precisa necessariamente de estar associada a uma ficha de dados mestre de colaborador — a gestão de utilizadores e a gestão de pessoas são áreas distintas.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

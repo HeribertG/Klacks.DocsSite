@@ -26,4 +26,4 @@ Klacksy doesn't have a rigid, hard-coded character — under Settings > Klacksy 
 - Empty fields aren't a problem: Klacksy then falls back on its built-in default attitude. A few further internal behavior aspects are maintained by the system itself and aren't directly configurable here.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

@@ -29,4 +29,4 @@ La gestione di indirizzi e persone è il cuore dei vostri dati anagrafici: colla
 - Create prima la struttura dei gruppi e poi assegnate le persone — così i permessi a livello di gruppo funzionano fin dall'inizio.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

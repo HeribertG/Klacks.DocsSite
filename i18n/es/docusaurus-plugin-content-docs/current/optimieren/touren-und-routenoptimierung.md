@@ -26,4 +26,4 @@ Si para un desplazamiento hay franjas horarias fijas registradas (por ejemplo, s
 ![Vista de línea de tiempo para la planificación de rutas](/img/app-timeline-de.png)
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

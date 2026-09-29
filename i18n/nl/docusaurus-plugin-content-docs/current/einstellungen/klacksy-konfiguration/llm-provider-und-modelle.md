@@ -23,4 +23,4 @@ Klacksy heeft een taalmodel nodig om te begrijpen en te handelen. Onder Instelli
 - De synchronisatiedienst draait onafhankelijk van uw sessie op de achtergrond — u hoeft de pagina daarvoor niet open te houden.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

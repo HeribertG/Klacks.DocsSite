@@ -22,4 +22,4 @@ Kohdassa Asetukset > IMAP-asetukset tallennat postilaatikon, jota Klacks hakee j
 - Saapuneiden viestit voidaan kääntää suoraan, jos DeepL on määritetty (katso oma sivu).
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

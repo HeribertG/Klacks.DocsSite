@@ -30,4 +30,4 @@ Pour la mise en forme, vous disposez de :
 - Le pied de tableau s'active via une case à cocher directement sous le tableau concerné ; l'étiquette SUM peut être affichée ou masquée séparément pour le champ de pied de page.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

@@ -24,4 +24,4 @@ Trang này được chia thành ba tab: **Kỳ**, **Xuất dữ liệu** và **N
 - Bạn truy cập Chốt kỳ qua biểu tượng chốt kỳ ở thanh điều hướng bên trái.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

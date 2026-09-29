@@ -20,4 +20,4 @@ sidebar_position: 3
 - チェックボタンは純粋な自己診断（到達可能性＋画像理解＋応答時間）であり、それ自体が計画データを変更することはありません。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

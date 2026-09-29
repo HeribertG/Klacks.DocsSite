@@ -24,4 +24,4 @@ Strona podzielona jest na trzy karty: **Okresy**, **Eksporty** i **Protokół**.
 - Zamknięcie okresu znajdziesz pod ikoną zamknięcia w lewej nawigacji.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

@@ -25,4 +25,4 @@ Più in basso, nella stessa pagina delle impostazioni, si definiscono i colori c
 - Questi colori influiscono esclusivamente sulla visualizzazione della griglia del piano stessa, non su altre aree dell'interfaccia.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

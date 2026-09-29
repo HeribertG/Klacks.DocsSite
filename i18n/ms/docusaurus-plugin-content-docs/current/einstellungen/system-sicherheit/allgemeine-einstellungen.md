@@ -25,4 +25,4 @@ Lebih ke bawah pada halaman tetapan yang sama, anda menetapkan warna yang diguna
 - Warna-warna ini hanya mempengaruhi paparan grid Jadual itu sendiri, bukan bahagian lain antara muka.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -24,4 +24,4 @@ Under Indstillinger > Organisation > Lande administrerer du listen over lande, d
 - Landelisten forsyner blandt andet landevalget ved adressen Sekretariat — opret først et manglende land her, før du vil vælge det der.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

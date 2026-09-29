@@ -22,4 +22,4 @@ Di Pengaturan > Organisasi > Cabang, Anda mengelola alamat lokasi usaha Anda —
 - Asisten Klacksy juga dapat membuat atau menghapus cabang melalui perintah suara ("buat sebuah cabang ...").
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

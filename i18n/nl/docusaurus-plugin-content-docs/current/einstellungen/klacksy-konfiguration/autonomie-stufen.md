@@ -26,4 +26,4 @@ Hoe zelfstandig mag Klacksy handelen voordat hij om bevestiging vraagt? Onder In
 - Standaard is het niveau Autonoom actief — dat komt overeen met het gedrag dat Klacksy al had vóór de invoering van de autonomieniveaus.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

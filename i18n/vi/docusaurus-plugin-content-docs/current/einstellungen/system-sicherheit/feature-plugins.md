@@ -19,4 +19,4 @@ Plugin tính năng mở rộng Klacks với các khu vực chức năng tùy ch�
 - Một số plugin đi kèm với các thẻ cài đặt riêng (ví dụ cấu hình nhà cung cấp Messaging) — những thẻ này chỉ xuất hiện sau khi cài đặt, ở một vị trí khác trong phần cài đặt.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

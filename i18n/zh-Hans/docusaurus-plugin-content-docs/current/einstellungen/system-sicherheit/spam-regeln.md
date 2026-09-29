@@ -19,4 +19,4 @@ sidebar_position: 7
 - 使用发件人域名规则可以整体屏蔽不需要的发件组织，而不必为每个地址单独创建发件人包含规则。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

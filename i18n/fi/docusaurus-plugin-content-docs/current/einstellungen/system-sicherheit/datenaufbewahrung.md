@@ -19,4 +19,4 @@ Kohdassa Asetukset > Tietojen säilytys määritetään, kuinka kauan poistetut 
 - Tämä asetus on tietosuojaselosteessa kuvattujen säilytysaikojen tekninen perusta; se koskee globaalisti kaikkia soft delete -kelpoisia tietotyyppejä eikä sitä voi määrittää moduulikohtaisesti.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

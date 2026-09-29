@@ -19,4 +19,4 @@ Kohdassa Asetukset > Roskapostisäännöt määritetään suodatussäännöt, jo
 - Käytä lähettäjän verkkotunnus -sääntöjä estääksesi kokonaisia ei-toivottuja lähettäjäorganisaatioita sen sijaan, että kirjaisit jokaisen yksittäisen osoitteen erillisenä lähettäjä sisältää -sääntönä.
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

@@ -25,4 +25,4 @@ Klacks 为登录账号仅提供两种可分配的权限级别：**主管（Super
 - 登录账号不必与某个员工基础数据档案关联 — 用户管理与人员管理是两个独立的区域。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

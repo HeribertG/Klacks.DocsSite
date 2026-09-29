@@ -19,4 +19,4 @@ Di bawah Tetapan > Peraturan Spam, anda menentukan peraturan penapis yang mengel
 - Gunakan peraturan domain pengirim untuk menyekat keseluruhan organisasi pengirim yang tidak diingini, dan bukannya merekodkan setiap alamat secara berasingan sebagai peraturan pengirim-mengandungi.
 
 ---
-*Cuba sendiri: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

@@ -24,4 +24,4 @@ sidebar_position: 3
 - 国を変更すると、カントンは自動的にリセットされます。既に選択されていたカレンダー選択は、新しい国にも対応している場合のみ保持され、そうでない場合は同様にクリアされます。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

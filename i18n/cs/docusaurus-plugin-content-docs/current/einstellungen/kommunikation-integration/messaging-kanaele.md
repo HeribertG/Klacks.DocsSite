@@ -35,4 +35,4 @@ V nastavení Nastavení > Poskytovatelé zpráv připojujete externí chatové a
 - U všech kanálů s časově omezeným přístupovým tokenem (např. KakaoTalk, Zalo) je nutné tento token obnovit mimo Klacks u poskytovatele a doplnit jej v Klacks, jinak odesílání přes tento kanál přestane fungovat.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

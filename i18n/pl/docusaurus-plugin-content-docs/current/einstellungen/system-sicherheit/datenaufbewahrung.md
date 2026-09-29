@@ -19,4 +19,4 @@ W sekcji Ustawienia > Przechowywanie danych ustalają Państwo, jak długo usuni
 - To ustawienie jest technicznym fundamentem terminów usuwania opisanych w polityce prywatności; obowiązuje globalnie dla wszystkich typów danych obsługujących soft-delete i nie jest konfigurowalne osobno dla poszczególnych modułów.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

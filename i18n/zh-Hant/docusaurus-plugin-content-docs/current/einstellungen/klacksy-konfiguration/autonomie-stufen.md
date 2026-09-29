@@ -26,4 +26,4 @@ Klacksy 在需要詢問您之前，可以自主行動到什麼程度？您可以
 - 系統預設啟用「自主」等級 — 這與 Klacksy 在推出自主等級功能之前的行為一致。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

@@ -35,4 +35,4 @@ Em Definições > Fornecedores de mensagens, associa canais de chat e SMS extern
 - Em todos os canais com token de acesso temporário (por exemplo, KakaoTalk, Zalo), este tem de ser renovado fora do Klacks junto do fornecedor e depois atualizado no Klacks, caso contrário o envio através desse canal falha.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

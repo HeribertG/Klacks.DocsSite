@@ -24,4 +24,4 @@ Under Innstillinger > ERP-overføringspunkter konfigurerer du hvordan bestilling
 - Denne konfigurasjonen ligger i innstillingsområdet og er dermed forbeholdt administrative roller.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

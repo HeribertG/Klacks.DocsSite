@@ -35,4 +35,4 @@ Dans Paramètres > Fournisseurs de messagerie, vous connectez des canaux de chat
 - Pour tous les canaux à jeton d'accès à durée limitée (par ex. KakaoTalk, Zalo), celui-ci doit être renouvelé chez le fournisseur en dehors de Klacks puis reporté dans Klacks, sinon l'envoi via ce canal s'interrompt.
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

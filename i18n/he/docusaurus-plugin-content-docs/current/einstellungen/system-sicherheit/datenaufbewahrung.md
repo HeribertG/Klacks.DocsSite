@@ -19,4 +19,4 @@ sidebar_position: 3
 - הגדרה זו היא התשתית הטכנית של תקופות המחיקה המתוארות במדיניות הפרטיות; היא חלה באופן גלובלי על כל סוגי הנתונים התומכים ב-Soft-Delete, ואינה ניתנת להגדרה לפי מודול.
 
 ---
-*נסו בעצמכם: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו בעצמכם: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

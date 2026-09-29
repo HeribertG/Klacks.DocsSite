@@ -20,4 +20,4 @@ L'elaborazione delle immagini non è qui un aspetto secondario, bensì un prereq
 - Il pulsante di verifica è un semplice autotest (raggiungibilità + comprensione delle immagini + tempo di risposta) e di per sé non modifica alcun dato di pianificazione.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

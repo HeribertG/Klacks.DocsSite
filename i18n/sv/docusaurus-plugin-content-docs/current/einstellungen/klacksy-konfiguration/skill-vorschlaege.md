@@ -23,4 +23,4 @@ Klacksy lär sig av sina egna misstag: rättar du i chatten att Klacksy valt fel
 - Denna funktion kräver administratörsrättigheter.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

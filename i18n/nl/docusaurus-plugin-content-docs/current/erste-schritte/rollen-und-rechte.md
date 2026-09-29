@@ -25,4 +25,4 @@ In de dagelijkse praktijk neemt meestal een Supervisor-account het eigenlijke pl
 - Een loginaccount hoeft niet per se gekoppeld te zijn aan een medewerker-stamgegevenskaart — gebruikersbeheer en personenbeheer zijn gescheiden onderdelen.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

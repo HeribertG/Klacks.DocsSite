@@ -35,4 +35,4 @@ En Configuración > Proveedores de mensajería conecta canales externos de chat 
 - En todos los canales con token de acceso temporal (p. ej., KakaoTalk, Zalo), este debe renovarse fuera de Klacks en el proveedor correspondiente y actualizarse en Klacks, de lo contrario el envío por este canal se interrumpe.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

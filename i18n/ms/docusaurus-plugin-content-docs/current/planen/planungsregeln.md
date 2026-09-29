@@ -36,4 +36,4 @@ Satu Peraturan Perancangan dikaitkan dengan satu **Kontrak**. Nilai had yang dit
 - "Maks. hari bekerja" (keutamaan lembut untuk panjang blok) dan "Maks. hari bekerja berturut-turut" (had atas keras yang tidak boleh dilanggar) adalah dua peraturan yang berbeza — jangan dikelirukan.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

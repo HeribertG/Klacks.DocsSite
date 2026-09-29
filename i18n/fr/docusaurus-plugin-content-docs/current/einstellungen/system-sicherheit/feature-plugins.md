@@ -19,4 +19,4 @@ Les plugins de fonctionnalités étendent Klacks avec des domaines fonctionnels 
 - Certains plugins apportent leurs propres cartes de paramètres (par exemple la configuration des fournisseurs de messagerie) — celles-ci n'apparaissent qu'après l'installation, à un autre endroit des paramètres.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

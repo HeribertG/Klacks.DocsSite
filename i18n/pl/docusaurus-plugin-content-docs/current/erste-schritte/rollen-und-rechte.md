@@ -25,4 +25,4 @@ Na co dzień właściwą pracę planistyczną przejmuje zwykle konto typu Superv
 - Konto logowania nie musi być koniecznie powiązane z kartą danych podstawowych pracownika — zarządzanie użytkownikami i zarządzanie osobami to oddzielne obszary.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

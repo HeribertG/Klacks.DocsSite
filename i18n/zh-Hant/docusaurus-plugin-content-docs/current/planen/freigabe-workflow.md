@@ -28,4 +28,4 @@ sidebar_position: 4
 - 若要對某個月份進行會計上的結算，另外還有[期間結算](../planen/periodenabschluss.md)可供使用。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

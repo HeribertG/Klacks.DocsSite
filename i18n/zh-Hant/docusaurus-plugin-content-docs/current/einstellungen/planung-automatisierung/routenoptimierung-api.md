@@ -18,4 +18,4 @@ OpenRouteService 負責計算開車、騎自行車與步行的旅行時間與距
 - 至於單純把地址轉換成座標（地理編碼）的功能，Klacks 使用的是另一個獨立的服務 — 這裡的金鑰只負責路線計算。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

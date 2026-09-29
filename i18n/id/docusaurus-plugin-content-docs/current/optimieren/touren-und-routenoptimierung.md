@@ -26,4 +26,4 @@ Jika untuk suatu penugasan ditetapkan jendela waktu tertentu (misalnya hanya pag
 ![Tampilan Timeline untuk Perencanaan Tur](/img/app-timeline-de.png)
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

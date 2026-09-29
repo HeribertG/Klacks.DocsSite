@@ -22,4 +22,4 @@ Kohdassa Asetukset > Organisaatio > Toimipisteet ylläpidät toimipaikkojesi oso
 - Myös Klacksy-avustaja osaa luoda tai poistaa toimipisteitä äänikomennolla ("luo toimipiste ...").
 
 ---
-*Kokeile suoraan: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*
+*Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, data nollataan päivittäin.*

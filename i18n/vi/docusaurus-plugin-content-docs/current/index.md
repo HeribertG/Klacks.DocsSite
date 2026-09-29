@@ -13,7 +13,7 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 
 | | |
 |---|---|
-| 🎮 **Dùng thử** | [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1` (phiên bản thử nghiệm công khai, dữ liệu được đặt lại hàng ngày) |
+| 🎮 **Dùng thử** | [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1` (phiên bản thử nghiệm công khai, dữ liệu được đặt lại hàng ngày) |
 | 📦 **Cài đặt** | [Tải gói On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — chỉ một lệnh, và Klacks chạy ngay |
 | 💬 **Câu hỏi & Trao đổi** | [Cộng đồng Klacks trên Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |

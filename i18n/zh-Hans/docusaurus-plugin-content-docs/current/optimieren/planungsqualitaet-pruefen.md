@@ -29,4 +29,4 @@ sidebar_position: 7
 - 这些报告纯粹是只读视图：无法编辑，也不会改动任何内容。修正需要在 [排班网格：您的交互式时间矩阵](../planen/plan-raster.md) 中进行，或者重新运行一次。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

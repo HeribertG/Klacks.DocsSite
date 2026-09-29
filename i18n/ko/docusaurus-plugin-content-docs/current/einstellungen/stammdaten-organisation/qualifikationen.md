@@ -30,4 +30,4 @@ sidebar_position: 5
 - 카테고리 필드는 "업무" 유형에서만 표시됩니다 — 어학 자격에는 카테고리가 없습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

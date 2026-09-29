@@ -23,4 +23,4 @@ Klacksy har brug for en sprogmodel for at kunne forstå og handle. Under Indstil
 - Synkroniseringslog-tjenesten kører uafhængigt af din session i baggrunden — du behøver ikke holde siden åben af den grund.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

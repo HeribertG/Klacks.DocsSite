@@ -23,4 +23,4 @@ Klacksy זקוק למודל שפה כדי להבין ולפעול. תחת הגד
 - שירות יומן הסנכרון פועל ברקע ללא תלות בהפעלה שלכם — אין צורך להשאיר את הדף פתוח לשם כך.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

@@ -21,4 +21,4 @@ Klacks prend en charge en permanence quatre langues principales dans le frontend
 - Le taux de couverture d'un plugin linguistique peut être inférieur à 100 % lorsque de nouvelles fonctionnalités ont été ajoutées avant que la traduction ne les rattrape ; les textes manquants basculent alors sur l'anglais, la langue de repli technique pour toutes les langues des plugins.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

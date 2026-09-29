@@ -23,4 +23,4 @@ Vous obtenez ainsi, étape par étape, une vue d'ensemble complète de l'applica
 - Le plus rapide pour découvrir la visite est de le faire dans le Playground : connectez-vous, ouvrez Klacksy, et lancez-vous.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

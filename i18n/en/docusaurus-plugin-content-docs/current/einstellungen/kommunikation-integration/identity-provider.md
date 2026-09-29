@@ -23,4 +23,4 @@ Under Settings > Identity Provider you connect Klacks to an external directory s
 - An external identifier from the directory (LDAP ObjectGUID, or the distinguished name as a fallback) prevents duplicates: if the same identifier is found again during a repeat sync, the existing person is updated instead of created anew.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

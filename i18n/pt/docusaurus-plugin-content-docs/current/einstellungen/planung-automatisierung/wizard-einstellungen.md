@@ -20,4 +20,4 @@ O processamento de imagem não é aqui um pormenor secundário, mas sim um requi
 - O botão de verificação é um simples autoteste (disponibilidade + compreensão de imagem + tempo de resposta) e não altera, em si, quaisquer dados de planeamento.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

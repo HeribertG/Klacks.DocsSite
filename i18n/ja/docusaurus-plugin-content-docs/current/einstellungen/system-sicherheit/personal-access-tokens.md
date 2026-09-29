@@ -21,4 +21,4 @@ Personal Access Tokens(PAT)は、長期間有効なAPIキーであり、外部�
 - 悪用が疑われる場合に他の連携を中断させることなく個別に取り消せるよう、ツールごとに専用のトークンを使用してください。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

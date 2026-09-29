@@ -19,4 +19,4 @@ Di Pengaturan > Aturan Spam, Anda menentukan aturan filter yang secara otomatis 
 - Gunakan aturan domain pengirim untuk memblokir seluruh organisasi pengirim yang tidak diinginkan, alih-alih mencatat setiap alamat satu per satu sebagai aturan pengirim-mengandung.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

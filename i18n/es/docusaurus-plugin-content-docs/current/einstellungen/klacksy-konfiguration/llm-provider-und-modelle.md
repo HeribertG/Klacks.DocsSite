@@ -23,4 +23,4 @@ Klacksy necesita un modelo de lenguaje para comprender y actuar. En Configuraci�
 - El servicio de registro de sincronización se ejecuta en segundo plano independientemente de su sesión — no es necesario mantener la página abierta para ello.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

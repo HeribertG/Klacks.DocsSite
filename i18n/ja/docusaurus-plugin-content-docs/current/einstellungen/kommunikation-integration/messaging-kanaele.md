@@ -35,4 +35,4 @@ sidebar_position: 6
 - 有効期限付きのアクセストークンを使用するすべてのチャネル(例: KakaoTalk、Zalo)では、Klacksの外部でプロバイダー側にてトークンを更新し、Klacksに再登録する必要があります。そうしないと、そのチャネルでの送信が停止します。
 
 ---
-*今すぐ試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*今すぐ試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

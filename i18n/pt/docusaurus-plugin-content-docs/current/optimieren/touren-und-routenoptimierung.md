@@ -26,4 +26,4 @@ Se estiverem definidas janelas horárias fixas para uma intervenção (por exemp
 ![Vista de linha do tempo para o planeamento de circuitos](/img/app-timeline-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

@@ -24,9 +24,9 @@ O Klacks representa qualquer tipo de planeamento de turnos e intervenções — 
 
 ## O que isto significa na prática
 
-- O Klacks é sempre e para todos completamente gratuito — sem registo, sem conversa de vendas. O [Playground](https://klacks-software.ch:7643) é apenas uma forma de experimentar sem compromisso e familiarizar-se com a utilização.
+- O Klacks é sempre e para todos completamente gratuito — sem registo, sem conversa de vendas. O [Playground](https://play.klacks-software.ch) é apenas uma forma de experimentar sem compromisso e familiarizar-se com a utilização.
 - Pode utilizá-lo com um pacote on-premise (imagens Docker, instalador, base de dados, HTTPS, atualizações automáticas) no seu próprio servidor.
 - Pode consultar o código-fonte e fazer alterações por si próprio — o Klacks continua a ser seu, mesmo quando o desenvolve.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

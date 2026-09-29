@@ -29,4 +29,4 @@ Những quy tắc nào được kiểm tra và mức độ nghiêm ngặt của 
 - Các báo cáo này chỉ là chế độ xem thuần túy: không thể chỉnh sửa và không làm thay đổi bất cứ điều gì. Việc sửa chữa được thực hiện trong [Lưới kế hoạch: Ma trận thời gian tương tác của bạn](../planen/plan-raster.md) hoặc bằng một lượt chạy mới.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

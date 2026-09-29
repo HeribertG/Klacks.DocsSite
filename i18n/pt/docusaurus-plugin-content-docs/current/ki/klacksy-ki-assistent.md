@@ -30,4 +30,4 @@ O especial: **é o utilizador quem escolhe o modelo de linguagem.** São suporta
 ![Klacksy como painel no Klacks](/img/app-klacksy-de.png)
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

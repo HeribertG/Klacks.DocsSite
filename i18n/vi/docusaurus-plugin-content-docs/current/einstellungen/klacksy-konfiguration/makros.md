@@ -25,4 +25,4 @@ Các khoản phụ cấp cho làm việc ban đêm, chủ nhật và ngày lễ,
 - `weekday` luôn tuân theo ISO-8601 (1 = Thứ Hai … 7 = Chủ Nhật) — khi tự viết các truy vấn `SELECT CASE` cho "cuối tuần", đó là các giá trị 6 (Thứ Bảy) và 7 (Chủ Nhật).
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -19,4 +19,4 @@ Unter Einstellungen > Datenaufbewahrung legen Sie fest, wie lange gelöschte Dat
 - Diese Einstellung ist der technische Unterbau der in der Datenschutzerklärung beschriebenen Löschfristen; sie gilt global für alle Soft-Delete-fähigen Datentypen, nicht pro Modul konfigurierbar.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

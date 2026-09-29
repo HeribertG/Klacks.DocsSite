@@ -23,4 +23,4 @@ Klacksy 会从自己的错误中学习：如果您在聊天中纠正了 Klacksy 
 - 该功能需要管理员权限。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

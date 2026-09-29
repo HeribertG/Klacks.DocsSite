@@ -30,4 +30,4 @@ sidebar_position: 5
 - Câmpul Categorie apare doar la tipul „Muncă" — calificările lingvistice nu au o categorie.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

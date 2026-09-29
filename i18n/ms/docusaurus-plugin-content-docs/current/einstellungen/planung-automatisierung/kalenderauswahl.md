@@ -22,4 +22,4 @@ Anda boleh membina Pemilihan Kalendar anda sendiri melalui "+ Tambah Pemilihan K
 - Halaman ini hanya menggabungkan dan menamakan set peraturan Kalendar. Peraturan Cuti Umum itu sendiri (formula pengiraan, anjakan hari dalam minggu dan sebagainya) diselenggara secara berasingan — lihat "Cuti Umum & Kalendar".
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

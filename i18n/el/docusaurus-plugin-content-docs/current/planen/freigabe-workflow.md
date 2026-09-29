@@ -28,4 +28,4 @@ sidebar_position: 4
 - Για το λογιστικό κλείσιμο ενός μήνα υπάρχει επιπλέον το [Κλείσιμο περιόδου](../planen/periodenabschluss.md).
 
 ---
-*Δοκιμάστε το απευθείας: [Klacks Playground](https://klacks-software.ch:7643) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*
+*Δοκιμάστε το απευθείας: [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1`, τα δεδομένα επαναφέρονται καθημερινά.*

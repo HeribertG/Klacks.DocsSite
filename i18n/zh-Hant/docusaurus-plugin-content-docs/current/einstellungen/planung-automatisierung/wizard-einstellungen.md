@@ -20,4 +20,4 @@ sidebar_position: 3
 - 檢查按鈕純粹是自我測試（可連線性＋影像理解＋回應時間），本身不會更動任何排班資料。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

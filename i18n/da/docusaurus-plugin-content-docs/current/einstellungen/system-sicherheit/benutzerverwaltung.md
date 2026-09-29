@@ -25,4 +25,4 @@ Under Indstillinger > Brugeradministration administrerer du **login-kontiene** (
 - Der findes ingen direkte mulighed for, at administratoren selv sætter en adgangskode: Nye konti får en automatisk genereret adgangskode, og enhver senere ændring foregår via e-mail-linket "Nulstil adgangskode".
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

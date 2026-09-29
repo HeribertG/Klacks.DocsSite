@@ -30,4 +30,4 @@ Til udformningen står følgende til rådighed:
 - Tabel-fodnoten aktiverer du via et afkrydsningsfelt lige under den pågældende tabel; SUM-beskrivelsen kan vises eller skjules separat for fodnote-feltet.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

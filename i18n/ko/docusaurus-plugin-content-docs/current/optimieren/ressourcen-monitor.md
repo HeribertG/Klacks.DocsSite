@@ -28,4 +28,4 @@ sidebar_position: 3
 - 24/7 계약의 경우 분홍색 선은 주간 단위로 평준화됩니다(1인당 캘린더 일 기준 약 0.71). 월~금 계약의 경우 평일에는 1.0, 주말에는 0으로 표시됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

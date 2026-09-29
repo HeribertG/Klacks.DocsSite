@@ -18,4 +18,4 @@ OpenRouteServiceは車、自転車、徒歩の移動時間と距離を計算し�
 - 住所を座標に変換する処理（ジオコーディング）自体には、Klacksは別の独立したサービスを使用します——このキーは経路計算専用です。
 
 ---
-*実際に試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*実際に試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

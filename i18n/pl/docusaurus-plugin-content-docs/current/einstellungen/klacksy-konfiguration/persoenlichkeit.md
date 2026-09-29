@@ -26,4 +26,4 @@ Klacksy nie ma sztywnego, na stałe zaprogramowanego charakteru — w Ustawienia
 - Puste pola nie stanowią problemu: Klacksy stosuje wtedy swoją wbudowaną podstawową postawę. Niektóre dodatkowe wewnętrzne aspekty zachowania są utrzymywane przez sam system i nie są tu bezpośrednio konfigurowalne.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

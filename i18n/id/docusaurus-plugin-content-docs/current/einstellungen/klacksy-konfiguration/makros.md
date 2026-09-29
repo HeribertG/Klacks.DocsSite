@@ -25,4 +25,4 @@ Tunjangan untuk kerja malam, Minggu, dan hari libur, atau perhitungan jam yang t
 - `weekday` selalu mengikuti ISO-8601 (1 = Senin … 7 = Minggu) — untuk kueri `SELECT CASE` Anda sendiri untuk "akhir pekan", nilai tersebut adalah 6 (Sabtu) dan 7 (Minggu).
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -37,4 +37,4 @@ Onder Instellingen > Organisatie > Contracten beheert u de vrij definieerbare co
 - De kalenderselectie per contract is optioneel — laat u deze leeg, dan wordt er geen contractspecifieke kalender vastgelegd.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

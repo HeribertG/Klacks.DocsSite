@@ -22,4 +22,4 @@ Dans Paramètres > Organisation > Filiales, vous gérez les adresses de vos site
 - L'assistant Klacksy peut également créer ou supprimer des filiales par commande vocale (« crée une filiale ... »).
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

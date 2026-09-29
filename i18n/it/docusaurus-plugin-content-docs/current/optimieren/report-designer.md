@@ -30,4 +30,4 @@ Per la formattazione sono disponibili:
 - Il piè di tabella si attiva tramite una casella di controllo direttamente sotto la rispettiva tabella; l'etichetta SUM per il campo del piè di pagina può essere mostrata o nascosta separatamente.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

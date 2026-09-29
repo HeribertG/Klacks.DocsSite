@@ -23,4 +23,4 @@ Cineva lipsește neașteptat, iar tura începe în câteva ore. Klacks nu treze�
 - Cine nu are un număr de telefon în contul de utilizator nu apare deloc în lista de escaladare. Pentru solicitarea prin mesagerie este necesar suplimentar un contact de mesagerie asociat. Absențele persoanelor de gardă le gestionați direct în aceeași listă: de la–până la, cu motiv opțional, la cerere permanent.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

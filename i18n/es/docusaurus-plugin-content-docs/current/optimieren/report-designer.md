@@ -30,4 +30,4 @@ Para el diseño están disponibles:
 - El pie de tabla se activa mediante una casilla de verificación justo debajo de la tabla correspondiente; el rótulo SUM del campo de pie de página se puede mostrar u ocultar por separado.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

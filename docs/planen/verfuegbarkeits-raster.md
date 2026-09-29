@@ -25,4 +25,4 @@ Statt zu raten, wer wann einsatzbereit ist, erfassen Sie es: Im Verfügbarkeits-
 ![Klacks Verfügbarkeits-Raster](/img/app-availability-de.png)
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

@@ -39,4 +39,4 @@ Klacksy 不会等着被问起才行动。它每小时会在后台查看一次业
 - 每小时一次的节奏是固定写死的，无法通过界面调整；首次运行在程序启动 2 分钟后开始。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

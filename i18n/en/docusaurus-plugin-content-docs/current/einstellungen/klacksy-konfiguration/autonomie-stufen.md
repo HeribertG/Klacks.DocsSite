@@ -26,4 +26,4 @@ How independently is Klacksy allowed to act before checking with you? Under Sett
 - By default, the Autonomous level is active — this matches the behavior Klacksy already had before autonomy levels were introduced.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

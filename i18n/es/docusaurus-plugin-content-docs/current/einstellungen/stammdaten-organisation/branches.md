@@ -22,4 +22,4 @@ En Configuración > Organización > Sucursales gestiona las direcciones de sus c
 - El asistente Klacksy también puede crear o eliminar sucursales mediante comando de voz ("crea una sucursal ...").
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

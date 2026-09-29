@@ -41,4 +41,4 @@ En Configuración > Compliance y reglas de recargo (modo experto) > Horas extra 
 - Una regla de planificación con sus propios niveles de horas extra sobrescribe por completo estos valores válidos para toda la empresa, no solo niveles individuales.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

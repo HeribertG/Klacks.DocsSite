@@ -21,4 +21,4 @@ Klacks는 프런트엔드에서 4개의 핵심 언어 — 독일어, 영어, 프
 - 새 기능이 추가된 뒤 번역이 아직 반영되지 않은 경우, 언어 플러그인의 번역 완성도(커버리지)가 100%보다 낮을 수 있습니다. 이 경우 누락된 텍스트는 모든 플러그인 언어의 기술적 대체 언어인 영어로 대체되어 표시됩니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

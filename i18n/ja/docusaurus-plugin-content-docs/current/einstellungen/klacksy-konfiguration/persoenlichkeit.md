@@ -26,4 +26,4 @@ Klacksyには固定的でハードコーディングされた性格はありま�
 - フィールドが空でも問題ありません。その場合Klacksyは内蔵の基本姿勢を使用します。その他一部の内部的な挙動はシステム自体によって管理されており、ここで直接設定することはできません。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

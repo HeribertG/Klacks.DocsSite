@@ -32,4 +32,4 @@ Klacksy observerer i bakgrunnen hvilke Skills som ofte brukes sammen eller etter
 - Tommelfingerregel: Bare *lærte* relasjoner med høy konfidens lønner seg typisk å overta. Utledede kandidater med lite støtte bør du heller forkaste til det foreligger mer bruksdata.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

@@ -23,4 +23,4 @@ O Klacksy precisa de um modelo de linguagem para compreender e agir. Em Definiç
 - O serviço de registo de sincronização funciona em segundo plano, independentemente da sua sessão — não precisa de manter a página aberta para isso.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

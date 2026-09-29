@@ -25,4 +25,4 @@ sidebar_position: 8
 - สีเหล่านี้มีผลเฉพาะต่อการแสดงผลของตารางแผนงานเท่านั้น ไม่มีผลต่อส่วนอื่น ๆ ของหน้าจอ
 
 ---
-*ลองใช้งานได้ทันที: [Klacks Playground](https://klacks-software.ch:7643) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*
+*ลองใช้งานได้ทันที: [Klacks Playground](https://play.klacks-software.ch) — เข้าสู่ระบบด้วย `admin@test.com` / `P@ssw0rt1` ข้อมูลจะถูกรีเซ็ตทุกวัน*

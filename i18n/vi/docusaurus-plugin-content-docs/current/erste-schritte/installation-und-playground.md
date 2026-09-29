@@ -8,7 +8,7 @@ Bạn có thể dùng thử Klacks trong một phút — và cài đặt nó tro
 
 ## Playground: sân chơi để làm quen
 
-Playground không phải là một phương án cài đặt, mà là một phiên bản Klacks công khai với dữ liệu mẫu để bạn nghịch thử thoải mái, không ràng buộc gì — đây cũng chính là lý do cho cái tên này. Nó chạy tại **[klacks-software.ch](https://klacks-software.ch:7643)**:
+Playground không phải là một phương án cài đặt, mà là một phiên bản Klacks công khai với dữ liệu mẫu để bạn nghịch thử thoải mái, không ràng buộc gì — đây cũng chính là lý do cho cái tên này. Nó chạy tại **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Đăng nhập:** `admin@test.com` · **Mật khẩu:** `P@ssw0rt1`
 - Bạn có đầy đủ quyền Admin — cứ thoải mái dùng thử mọi thứ.

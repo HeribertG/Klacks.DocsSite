@@ -26,4 +26,4 @@ Er det registrert faste tidsvinduer for et oppdrag (f.eks. bare formiddag), tas 
 ![Timeline-visning for turplanlegging](/img/app-timeline-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

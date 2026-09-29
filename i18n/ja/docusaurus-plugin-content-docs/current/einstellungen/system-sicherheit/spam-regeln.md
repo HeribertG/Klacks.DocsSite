@@ -19,4 +19,4 @@ sidebar_position: 7
 - 望ましくない送信者組織全体をブロックするには、個々のアドレスを一つずつ「送信者が含む」ルールで登録するのではなく、送信者ドメインルールを利用してください。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

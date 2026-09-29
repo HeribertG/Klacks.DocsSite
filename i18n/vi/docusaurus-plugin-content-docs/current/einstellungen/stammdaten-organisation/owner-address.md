@@ -24,4 +24,4 @@ Tại Cài đặt > Chung > Địa chỉ Văn phòng thư ký, bạn lưu địa
 - Nếu quốc gia thay đổi, bang/tỉnh sẽ tự động được đặt lại; một lựa chọn lịch đã chọn trước đó chỉ được giữ lại nếu nó cũng phù hợp với quốc gia mới — nếu không, nó cũng sẽ bị xóa.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

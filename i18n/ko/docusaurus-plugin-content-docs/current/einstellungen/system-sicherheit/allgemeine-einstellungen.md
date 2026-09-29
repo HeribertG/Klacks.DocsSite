@@ -25,4 +25,4 @@ sidebar_position: 8
 - 이 색상들은 오직 계획표 그리드 자체의 표시에만 적용되며, UI의 다른 영역에는 영향을 주지 않습니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

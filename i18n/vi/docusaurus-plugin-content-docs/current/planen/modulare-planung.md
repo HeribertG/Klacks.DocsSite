@@ -21,4 +21,4 @@ Bí quyết đằng sau điều này: các bảng kế hoạch giữ **tham chi�
 - Lập kế hoạch theo mô-đun và [Tự động lập kế hoạch: Một cú nhấp, phần còn lại chạy trong nền](../planen/auto-planung.md) bổ trợ cho nhau: mỗi khu vực có thể được lập kế hoạch tự động một cách độc lập.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

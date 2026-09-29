@@ -21,4 +21,4 @@ Tricken bakom detta: Schemabladen håller **referenser i stället för kopior**.
 - Modulär planering och [Autoplanering: ett klick, resten körs i bakgrunden](../planen/auto-planung.md) kompletterar varandra: Varje område kan autoplaneras för sig.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

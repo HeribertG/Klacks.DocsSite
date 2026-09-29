@@ -23,4 +23,4 @@ Stránka sdružuje několik skupin výchozích hodnot:
 - Plánovací příkazy jsou v rozpisu služeb ve výchozím stavu skryté a lze je zobrazit přes vlastní ikonu na panelu nástrojů.
 
 ---
-*Vyzkoušejte si to přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte si to přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

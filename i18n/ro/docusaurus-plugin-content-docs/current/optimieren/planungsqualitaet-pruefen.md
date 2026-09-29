@@ -29,4 +29,4 @@ Ce reguli sunt verificate și cât de strict se aplică stabiliți în [Regulile
 - Rapoartele sunt simple vizualizări: nu pot fi editate și nu modifică nimic. Corectarea se face în [Grila planului: matricea dumneavoastră interactivă de timp](../planen/plan-raster.md) sau printr-o nouă rulare.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

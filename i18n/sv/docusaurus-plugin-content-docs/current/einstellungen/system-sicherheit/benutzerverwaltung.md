@@ -25,4 +25,4 @@ Under Inställningar > Användarhantering hanterar du **inloggningskontona** (sy
 - Det går inte att direkt sätta ett lösenord som administratör: Nya konton får ett automatiskt genererat lösenord, och varje senare ändring sker via e-postlänken "Återställ lösenord".
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

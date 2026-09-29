@@ -26,4 +26,4 @@ Hvor selvstændigt må Klacksy handle, før han spørger? Under Indstillinger > 
 - Som standard er niveauet Autonom aktivt — det svarer til den adfærd, Klacksy allerede havde før indførelsen af autonomi-niveauerne.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

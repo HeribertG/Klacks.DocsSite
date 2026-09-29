@@ -24,9 +24,9 @@ Klacks dekker alle typer skift- og vaktplanlegging — fra regelmessige, enkle v
 
 ## Hva dette betyr i praksis
 
-- Klacks er alltid og for alle helt gratis — ingen registrering, ingen salgssamtale. [Playground](https://klacks-software.ch:7643) er bare en mulighet til å snuse uforpliktende på løsningen og bli kjent med betjeningen.
+- Klacks er alltid og for alle helt gratis — ingen registrering, ingen salgssamtale. [Playground](https://play.klacks-software.ch) er bare en mulighet til å snuse uforpliktende på løsningen og bli kjent med betjeningen.
 - Du kan drifte det på din egen server med en On-Premise-pakke (Docker-images, installer, database, HTTPS, automatiske oppdateringer).
 - Du kan se kildekoden og gjøre egne endringer — Klacks forblir ditt, selv om du videreutvikler det.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

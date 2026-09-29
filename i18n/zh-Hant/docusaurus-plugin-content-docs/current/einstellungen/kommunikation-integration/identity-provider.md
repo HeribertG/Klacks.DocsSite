@@ -23,4 +23,4 @@ sidebar_position: 4
 - 來自目錄的外部識別碼（LDAP ObjectGUID，若無則改用 Distinguished Name）可避免重複建立：若下次同步時找到相同的識別碼，系統會更新既有人員資料，而不是新增一筆。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

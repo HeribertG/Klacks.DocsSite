@@ -22,4 +22,4 @@ Onder Instellingen > Organisatie > Filialen beheert u de adressen van uw vestigi
 - Ook de assistent Klacksy kan filialen via een spraakcommando aanmaken of verwijderen ("maak een filiaal aan ...").
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

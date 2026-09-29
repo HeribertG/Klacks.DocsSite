@@ -23,4 +23,4 @@ Di Pengaturan > Identity Provider Anda menghubungkan Klacks dengan layanan direk
 - Sebuah identitas eksternal dari direktori (LDAP ObjectGUID, atau sebagai alternatif Distinguished Name) mencegah duplikat: jika identitas yang sama ditemukan pada sinkronisasi berikutnya, orang yang sudah ada akan diperbarui, bukan dibuat baru.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

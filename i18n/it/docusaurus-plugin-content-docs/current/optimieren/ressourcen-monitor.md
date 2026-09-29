@@ -28,4 +28,4 @@ Con i pulsanti freccia in alto a destra cambiate l'anno; tramite la selezione de
 - Con un contratto 24/7 la linea rosa viene distribuita uniformemente sulla settimana (ca. 0,71 per persona e giorno di calendario); con un contratto da lunedì a venerdì è pari a 1,0 nei giorni lavorativi e a 0 nel fine settimana.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

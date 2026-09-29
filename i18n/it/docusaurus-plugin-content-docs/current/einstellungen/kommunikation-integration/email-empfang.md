@@ -22,4 +22,4 @@ In Impostazioni > Impostazioni IMAP configurate una casella di posta che Klacks 
 - I messaggi nella posta in entrata possono essere tradotti direttamente se DeepL è configurato (vedi pagina dedicata).
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -25,4 +25,4 @@ I vardagen tar oftast ett Supervisor-konto hand om det egentliga planeringsarbet
 - Ett inloggningskonto måste inte nödvändigtvis vara kopplat till ett medarbetarkort i stamdata — användarhantering och personhantering är separata områden.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

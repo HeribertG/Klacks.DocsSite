@@ -20,4 +20,4 @@ sidebar_position: 5
 - 這項設定控制的是資料的**可見性**，而不是角色本身的**權限** — 角色／權限的管理與此各自獨立。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

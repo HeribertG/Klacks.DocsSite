@@ -19,4 +19,4 @@ I plugin funzionali estendono Klacks con aree funzionali opzionali che non fanno
 - Alcuni plugin includono schede di impostazione proprie (ad es. la configurazione dei provider di messaggistica) — queste compaiono solo dopo l'installazione, in un altro punto delle impostazioni.
 
 ---
-*Prova subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Prova subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

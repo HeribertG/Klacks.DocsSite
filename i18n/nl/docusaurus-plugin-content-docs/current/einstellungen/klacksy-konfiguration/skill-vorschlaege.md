@@ -23,4 +23,4 @@ Klacksy leert van zijn eigen fouten: corrigeert u in de chat dat Klacksy de verk
 - Deze functie vereist beheerdersrechten.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

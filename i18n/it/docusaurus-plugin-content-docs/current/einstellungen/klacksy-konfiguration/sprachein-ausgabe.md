@@ -25,4 +25,4 @@ Klacksy può essere utilizzato anche tramite la voce — in Impostazioni > Voce 
 - Il controllo del modello qui verifica esclusivamente l'idoneità per la pulizia della trascrizione (finestra di contesto ≥ 16.000 token) — per l'idoneità generale come modello principale di Klacksy esiste un test separato e più severo (vedi Test di connessione del modello).
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

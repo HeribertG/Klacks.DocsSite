@@ -29,4 +29,4 @@ Di Pengaturan > Pembaruan, Anda melihat versi Klacks yang saat ini terpasang dan
 - Pembaruan dan rollback adalah aksi khusus Admin.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

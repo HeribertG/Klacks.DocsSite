@@ -21,4 +21,4 @@ Non tutti i modelli linguistici sono adatti a Klacksy — deve fornire in modo a
 - Questo test è pensato specificamente per le chiamate di funzione necessarie alla capacità di agire ed è indipendente dal controllo del modello nelle impostazioni vocali, che si accontenta di una finestra di contesto inferiore per la sola pulizia delle trascrizioni.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -23,4 +23,4 @@ Alguien falta y el turno empieza en unas pocas horas. Klacks no avisa entonces a
 - Quien no tenga un número de teléfono en la cuenta de usuario ni siquiera aparece en la lista de llamadas. Para la solicitud a través del servicio de mensajería se necesita además un contacto de mensajería vinculado. Las ausencias de la guardia localizada se gestionan directamente en la misma lista: desde–hasta, con motivo opcional, de forma permanente si se desea.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

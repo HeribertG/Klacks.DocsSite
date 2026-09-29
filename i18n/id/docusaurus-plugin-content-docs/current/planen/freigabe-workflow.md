@@ -28,4 +28,4 @@ Setiap tahap **mengunci pengeditan** sesuai levelnya: Apa yang sudah disetujui, 
 - Untuk penutupan akuntansi bulanan, tersedia tambahan [Penutupan Periode](../planen/periodenabschluss.md).
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -22,4 +22,4 @@ Klacks 预置了多个日历选择集：瑞士全部 26 个州分别单独列出
 - 此页面只负责打包和命名日历规则集。法定假日规则本身（计算公式、工作日顺延等）在别处单独维护 — 参见「法定假日与日历」。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

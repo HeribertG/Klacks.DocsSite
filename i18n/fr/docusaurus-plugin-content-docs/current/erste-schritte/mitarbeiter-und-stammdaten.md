@@ -29,4 +29,4 @@ La gestion des adresses et des personnes est le cœur de vos données de base : 
 - Créez d'abord la structure des groupes, puis affectez-y les personnes — ainsi, les droits au niveau du groupe s'appliquent dès le départ.
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

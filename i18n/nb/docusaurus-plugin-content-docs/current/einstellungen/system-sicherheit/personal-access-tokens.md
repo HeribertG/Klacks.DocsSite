@@ -21,4 +21,4 @@ Personal Access Tokens (PAT-er) er langlevde API-nøkler som eksterne verktøy o
 - Bruk et eget token per verktøy, slik at du kan tilbakekalle det målrettet ved mistanke om misbruk, uten å avbryte andre integrasjoner.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

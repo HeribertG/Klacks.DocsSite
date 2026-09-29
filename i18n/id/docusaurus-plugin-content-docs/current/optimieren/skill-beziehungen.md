@@ -32,4 +32,4 @@ Klacksy mengamati di latar belakang, skill mana yang sering digunakan bersamaan 
 - Aturan praktis: Hanya hubungan *yang dipelajari* dengan konfidensi tinggi yang biasanya layak diterima. Kandidat yang diturunkan dengan sedikit dukungan sebaiknya ditolak sampai data penggunaan lebih banyak tersedia.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

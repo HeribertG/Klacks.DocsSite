@@ -22,4 +22,4 @@ sidebar_position: 2
 - 如果已配置 DeepL，收件箱中的邮件可以直接翻译（详见相应页面）。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

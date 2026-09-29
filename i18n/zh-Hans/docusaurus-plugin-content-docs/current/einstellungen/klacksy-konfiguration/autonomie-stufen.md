@@ -26,4 +26,4 @@ Klacksy 在需要征求您的同意之前，可以自主行动到什么程度？
 - 系统默认启用「自主」等级 — 这与 Klacksy 在引入自主等级功能之前的行为一致。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

@@ -23,4 +23,4 @@ Klacksy cần một mô hình ngôn ngữ để hiểu và hành động. Trong 
 - Dịch vụ nhật ký đồng bộ chạy độc lập với phiên làm việc của bạn ở chế độ nền — bạn không cần phải giữ trang mở để dịch vụ này hoạt động.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

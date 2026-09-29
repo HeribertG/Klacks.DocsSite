@@ -23,4 +23,4 @@ Klacksy uczy się na własnych błędach: jeśli w czacie skorygują Państwo, �
 - Ta funkcja wymaga uprawnień administratora.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

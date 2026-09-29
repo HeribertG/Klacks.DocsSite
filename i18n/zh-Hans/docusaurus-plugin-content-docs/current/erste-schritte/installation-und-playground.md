@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Playground：用来熟悉产品的试验场
 
-Playground 并不是一种安装方式，而是一个带有示例数据、供您随意试玩的公共 Klacks 实例 — 这也是它名字的由来。它运行在 **[klacks-software.ch](https://klacks-software.ch:7643)**：
+Playground 并不是一种安装方式，而是一个带有示例数据、供您随意试玩的公共 Klacks 实例 — 这也是它名字的由来。它运行在 **[klacks-software.ch](https://play.klacks-software.ch)**：
 
 - **登录：** `admin@test.com` · **密码：** `P@ssw0rt1`
 - 您拥有完整的管理员权限 — 请尽情尝试所有功能。

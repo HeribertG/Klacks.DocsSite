@@ -27,4 +27,4 @@ Du starter autoplanleggingen direkte fra vaktplanen for den valgte perioden. Res
 ![Klacks vaktplan-rutenett](/img/app-schedule-de.png)
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

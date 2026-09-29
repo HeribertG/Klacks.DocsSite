@@ -29,4 +29,4 @@ Welke regels worden gecontroleerd en hoe streng ze gelden, legt u vast in de [Pl
 - De rapporten zijn puur weergaven: u kunt ze niet bewerken en ze wijzigen niets. Corrigeren doet u in [Het planrooster: uw interactieve tijdmatrix](../planen/plan-raster.md) of door een nieuwe run.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

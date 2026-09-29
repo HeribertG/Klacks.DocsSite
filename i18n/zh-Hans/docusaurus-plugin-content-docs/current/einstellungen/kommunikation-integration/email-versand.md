@@ -22,4 +22,4 @@ sidebar_position: 1
 - 如果连接测试失败，Klacks 会提示具体原因（例如身份验证错误、SSL 握手失败、超时），而不是一条笼统的错误提示。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

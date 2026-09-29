@@ -21,4 +21,4 @@ sidebar_position: 2
 - 建议为每个工具单独创建一个令牌，这样在怀疑被滥用时可以精准撤销该令牌，而不会影响其他集成。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

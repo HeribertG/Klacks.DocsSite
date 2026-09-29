@@ -35,4 +35,4 @@ sidebar_position: 6
 - בכל הערוצים בעלי Access Token מוגבל בזמן (למשל KakaoTalk, Zalo) יש לחדש אותו מחוץ ל-Klacks אצל הספק ולעדכן אותו ב-Klacks, אחרת השליחה דרך ערוץ זה תיפסק.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

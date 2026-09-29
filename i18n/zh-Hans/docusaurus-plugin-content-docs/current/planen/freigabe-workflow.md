@@ -28,4 +28,4 @@ sidebar_position: 4
 - 若要对某个月份进行财务上的最终结算，还可以使用[期间结算](../planen/periodenabschluss.md)。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

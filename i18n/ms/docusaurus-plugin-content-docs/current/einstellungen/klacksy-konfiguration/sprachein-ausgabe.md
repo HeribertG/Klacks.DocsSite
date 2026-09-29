@@ -25,4 +25,4 @@ Klacksy juga boleh dikendalikan melalui suara — di bawah Tetapan > Bahasa Klac
 - Semakan Model di sini hanya menyemak kesesuaian untuk pembersihan transkripsi (tetingkap konteks ≥ 16.000 token) — untuk kesesuaian umum sebagai model utama Klacksy, terdapat ujian tersendiri yang lebih ketat (lihat Ujian Sambungan Model).
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

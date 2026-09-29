@@ -21,4 +21,4 @@ Klacks 在前端固定支持四种核心语言 — 德语、英语、法语、�
 - 如果在翻译跟进之前就新增了功能，语言插件的覆盖率可能会低于 100%；此时缺失的文本会回退显示为英语，英语是所有插件语言的技术性后备语言。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

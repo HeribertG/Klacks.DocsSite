@@ -19,4 +19,4 @@ Unter Einstellungen > Spam-Regeln definieren Sie Filterregeln, mit denen eingehe
 - Nutzen Sie Absenderdomain-Regeln, um ganze unerwünschte Absenderorganisationen zu sperren, statt jede einzelne Adresse als Absender-enthält-Regel zu erfassen.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

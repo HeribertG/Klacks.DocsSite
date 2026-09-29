@@ -25,4 +25,4 @@ Längre ner på samma inställningssida anger du färgerna som schemarutnätet a
 - Dessa färger påverkar enbart visningen av själva schemarutnätet, inte andra delar av gränssnittet.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

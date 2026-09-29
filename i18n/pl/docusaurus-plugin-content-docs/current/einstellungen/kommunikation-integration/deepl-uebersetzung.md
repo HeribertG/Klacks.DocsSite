@@ -20,4 +20,4 @@ W obszarze Ustawienia > DeepL zapisujesz klucz API DeepL, dzięki któremu Klack
 - Klucz jest przechowywany w postaci zaszyfrowanej i w formularzu wyświetlany zamaskowany.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

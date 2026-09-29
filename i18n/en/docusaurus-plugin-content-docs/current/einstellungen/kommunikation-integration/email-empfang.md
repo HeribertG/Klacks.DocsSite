@@ -22,4 +22,4 @@ Under Settings > IMAP Settings you set up a mailbox that Klacks continuously pol
 - Messages in the inbox can be translated directly if DeepL is configured (see its own page).
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

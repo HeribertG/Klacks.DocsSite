@@ -24,4 +24,4 @@ Under Innstillinger > Organisasjon > Land forvalter du listen over land som er t
 - Landlisten mater blant annet land-valget ved adressen Sekretariat — opprett et manglende land her først, før du ønsker å velge det der.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

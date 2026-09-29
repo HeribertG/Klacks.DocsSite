@@ -22,4 +22,4 @@ sidebar_position: 2
 - ניתן לתרגם הודעות בתיבת הדואר הנכנס ישירות אם DeepL מוגדר (ראו דף נפרד).
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

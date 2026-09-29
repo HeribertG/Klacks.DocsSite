@@ -23,4 +23,4 @@ Qualcuno viene a mancare e il turno inizia tra poche ore. Klacks non sveglia all
 - Chi non ha un numero di telefono nel proprio account utente non compare affatto nella lista di chiamata. Per la richiesta tramite messenger serve inoltre un contatto messenger collegato. Le assenze del servizio di picchetto si gestiscono direttamente nella stessa lista: dal–al, con motivo facoltativo e, se lo desiderate, in modo permanente.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

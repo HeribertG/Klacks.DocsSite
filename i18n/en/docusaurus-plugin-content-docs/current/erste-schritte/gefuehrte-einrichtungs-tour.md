@@ -23,4 +23,4 @@ Step by step, this builds a complete overview of the application, no manual requ
 - The fastest way to experience the tour is in the Playground: log in, open Klacksy, start typing.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

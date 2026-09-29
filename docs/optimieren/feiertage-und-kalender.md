@@ -30,4 +30,4 @@ Pro Regel erfassen Sie ausserdem Name und Beschreibung (mehrsprachig), Land und 
 ![Feiertagsregeln in Klacks](/img/app-calendar-de.png)
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

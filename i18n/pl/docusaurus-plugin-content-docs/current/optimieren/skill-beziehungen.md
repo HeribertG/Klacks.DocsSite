@@ -32,4 +32,4 @@ Klacksy obserwuje w tle, które skille są w danej sesji często używane razem 
 - Zasada praktyczna: zazwyczaj warto przyjmować tylko *wyuczone* relacje o wysokiej pewności. Wywnioskowanych kandydatów o niskim poparciu lepiej odrzucić, dopóki nie pojawi się więcej danych o użytkowaniu.
 
 ---
-*Wypróbuj od razu: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*
+*Wypróbuj od razu: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są resetowane codziennie.*

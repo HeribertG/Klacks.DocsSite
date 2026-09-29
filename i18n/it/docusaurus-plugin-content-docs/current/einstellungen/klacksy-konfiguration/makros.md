@@ -25,4 +25,4 @@ I supplementi per il lavoro notturno, domenicale e festivo, oppure il calcolo es
 - `weekday` segue sempre lo standard ISO-8601 (1 = lunedì … 7 = domenica) — nelle proprie query `SELECT CASE` per il "weekend" i valori corrispondenti sono 6 (sabato) e 7 (domenica).
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

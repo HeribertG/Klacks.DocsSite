@@ -22,4 +22,4 @@ En Configuración > Ajustes IMAP guarda un buzón de correo que Klacks consulta 
 - Los mensajes en la bandeja de entrada se pueden traducir directamente si DeepL está configurado (véase la página correspondiente).
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

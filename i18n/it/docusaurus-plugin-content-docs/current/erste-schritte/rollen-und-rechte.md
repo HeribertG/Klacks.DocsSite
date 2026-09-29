@@ -25,4 +25,4 @@ Nella pratica quotidiana è di solito un account Supervisor a svolgere il lavoro
 - Un account di accesso non deve necessariamente essere collegato a una scheda anagrafica di un collaboratore — gestione utenti e gestione persone sono aree separate.
 
 ---
-*Provatelo subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provatelo subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

@@ -22,4 +22,4 @@ sidebar_position: 1
 - אם בדיקת החיבור נכשלת, Klacks מדווח את הסיבה הקונקרטית (למשל שגיאת אימות, שגיאת handshake של SSL, חריגת זמן) במקום הודעת שגיאה גנרית.
 
 ---
-*התנסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*התנסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

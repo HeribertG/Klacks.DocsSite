@@ -19,4 +19,4 @@ Wtyczki funkcjonalne rozszerzają Klacks o opcjonalne obszary funkcjonalności, 
 - Niektóre wtyczki wprowadzają własne karty ustawień (np. konfigurację dostawcy Messaging) — pojawiają się one dopiero po instalacji, w innym miejscu ustawień.
 
 ---
-*Wypróbuj bezpośrednio: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*
+*Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

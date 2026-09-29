@@ -18,4 +18,4 @@ OpenRouteService mengira masa perjalanan dan jarak — untuk memandu kereta, ber
 - Untuk penukaran alamat semata-mata kepada koordinat (Geocoding), Klacks menggunakan perkhidmatan lain yang berasingan — kunci ini khusus untuk pengiraan laluan sahaja.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

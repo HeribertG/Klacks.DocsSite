@@ -18,4 +18,4 @@ OpenRouteService berekent reistijden en afstanden — voor autoritten, fietsen e
 - Voor het enkel omzetten van adressen naar coördinaten (geocoding) gebruikt Klacks een andere, aparte dienst — deze sleutel is uitsluitend bedoeld voor de routeberekening.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

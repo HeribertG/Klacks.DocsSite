@@ -46,4 +46,4 @@ Jak se plánovatelné služby následně obsazují, popisují [Automatické plá
 - **Sporadické služby a služby s časovým rámcem se nepočítají.** Obě se záměrně nezobrazují ve sloupcích služeb [Monitoru zdrojů](../optimieren/ressourcen-monitor.md), protože nezobrazují pevnou denní potřebu.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

@@ -25,4 +25,4 @@ Klacksy kan även användas via röst — under Inställningar > Klacksy Röst s
 - Modell-checken här kontrollerar enbart lämpligheten för transkriptionsrensning (kontextfönster ≥ 16 000 tokens) — för den generella lämpligheten som Klacksys huvudmodell finns ett eget, strängare test (se Modell-anslutningstest).
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

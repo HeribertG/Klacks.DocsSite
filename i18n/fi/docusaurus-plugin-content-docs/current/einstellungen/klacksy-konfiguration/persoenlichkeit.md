@@ -26,4 +26,4 @@ Klacksylla ei ole jäykkää, kiinteästi ohjelmoitua luonnetta — kohdassa Ase
 - Tyhjät kentät eivät ole ongelma: Klacksy käyttää silloin sisäänrakennettua perusasennettaan. Joitakin muita sisäisiä käyttäytymisen osa-alueita ylläpitää järjestelmä itse, eikä niitä voi säätää suoraan täältä.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

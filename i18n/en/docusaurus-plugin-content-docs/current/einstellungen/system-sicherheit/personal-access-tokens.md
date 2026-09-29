@@ -21,4 +21,4 @@ Personal Access Tokens (PATs) are long-lived API keys that let external tools an
 - Use a separate token per tool, so that if you suspect misuse you can revoke it specifically without breaking other integrations.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

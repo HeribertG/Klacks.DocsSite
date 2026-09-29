@@ -21,4 +21,4 @@ No todos los modelos de lenguaje son adecuados para Klacksy — debe entregar de
 - Esta prueba está diseñada específicamente para llamadas a funciones orientadas a la capacidad de acción y es independiente de la comprobación de modelo en los ajustes de voz, que se conforma con una ventana de contexto menor para la mera limpieza de transcripciones.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

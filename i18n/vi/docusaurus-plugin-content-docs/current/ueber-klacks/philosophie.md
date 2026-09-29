@@ -24,9 +24,9 @@ Klacks thể hiện được mọi hình thức lập kế hoạch ca và phân 
 
 ## Điều này có ý nghĩa gì trong thực tế
 
-- Klacks luôn hoàn toàn miễn phí cho tất cả mọi người — không cần đăng ký, không cần trao đổi bán hàng. [Playground](https://klacks-software.ch:7643) chỉ đơn giản là một cách để bạn thử nghiệm không ràng buộc và làm quen với cách sử dụng.
+- Klacks luôn hoàn toàn miễn phí cho tất cả mọi người — không cần đăng ký, không cần trao đổi bán hàng. [Playground](https://play.klacks-software.ch) chỉ đơn giản là một cách để bạn thử nghiệm không ràng buộc và làm quen với cách sử dụng.
 - Bạn có thể vận hành nó bằng một gói On-Premise (Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS, cập nhật tự động) trên chính máy chủ của mình.
 - Bạn có thể xem mã nguồn và tự thực hiện các thay đổi — Klacks vẫn luôn là của bạn, ngay cả khi bạn tiếp tục phát triển nó.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

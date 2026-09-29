@@ -20,4 +20,4 @@ Pemprosesan imej bukanlah perkara sampingan di sini, tetapi satu keperluan: Menu
 - Butang semakan hanya merupakan ujian kendiri (kebolehcapaian + pemahaman imej + masa tindak balas) dan pada dasarnya tidak mengubah sebarang data perancangan.
 
 ---
-*Cuba terus: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba terus: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

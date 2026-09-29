@@ -41,4 +41,4 @@ Trong mục Cài đặt > Compliance & Quy tắc phụ cấp (Chế độ chuyê
 - Một quy tắc lập kế hoạch có các bậc giờ làm thêm riêng sẽ ghi đè hoàn toàn các giá trị áp dụng cho toàn công ty này, chứ không chỉ từng bậc riêng lẻ.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

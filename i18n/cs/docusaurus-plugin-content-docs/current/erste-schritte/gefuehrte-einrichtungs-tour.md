@@ -23,4 +23,4 @@ Tak krok za krokem vznikne ucelený přehled o aplikaci, a to zcela bez čtení 
 - Nejrychleji prohlídku zažijete v Playgroundu: přihlaste se, otevřete Klacksy a začněte psát.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

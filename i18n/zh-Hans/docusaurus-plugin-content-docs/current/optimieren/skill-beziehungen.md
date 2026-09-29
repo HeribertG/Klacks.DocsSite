@@ -32,4 +32,4 @@ Klacksy 在后台观察哪些技能经常在同一会话中一起使用或先后
 - 经验法则：通常只有置信度较高的*已学习*关联才值得采纳。对支持度不足的推导型候选，最好先弃用，等积累了更多使用数据后再作决定。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

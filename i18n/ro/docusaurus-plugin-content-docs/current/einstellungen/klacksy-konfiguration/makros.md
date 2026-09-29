@@ -25,4 +25,4 @@ Sporurile pentru munca de noapte, duminică și în zilele de sărbătoare sau c
 - `weekday` respectă în întregime standardul ISO-8601 (1 = luni … 7 = duminică) — pentru interogări proprii `SELECT CASE` pentru „weekend", acestea sunt valorile 6 (sâmbătă) și 7 (duminică).
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

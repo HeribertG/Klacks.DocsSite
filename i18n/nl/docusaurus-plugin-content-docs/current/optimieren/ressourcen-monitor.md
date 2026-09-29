@@ -28,4 +28,4 @@ Met de pijlknoppen rechtsboven wisselt u van jaar; via de groepsselectie beperkt
 - Bij een 24/7-contract wordt de roze lijn over de week afgevlakt (ca. 0,71 per persoon en kalenderdag); bij een ma–vr-contract staat deze op werkdagen op 1,0, in het weekend op 0.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

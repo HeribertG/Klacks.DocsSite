@@ -30,4 +30,4 @@ Para a formatação estão disponíveis:
 - O rodapé da tabela ativa-se através de uma caixa de verificação diretamente sob a respetiva tabela; a legenda SUM pode ser mostrada ou ocultada separadamente para o campo de rodapé.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

@@ -23,4 +23,4 @@ Pagina reunește mai multe grupuri de valori prestabilite:
 - Comenzile de planificare sunt ascunse implicit în planul de servicii și pot fi afișate printr-o pictogramă dedicată din bara de instrumente.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

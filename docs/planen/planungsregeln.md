@@ -36,4 +36,4 @@ Eine Planungsregel wird einem **Vertrag** zugeordnet. Die definierten Grenzwerte
 - "Max. Arbeitstage" (weiche Vorliebe für die Blocklänge) und "Max. aufeinanderfolgende Arbeitstage" (harte, nie überschreitbare Obergrenze) sind zwei unterschiedliche Regeln — nicht verwechseln.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

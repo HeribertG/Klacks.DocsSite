@@ -26,4 +26,4 @@ Klacksy non ha un carattere rigido e programmato una volta per tutte — in Impo
 - I campi vuoti non sono un problema: Klacksy utilizza in tal caso il proprio atteggiamento di base incorporato. Alcuni altri aspetti comportamentali interni sono gestiti dal sistema stesso e non sono impostabili direttamente qui.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

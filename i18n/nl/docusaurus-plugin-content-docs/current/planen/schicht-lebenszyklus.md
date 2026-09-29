@@ -46,4 +46,4 @@ Hoe de planbare diensten vervolgens worden bezet, beschrijven [Auto-planning: é
 - **Sporadische diensten en tijdvenster-diensten tellen niet mee.** Beide verschijnen bewust niet in de dienstenbalk van de [Resourcemonitor](../optimieren/ressourcen-monitor.md), omdat ze geen vaste dagelijkse behoefte weergeven.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

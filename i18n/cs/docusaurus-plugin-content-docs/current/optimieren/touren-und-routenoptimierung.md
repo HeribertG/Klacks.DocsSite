@@ -26,4 +26,4 @@ Jsou-li pro nasazení uložena pevná časová okna (např. pouze dopoledne), pr
 ![Zobrazení časové osy pro plánování okruhů](/img/app-timeline-de.png)
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

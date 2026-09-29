@@ -39,4 +39,4 @@ Klacksy לא מחכה שישאלו אותו. פעם בשעה הוא בוחן ב�
 - הקצב השעתי מובנה קשיח ואינו ניתן להגדרה דרך הממשק; המעבר הראשון מתחיל שתי דקות לאחר הפעלת התוכנית.
 
 ---
-*נסו ישירות: [Klacks Playground](https://klacks-software.ch:7643) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*
+*נסו ישירות: [Klacks Playground](https://play.klacks-software.ch) — התחברות `admin@test.com` / `P@ssw0rt1`, הנתונים מתאפסים מדי יום.*

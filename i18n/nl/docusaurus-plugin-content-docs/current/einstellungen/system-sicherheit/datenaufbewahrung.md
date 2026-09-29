@@ -19,4 +19,4 @@ Onder Instellingen > Gegevensbewaring bepaalt u hoe lang verwijderde records —
 - Deze instelling vormt de technische basis van de in de privacyverklaring beschreven verwijderingstermijnen; ze geldt globaal voor alle soft-delete-geschikte gegevenstypen, niet per module configureerbaar.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

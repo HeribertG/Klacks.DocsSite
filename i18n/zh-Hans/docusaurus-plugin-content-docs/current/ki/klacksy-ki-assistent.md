@@ -30,4 +30,4 @@ Klacksy 理解您的诉求，并将其转化为具体操作 — 超过 **300 项
 ![Klacks 中作为面板的 Klacksy](/img/app-klacksy-de.png)
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

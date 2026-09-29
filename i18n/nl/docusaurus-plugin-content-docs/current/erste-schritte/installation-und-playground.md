@@ -8,7 +8,7 @@ Klacks probeert u binnen een minuut uit — en installeert u binnen enkele minut
 
 ## Playground: de speeltuin om kennis te maken
 
-De playground is geen installatievariant, maar een openbare Klacks-omgeving met voorbeeldgegevens om vrijblijvend mee te experimenteren — vandaar de naam. Ze draait op **[klacks-software.ch](https://klacks-software.ch:7643)**:
+De playground is geen installatievariant, maar een openbare Klacks-omgeving met voorbeeldgegevens om vrijblijvend mee te experimenteren — vandaar de naam. Ze draait op **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **Login:** `admin@test.com` · **Wachtwoord:** `P@ssw0rt1`
 - U heeft volledige adminrechten — probeer alles uit.

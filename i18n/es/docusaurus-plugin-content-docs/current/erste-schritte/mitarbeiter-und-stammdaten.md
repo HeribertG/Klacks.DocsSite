@@ -29,4 +29,4 @@ La gestión de direcciones y personas es el corazón de sus datos maestros: empl
 - Cree primero la estructura de grupos y asigne después las personas — así los permisos a nivel de grupo funcionan desde el principio.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

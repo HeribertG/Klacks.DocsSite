@@ -22,4 +22,4 @@ Dans Paramètres > Paramètres IMAP, vous configurez une boîte aux lettres que 
 - Les messages de la boîte de réception peuvent être traduits directement si DeepL est configuré (voir la page dédiée).
 
 ---
-*Essayez directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*
+*Essayez directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

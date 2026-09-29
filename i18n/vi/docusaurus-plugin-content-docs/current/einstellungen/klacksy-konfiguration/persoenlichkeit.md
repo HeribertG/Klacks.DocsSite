@@ -26,4 +26,4 @@ Klacksy không có một tính cách cứng nhắc được lập trình sẵn �
 - Các trường để trống không phải là vấn đề: khi đó Klacksy sẽ sử dụng thái độ cơ bản tích hợp sẵn của mình. Một số khía cạnh hành vi nội bộ khác được hệ thống tự quản lý và không thể chỉnh trực tiếp ở đây.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

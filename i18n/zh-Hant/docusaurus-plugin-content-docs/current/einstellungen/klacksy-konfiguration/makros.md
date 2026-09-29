@@ -25,4 +25,4 @@ sidebar_position: 7
 - `weekday` 一律依照 ISO-8601 標準（1 = 星期一……7 = 星期日）— 若自行用 `SELECT CASE` 判斷「週末」，對應的數值就是 6（星期六）與 7（星期日）。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

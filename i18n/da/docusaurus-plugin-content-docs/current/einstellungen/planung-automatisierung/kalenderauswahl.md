@@ -22,4 +22,4 @@ Egne kalenderudvælgelser opretter du via "+ Tilføj kalenderudvælgelse" — f.
 - Denne side samler og navngiver kun kalenderregelsæt. Selve helligdagsreglerne (beregningsformel, ugedagsforskydning osv.) vedligeholdes separat — se "Helligdage & kalender".
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

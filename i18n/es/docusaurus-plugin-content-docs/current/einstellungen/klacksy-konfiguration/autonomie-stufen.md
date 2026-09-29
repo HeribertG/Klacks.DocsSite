@@ -26,4 +26,4 @@ sidebar_position: 4
 - Por defecto está activo el nivel Autónomo — esto corresponde al comportamiento que Klacksy ya tenía antes de la introducción de los niveles de autonomía.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

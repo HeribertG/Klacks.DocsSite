@@ -39,4 +39,4 @@ Od stupně „Připravit scénář" musí být určena odpovědná osoba: pod je
 - Hodinový rytmus je pevně zabudovaný a přes rozhraní nenastavitelný; první běh startuje dvě minuty po spuštění programu.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

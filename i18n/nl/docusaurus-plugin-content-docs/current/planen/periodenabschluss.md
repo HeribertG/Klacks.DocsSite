@@ -24,4 +24,4 @@ De pagina is ingedeeld in drie tabbladen: **Periodes**, **Exports** en **Logboek
 - U bereikt de periodeafsluiting via het afsluitingspictogram in de linkernavigatie.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

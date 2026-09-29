@@ -22,4 +22,4 @@ sidebar_position: 1
 - 助理 Klacksy 也可以透過語音指令建立或刪除分店（例如「建立一間分店……」）。
 
 ---
-*立即體驗：[Klacks Playground](https://klacks-software.ch:7643) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*
+*立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

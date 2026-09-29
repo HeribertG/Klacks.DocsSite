@@ -19,4 +19,4 @@ sidebar_position: 5
 - 有些插件自带独立的设置卡片（例如消息服务提供商配置）— 这些卡片只有在安装后才会出现在设置的其他位置。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

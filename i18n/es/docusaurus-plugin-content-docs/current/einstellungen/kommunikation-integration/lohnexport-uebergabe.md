@@ -34,4 +34,4 @@ Al sellar un periodo delimitado por grupo, Klacks puede entregar automáticament
 - Un paquete adicional desactivado permanece instalado, pero bloquea la entrega automática de forma igual de completa que uno no instalado.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

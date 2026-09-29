@@ -37,4 +37,4 @@ Unter Einstellungen > Organisation > Verträge verwalten Sie die frei definierba
 - Die Kalenderauswahl pro Vertrag ist optional — lassen Sie sie leer, wird kein vertragsspezifischer Kalender hinterlegt.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

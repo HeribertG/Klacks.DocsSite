@@ -24,4 +24,4 @@ In Impostazioni > Organizzazione > Paesi gestite l'elenco dei paesi disponibili 
 - L'elenco dei paesi alimenta, tra l'altro, la selezione dei paesi nell'indirizzo della segreteria — create qui prima un paese mancante, prima di volerlo selezionare lì.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*

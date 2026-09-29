@@ -28,4 +28,4 @@ Hvert trin **låser redigeringen** tilsvarende: Det, der er godkendt, ændrer in
 - Til den bogholderimæssige afslutning af en måned findes desuden [Periodeafslutning](../planen/periodenabschluss.md).
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

@@ -29,4 +29,4 @@ Hvilke regler som sjekkes, og hvor strengt de gjelder, fastsetter du i [Planlegg
 - Rapportene er rene visninger: De kan ikke redigeres og endrer ingenting. Rettelser gjøres i [Planrutenettet: din interaktive tidsmatrise](../planen/plan-raster.md) eller gjennom en ny kjøring.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

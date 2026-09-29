@@ -19,4 +19,4 @@ sidebar_position: 3
 - この設定は、プライバシーポリシーに記載されている削除期間の技術的な基盤です。全てのソフトデリート対応データ型にグローバルに適用され、モジュールごとに個別設定することはできません。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

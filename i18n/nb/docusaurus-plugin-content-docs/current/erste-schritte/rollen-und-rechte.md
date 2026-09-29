@@ -25,4 +25,4 @@ I hverdagen er det som regel en Supervisor-konto som utfører selve planleggings
 - En innloggingskonto må ikke nødvendigvis være koblet til et medarbeider-stamdatakort — brukeradministrasjon og personadministrasjon er atskilte områder.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

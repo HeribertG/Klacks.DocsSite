@@ -24,4 +24,4 @@ Under Inställningar > Organisation > Länder hanterar du listan över länder s
 - Länderlistan förser bland annat länderurvalet vid adressen Sekretariat — lägg till ett saknat land här först, innan du vill välja det där.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

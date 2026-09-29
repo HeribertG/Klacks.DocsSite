@@ -19,4 +19,4 @@ sidebar_position: 3
 - Această setare este fundamentul tehnic al termenelor de ștergere descrise în declarația de protecție a datelor; se aplică global pentru toate tipurile de date care suportă soft-delete, nu este configurabilă per modul.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

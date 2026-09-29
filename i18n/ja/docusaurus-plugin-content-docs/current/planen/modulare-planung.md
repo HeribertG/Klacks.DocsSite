@@ -21,4 +21,4 @@ sidebar_position: 3
 - モジュール式計画と[自動計画: ワンクリック、あとはバックグラウンド任せ](../planen/auto-planung.md)は互いに補完し合います。各範囲を個別に自動計画することができます。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) — ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

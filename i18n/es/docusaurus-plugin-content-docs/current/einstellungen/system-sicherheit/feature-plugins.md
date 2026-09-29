@@ -19,4 +19,4 @@ Los plugins de funciones amplían Klacks con áreas funcionales opcionales que n
 - Algunos plugins incorporan sus propias tarjetas de configuración (por ejemplo, la configuración de proveedores de mensajería) — estas aparecen recién después de la instalación en otro lugar de la configuración.
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

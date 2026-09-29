@@ -24,4 +24,4 @@ Unter Einstellungen > Organisation > Länder verwalten Sie die Liste der Länder
 - Die Länderliste speist unter anderem die Länder-Auswahl bei der Adresse Sekretariat — legen Sie ein fehlendes Land hier zuerst an, bevor Sie es dort auswählen wollen.
 
 ---
-*Direkt ausprobieren: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*
+*Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

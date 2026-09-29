@@ -20,4 +20,4 @@ Under Settings > DeepL you enter a DeepL API key that lets Klacks automatically 
 - The key is stored encrypted and shown masked in the form.
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

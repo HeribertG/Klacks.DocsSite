@@ -24,9 +24,9 @@ Klacks dapat menggambarkan segala jenis perencanaan shift dan penugasan — mula
 
 ## Apa artinya ini secara praktis
 
-- Klacks selalu dan sepenuhnya gratis untuk semua orang — tanpa registrasi, tanpa proses penjualan. [Playground](https://klacks-software.ch:7643) hanyalah salah satu cara untuk mencoba-coba tanpa ikatan apa pun dan membiasakan diri dengan cara penggunaannya.
+- Klacks selalu dan sepenuhnya gratis untuk semua orang — tanpa registrasi, tanpa proses penjualan. [Playground](https://play.klacks-software.ch) hanyalah salah satu cara untuk mencoba-coba tanpa ikatan apa pun dan membiasakan diri dengan cara penggunaannya.
 - Anda dapat menjalankannya dengan paket On-Premise (image Docker, installer, database, HTTPS, pembaruan otomatis) di server Anda sendiri.
 - Anda dapat memeriksa kode sumber dan membuat perubahan sendiri — Klacks tetap menjadi milik Anda, bahkan saat Anda mengembangkannya lebih lanjut.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

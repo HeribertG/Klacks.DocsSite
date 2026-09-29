@@ -23,4 +23,4 @@ Astfel se conturează pas cu pas o imagine completă asupra aplicației, fără 
 - Cel mai rapid experimentați turul în Playground: autentificați-vă, deschideți Klacksy și începeți să scrieți.
 
 ---
-*Testați direct: [Klacks Playground](https://klacks-software.ch:7643) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Testați direct: [Klacks Playground](https://play.klacks-software.ch) — Autentificare `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

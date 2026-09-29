@@ -29,4 +29,4 @@ Vilka regler som kontrolleras och hur strikt de gäller bestämmer du i [Planeri
 - Rapporterna är rena vyer: De går inte att redigera och ändrar ingenting. Korrigeringar görs i [Planeringsrutnätet: din interaktiva tidsmatris](../planen/plan-raster.md) eller genom en ny körning.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

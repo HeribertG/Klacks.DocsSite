@@ -25,4 +25,4 @@ Dashboard se člení na čtyři oddíly, které lze jednotlivě rozbalit a sbali
 ![Dashboard v Klacks](/img/app-dashboard-de.png)
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

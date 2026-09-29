@@ -25,4 +25,4 @@ Surcharges for night, Sunday, and public-holiday work, or the exact hour calcula
 - `weekday` consistently follows ISO 8601 (1 = Monday … 7 = Sunday) — in your own `SELECT CASE` checks for "weekend," those are the values 6 (Saturday) and 7 (Sunday).
 
 ---
-*Try it yourself: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*
+*Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

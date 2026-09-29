@@ -23,4 +23,4 @@ sidebar_position: 2
 - 体验导览最快的方式是 Playground：登录、打开 Klacksy、开始输入。
 
 ---
-*立即体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

@@ -26,4 +26,4 @@ Jos käynnille on tallennettu kiinteät aikaikkunat (esim. vain aamupäivisin), 
 ![Aikajananäkymä kiertosuunnitteluun](/img/app-timeline-de.png)
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

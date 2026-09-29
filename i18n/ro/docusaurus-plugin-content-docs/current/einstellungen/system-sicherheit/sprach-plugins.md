@@ -21,4 +21,4 @@ Klacks acceptă în mod fix patru limbi de bază în frontend — germană, engl
 - Gradul de acoperire al unui plugin lingvistic poate fi sub 100%, dacă au fost adăugate funcții noi înainte ca traducerea să fie actualizată; textele lipsă revin atunci la engleză, limba de rezervă tehnică pentru toate limbile plugin.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

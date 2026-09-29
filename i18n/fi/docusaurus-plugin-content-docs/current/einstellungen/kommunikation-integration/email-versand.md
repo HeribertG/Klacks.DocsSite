@@ -22,4 +22,4 @@ Kohdassa Asetukset > Sähköpostiasetukset tallennat SMTP-palvelimen, jonka kaut
 - Jos yhteystesti epäonnistuu, Klacks ilmoittaa konkreettisen syyn (esim. todennusvirhe, SSL-kättelyvirhe, aikakatkaisu) yleisen virheilmoituksen sijaan.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

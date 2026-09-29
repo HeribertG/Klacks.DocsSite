@@ -25,4 +25,4 @@ sidebar_position: 8
 - これらの色は、プランマトリクス自体の表示にのみ作用し、画面の他の領域には影響しません。
 
 ---
-*すぐに試す: [Klacks Playground](https://klacks-software.ch:7643) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*
+*すぐに試す: [Klacks Playground](https://play.klacks-software.ch) ― ログイン `admin@test.com` / `P@ssw0rt1`、データは毎日リセットされます。*

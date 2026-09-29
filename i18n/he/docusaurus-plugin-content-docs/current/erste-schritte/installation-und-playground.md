@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Playground: מגרש המשחקים להיכרות
 
-ה-Playground אינו אפשרות התקנה, אלא מופע Klacks ציבורי עם נתוני דוגמה למשחק חופשי וללא התחייבות - מכאן השם. הוא פועל בכתובת **[klacks-software.ch](https://klacks-software.ch:7643)**:
+ה-Playground אינו אפשרות התקנה, אלא מופע Klacks ציבורי עם נתוני דוגמה למשחק חופשי וללא התחייבות - מכאן השם. הוא פועל בכתובת **[klacks-software.ch](https://play.klacks-software.ch)**:
 
 - **התחברות:** `admin@test.com` · **סיסמה:** `P@ssw0rt1`
 - יש לכם הרשאות מנהל מלאות - נסו הכול.

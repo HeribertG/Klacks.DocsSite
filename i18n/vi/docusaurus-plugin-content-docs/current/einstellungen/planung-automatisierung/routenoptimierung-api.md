@@ -18,4 +18,4 @@ OpenRouteService tính toán thời gian di chuyển và khoảng cách — cho 
 - Đối với việc chuyển đổi thuần túy từ địa chỉ sang tọa độ (Geocoding), Klacks sử dụng một dịch vụ khác, riêng biệt — khóa này chỉ dành riêng cho việc tính toán tuyến đường.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

@@ -24,4 +24,4 @@ Em Definições > Organização > Países, gere a lista de países disponíveis 
 - A lista de países alimenta, entre outros, a seleção de países no endereço do secretariado — crie aqui primeiro um país em falta, antes de o querer selecionar aí.
 
 ---
-*Experimente diretamente: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*
+*Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

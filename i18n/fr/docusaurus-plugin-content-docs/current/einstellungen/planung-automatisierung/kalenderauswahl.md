@@ -22,4 +22,4 @@ Vous créez vos propres sélections de calendrier via « + Ajouter une sélectio
 - Cette page ne fait que regrouper et nommer des ensembles de calendriers. Les règles de jours fériés elles-mêmes (formule de calcul, décalage selon le jour de la semaine, etc.) sont gérées séparément — voir « Jours fériés et calendriers ».
 
 ---
-*À essayer directement : [Klacks Playground](https://klacks-software.ch:7643) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*
+*À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées quotidiennement.*

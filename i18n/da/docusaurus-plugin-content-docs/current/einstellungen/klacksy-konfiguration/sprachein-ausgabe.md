@@ -25,4 +25,4 @@ Klacksy kan også betjenes via tale — under Indstillinger > Klacksy Sprog inds
 - Model-tjekket her tester udelukkende egnethed til transskriptionsoprydning (kontekstvindue ≥ 16.000 tokens) — til generel egnethed som Klacksys hovedmodel findes en separat, strengere test (se Model-forbindelsestest).
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

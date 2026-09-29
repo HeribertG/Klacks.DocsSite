@@ -25,4 +25,4 @@ En Configuración > Administración de usuarios se gestionan las **cuentas de ac
 - No existe un establecimiento directo de contraseña por parte del administrador: las cuentas nuevas reciben una contraseña generada automáticamente, y cualquier cambio posterior se realiza mediante el enlace de correo electrónico "Restablecer contraseña".
 
 ---
-*Pruébelo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*
+*Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

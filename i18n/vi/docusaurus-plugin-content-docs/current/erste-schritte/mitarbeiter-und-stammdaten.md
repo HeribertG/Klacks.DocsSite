@@ -29,4 +29,4 @@ Quản lý địa chỉ và con người là trung tâm của dữ liệu gốc:
 - Hãy tạo cấu trúc nhóm trước rồi mới gán người vào — như vậy quyền hạn ở cấp độ nhóm sẽ có hiệu lực ngay từ đầu.
 
 ---
-*Dùng thử ngay: [Klacks Playground](https://klacks-software.ch:7643) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*
+*Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

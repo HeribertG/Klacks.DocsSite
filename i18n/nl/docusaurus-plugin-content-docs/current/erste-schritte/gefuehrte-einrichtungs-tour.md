@@ -23,4 +23,4 @@ Zo ontstaat stap voor stap een volledig overzicht van de applicatie, helemaal zo
 - De snelste manier om de rondleiding te ervaren is in de playground: inloggen, Klacksy openen, beginnen met typen.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks gereset.*

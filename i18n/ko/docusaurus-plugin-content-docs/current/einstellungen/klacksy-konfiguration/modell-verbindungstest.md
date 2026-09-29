@@ -21,4 +21,4 @@ sidebar_position: 5
 - 이 테스트는 실행 능력을 위한 함수 호출에 특화되어 있으며, 순수 전사 정리를 위해 더 낮은 컨텍스트 윈도우로도 충분한 언어 설정의 모델 체크와는 별개입니다.
 
 ---
-*직접 사용해 보기: [Klacks Playground](https://klacks-software.ch:7643) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*
+*직접 사용해 보기: [Klacks Playground](https://play.klacks-software.ch) — 로그인 `admin@test.com` / `P@ssw0rt1`, 데이터는 매일 초기화됩니다.*

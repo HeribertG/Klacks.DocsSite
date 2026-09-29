@@ -25,4 +25,4 @@ Verderop op dezelfde instellingenpagina bepaalt u de kleuren waarmee het planroo
 - Deze kleuren werken uitsluitend op de weergave van het planrooster zelf, niet op andere delen van de interface.
 
 ---
-*Direct uitproberen: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*
+*Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

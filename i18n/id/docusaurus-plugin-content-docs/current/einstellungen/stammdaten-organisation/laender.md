@@ -24,4 +24,4 @@ Di Pengaturan > Organisasi > Negara, Anda mengelola daftar negara yang tersedia 
 - Daftar negara ini antara lain menjadi sumber pilihan negara pada Alamat Sekretariat — buat terlebih dahulu negara yang belum ada di sini sebelum Anda ingin memilihnya di sana.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

@@ -29,4 +29,4 @@ Peraturan mana yang disemak dan sejauh mana ia berkuat kuasa ditetapkan dalam [P
 - Laporan-laporan ini adalah paparan semata-mata: Ia tidak boleh disunting dan tidak mengubah apa-apa. Pembetulan dilakukan dalam [Grid Jadual: Matriks Masa Interaktif Anda](../planen/plan-raster.md) atau melalui larian semula.
 
 ---
-*Cuba secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

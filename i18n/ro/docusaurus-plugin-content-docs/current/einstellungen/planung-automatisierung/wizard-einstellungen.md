@@ -20,4 +20,4 @@ Procesarea imaginilor nu este aici un aspect secundar, ci o condiție obligatori
 - Butonul de verificare este un simplu autotest (accesibilitate + înțelegerea imaginii + timp de răspuns) și nu modifică, în sine, niciun fel de date de planificare.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

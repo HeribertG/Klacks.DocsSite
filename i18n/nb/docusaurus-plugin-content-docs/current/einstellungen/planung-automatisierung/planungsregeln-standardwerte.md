@@ -23,4 +23,4 @@ Siden samler flere grupper med forhåndsutfylte verdier:
 - Planleggingskommandoene er som standard skjult i vaktplanen og kan vises via et eget symbol i verktøylinjen.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — logg inn med `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

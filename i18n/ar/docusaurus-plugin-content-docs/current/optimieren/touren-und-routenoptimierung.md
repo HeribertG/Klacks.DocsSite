@@ -26,4 +26,4 @@ sidebar_position: 1
 ![عرض الجدول الزمني لتخطيط الجولات](/img/app-timeline-de.png)
 
 ---
-*جرّبوه مباشرة: [ساحة تجارب Klacks](https://klacks-software.ch:7643) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*
+*جرّبوه مباشرة: [ساحة تجارب Klacks](https://play.klacks-software.ch) — تسجيل الدخول `admin@test.com` / `P@ssw0rt1`، تتم إعادة تعيين البيانات يوميًا.*

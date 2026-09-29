@@ -19,4 +19,4 @@ Funktionsplugins utökar Klacks med valfria funktionsområden som inte tillhör 
 - Vissa plugins har egna inställningskort (t.ex. konfiguration av Messaging-leverantör) — dessa visas först efter installationen på ett annat ställe i inställningarna.
 
 ---
-*Testa direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Testa direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

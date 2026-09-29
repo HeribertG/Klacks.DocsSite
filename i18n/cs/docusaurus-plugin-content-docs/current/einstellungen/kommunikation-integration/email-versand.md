@@ -22,4 +22,4 @@ V nastavení Nastavení > Nastavení e-mailu zadáváte SMTP server, přes kter�
 - Pokud test připojení selže, Klacks nahlásí konkrétní důvod (např. chyba ověření, chyba SSL handshake, vypršení časového limitu) místo obecné chybové zprávy.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

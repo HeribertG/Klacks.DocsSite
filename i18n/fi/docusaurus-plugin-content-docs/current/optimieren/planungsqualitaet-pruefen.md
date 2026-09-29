@@ -29,4 +29,4 @@ Mitä sääntöjä tarkistetaan ja kuinka tiukasti ne pätevät, määritätte k
 - Raportit ovat puhtaita näkymiä: niitä ei voi muokata, eivätkä ne muuta mitään. Korjaukset tehdään kohdassa [Suunnitteluruudukko: interaktiivinen aikamatriisinne](../planen/plan-raster.md) tai uudella ajolla.
 
 ---
-*Kokeile heti: [Klacks Playground](https://klacks-software.ch:7643) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*
+*Kokeile heti: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

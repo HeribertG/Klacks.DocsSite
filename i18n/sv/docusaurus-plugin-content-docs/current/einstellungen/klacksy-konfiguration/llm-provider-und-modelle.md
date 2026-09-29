@@ -23,4 +23,4 @@ Klacksy behöver en språkmodell för att förstå och agera. Under Inställning
 - Synkloggtjänsten körs oberoende av din session i bakgrunden — du behöver inte hålla sidan öppen för det.
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

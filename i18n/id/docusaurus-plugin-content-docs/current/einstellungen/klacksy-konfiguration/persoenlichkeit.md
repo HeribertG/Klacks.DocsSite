@@ -26,4 +26,4 @@ Klacksy tidak memiliki karakter yang kaku dan diprogram secara tetap — di Peng
 - Bidang kosong bukan masalah: Klacksy kemudian menggunakan sikap dasar bawaannya. Beberapa aspek perilaku internal lainnya dikelola oleh sistem itu sendiri dan tidak dapat diatur langsung di sini.
 
 ---
-*Coba langsung: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*
+*Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

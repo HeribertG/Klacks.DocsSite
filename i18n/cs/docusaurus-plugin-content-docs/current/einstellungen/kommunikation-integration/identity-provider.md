@@ -23,4 +23,4 @@ V nastavení Nastavení > Identity Provider propojujete Klacks s externí adres�
 - Externí identifikátor z adresáře (LDAP ObjectGUID, případně náhradou Distinguished Name) zabraňuje duplicitám: pokud se při opakované synchronizaci najde stejný identifikátor, existující osoba se aktualizuje místo nového založení.
 
 ---
-*Vyzkoušejte přímo: [Klacks Playground](https://klacks-software.ch:7643) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*
+*Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — Přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

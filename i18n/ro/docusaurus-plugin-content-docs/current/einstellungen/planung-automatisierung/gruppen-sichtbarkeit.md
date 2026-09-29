@@ -20,4 +20,4 @@ Administratorii sunt exceptați de la această restricție: la ei butonul este d
 - Această setare controlează **vizibilitatea** datelor, nu **drepturile** fundamentale ale unui rol — rolurile/drepturile sunt gestionate independent de aceasta.
 
 ---
-*Încercați direct: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*
+*Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

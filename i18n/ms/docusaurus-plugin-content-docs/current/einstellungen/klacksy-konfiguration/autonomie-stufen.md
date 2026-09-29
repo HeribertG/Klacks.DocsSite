@@ -26,4 +26,4 @@ Sejauh mana Klacksy boleh bertindak sendiri sebelum dia bertanya dahulu? Di bawa
 - Secara lalai, tahap Autonomi diaktifkan — ini sepadan dengan tingkah laku yang telah dimiliki Klacksy sebelum pengenalan Tahap Autonomi.
 
 ---
-*Cuba sendiri secara langsung: [Klacks Playground](https://klacks-software.ch:7643) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*
+*Cuba sendiri secara langsung: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

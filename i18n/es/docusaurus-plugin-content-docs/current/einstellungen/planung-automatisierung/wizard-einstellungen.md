@@ -20,4 +20,4 @@ El procesamiento de imágenes no es aquí un asunto secundario, sino un requisit
 - El botón de comprobación es una autoprueba pura (accesibilidad + comprensión de imágenes + tiempo de respuesta) y en sí mismo no modifica ningún dato de planificación.
 
 ---
-*Pruébalo directamente: [Klacks Playground](https://klacks-software.ch:7643) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*
+*Pruébalo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen a diario.*

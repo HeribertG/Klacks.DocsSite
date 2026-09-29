@@ -24,4 +24,4 @@ sidebar_position: 3
 - 更改国家时，州的选择会自动重置；已选定的日历只有在同样适用于新国家时才会保留 — 否则也会被一并清空。
 
 ---
-*直接体验：[Klacks Playground](https://klacks-software.ch:7643) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*
+*直接体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

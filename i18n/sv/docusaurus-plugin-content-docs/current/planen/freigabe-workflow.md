@@ -28,4 +28,4 @@ Varje steg **spärrar redigeringen** i motsvarande grad: Det som är godkänt ka
 - För den bokföringsmässiga avslutningen av en månad finns dessutom [Periodavslut](../planen/periodenabschluss.md).
 
 ---
-*Prova direkt: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*
+*Prova direkt: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data återställs dagligen.*

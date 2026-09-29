@@ -21,4 +21,4 @@ Tricket bag: Planblade holder **referencer i stedet for kopier**. En vagt eksist
 - Modulær planlægning og [Auto-planlægning: Ét klik, resten kører i baggrunden](../planen/auto-planung.md) supplerer hinanden: Hvert område kan planlægges automatisk for sig selv.
 
 ---
-*Prøv det direkte: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*
+*Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data nulstilles dagligt.*

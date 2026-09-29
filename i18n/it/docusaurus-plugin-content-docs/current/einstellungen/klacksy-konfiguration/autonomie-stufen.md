@@ -26,4 +26,4 @@ Quanto può agire Klacksy in autonomia prima di chiedere conferma? In Impostazio
 - Il livello predefinito è Autonomo — corrisponde al comportamento che Klacksy aveva già prima dell'introduzione dei livelli di autonomia.
 
 ---
-*Provate subito: [Klacks Playground](https://klacks-software.ch:7643) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
+*Provate subito: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, i dati vengono ripristinati ogni giorno.*
