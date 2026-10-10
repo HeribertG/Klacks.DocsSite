@@ -19,7 +19,7 @@ Vor jeder Änderung fasst Klacksy zusammen, was passieren wird, und wartet auf I
 
 ## Freie Modellwahl — auch komplett lokal
 
-Das Besondere: **Sie wählen das Sprachmodell selbst.** OpenAI, Anthropic, Google, DeepSeek und weitere Anbieter werden unterstützt — oder ein lokal betriebenes Modell. Damit ist auch die Kombination möglich, die kaum ein Anbieter schafft: ein KI-Assistent, bei dem **kein einziger Personendatensatz das Haus verlässt**. Genau das brauchen Spitäler, Spitex und Sicherheitsdienste.
+Das Besondere: **Sie wählen das Sprachmodell selbst.** OpenAI, Anthropic, Google, DeepSeek und weitere Anbieter werden unterstützt — oder ein lokal betriebenes Modell. Damit ist auch die Kombination möglich, die kaum ein Anbieter schafft: ein KI-Assistent, bei dem **keine Anfrage an das Sprachmodell bei einem externen KI-Anbieter landet**. Genau das brauchen Spitäler, Spitex und Sicherheitsdienste.
 
 ## Gut zu wissen
 

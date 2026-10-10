@@ -20,7 +20,7 @@ Dieses Wiki erklärt in kleinen Häppchen, wie Klacks funktioniert. Jede Seite i
 ## Die Häppchen
 
 **Über Klacks**
-- [Die Philosophie hinter Klacks](./ueber-klacks/philosophie.md) — Datenhoheit, KI-Wahlfreiheit, Open Source
+- [Die Philosophie hinter Klacks](./ueber-klacks/philosophie.md) — eigene Server, KI-Wahlfreiheit, Open Source
 
 **Erste Schritte**
 - [Installation und Playground](./erste-schritte/installation-und-playground.md) — In wenigen Minuten zu einem laufenden Klacks

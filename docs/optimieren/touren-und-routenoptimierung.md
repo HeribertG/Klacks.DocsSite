@@ -18,7 +18,7 @@ Sind für einen Einsatz feste Zeitfenster hinterlegt (z.B. nur vormittags), flie
 
 ## Gut zu wissen
 
-- Für die Distanz- und Fahrzeitberechnung kann Klacks den externen Dienst OpenRouteService einbinden (GPS-Koordinaten werden dabei anonymisiert übermittelt) — je nach Konfiguration der Instanz.
+- Für die Distanz- und Fahrzeitberechnung nutzt Klacks einen externen Routing-Dienst: OpenRouteService, wenn ein API-Schlüssel hinterlegt ist, sonst den öffentlichen OSRM-Server. Die Koordinaten der Einsatzorte werden dabei ohne Namen an den Routing-Dienst gesendet; ist kein Dienst erreichbar, schätzt Klacks die Fahrzeiten aus der Luftlinie.
 - Die Tourenoptimierung ist ein eigenständiger Baustein für die Container-Dienste; die allgemeine Auto-Planung des Schichtplans bewertet unabhängig davon Abdeckung, Fairness und Regel-Konformität.
 - Verkehrsmittel sind pro Tour wählbar — praktisch für städtische Velo-Touren neben ländlichen Auto-Touren.
 - Fällt jemand aus, zeigt Klacks sofort, wer qualifiziert und verfügbar ist.

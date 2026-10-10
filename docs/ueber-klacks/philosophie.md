@@ -6,13 +6,13 @@ sidebar_position: 1
 
 Klacks ist Personaleinsatzplanung, die Ihnen gehört — nicht einem Cloud-Anbieter. Drei Entscheidungen ziehen sich durch das gesamte Produkt.
 
-## Datenhoheit statt Cloud-Abhängigkeit
+## Eigene Server statt Cloud-Abhängigkeit
 
-Klacks läuft auf Ihrer eigenen Infrastruktur — kein Datensatz verlässt zwingend das Haus. Gerade für sensible Branchen wie Spitex, Spitäler oder Sicherheitsdienste ist das kein Nice-to-have: Personendaten auf fremden Servern und die Abhängigkeit vom Anbieter sind für diese Betriebe oft schlicht keine Option. Klacks kehrt das Verhältnis um: Sie entscheiden, wo Ihre Daten liegen, nicht der Softwarehersteller.
+Klacks läuft auf Ihrer eigenen Infrastruktur — Ihre Daten liegen in Ihrer eigenen Datenbank. Welche externen Dienste Klacks für Adresssuche, Routen, Karten und Updates aufruft, steht unter [Installation und Playground](../erste-schritte/installation-und-playground.md#welche-externen-dienste-klacks-aufruft). Gerade für sensible Branchen wie Spitex, Spitäler oder Sicherheitsdienste ist das kein Nice-to-have: Personendaten auf fremden Servern und die Abhängigkeit vom Anbieter sind für diese Betriebe oft schlicht keine Option. Klacks kehrt das Verhältnis um: Sie entscheiden, wo Ihre Daten liegen, nicht der Softwarehersteller.
 
 ## KI-Wahlfreiheit statt Anbieter-Lock-in
 
-Klacksy, der eingebaute KI-Assistent, ist an keinen einzelnen KI-Anbieter gebunden. Ob OpenAI, Anthropic, Google, DeepSeek oder ein lokal betriebenes Modell — Sie entscheiden über Kosten, Datenschutz und Anbieter, nicht Klacks. KI-Unterstützung und volle Datenhoheit schliessen sich damit nicht aus, sondern gehören zusammen.
+Klacksy, der eingebaute KI-Assistent, ist an keinen einzelnen KI-Anbieter gebunden. Ob OpenAI, Anthropic, Google, DeepSeek oder ein lokal betriebenes Modell — Sie entscheiden über Kosten, Datenschutz und Anbieter, nicht Klacks. KI-Unterstützung und Daten auf Ihren eigenen Servern schliessen sich damit nicht aus: Mit einem lokalen Modell geht keine KI-Anfrage an einen externen KI-Anbieter.
 
 ## Open Source statt Blackbox
 

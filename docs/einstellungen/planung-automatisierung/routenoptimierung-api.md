@@ -12,9 +12,9 @@ OpenRouteService berechnet Reisezeiten und Entfernungen — für Autofahrten, Ra
 
 ## Gut zu wissen
 
-- Der Schlüssel wird direkt aus dem Browser an openrouteservice.org gesendet und deshalb bewusst **im Klartext** angezeigt statt maskiert (`***`) — anders als z. B. E-Mail-Passwörter. Das ist so vorgesehen, damit Sie einen versehentlichen Tippfehler oder abgelaufenen Schlüssel erkennen können, kein Darstellungsfehler.
-- In der Datenbank wird der Schlüssel trotzdem verschlüsselt gespeichert.
-- Ohne gültigen Schlüssel funktioniert die Routenoptimierung nicht — Reisezeiten und Distanzen können dann nicht berechnet werden.
+- Der Schlüssel bleibt auf dem Klacks-Server: Routenanfragen an openrouteservice.org stellt der Server, der Browser erhält den Schlüssel nie. Nach dem Speichern wird er deshalb nur maskiert angezeigt (`***`), wie z. B. E-Mail-Passwörter.
+- In der Datenbank wird der Schlüssel verschlüsselt gespeichert.
+- Ohne gültigen Schlüssel berechnet Klacks Fahrzeiten und Distanzen über den öffentlichen OSRM-Server, der nur für Autofahrten genaue Zeiten liefert; ist auch dieser nicht erreichbar, schätzt Klacks die Werte aus der Luftlinie.
 - Für die reine Umwandlung von Adressen in Koordinaten (Geocoding) nutzt Klacks einen anderen, separaten Dienst — dieser Schlüssel ist ausschliesslich für die Routenberechnung zuständig.
 
 ---
