@@ -9,6 +9,7 @@ const config = {
 
   url: 'https://klacks-software.ch',
   baseUrl: '/docs/',
+  trailingSlash: true,
 
   organizationName: 'HeribertG',
   projectName: 'Klacks.DocsSite',
