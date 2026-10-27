@@ -53,6 +53,14 @@ const config = {
     },
   },
 
+  headTags: [
+    {
+      tagName: 'script',
+      attributes: {},
+      innerHTML: "try{window.localStorage.removeItem('theme')}catch(e){}",
+    },
+  ],
+
   presets: [
     [
       'classic',

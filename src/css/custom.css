@@ -28,3 +28,27 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.klacks-theme-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  color: var(--ifm-navbar-link-color);
+  transition: background var(--ifm-transition-fast);
+}
+
+.klacks-theme-button:hover {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.klacks-theme-icon {
+  display: none;
+}
+
+[data-theme='light'] .klacks-theme-moon,
+[data-theme='dark'] .klacks-theme-sun {
+  display: block;
+}
