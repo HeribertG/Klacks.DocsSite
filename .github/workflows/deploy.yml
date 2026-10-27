@@ -54,11 +54,11 @@ jobs:
 
           echo "Health check..."
           sleep 2
-          if curl -sk -o /dev/null -w "%{http_code}" https://localhost/docs/ | grep -q "200"; then
+          if curl -sk -H "Host: klacks-software.ch" -o /dev/null -w "%{http_code}" https://localhost/docs/ | grep -q "200"; then
             echo "Docs site responds with 200"
           else
             echo "Docs site did not respond with 200"
-            curl -sk -o /dev/null -w "%{http_code}\n" https://localhost/docs/
+            curl -sk -H "Host: klacks-software.ch" -o /dev/null -w "%{http_code}\n" https://localhost/docs/
             exit 1
           fi
 
