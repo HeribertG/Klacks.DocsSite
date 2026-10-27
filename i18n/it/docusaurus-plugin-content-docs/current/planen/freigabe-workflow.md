@@ -13,7 +13,7 @@ Il piano passa attraverso quattro fasi:
 1. **Bozza** — la fase di lavoro: tutto può ancora cambiare
 2. **Confermato** — il piano è definito dal punto di vista tecnico; le modifiche sono ammesse solo in modo controllato
 3. **Approvato** — l'ufficio responsabile ha dato il via libera
-4. **Concluso** — il piano è sigillato e vincolante per l'operatività; la chiusura contabile avviene separatamente tramite la [Chiusura periodo](../planen/periodenabschluss.md)
+4. **Chiuso** — il piano è sigillato e vincolante per l'operatività; la chiusura contabile avviene separatamente tramite la [Chiusura periodo](../planen/periodenabschluss.md)
 
 Ogni fase **blocca la modifica** di conseguenza: ciò che è approvato non viene più alterato da nessuno per errore tramite drag & drop. È chiaramente regolato chi può impostare quale fase:
 

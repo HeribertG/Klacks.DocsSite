@@ -29,7 +29,7 @@ Der einmalige, **unumkehrbare** Schritt, der aus einer Bestellung einen planbare
 Der planbare, versiegelte Einsatz. Der Begriff „Schicht" meint dasselbe.
 
 **Freigabe-Ebenen (Schichtplan)**
-Der Schichtplan durchläuft vier Zustände in fester Reihenfolge: **Entwurf → bestätigt → genehmigt → abgeschlossen**. Bestätigen darf jedes angemeldete Konto; genehmigen nur Supervisor und Admin; abschliessen ausschliesslich Admin. Siehe [Freigabe-Workflow](../planen/freigabe-workflow/).
+Der Schichtplan durchläuft vier Zustände in fester Reihenfolge: **Entwurf → bestätigt → freigegeben → geschlossen**. Bestätigen darf jedes angemeldete Konto; freigeben nur Supervisor und Admin; schliessen ausschliesslich Admin. Siehe [Freigabe-Workflow](../planen/freigabe-workflow/).
 
 **Periode / Periodenabschluss**
 Der Abrechnungszeitraum (wöchentlich, zweiwöchentlich, monatlich oder individuell; festgelegt über das Zahlungsintervall). Der Abschluss macht eine Periode verbindlich und bleibt Admin vorbehalten — siehe [Periodenabschluss](../planen/periodenabschluss/).

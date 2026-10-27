@@ -36,7 +36,7 @@ Die Oberfläche zeigt nur, was Sie auch dürfen: Menüpunkte, Schaltflächen und
 
 - **Ein Konto ohne Rolle ist keine Sackgasse und kein Sicherheitsloch.** Ein Planer-Konto kann den Schichtplan bearbeiten und die Planung auslösen — genau die Arbeit, für die es gedacht ist; die Stammdaten bleiben unberührt.
 - **Der zuletzt angemeldete Benutzer** wird in der Benutzerverwaltung mit angezeigt, kann dort aber nicht selbst bearbeitet, in seinen Rechten geändert oder gelöscht werden.
-- **Perioden endgültig abschliessen oder wiedereröffnen** bleibt ausschliesslich Admin vorbehalten — auch wenn ein Supervisor Tage oder Gruppen bereits genehmigt hat.
+- **Perioden endgültig abschliessen oder wiedereröffnen** bleibt ausschliesslich Admin vorbehalten — auch wenn ein Supervisor Tage oder Gruppen bereits freigegeben hat.
 - **Ein Login-Konto muss nicht zwingend mit einer Mitarbeiter-Stammdatenkarte verknüpft sein** — Benutzerverwaltung und Personenverwaltung sind getrennte Bereiche.
 - **Rechte gelten auch für den KI-Assistenten.** Klacksy führt Sie nicht in Formulare, die Sie nicht speichern dürfen, und führt für Sie keine Aktionen aus, für die Ihnen das Recht fehlt.
 
