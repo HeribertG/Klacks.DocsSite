@@ -29,7 +29,7 @@ The one-time, **irreversible** step that turns an order into a plannable shift. 
 The plannable, sealed assignment. The term “service” means the same thing.
 
 **Approval stages (shift schedule)**
-The shift schedule passes through four states in a fixed order: **open → confirmed → approved → closed**. Any logged-in account may confirm; only Supervisor and Admin may approve; closing is reserved exclusively for Admin. See [Approval Workflow](../planen/freigabe-workflow/).
+The shift schedule passes through four states in a fixed order: **draft → confirmed → approved → closed**. Any logged-in account may confirm; only Supervisor and Admin may approve; closing is reserved exclusively for Admin. See [Approval Workflow](../planen/freigabe-workflow/).
 
 **Period / period closing**
 The accounting period (weekly, biweekly, monthly, or custom; defined via the payment interval). Closing makes a period binding and remains reserved for Admin — see [Period Closing](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Operation on your own infrastructure: your hardware, your database, your data. T
 **Update service**
 The bundled service that installs signed updates — with a backup beforehand and automatic rollback if problems occur. See [Updates and Rollback](../betrieb/updates-und-rollback/).
 
-**Roles and data protection**
+**Data protection**
 Klacks does not phone home: there is no reporting of your data back to the manufacturer. For data that is actually meant to be deleted, [Data Retention](../einstellungen/system-sicherheit/datenaufbewahrung/) takes care of it — deletions are physically removed once the retention period has expired.
 
 ---

@@ -29,7 +29,7 @@ Det engångssteg som är **oåterkalleligt** och som gör en beställning till e
 Den planeringsbara, förseglade insatsen. Begreppet ”arbetspass” betyder detsamma.
 
 **Godkännandesteg (schema)**
-Schemat genomgår fyra tillstånd i fast ordning: **öppet → bekräftat → godkänt → avslutat**. Bekräfta får varje inloggat konto; godkänna bara Supervisor och Admin; avsluta uteslutande Admin. Se [Godkännandeflöde](../planen/freigabe-workflow/).
+Schemat genomgår fyra tillstånd i fast ordning: **utkast → bekräftat → godkänt → avslutat**. Bekräfta får varje inloggat konto; godkänna bara Supervisor och Admin; avsluta uteslutande Admin. Se [Godkännandeflöde](../planen/freigabe-workflow/).
 
 **Period / periodavslut**
 Avräkningsperioden (veckovis, varannan vecka, månadsvis eller individuell; fastställs via utbetalningsintervallet). Avslutet gör en period bindande och är förbehållet Admin — se [Periodavslut](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Drift på din egen infrastruktur: din hårdvara, din databas, dina data. Motsats
 **Uppdateringstjänst**
 Den medföljande tjänst som installerar signerade uppdateringar — med säkerhetskopia i förväg och automatisk rollback vid problem. Se [Uppdateringar och rollback](../betrieb/updates-und-rollback/).
 
-**Roller och dataskydd**
+**Dataskydd**
 Klacks skickar inget hem: det finns ingen återrapportering av dina data till tillverkaren. För data som faktiskt ska raderas sörjer [Datalagring](../einstellungen/system-sicherheit/datenaufbewahrung/) — raderingar utförs fysiskt när fristen har löpt ut.
 
 ---

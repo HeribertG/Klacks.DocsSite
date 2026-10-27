@@ -29,7 +29,7 @@ De eenmalige, **onomkeerbare** stap die van een bestelling een planbare dienst m
 De planbare, verzegelde inzet. De term „ploegendienst" betekent hetzelfde.
 
 **Goedkeuringsfasen (dienstrooster)**
-Het dienstrooster doorloopt vier toestanden in vaste volgorde: **open → bevestigd → goedgekeurd → afgesloten**. Bevestigen mag elk aangemeld account; goedkeuren alleen Supervisor en Admin; afsluiten uitsluitend Admin. Zie [Goedkeuringsworkflow](../planen/freigabe-workflow/).
+Het dienstrooster doorloopt vier toestanden in vaste volgorde: **concept → bevestigd → goedgekeurd → afgesloten**. Bevestigen mag elk aangemeld account; goedkeuren alleen Supervisor en Admin; afsluiten uitsluitend Admin. Zie [Goedkeuringsworkflow](../planen/freigabe-workflow/).
 
 **Periode / periodeafsluiting**
 De afrekeningsperiode (wekelijks, tweewekelijks, maandelijks of individueel; vastgelegd via het betalingsinterval). De afsluiting maakt een periode bindend en blijft voorbehouden aan Admin — zie [Periodeafsluiting](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Het gebruik op uw eigen infrastructuur: uw hardware, uw database, uw gegevens. H
 **Updateservice**
 De meegeleverde service die ondertekende updates installeert — met een back-up vooraf en automatische rollback bij problemen. Zie [Updates en rollback](../betrieb/updates-und-rollback/).
 
-**Rollen en gegevensbescherming**
+**Gegevensbescherming**
 Klacks belt niet naar huis: er is geen terugmelding van uw gegevens aan de fabrikant. Voor gegevens die daadwerkelijk moeten worden verwijderd, zorgt de [Gegevensbewaring](../einstellungen/system-sicherheit/datenaufbewahrung/) — verwijderingen worden na afloop van de termijn fysiek uitgevoerd.
 
 ---

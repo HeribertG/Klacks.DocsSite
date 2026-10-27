@@ -32,8 +32,8 @@ I adminområdet under **System → Opdateringer**:
 
 | Indstilling | Virkning |
 |---|---|
-| **Auto-enabled** | Opdateringer registreres og installeres automatisk |
-| **Notify only** | Opdateringer **registreres** kun, men installeres ikke, før du udløser det |
+| **Aktiver automatiske opdateringer** | Opdateringer registreres og installeres automatisk |
+| **Kun besked** | Opdateringer **registreres** kun, men installeres ikke, før du udløser det |
 | **Vedligeholdelsesvindue** | Tidsrum, hvori automatiske opdateringer må køre |
 
 Disse indstillinger ligger i databasen og tilsidesætter startværdierne fra `.env` (`UPDATE_AUTO_ENABLED`, `UPDATE_NOTIFY_ONLY`), som kun gælder ved første start.

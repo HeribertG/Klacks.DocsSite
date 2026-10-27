@@ -74,7 +74,7 @@ Klacksy 在不征求意见的情况下可以走多远：
 **更新服务**
 随套件提供的服务，负责应用签名更新 — 事先备份，出现问题时自动回滚。参见[更新与回滚](../betrieb/updates-und-rollback/)。
 
-**角色与数据保护**
+**数据保护**
 Klacks 不会向外「报告」：不会有任何数据回传给厂商。对于确实需要删除的数据，由[数据保留](../einstellungen/system-sicherheit/datenaufbewahrung/)负责 — 删除的内容在期限届满后会被物理清除。
 
 ---

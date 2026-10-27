@@ -29,7 +29,7 @@ L'étape unique et **irréversible** qui transforme une commande en un service p
 L'intervention planifiable et scellée. Le terme « équipe » désigne la même chose.
 
 **Niveaux de validation (plan de service)**
-Le plan de service traverse quatre états dans un ordre fixe : **ouvert → confirmé → approuvé → clôturé**. Tout compte connecté peut confirmer ; seuls les superviseurs et les administrateurs peuvent approuver ; la clôture est réservée exclusivement à l'administrateur. Voir [Workflow de validation](../planen/freigabe-workflow/).
+Le plan de service traverse quatre états dans un ordre fixe : **ébauche → confirmé → approuvé → clôturé**. Tout compte connecté peut confirmer ; seuls les superviseurs et les administrateurs peuvent approuver ; la clôture est réservée exclusivement à l'administrateur. Voir [Workflow de validation](../planen/freigabe-workflow/).
 
 **Période / clôture de période**
 La période de décompte (hebdomadaire, bihebdomadaire, mensuelle ou individuelle ; définie par l'intervalle de paiement). La clôture rend une période définitive et reste réservée à l'administrateur — voir [Clôture de période](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ L'exploitation sur votre propre infrastructure : votre matériel, votre base de 
 **Service de mise à jour**
 Le service fourni qui installe des mises à jour signées — avec une sauvegarde préalable et un rollback automatique en cas de problème. Voir [Mises à jour et rollback](../betrieb/updates-und-rollback/).
 
-**Rôles et protection des données**
+**Protection des données**
 Klacks ne téléphone pas à la maison : aucune donnée n'est renvoyée au fabricant. Pour les données qui doivent réellement être supprimées, la [conservation des données](../einstellungen/system-sicherheit/datenaufbewahrung/) s'en charge — les suppressions sont physiquement effacées à l'expiration du délai.
 
 ---

@@ -29,7 +29,7 @@ Jednorazowy, **nieodwracalny** krok, który zamienia zamówienie w planowalny dy
 Planowalny, zapieczętowany dyżur. Pojęcie „zmiana" oznacza to samo.
 
 **Poziomy zatwierdzania (grafik dyżurów)**
-Grafik dyżurów przechodzi przez cztery stany w stałej kolejności: **otwarty → potwierdzony → zatwierdzony → zamknięty**. Potwierdzać może każde zalogowane konto; zatwierdzać tylko Supervisor i Admin; zamykać wyłącznie Admin. Zob. [Proces zatwierdzania](../planen/freigabe-workflow/).
+Grafik dyżurów przechodzi przez cztery stany w stałej kolejności: **Szkic → potwierdzony → zatwierdzony → zamknięty**. Potwierdzać może każde zalogowane konto; zatwierdzać tylko Supervisor i Admin; zamykać wyłącznie Admin. Zob. [Proces zatwierdzania](../planen/freigabe-workflow/).
 
 **Okres / zamknięcie okresu**
 Okres rozliczeniowy (tygodniowy, dwutygodniowy, miesięczny lub indywidualny; ustalany przez interwał płatności). Zamknięcie czyni okres wiążącym i pozostaje zastrzeżone dla Admina — zob. [Zamknięcie okresu](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Eksploatacja na Państwa własnej infrastrukturze: Państwa sprzęt, Państwa ba
 **Usługa aktualizacji**
 Dostarczana w pakiecie usługa, która instaluje podpisane aktualizacje — z kopią zapasową przed każdym krokiem i automatycznym wycofaniem w razie problemów. Zob. [Aktualizacje i wycofanie zmian](../betrieb/updates-und-rollback/).
 
-**Role i ochrona danych**
+**Ochrona danych**
 Klacks nie „dzwoni do domu": nie ma żadnego zwrotnego przekazywania Państwa danych producentowi. Za dane, które mają faktycznie zostać usunięte, odpowiada [Przechowywanie danych](../einstellungen/system-sicherheit/datenaufbewahrung/) — usunięcia są fizycznie realizowane po upływie terminu.
 
 ---

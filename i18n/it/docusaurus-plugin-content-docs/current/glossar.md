@@ -29,7 +29,7 @@ Il passaggio unico e **irreversibile** che trasforma un ordine in un turno piani
 L'impiego pianificabile e sigillato. Il termine «servizio» indica la stessa cosa.
 
 **Livelli di approvazione (piano dei turni)**
-Il piano dei turni attraversa quattro stati in un ordine fisso: **aperto → confermato → approvato → concluso**. Confermare può farlo qualsiasi account autenticato; approvare solo Supervisor e Admin; concludere esclusivamente l'Admin. Vedere [Workflow di approvazione](../planen/freigabe-workflow/).
+Il piano dei turni attraversa quattro stati in un ordine fisso: **bozza → confermato → approvato → concluso**. Confermare può farlo qualsiasi account autenticato; approvare solo Supervisor e Admin; concludere esclusivamente l'Admin. Vedere [Workflow di approvazione](../planen/freigabe-workflow/).
 
 **Periodo / chiusura del periodo**
 Il periodo di conteggio (settimanale, quindicinale, mensile o personalizzato; definito tramite l'intervallo di pagamento). La chiusura rende vincolante un periodo ed è riservata all'Admin — vedere [Chiusura del periodo](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ L'esercizio sulla vostra infrastruttura: il vostro hardware, il vostro database,
 **Servizio di aggiornamento**
 Il servizio fornito che installa aggiornamenti firmati — con un backup preventivo e un rollback automatico in caso di problemi. Vedere [Aggiornamenti e rollback](../betrieb/updates-und-rollback/).
 
-**Ruoli e protezione dei dati**
+**Protezione dei dati**
 Klacks non «telefona a casa»: nessun dato viene rinviato al produttore. Per i dati che devono davvero essere eliminati provvede la [conservazione dei dati](../einstellungen/system-sicherheit/datenaufbewahrung/) — le eliminazioni vengono rimosse fisicamente allo scadere del termine.
 
 ---

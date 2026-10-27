@@ -29,7 +29,7 @@ Kertaluonteinen, **peruuttamaton** vaihe, joka muuttaa tilauksen suunniteltavaks
 Suunniteltavissa oleva, sinetöity työvuoro. Käsite ”vuoro” tarkoittaa samaa.
 
 **Hyväksymistasot (työvuorosuunnitelma)**
-Työvuorosuunnitelma käy läpi neljä tilaa kiinteässä järjestyksessä: **avoin → vahvistettu → hyväksytty → suljettu**. Vahvistaa saa jokainen kirjautunut tili; hyväksyä vain Supervisor ja Admin; sulkea yksinomaan Admin. Katso [Hyväksymisprosessi](../planen/freigabe-workflow/).
+Työvuorosuunnitelma käy läpi neljä tilaa kiinteässä järjestyksessä: **Luonnos → vahvistettu → hyväksytty → suljettu**. Vahvistaa saa jokainen kirjautunut tili; hyväksyä vain Supervisor ja Admin; sulkea yksinomaan Admin. Katso [Hyväksymisprosessi](../planen/freigabe-workflow/).
 
 **Jakso / jakson päättäminen**
 Tilityskausi (viikoittainen, kahden viikon välein, kuukausittainen tai yksilöllinen; määritetään maksuvälin kautta). Päättäminen tekee jaksosta sitovan ja on varattu Adminille — katso [Jakson päättäminen](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Käyttö omalla infrastruktuurillanne: teidän laitteistonne, teidän tietokanta
 **Päivityspalvelu**
 Mukana toimitettu palvelu, joka asentaa allekirjoitetut päivitykset — varmuuskopiolla etukäteen ja automaattisella palautuksella ongelmatilanteissa. Katso [Päivitykset ja palautus](../betrieb/updates-und-rollback/).
 
-**Roolit ja tietosuoja**
+**Tietosuoja**
 Klacks ei soita kotiin: tietojanne ei palauteta valmistajalle. Tiedoista, jotka todella on tarkoitus poistaa, huolehtii [Tietojen säilytys](../einstellungen/system-sicherheit/datenaufbewahrung/) — poistot poistetaan fyysisesti määräajan päätyttyä.
 
 ---

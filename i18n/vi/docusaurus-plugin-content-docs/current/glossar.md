@@ -29,7 +29,7 @@ Bước duy nhất một lần, **không thể hoàn tác**, biến một đơn 
 Lượt triển khai đã niêm phong, có thể lập kế hoạch. Thuật ngữ "ca" mang cùng một ý nghĩa.
 
 **Các giai đoạn phê duyệt (lịch làm việc)**
-Lịch làm việc đi qua bốn trạng thái theo thứ tự cố định: **mở → đã xác nhận → đã phê duyệt → đã hoàn tất**. Xác nhận thì mọi tài khoản đã đăng nhập đều được; phê duyệt chỉ Supervisor và Admin; hoàn tất chỉ riêng Admin. Xem [Quy trình phê duyệt](../planen/freigabe-workflow/).
+Lịch làm việc đi qua bốn trạng thái theo thứ tự cố định: **dự thảo → đã xác nhận → đã phê duyệt → đã hoàn tất**. Xác nhận thì mọi tài khoản đã đăng nhập đều được; phê duyệt chỉ Supervisor và Admin; hoàn tất chỉ riêng Admin. Xem [Quy trình phê duyệt](../planen/freigabe-workflow/).
 
 **Kỳ / Chốt kỳ**
 Kỳ kế toán (hằng tuần, hai tuần một lần, hằng tháng hoặc tùy chỉnh; được xác định qua khoảng thời gian thanh toán). Việc chốt kỳ làm cho một kỳ có tính ràng buộc và chỉ dành riêng cho Admin — xem [Chốt kỳ](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Vận hành trên hạ tầng của chính bạn: phần cứng của bạn, cơ
 **Dịch vụ cập nhật**
 Dịch vụ đi kèm giúp cài đặt các bản cập nhật có chữ ký — có sao lưu trước và tự động rollback khi có sự cố. Xem [Cập nhật và rollback](../betrieb/updates-und-rollback/).
 
-**Vai trò và bảo vệ dữ liệu**
+**Bảo vệ dữ liệu**
 Klacks không "gọi về nhà": không có dữ liệu nào của bạn được gửi ngược về nhà sản xuất. Với những dữ liệu thực sự cần xóa, [Lưu trữ dữ liệu](../einstellungen/system-sicherheit/datenaufbewahrung/) đảm nhiệm việc đó — các bản ghi đã xóa sẽ được loại bỏ vật lý sau khi hết thời hạn.
 
 ---

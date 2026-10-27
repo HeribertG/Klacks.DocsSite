@@ -32,8 +32,8 @@ Im Admin-Bereich unter **System → Updates**:
 
 | Einstellung | Wirkung |
 |---|---|
-| **Auto-enabled** | Updates werden erkannt und automatisch eingespielt |
-| **Notify only** | Updates werden nur **erkannt**, aber nicht eingespielt, bis Sie es auslösen |
+| **Automatische Updates** | Updates werden erkannt und automatisch eingespielt |
+| **Nur benachrichtigen** | Updates werden nur **erkannt**, aber nicht eingespielt, bis Sie es auslösen |
 | **Wartungsfenster** | Zeitraum, in dem automatische Updates laufen dürfen |
 
 Diese Einstellungen liegen in der Datenbank und überstimmen die Startwerte aus der `.env` (`UPDATE_AUTO_ENABLED`, `UPDATE_NOTIFY_ONLY`), die nur beim ersten Start greifen.

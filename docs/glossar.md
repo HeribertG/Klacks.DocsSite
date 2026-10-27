@@ -29,7 +29,7 @@ Der einmalige, **unumkehrbare** Schritt, der aus einer Bestellung einen planbare
 Der planbare, versiegelte Einsatz. Der Begriff „Schicht" meint dasselbe.
 
 **Freigabe-Ebenen (Schichtplan)**
-Der Schichtplan durchläuft vier Zustände in fester Reihenfolge: **offen → bestätigt → genehmigt → abgeschlossen**. Bestätigen darf jedes angemeldete Konto; genehmigen nur Supervisor und Admin; abschliessen ausschliesslich Admin. Siehe [Freigabe-Workflow](../planen/freigabe-workflow/).
+Der Schichtplan durchläuft vier Zustände in fester Reihenfolge: **Entwurf → bestätigt → genehmigt → abgeschlossen**. Bestätigen darf jedes angemeldete Konto; genehmigen nur Supervisor und Admin; abschliessen ausschliesslich Admin. Siehe [Freigabe-Workflow](../planen/freigabe-workflow/).
 
 **Periode / Periodenabschluss**
 Der Abrechnungszeitraum (wöchentlich, zweiwöchentlich, monatlich oder individuell; festgelegt über das Zahlungsintervall). Der Abschluss macht eine Periode verbindlich und bleibt Admin vorbehalten — siehe [Periodenabschluss](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Der Betrieb auf Ihrer eigenen Infrastruktur: Ihre Hardware, Ihre Datenbank, Ihre
 **Update-Dienst**
 Der mitgelieferte Dienst, der signierte Updates einspielt — mit Sicherung vorher und automatischem Rollback bei Problemen. Siehe [Updates und Rollback](../betrieb/updates-und-rollback/).
 
-**Rollen und Datenschutz**
+**Datenschutz**
 Klacks funkt nicht nach Hause: Es gibt keine Rückmeldung Ihrer Daten an den Hersteller. Für Daten, die tatsächlich gelöscht werden sollen, sorgt die [Datenaufbewahrung](../einstellungen/system-sicherheit/datenaufbewahrung/) — Löschungen werden nach Ablauf der Frist physisch entfernt.
 
 ---

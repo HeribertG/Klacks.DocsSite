@@ -29,7 +29,7 @@ Det engangs, **uopprettelige** trinnet som gjør en bestilling om til en planbar
 Den planbare, forseglede innsatsen. Begrepet «skift» betyr det samme.
 
 **Godkjenningsnivåer (vaktplan)**
-Vaktplanen gjennomløper fire tilstander i fast rekkefølge: **åpen → bekreftet → godkjent → avsluttet**. Bekrefte kan hver innlogget konto; godkjenne bare Supervisor og Admin; avslutte utelukkende Admin. Se [Godkjenningsflyt](../planen/freigabe-workflow/).
+Vaktplanen gjennomløper fire tilstander i fast rekkefølge: **Utkast → bekreftet → godkjent → avsluttet**. Bekrefte kan hver innlogget konto; godkjenne bare Supervisor og Admin; avslutte utelukkende Admin. Se [Godkjenningsflyt](../planen/freigabe-workflow/).
 
 **Periode / periodeavslutning**
 Avregningsperioden (ukentlig, annenhver uke, månedlig eller individuell; fastsatt via betalingsintervallet). Avslutningen gjør en periode bindende og er forbeholdt Admin — se [Periodeavslutning](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Drift på din egen infrastruktur: din maskinvare, din database, dine data. Motbe
 **Oppdateringstjeneste**
 Den medfølgende tjenesten som installerer signerte oppdateringer — med sikkerhetskopi i forkant og automatisk tilbakerulling ved problemer. Se [Oppdateringer og tilbakerulling](../betrieb/updates-und-rollback/).
 
-**Roller og personvern**
+**Personvern**
 Klacks ringer ikke hjem: Det finnes ingen tilbakemelding av dine data til produsenten. For data som faktisk skal slettes, sørger [Dataoppbevaring](../einstellungen/system-sicherheit/datenaufbewahrung/) — slettinger fjernes fysisk etter at fristen er utløpt.
 
 ---

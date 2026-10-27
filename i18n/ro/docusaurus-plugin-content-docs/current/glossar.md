@@ -74,7 +74,7 @@ Funcționarea pe propria infrastructură: hardware-ul dumneavoastră, baza dumne
 **Serviciu de actualizare**
 Serviciul inclus, care aplică actualizări semnate — cu backup în prealabil și rollback automat în caz de probleme. Vezi [Actualizări și rollback](../betrieb/updates-und-rollback/).
 
-**Roluri și protecția datelor**
+**Protecția datelor**
 Klacks nu „sună acasă”: datele dumneavoastră nu sunt raportate înapoi producătorului. De datele care trebuie într-adevăr șterse se ocupă [păstrarea datelor](../einstellungen/system-sicherheit/datenaufbewahrung/) — ștergerile sunt eliminate fizic după expirarea termenului.
 
 ---

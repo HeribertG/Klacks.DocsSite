@@ -30,7 +30,7 @@ Langkah sekali jalan yang **tidak dapat dibatalkan**, yang mengubah sebuah pesan
 Penugasan yang dapat direncanakan dan telah disegel. Istilah "shift" memiliki arti yang sama.
 
 **Tingkat Persetujuan (Jadwal Dinas)**
-Jadwal dinas melewati empat status dalam urutan tetap: **terbuka → dikonfirmasi → disetujui → ditutup**. Mengonfirmasi boleh dilakukan oleh setiap akun yang masuk; menyetujui hanya oleh Supervisor dan Admin; menutup khusus oleh Admin. Lihat [Alur Persetujuan](../planen/freigabe-workflow/).
+Jadwal dinas melewati empat status dalam urutan tetap: **Draf → dikonfirmasi → disetujui → ditutup**. Mengonfirmasi boleh dilakukan oleh setiap akun yang masuk; menyetujui hanya oleh Supervisor dan Admin; menutup khusus oleh Admin. Lihat [Alur Persetujuan](../planen/freigabe-workflow/).
 
 **Periode / Penutupan Periode**
 Rentang waktu penggajian (mingguan, dua mingguan, bulanan, atau individual; ditentukan melalui interval pembayaran). Penutupan menjadikan sebuah periode mengikat dan tetap menjadi hak Admin — lihat [Penutupan Periode](../planen/periodenabschluss/).
@@ -75,7 +75,7 @@ Operasional di infrastruktur Anda sendiri: perangkat keras Anda, basis data Anda
 **Layanan Pembaruan**
 Layanan bawaan yang memasang pembaruan bertanda tangan — dengan backup sebelumnya dan rollback otomatis jika terjadi masalah. Lihat [Pembaruan dan Rollback](../betrieb/updates-und-rollback/).
 
-**Peran dan Perlindungan Data**
+**Perlindungan Data**
 Klacks tidak mengirim data ke pihak lain: tidak ada pengiriman balik data Anda kepada pembuatnya. Untuk data yang memang harus dihapus, [Retensi Data](../einstellungen/system-sicherheit/datenaufbewahrung/) yang menanganinya — penghapusan dihilangkan secara fisik setelah tenggat berakhir.
 
 ---

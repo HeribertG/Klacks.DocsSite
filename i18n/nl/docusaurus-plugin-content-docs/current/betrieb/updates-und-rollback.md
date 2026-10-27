@@ -32,8 +32,8 @@ In het adminbereik onder **Systeem → Updates**:
 
 | Instelling | Werking |
 |---|---|
-| **Auto-enabled** | Updates worden gedetecteerd en automatisch geïnstalleerd |
-| **Notify only** | Updates worden alleen **gedetecteerd**, maar niet geïnstalleerd totdat u dat activeert |
+| **Automatische updates activeren** | Updates worden gedetecteerd en automatisch geïnstalleerd |
+| **Alleen melden** | Updates worden alleen **gedetecteerd**, maar niet geïnstalleerd totdat u dat activeert |
 | **Onderhoudsvenster** | Tijdvenster waarin automatische updates mogen draaien |
 
 Deze instellingen staan in de database en hebben voorrang op de startwaarden uit de `.env` (`UPDATE_AUTO_ENABLED`, `UPDATE_NOTIFY_ONLY`), die alleen bij de eerste start gelden.

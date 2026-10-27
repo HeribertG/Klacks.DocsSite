@@ -29,7 +29,7 @@ Langkah sekali sahaja yang **tidak boleh diterbalikkan** yang menjadikan sesuatu
 Penugasan termeterai yang boleh dirancang. Istilah "Syif" membawa maksud yang sama.
 
 **Peringkat Kelulusan (Jadual Syif)**
-Jadual syif melalui empat keadaan dalam susunan tetap: **terbuka → disahkan → diluluskan → ditutup**. Mengesahkan boleh dilakukan oleh mana-mana akaun yang telah log masuk; meluluskan hanya Supervisor dan Admin; menutup hanya Admin. Lihat [Aliran Kerja Kelulusan](../planen/freigabe-workflow/).
+Jadual syif melalui empat keadaan dalam susunan tetap: **Draf → disahkan → diluluskan → ditutup**. Mengesahkan boleh dilakukan oleh mana-mana akaun yang telah log masuk; meluluskan hanya Supervisor dan Admin; menutup hanya Admin. Lihat [Aliran Kerja Kelulusan](../planen/freigabe-workflow/).
 
 **Tempoh / Penutupan Tempoh**
 Tempoh perakaunan (mingguan, dwi-mingguan, bulanan atau tersuai; ditetapkan melalui selang bayaran). Penutupan menjadikan sesuatu tempoh mengikat dan kekal terhad kepada Admin — lihat [Penutupan Tempoh](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Operasi pada infrastruktur anda sendiri: perkakasan anda, pangkalan data anda, d
 **Perkhidmatan Kemas Kini**
 Perkhidmatan yang disertakan yang memasang kemas kini bertandatangan — dengan sandaran terlebih dahulu dan rollback automatik jika timbul masalah. Lihat [Kemas Kini dan Rollback](../betrieb/updates-und-rollback/).
 
-**Peranan dan Privasi Data**
+**Privasi Data**
 Klacks tidak menghubungi pihak luar secara diam-diam: tiada data anda dihantar kembali kepada pengeluar. Bagi data yang benar-benar perlu dipadam, [Pengekalan Data](../einstellungen/system-sicherheit/datenaufbewahrung/) memastikannya — pemadaman dibuang secara fizikal selepas tempoh tamat.
 
 ---

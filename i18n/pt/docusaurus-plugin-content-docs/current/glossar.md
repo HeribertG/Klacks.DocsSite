@@ -74,7 +74,7 @@ A operação na sua própria infraestrutura: o seu hardware, a sua base de dados
 **Serviço de atualização**
 O serviço incluído que aplica atualizações assinadas — com cópia de segurança prévia e rollback automático em caso de problemas. Veja [Atualizações e rollback](../betrieb/updates-und-rollback/).
 
-**Funções e proteção de dados**
+**Proteção de dados**
 O Klacks não «telefona para casa»: não há qualquer envio dos seus dados para o fabricante. Dos dados que devem efetivamente ser eliminados ocupa-se a [retenção de dados](../einstellungen/system-sicherheit/datenaufbewahrung/) — as eliminações são removidas fisicamente após o termo do prazo.
 
 ---

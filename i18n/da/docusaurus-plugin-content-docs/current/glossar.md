@@ -29,7 +29,7 @@ Det engangstrin, der er **uigenkaldeligt**, og som gør en bestilling til en pla
 Den planlægbare, forseglede indsats. Begrebet „skift" betyder det samme.
 
 **Godkendelsestrin (vagtplan)**
-Vagtplanen gennemløber fire tilstande i fast rækkefølge: **åben → bekræftet → godkendt → afsluttet**. Bekræfte må enhver logget ind konto; godkende kun Supervisor og Admin; afslutte udelukkende Admin. Se [Godkendelsesworkflow](../planen/freigabe-workflow/).
+Vagtplanen gennemløber fire tilstande i fast rækkefølge: **Udkast → bekræftet → godkendt → afsluttet**. Bekræfte må enhver logget ind konto; godkende kun Supervisor og Admin; afslutte udelukkende Admin. Se [Godkendelsesworkflow](../planen/freigabe-workflow/).
 
 **Periode / periodeafslutning**
 Afregningsperioden (ugentlig, hver anden uge, månedlig eller individuel; fastlagt via udbetalingsintervallet). Afslutningen gør en periode bindende og er forbeholdt Admin — se [Periodeafslutning](../planen/periodenabschluss/).
@@ -74,7 +74,7 @@ Drift på din egen infrastruktur: din hardware, din database, dine data. Modbegr
 **Opdateringstjeneste**
 Den medfølgende tjeneste, der installerer signerede opdateringer — med backup forinden og automatisk rollback ved problemer. Se [Opdateringer og rollback](../betrieb/updates-und-rollback/).
 
-**Roller og databeskyttelse**
+**Databeskyttelse**
 Klacks sender ikke noget hjem: der er ingen tilbagemelding af dine data til producenten. For data, der faktisk skal slettes, sørger [Dataopbevaring](../einstellungen/system-sicherheit/datenaufbewahrung/) — sletninger udføres fysisk, når fristen er udløbet.
 
 ---

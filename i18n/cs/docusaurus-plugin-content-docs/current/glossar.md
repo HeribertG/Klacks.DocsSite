@@ -30,7 +30,7 @@ Jednorázový, **nevratný** krok, který z objednávky vytvoří plánovatelnou
 Plánovatelné, zapečetěné nasazení. Pojem „směna" znamená totéž.
 
 **Stupně schvalování (plán služeb)**
-Plán služeb prochází čtyřmi stavy v pevném pořadí: **otevřeno → potvrzeno → schváleno → uzavřeno**. Potvrzovat smí každý přihlášený účet; schvalovat pouze Supervisor a Admin; uzavírat výhradně Admin. Viz [Schvalovací workflow](../planen/freigabe-workflow/).
+Plán služeb prochází čtyřmi stavy v pevném pořadí: **Návrh → potvrzeno → schváleno → uzavřeno**. Potvrzovat smí každý přihlášený účet; schvalovat pouze Supervisor a Admin; uzavírat výhradně Admin. Viz [Schvalovací workflow](../planen/freigabe-workflow/).
 
 **Období / uzávěrka období**
 Zúčtovací období (týdenní, čtrnáctidenní, měsíční nebo individuální; stanoví se platebním intervalem). Uzávěrka činí období závazným a zůstává vyhrazena Adminovi — viz [Uzávěrka období](../planen/periodenabschluss/).
@@ -75,7 +75,7 @@ Provoz na vaší vlastní infrastruktuře: váš hardware, vaše databáze, vaš
 **Aktualizační služba**
 Přibalená služba, která nasazuje podepsané aktualizace — se zálohou předem a automatickým rollbackem při problémech. Viz [Aktualizace a rollback](../betrieb/updates-und-rollback/).
 
-**Role a ochrana dat**
+**Ochrana dat**
 Klacks nevolá domů: vaše data se výrobci nijak neodesílají zpět. O data, která se mají skutečně smazat, se stará [Uchovávání dat](../einstellungen/system-sicherheit/datenaufbewahrung/) — smazané záznamy se po uplynutí lhůty fyzicky odstraní.
 
 ---
