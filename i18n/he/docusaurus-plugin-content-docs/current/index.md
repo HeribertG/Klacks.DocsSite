@@ -71,5 +71,15 @@ slug: /
 *מערכת ואבטחה*
 - [ניהול משתמשים](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [שמירת נתונים](./einstellungen/system-sicherheit/datenaufbewahrung.md), [עדכונים](./einstellungen/system-sicherheit/updates.md), [תוספי תכונות](./einstellungen/system-sicherheit/feature-plugins.md), [תוספי שפה](./einstellungen/system-sicherheit/sprach-plugins.md), [כללי ספאם](./einstellungen/system-sicherheit/spam-regeln.md), [הגדרות כלליות](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**תפעול**
+- [דרישות מערכת וארכיטקטורה](./betrieb/systemvoraussetzungen.md) - חמישה שירותים, צורכי זיכרון ו-CPU, פורטים, פרופילי מדינה
+- [גיבוי ושחזור](./betrieb/backup-und-wiederherstellung.md) - מה צריך לגבות, והמכשול בחזרה לאחור
+- [עדכונים וחזרה לאחור](./betrieb/updates-und-rollback.md) - עדכונים חתומים, שער תקינות והדרך האוטומטית חזרה
+- [פתרון תקלות](./betrieb/fehlerbehebung.md) - קריאת לוגים, הודעות אופייניות, צמצום נכון של תקלות
+
+**לעיון ולחיפוש**
+- [מילון מונחים](./glossar.md) - דף תכנון, חתימה, רמת אוטונומיה ושאר המונחים
+- [שאלות נפוצות](./faq.md) - ניסוי, תפעול, פונקציות והשתתפות
+
 ---
 *Klacks היא קוד פתוח תחת רישיון AGPL-3.0 - [קוד המקור ב-GitHub](https://github.com/HeribertG/Klacks.Api).*

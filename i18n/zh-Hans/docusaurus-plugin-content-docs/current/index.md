@@ -71,5 +71,17 @@ slug: /
 *系统与安全*
 - [用户管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[个人访问令牌](./einstellungen/system-sicherheit/personal-access-tokens.md)、[数据保留](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[更新](./einstellungen/system-sicherheit/updates.md)、[功能插件](./einstellungen/system-sicherheit/feature-plugins.md)、[语言插件](./einstellungen/system-sicherheit/sprach-plugins.md)、[垃圾邮件规则](./einstellungen/system-sicherheit/spam-regeln.md)、[常规设置](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**运维**
+
+- [系统要求与架构](./betrieb/systemvoraussetzungen.md) — 五个服务、内存与 CPU 需求、端口、国家配置文件
+- [备份与恢复](./betrieb/backup-und-wiederherstellung.md) — 需要备份什么，以及回滚时的陷阱
+- [更新与回滚](./betrieb/updates-und-rollback.md) — 签名更新、健康检查关卡与自动回退
+- [故障排查](./betrieb/fehlerbehebung.md) — 阅读日志、典型信息、正确缩小故障范围
+
+**查阅**
+
+- [术语表](./glossar.md) — 排班表、封存、自主等级及其他术语
+- [常见问题](./faq.md) — 试用、运营、功能与参与
+
 ---
 *Klacks 是采用 AGPL-3.0 许可证的开源软件 — [GitHub 上的源代码](https://github.com/HeribertG/Klacks.Api)。*

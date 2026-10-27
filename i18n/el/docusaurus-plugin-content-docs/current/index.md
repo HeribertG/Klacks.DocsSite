@@ -71,5 +71,17 @@ slug: /
 *Σύστημα & Ασφάλεια*
 - [Διαχείριση χρηστών](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Προσωπικά διακριτικά πρόσβασης](./einstellungen/system-sicherheit/personal-access-tokens.md), [Διατήρηση δεδομένων](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Ενημερώσεις](./einstellungen/system-sicherheit/updates.md), [Πρόσθετα λειτουργιών](./einstellungen/system-sicherheit/feature-plugins.md), [Γλωσσικά πρόσθετα](./einstellungen/system-sicherheit/sprach-plugins.md), [Κανόνες spam](./einstellungen/system-sicherheit/spam-regeln.md), [Γενικές ρυθμίσεις](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Λειτουργία**
+
+- [Απαιτήσεις συστήματος και αρχιτεκτονική](./betrieb/systemvoraussetzungen.md) — Πέντε υπηρεσίες, ανάγκες μνήμης και CPU, θύρες, προφίλ χωρών
+- [Αντίγραφα ασφαλείας και επαναφορά](./betrieb/backup-und-wiederherstellung.md) — Τι πρέπει να αντιγράφεται και το εμπόδιο κατά το rollback
+- [Ενημερώσεις και rollback](./betrieb/updates-und-rollback.md) — Υπογεγραμμένες ενημερώσεις, health gate και η αυτόματη διαδρομή επιστροφής
+- [Αντιμετώπιση προβλημάτων](./betrieb/fehlerbehebung.md) — Ανάγνωση αρχείων καταγραφής, τυπικά μηνύματα, σωστός περιορισμός σφαλμάτων
+
+**Αναζήτηση πληροφοριών**
+
+- [Γλωσσάρι](./glossar.md) — Φύλλο πλάνου, σφράγιση, επίπεδο αυτονομίας και οι υπόλοιποι όροι
+- [Συχνές ερωτήσεις](./faq.md) — Δοκιμή, λειτουργία, λειτουργίες και συμμετοχή
+
 ---
 *Το Klacks είναι ανοιχτού κώδικα υπό άδεια AGPL-3.0 — [Πηγαίος κώδικας στο GitHub](https://github.com/HeribertG/Klacks.Api).*

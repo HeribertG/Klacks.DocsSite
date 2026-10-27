@@ -46,5 +46,9 @@
   "sidebar.docsSidebar.category.System & Sicherheit": {
     "message": "系统与安全",
     "description": "The label for category 'System & Sicherheit' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Betrieb": {
+    "message": "运维",
+    "description": "The label for category 'Über Klacks' in sidebar 'docsSidebar'"
   }
 }

@@ -71,5 +71,17 @@ Denne wikien forklarer i små biter hvordan Klacks fungerer. Hver side leser du 
 *System og sikkerhet*
 - [Brukeradministrasjon](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Dataoppbevaring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Oppdateringer](./einstellungen/system-sicherheit/updates.md), [Funksjonsplugins](./einstellungen/system-sicherheit/feature-plugins.md), [Språkplugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spamregler](./einstellungen/system-sicherheit/spam-regeln.md), [Generelle innstillinger](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Drift**
+
+- [Systemkrav og oppbygning](./betrieb/systemvoraussetzungen.md) — Fem tjenester, minne- og CPU-behov, porter, landprofiler
+- [Sikkerhetskopi og gjenoppretting](./betrieb/backup-und-wiederherstellung.md) — Hva som må sikkerhetskopieres, og snublesteinen ved tilbakerulling
+- [Oppdateringer og tilbakerulling](./betrieb/updates-und-rollback.md) — Signerte oppdateringer, helsesjekk og den automatiske tilbakeveien
+- [Feilsøking](./betrieb/fehlerbehebung.md) — Lese logger, typiske meldinger, avgrense feil riktig
+
+**Slå opp**
+
+- [Ordliste](./glossar.md) — Planark, forsegle, autonominivå og de øvrige begrepene
+- [Vanlige spørsmål](./faq.md) — Prøve ut, drift, funksjoner og bidra
+
 ---
 *Klacks er åpen kildekode under AGPL-3.0-lisens — [kildekode på GitHub](https://github.com/HeribertG/Klacks.Api).*

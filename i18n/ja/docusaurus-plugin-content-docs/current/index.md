@@ -71,5 +71,17 @@ slug: /
 *システムとセキュリティ*
 - [ユーザー管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人アクセストークン](./einstellungen/system-sicherheit/personal-access-tokens.md)、[データ保持](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[アップデート](./einstellungen/system-sicherheit/updates.md)、[機能プラグイン](./einstellungen/system-sicherheit/feature-plugins.md)、[言語プラグイン](./einstellungen/system-sicherheit/sprach-plugins.md)、[スパムルール](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**運用**
+
+- [システム要件と構成](./betrieb/systemvoraussetzungen.md) — 5つのサービス、メモリとCPUの必要量、ポート、国別プロファイル
+- [バックアップと復元](./betrieb/backup-und-wiederherstellung.md) — バックアップが必要なものと、ロールバック時の落とし穴
+- [アップデートとロールバック](./betrieb/updates-und-rollback.md) — 署名付きアップデート、ヘルスゲート、自動ロールバック
+- [トラブルシューティング](./betrieb/fehlerbehebung.md) — ログの読み方、典型的なメッセージ、不具合の正しい切り分け
+
+**リファレンス**
+
+- [用語集](./glossar.md) — プランシート、封印、自律レベルなどの用語
+- [よくある質問](./faq.md) — 試す、運用、機能、協力する
+
 ---
 *Klacksは AGPL-3.0 ライセンスのオープンソースです — [GitHub上のソースコード](https://github.com/HeribertG/Klacks.Api)。*

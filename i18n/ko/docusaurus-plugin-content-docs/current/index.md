@@ -71,5 +71,17 @@ slug: /
 *시스템 및 보안*
 - [사용자 관리](./einstellungen/system-sicherheit/benutzerverwaltung.md), [개인 액세스 토큰](./einstellungen/system-sicherheit/personal-access-tokens.md), [데이터 보존](./einstellungen/system-sicherheit/datenaufbewahrung.md), [업데이트](./einstellungen/system-sicherheit/updates.md), [기능 플러그인](./einstellungen/system-sicherheit/feature-plugins.md), [언어 플러그인](./einstellungen/system-sicherheit/sprach-plugins.md), [스팸 규칙](./einstellungen/system-sicherheit/spam-regeln.md), [일반 설정](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**운영**
+
+- [시스템 요구 사항과 구성](./betrieb/systemvoraussetzungen.md) — 다섯 개의 서비스, 메모리 및 CPU 요구량, 포트, 국가 프로필
+- [백업 및 복원](./betrieb/backup-und-wiederherstellung.md) — 백업해야 할 것, 그리고 롤백 시의 함정
+- [업데이트와 롤백](./betrieb/updates-und-rollback.md) — 서명된 업데이트, 상태 점검 게이트, 자동 롤백
+- [문제 해결](./betrieb/fehlerbehebung.md) — 로그 읽기, 대표적인 메시지, 오류를 올바르게 좁히기
+
+**참고 자료**
+
+- [용어집](./glossar.md) — 계획표, 봉인, 자율성 단계 등 주요 용어
+- [자주 묻는 질문](./faq.md) — 체험, 운영, 기능, 함께하기
+
 ---
 *Klacks는 AGPL-3.0 라이선스의 오픈 소스입니다 — [GitHub에서 소스 코드 보기](https://github.com/HeribertG/Klacks.Api).*

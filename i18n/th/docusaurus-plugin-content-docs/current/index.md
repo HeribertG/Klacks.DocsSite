@@ -71,5 +71,17 @@ slug: /
 *ระบบและความปลอดภัย*
 - [การจัดการผู้ใช้งาน](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [การเก็บรักษาข้อมูล](./einstellungen/system-sicherheit/datenaufbewahrung.md), [การอัปเดต](./einstellungen/system-sicherheit/updates.md), [ปลั๊กอินฟีเจอร์](./einstellungen/system-sicherheit/feature-plugins.md), [ปลั๊กอินภาษา](./einstellungen/system-sicherheit/sprach-plugins.md), [กฎสแปม](./einstellungen/system-sicherheit/spam-regeln.md), [การตั้งค่าทั่วไป](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**การดูแลระบบ**
+
+- [ความต้องการของระบบและโครงสร้าง](./betrieb/systemvoraussetzungen.md) — ห้าบริการ ความต้องการหน่วยความจำและ CPU พอร์ต โปรไฟล์ประเทศ
+- [การสำรองข้อมูลและการกู้คืน](./betrieb/backup-und-wiederherstellung.md) — สิ่งที่ต้องสำรองไว้ และจุดสะดุดเมื่อย้อนกลับ
+- [การอัปเดตและการย้อนกลับ](./betrieb/updates-und-rollback.md) — การอัปเดตที่มีลายเซ็น Health-Gate และเส้นทางย้อนกลับอัตโนมัติ
+- [การแก้ไขปัญหา](./betrieb/fehlerbehebung.md) — การอ่านบันทึก ข้อความที่พบบ่อย และการจำกัดขอบเขตข้อผิดพลาดอย่างถูกต้อง
+
+**ค้นหาข้อมูลอ้างอิง**
+
+- [อภิธานศัพท์](./glossar.md) — แผ่นแผนงาน การปิดผนึก ระดับความเป็นอิสระ และคำศัพท์อื่น ๆ
+- [คำถามที่พบบ่อย](./faq.md) — การลองใช้งาน การดูแลระบบ ฟังก์ชัน และการมีส่วนร่วม
+
 ---
 *Klacks เป็นโอเพนซอร์สภายใต้สัญญาอนุญาต AGPL-3.0 — [ซอร์สโค้ดบน GitHub](https://github.com/HeribertG/Klacks.Api)*

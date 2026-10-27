@@ -71,5 +71,17 @@ Ce wiki explique le fonctionnement de Klacks par petites étapes. Chaque page se
 *Système et sécurité*
 - [Gestion des utilisateurs](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Jetons d'accès personnels](./einstellungen/system-sicherheit/personal-access-tokens.md), [Conservation des données](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Mises à jour](./einstellungen/system-sicherheit/updates.md), [Extensions fonctionnelles](./einstellungen/system-sicherheit/feature-plugins.md), [Extensions linguistiques](./einstellungen/system-sicherheit/sprach-plugins.md), [Règles anti-spam](./einstellungen/system-sicherheit/spam-regeln.md), [Paramètres généraux](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Exploitation**
+
+- [Configuration requise et architecture](./betrieb/systemvoraussetzungen.md) — Cinq services, besoins en mémoire et en CPU, ports, profils de pays
+- [Sauvegarde et restauration](./betrieb/backup-und-wiederherstellung.md) — Ce qu'il faut sauvegarder, et la pierre d'achoppement du rollback
+- [Mises à jour et rollback](./betrieb/updates-und-rollback.md) — Mises à jour signées, contrôle de santé et retour en arrière automatique
+- [Dépannage](./betrieb/fehlerbehebung.md) — Lire les journaux, messages typiques, bien circonscrire les erreurs
+
+**Référence**
+
+- [Glossaire](./glossar.md) — Feuille de plan, scellement, niveau d'autonomie et les autres termes
+- [Questions fréquentes](./faq.md) — Essayer, exploitation, fonctions et contribution
+
 ---
 *Klacks est open source sous licence AGPL-3.0 — [code source sur GitHub](https://github.com/HeribertG/Klacks.Api).*

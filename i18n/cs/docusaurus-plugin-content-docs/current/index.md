@@ -71,5 +71,17 @@ Tato wiki v malých kapitolách vysvětluje, jak Klacks funguje. Každou stránk
 *Systém a bezpečnost*
 - [Správa uživatelů](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Uchovávání dat](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Aktualizace](./einstellungen/system-sicherheit/updates.md), [Funkční pluginy](./einstellungen/system-sicherheit/feature-plugins.md), [Jazykové pluginy](./einstellungen/system-sicherheit/sprach-plugins.md), [Pravidla proti spamu](./einstellungen/system-sicherheit/spam-regeln.md), [Obecná nastavení](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Provoz**
+
+- [Systémové požadavky a architektura](./betrieb/systemvoraussetzungen.md) — Pět služeb, nároky na paměť a CPU, porty, profily zemí
+- [Záloha a obnovení](./betrieb/backup-und-wiederherstellung.md) — Co je třeba zálohovat a úskalí při rollbacku
+- [Aktualizace a rollback](./betrieb/updates-und-rollback.md) — Podepsané aktualizace, health gate a automatická zpětná cesta
+- [Řešení problémů](./betrieb/fehlerbehebung.md) — Čtení protokolů, typické hlášky, správné zúžení chyby
+
+**K dohledání**
+
+- [Glosář](./glossar.md) — Plánovací list, zapečetění, úroveň autonomie a další pojmy
+- [Časté otázky](./faq.md) — Vyzkoušení, provoz, funkce a spolupráce
+
 ---
 *Klacks je open source pod licencí AGPL-3.0 — [zdrojový kód na GitHubu](https://github.com/HeribertG/Klacks.Api).*

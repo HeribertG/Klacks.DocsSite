@@ -71,5 +71,17 @@ Este wiki explica em pequenas partes como funciona o Klacks. Cada página lê-se
 *Sistema e Segurança*
 - [Gestão de utilizadores](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Retenção de dados](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Atualizações](./einstellungen/system-sicherheit/updates.md), [Plugins de funcionalidades](./einstellungen/system-sicherheit/feature-plugins.md), [Plugins de idioma](./einstellungen/system-sicherheit/sprach-plugins.md), [Regras de spam](./einstellungen/system-sicherheit/spam-regeln.md), [Definições gerais](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Operação**
+
+- [Requisitos do sistema e arquitetura](./betrieb/systemvoraussetzungen.md) — Cinco serviços, necessidades de memória e CPU, portas, perfis de país
+- [Cópia de segurança e restauro](./betrieb/backup-und-wiederherstellung.md) — O que tem de ser copiado e a armadilha do rollback
+- [Atualizações e rollback](./betrieb/updates-und-rollback.md) — Atualizações assinadas, verificação de saúde e caminho de regresso automático
+- [Resolução de problemas](./betrieb/fehlerbehebung.md) — Ler registos, mensagens típicas, delimitar corretamente um erro
+
+**Referência**
+
+- [Glossário](./glossar.md) — Folha de planeamento, selar, nível de autonomia e os restantes termos
+- [Perguntas frequentes](./faq.md) — Experimentar, operação, funcionalidades e colaboração
+
 ---
 *O Klacks é open source sob licença AGPL-3.0 — [código-fonte no GitHub](https://github.com/HeribertG/Klacks.Api).*

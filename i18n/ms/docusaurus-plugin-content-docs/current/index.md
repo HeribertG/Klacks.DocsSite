@@ -71,5 +71,17 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 *Sistem & Keselamatan*
 - [Pengurusan Pengguna](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Pengekalan Data](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Kemas Kini](./einstellungen/system-sicherheit/updates.md), [Plugin Ciri](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin Bahasa](./einstellungen/system-sicherheit/sprach-plugins.md), [Peraturan Spam](./einstellungen/system-sicherheit/spam-regeln.md), [Tetapan Umum](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Operasi**
+
+- [Keperluan Sistem dan Struktur](./betrieb/systemvoraussetzungen.md) — Lima perkhidmatan, keperluan memori dan CPU, port, profil negara
+- [Sandaran dan Pemulihan](./betrieb/backup-und-wiederherstellung.md) — Apa yang perlu disandarkan, dan perangkap semasa rollback
+- [Kemas Kini dan Rollback](./betrieb/updates-und-rollback.md) — Kemas kini bertandatangan, Health-Gate dan laluan pulang automatik
+- [Penyelesaian Masalah](./betrieb/fehlerbehebung.md) — Membaca log, mesej tipikal, menyempitkan ralat dengan betul
+
+**Rujukan**
+
+- [Glosari](./glossar.md) — Helaian Jadual, Meteraikan, Tahap Autonomi dan istilah-istilah lain
+- [Soalan Lazim](./faq.md) — Mencuba, operasi, fungsi dan menyumbang
+
 ---
 *Klacks adalah open source di bawah lesen AGPL-3.0 — [Kod sumber di GitHub](https://github.com/HeribertG/Klacks.Api).*

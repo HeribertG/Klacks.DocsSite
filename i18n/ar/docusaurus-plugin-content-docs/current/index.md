@@ -71,5 +71,15 @@ slug: /
 *النظام والأمان*
 - [إدارة المستخدمين](./einstellungen/system-sicherheit/benutzerverwaltung.md)، [رموز الوصول الشخصية](./einstellungen/system-sicherheit/personal-access-tokens.md)، [الاحتفاظ بالبيانات](./einstellungen/system-sicherheit/datenaufbewahrung.md)، [التحديثات](./einstellungen/system-sicherheit/updates.md)، [إضافات الميزات](./einstellungen/system-sicherheit/feature-plugins.md)، [إضافات اللغات](./einstellungen/system-sicherheit/sprach-plugins.md)، [قواعد البريد المزعج](./einstellungen/system-sicherheit/spam-regeln.md)، [الإعدادات العامة](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**التشغيل**
+- [متطلبات النظام والبنية](./betrieb/systemvoraussetzungen.md) — خمس خدمات، واحتياج الذاكرة والمعالج، والمنافذ، وملفات الدول
+- [النسخ الاحتياطي والاستعادة](./betrieb/backup-und-wiederherstellung.md) — ما يجب نسخه احتياطيًا، والعقبة عند التراجع
+- [التحديثات والتراجع](./betrieb/updates-und-rollback.md) — تحديثات موقَّعة، وبوابة السلامة، وطريق الرجوع التلقائي
+- [استكشاف الأخطاء وإصلاحها](./betrieb/fehlerbehebung.md) — قراءة السجلات، والرسائل الشائعة، وحصر الخطأ بشكل صحيح
+
+**مرجع سريع**
+- [المسرد](./glossar.md) — ورقة الخطة، والختم، ومستوى الاستقلالية وباقي المصطلحات
+- [الأسئلة الشائعة](./faq.md) — التجربة، والتشغيل، والوظائف، والمشاركة
+
 ---
 *Klacks مفتوح المصدر بموجب رخصة AGPL-3.0 — [الشيفرة المصدرية على GitHub](https://github.com/HeribertG/Klacks.Api).*

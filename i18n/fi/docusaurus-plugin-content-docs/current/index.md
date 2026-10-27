@@ -71,5 +71,17 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 *Järjestelmä ja tietoturva*
 - [Käyttäjähallinta](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Henkilökohtaiset käyttöoikeustunnukset](./einstellungen/system-sicherheit/personal-access-tokens.md), [Tietojen säilytys](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Päivitykset](./einstellungen/system-sicherheit/updates.md), [Ominaisuuslaajennukset](./einstellungen/system-sicherheit/feature-plugins.md), [Kielilaajennukset](./einstellungen/system-sicherheit/sprach-plugins.md), [Roskapostisäännöt](./einstellungen/system-sicherheit/spam-regeln.md), [Yleiset asetukset](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Ylläpito**
+
+- [Järjestelmävaatimukset ja rakenne](./betrieb/systemvoraussetzungen.md) — Viisi palvelua, muisti- ja suoritinvaatimukset, portit, maaprofiilit
+- [Varmuuskopiointi ja palautus](./betrieb/backup-und-wiederherstellung.md) — Mitä on varmuuskopioitava, ja palautuksen kompastuskivi
+- [Päivitykset ja palautus](./betrieb/updates-und-rollback.md) — Allekirjoitetut päivitykset, terveystarkistus ja automaattinen paluureitti
+- [Vianmääritys](./betrieb/fehlerbehebung.md) — Lokien lukeminen, tyypilliset viestit, virheiden oikea rajaaminen
+
+**Hakuteokset**
+
+- [Sanasto](./glossar.md) — Suunnitelmalehti, sinetöinti, autonomiataso ja muut käsitteet
+- [Usein kysytyt kysymykset](./faq.md) — Kokeilu, ylläpito, toiminnot ja mukaan tuleminen
+
 ---
 *Klacks on avointa lähdekoodia AGPL-3.0-lisenssillä — [lähdekoodi GitHubissa](https://github.com/HeribertG/Klacks.Api).*

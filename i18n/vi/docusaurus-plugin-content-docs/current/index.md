@@ -71,5 +71,17 @@ Wiki này giải thích từng phần nhỏ về cách Klacks hoạt động. M�
 *Hệ thống & Bảo mật*
 - [Quản lý người dùng](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Lưu trữ dữ liệu](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Cập nhật](./einstellungen/system-sicherheit/updates.md), [Plugin tính năng](./einstellungen/system-sicherheit/feature-plugins.md), [Plugin ngôn ngữ](./einstellungen/system-sicherheit/sprach-plugins.md), [Quy tắc chống spam](./einstellungen/system-sicherheit/spam-regeln.md), [Cài đặt chung](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Vận hành**
+
+- [Yêu cầu hệ thống và kiến trúc](./betrieb/systemvoraussetzungen.md) — Năm dịch vụ, nhu cầu bộ nhớ và CPU, cổng, hồ sơ quốc gia
+- [Sao lưu và khôi phục](./betrieb/backup-und-wiederherstellung.md) — Những gì cần sao lưu, và cái bẫy khi rollback
+- [Cập nhật và rollback](./betrieb/updates-und-rollback.md) — Cập nhật có chữ ký, Health-Gate và đường lui tự động
+- [Khắc phục sự cố](./betrieb/fehlerbehebung.md) — Đọc nhật ký, các thông báo thường gặp, khoanh vùng lỗi đúng cách
+
+**Tra cứu**
+
+- [Bảng thuật ngữ](./glossar.md) — Bảng kế hoạch, Niêm phong, Mức độ tự chủ và các thuật ngữ khác
+- [Câu hỏi thường gặp](./faq.md) — Dùng thử, vận hành, tính năng và cùng tham gia đóng góp
+
 ---
 *Klacks là mã nguồn mở theo giấy phép AGPL-3.0 — [Mã nguồn trên GitHub](https://github.com/HeribertG/Klacks.Api).*

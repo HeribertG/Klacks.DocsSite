@@ -71,5 +71,15 @@ slug: /
 *系統與安全*
 - [使用者管理](./einstellungen/system-sicherheit/benutzerverwaltung.md)、[個人存取權杖](./einstellungen/system-sicherheit/personal-access-tokens.md)、[資料保留](./einstellungen/system-sicherheit/datenaufbewahrung.md)、[更新](./einstellungen/system-sicherheit/updates.md)、[功能外掛](./einstellungen/system-sicherheit/feature-plugins.md)、[語言外掛](./einstellungen/system-sicherheit/sprach-plugins.md)、[垃圾郵件規則](./einstellungen/system-sicherheit/spam-regeln.md)、[一般設定](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**營運**
+- [系統需求與架構](./betrieb/systemvoraussetzungen.md) — 五個服務、記憶體與 CPU 需求、連接埠、國家設定檔
+- [備份與還原](./betrieb/backup-und-wiederherstellung.md) — 哪些內容必須備份，以及回復時的陷阱
+- [更新與回復](./betrieb/updates-und-rollback.md) — 已簽署的更新、健康檢查關卡與自動回復路徑
+- [疑難排解](./betrieb/fehlerbehebung.md) — 讀取日誌、常見訊息、正確縮小錯誤範圍
+
+**查詢參考**
+- [詞彙表](./glossar.md) — 排班表、封存、自主等級與其他名詞
+- [常見問題](./faq.md) — 試用、營運、功能與參與
+
 ---
 *Klacks 是採用 AGPL-3.0 授權條款的開源軟體 — [GitHub 上的原始碼](https://github.com/HeribertG/Klacks.Api)。*

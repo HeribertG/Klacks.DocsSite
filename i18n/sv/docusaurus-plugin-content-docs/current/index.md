@@ -71,5 +71,17 @@ Den här wikin förklarar i små bitar hur Klacks fungerar. Varje sida läses p�
 *System och säkerhet*
 - [Användarhantering](./einstellungen/system-sicherheit/benutzerverwaltung.md), [Personal Access Tokens](./einstellungen/system-sicherheit/personal-access-tokens.md), [Datalagring](./einstellungen/system-sicherheit/datenaufbewahrung.md), [Uppdateringar](./einstellungen/system-sicherheit/updates.md), [Funktions-plugins](./einstellungen/system-sicherheit/feature-plugins.md), [Språk-plugins](./einstellungen/system-sicherheit/sprach-plugins.md), [Spam-regler](./einstellungen/system-sicherheit/spam-regeln.md), [Allmänna inställningar](./einstellungen/system-sicherheit/allgemeine-einstellungen.md)
 
+**Drift**
+
+- [Systemkrav och uppbyggnad](./betrieb/systemvoraussetzungen.md) — Fem tjänster, minnes- och CPU-behov, portar, landsprofiler
+- [Säkerhetskopiering och återställning](./betrieb/backup-und-wiederherstellung.md) — Vad som måste säkras, och fallgropen vid rollback
+- [Uppdateringar och rollback](./betrieb/updates-und-rollback.md) — Signerade uppdateringar, health-gate och den automatiska återvägen
+- [Felsökning](./betrieb/fehlerbehebung.md) — Läsa loggar, typiska meddelanden, avgränsa fel på rätt sätt
+
+**Referens**
+
+- [Ordlista](./glossar.md) — Schemablad, försegla, autonominivå och övriga begrepp
+- [Vanliga frågor](./faq.md) — Testa, drift, funktioner och medverka
+
 ---
 *Klacks är öppen källkod under AGPL-3.0-licens — [källkod på GitHub](https://github.com/HeribertG/Klacks.Api).*
