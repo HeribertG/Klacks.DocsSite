@@ -73,6 +73,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      storage: {
+        type: 'none',
+      },
+      colorMode: {
+        defaultMode: 'light',
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'Klacks',
         logo: {
