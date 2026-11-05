@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP Drop Points
 
-Under Settings > Import (visible only in expert mode), card "ERP Drop Points", you configure how orders from an external ERP system are automatically imported into Klacks as XML files.
+Under Settings > Import (visible only in expert mode), card "ERP drop points", you configure how orders from an external ERP system are automatically imported into Klacks as XML files.
 
 ## How it works
 
@@ -12,7 +12,7 @@ Under Settings > Import (visible only in expert mode), card "ERP Drop Points", y
 
 **The drop point** is the central inbox for all import files, managed by Klacks itself — it shows three areas: Incoming (received or currently being imported), Processed (with a summary per file), and Errors (unreadable or invalid files along with the reason for the error, with the option to re-import or delete). A schedule (cron expression, default hourly) and an active switch to pause processing control the automatic pickup.
 
-**Which way suits which installation?** On an office PC (Windows installation), the folder is the obvious way; the default folder is `C:\ProgramData\Klacks\ErpImport\erp\orders`. It is protected, and only SYSTEM and administrators may write there: an administrator must grant the account under which the ERP export runs the "Modify" right on exactly the `erp\orders` folder, not on the whole `ProgramData\Klacks` folder. On your own Docker server, the folder (`/app/ErpImport/erp/orders`) lies inside the container in a named volume; an ERP on the server machine can reach it only if an administrator mounts a folder of the server onto `/app/ErpImport`, otherwise push with an access token or manual upload remain. For an installation hosted by us there is no access to folders on the server: push with an access token or manual upload.
+**Which way suits which installation?** On an office PC (Windows installation), the folder is the obvious way; the default folder is `C:\ProgramData\Klacks\ErpImport\erp\orders`. It is protected, and only SYSTEM and administrators may write there: an administrator must grant the account under which the ERP export runs the "Modify" right on exactly the `erp\orders` folder, not on the whole `ProgramData\Klacks` folder. On your own Docker server, the folder is an ordinary folder of the server: the Compose file mounts the `erp-import` folder next to `docker-compose.yml` (changeable via `KLACKS_ERP_IMPORT_HOST_DIR`) onto `/app/ErpImport`; inside the container, the folder's path is `/app/ErpImport/erp/orders`. The installation reports the server path via `KLACKS_ERP_IMPORT_HOST_PATH` (the installer sets it); an ERP on the server machine writes directly into this folder, and the account under which the export runs needs write permission on exactly this folder. Older installations had a named volume; its content is copied into the folder once (see the on-prem README, section "Upgrading from a named volume"). The card shows the folder path (on Docker the server folder, below it the path inside the container) with a button to copy it. For an installation hosted by us there is no access to folders on the server: push with an access token or manual upload.
 
 **Access tokens** are only needed when an ERP system delivers files via push. Each token starts with `klacks_erp_`, is valid for 1–730 days (default 365), and is shown in plain text **only once, at creation**. Such a token is valid exclusively for the import endpoint, not for the rest of the API access, and can be revoked at any time.
 

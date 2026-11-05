@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP 匯入端點
 
-在「設定 > 匯入」（僅在專家模式下可見）的「ERP Drop Points」卡片中，您可以設定外部 ERP 系統的訂單如何以 XML 檔案的形式自動匯入 Klacks。
+在「設定 > 匯入」（僅在專家模式下可見）的「ERP 匯入節點」卡片中，您可以設定外部 ERP 系統的訂單如何以 XML 檔案的形式自動匯入 Klacks。
 
 ## 運作方式
 
@@ -12,7 +12,7 @@ sidebar_position: 5
 
 **匯入端點**是由 Klacks 自行管理的中央信箱，用來存放所有匯入檔案 — 分為三個區塊：收件（已接收或正在匯入）、已處理（附每個檔案的摘要）以及錯誤（無法讀取或無效的檔案，連同錯誤原因，可重新匯入或刪除）。排程（Cron 運算式，預設為每小時一次）以及一個用來暫停的啟用開關，共同控制自動抓取的行為。
 
-**哪種方式適合哪種安裝？** 在辦公室電腦（Windows 安裝）上，資料夾方式最為直接；預設資料夾為 `C:\ProgramData\Klacks\ErpImport\erp\orders`。該資料夾受到保護，只有 SYSTEM 與管理員可以寫入：管理員必須只針對 `erp\orders` 這一個資料夾，而不是整個 `ProgramData\Klacks` 資料夾，為執行 ERP 匯出的帳戶授予「修改」權限。在自行架設的 Docker 伺服器上，該資料夾（`/app/ErpImport/erp/orders`）位於容器內的具名磁碟區（named volume）中；伺服器主機上的 ERP 只有在管理員把伺服器上的某個資料夾掛載到 `/app/ErpImport` 時才能存取它，否則只能使用帶存取權杖的推送或手動上傳。在由我們代管的安裝中，無法存取伺服器上的資料夾：使用帶存取權杖的推送或手動上傳。
+**哪種方式適合哪種安裝？** 在辦公室電腦（Windows 安裝）上，資料夾方式最為直接；預設資料夾為 `C:\ProgramData\Klacks\ErpImport\erp\orders`。該資料夾受到保護，只有 SYSTEM 與管理員可以寫入：管理員必須只針對 `erp\orders` 這一個資料夾，而不是整個 `ProgramData\Klacks` 資料夾，為執行 ERP 匯出的帳戶授予「修改」權限。在自行架設的 Docker 伺服器上，該資料夾是伺服器上的一般資料夾：Compose 檔案會把與 `docker-compose.yml` 同層的 `erp-import` 資料夾（可透過 `KLACKS_ERP_IMPORT_HOST_DIR` 變更）掛載到 `/app/ErpImport`，在容器內該資料夾的路徑為 `/app/ErpImport/erp/orders`。安裝會透過 `KLACKS_ERP_IMPORT_HOST_PATH` 回報伺服器路徑（由安裝程式設定）；伺服器主機上的 ERP 直接寫入該資料夾，執行匯出的帳戶需要對該資料夾本身擁有寫入權限。舊版安裝使用具名磁碟區（named volume）；其內容會一次性複製到該資料夾中（請參閱 On-Prem README 中的「Upgrading from a named volume」一節）。卡片上會顯示資料夾路徑（在 Docker 上為伺服器資料夾，其下為容器內的路徑），並附有複製按鈕。在由我們代管的安裝中，無法存取伺服器上的資料夾：使用帶存取權杖的推送或手動上傳。
 
 **存取權杖**只有在 ERP 系統以推送方式投遞檔案時才需要。每個權杖都以 `klacks_erp_` 開頭，效期為 1 到 730 天（預設 365 天），並且**只會在建立時**以明碼顯示一次。這類權杖僅適用於匯入端點，不能用來存取其餘的 API，並且可以隨時撤銷。
 

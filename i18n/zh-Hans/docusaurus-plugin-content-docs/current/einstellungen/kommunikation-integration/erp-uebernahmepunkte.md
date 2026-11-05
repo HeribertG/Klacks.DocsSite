@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP 接入点
 
-在「设置 > 导入」（仅在专家模式下可见）的「ERP Drop Points」卡片中，您可以配置外部 ERP 系统的订单如何以 XML 文件的形式自动导入 Klacks。
+在「设置 > 导入」（仅在专家模式下可见）的「ERP 数据投放点」卡片中，您可以配置外部 ERP 系统的订单如何以 XML 文件的形式自动导入 Klacks。
 
 ## 运作方式
 
@@ -12,7 +12,7 @@ sidebar_position: 5
 
 **导入接入点**是由 Klacks 自身管理的中央「收件箱」，用于接收所有导入文件 — 它分为三个区域：待处理（已接收或正在导入）、已处理（附每个文件的摘要）和错误（无法读取或无效的文件，连同错误原因，可重新导入或删除）。一个计划任务（Cron 表达式，默认每小时一次）以及一个用于暂停的启用开关，共同控制自动取件。
 
-**哪种方式适合哪种安装？** 在办公室电脑（Windows 安装）上，文件夹方式最为直接；默认文件夹为 `C:\ProgramData\Klacks\ErpImport\erp\orders`。该文件夹受到保护，只有 SYSTEM 和管理员可以写入：管理员必须只针对 `erp\orders` 这一个文件夹，而不是整个 `ProgramData\Klacks` 文件夹，为运行 ERP 导出的账户授予「修改」权限。在自建的 Docker 服务器上，该文件夹（`/app/ErpImport/erp/orders`）位于容器内的命名卷（named volume）中；服务器主机上的 ERP 只有在管理员把服务器上的某个文件夹挂载到 `/app/ErpImport` 时才能访问它，否则只能使用带访问令牌的推送或手动上传。在由我们托管的安装中，无法访问服务器上的文件夹：使用带访问令牌的推送或手动上传。
+**哪种方式适合哪种安装？** 在办公室电脑（Windows 安装）上，文件夹方式最为直接；默认文件夹为 `C:\ProgramData\Klacks\ErpImport\erp\orders`。该文件夹受到保护，只有 SYSTEM 和管理员可以写入：管理员必须只针对 `erp\orders` 这一个文件夹，而不是整个 `ProgramData\Klacks` 文件夹，为运行 ERP 导出的账户授予「修改」权限。在自建的 Docker 服务器上，该文件夹是服务器上的普通文件夹：Compose 文件把与 `docker-compose.yml` 同级的 `erp-import` 文件夹（可通过 `KLACKS_ERP_IMPORT_HOST_DIR` 更改）挂载到 `/app/ErpImport`，在容器内该文件夹的路径为 `/app/ErpImport/erp/orders`。安装会通过 `KLACKS_ERP_IMPORT_HOST_PATH` 报告服务器路径（由安装程序设置）；服务器主机上的 ERP 直接写入该文件夹，运行导出的账户需要对该文件夹本身拥有写入权限。旧版安装使用命名卷（named volume）；其内容会一次性复制到该文件夹中（参见 On-Prem README 中的「Upgrading from a named volume」一节）。卡片上会显示文件夹路径（在 Docker 上为服务器文件夹，其下为容器内的路径），并带有复制按钮。在由我们托管的安装中，无法访问服务器上的文件夹：使用带访问令牌的推送或手动上传。
 
 **访问令牌**仅在 ERP 系统通过推送方式投递文件时才需要。每个令牌均以 `klacks_erp_` 开头，有效期为 1–730 天（默认 365 天），并且**仅在创建时**以明文显示一次。此类令牌仅对导入端点有效，不适用于其余的 API 访问，并且可随时被吊销。
 

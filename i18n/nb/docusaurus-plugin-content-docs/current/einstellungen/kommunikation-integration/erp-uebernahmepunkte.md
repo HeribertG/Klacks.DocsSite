@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP-overføringspunkter
 
-Under Innstillinger > Import (bare synlig i ekspertmodus), kortet «ERP Drop Points», konfigurerer du hvordan bestillinger fra et eksternt ERP-system automatisk tas over i Klacks som XML-filer.
+Under Innstillinger > Import (bare synlig i ekspertmodus), kortet «ERP-mottakspunkter», konfigurerer du hvordan bestillinger fra et eksternt ERP-system automatisk tas over i Klacks som XML-filer.
 
 ## Slik fungerer det
 
@@ -12,7 +12,7 @@ Under Innstillinger > Import (bare synlig i ekspertmodus), kortet «ERP Drop Poi
 
 **Drop-punktet** er den sentrale postkassen for alle importfiler, forvaltet av Klacks selv — den viser tre områder: Innboks (mottatt eller under import nå), Behandlet (med en oppsummering per fil) og Feil (uleselige eller ugyldige filer med feilårsak, med mulighet for å importere på nytt eller slette). En tidsplan (cron-uttrykk, standard hver time) samt en aktiv-bryter for pause styrer den automatiske hentingen.
 
-**Hvilken vei passer til hvilken installasjon?** På en kontor-PC (Windows-installasjon) er mappen den nærliggende veien; standardmappen er `C:\ProgramData\Klacks\ErpImport\erp\orders`. Den er beskyttet, og bare SYSTEM og administratorer får skrive der: En administrator må gi kontoen som ERP-eksporten kjører under, rettigheten «Endre» nøyaktig på mappen `erp\orders`, ikke på hele mappen `ProgramData\Klacks`. På en egen Docker-server ligger mappen (`/app/ErpImport/erp/orders`) inne i containeren i et navngitt volum; et ERP på servermaskinen når den bare hvis administratoren monterer en mappe fra serveren på `/app/ErpImport`, ellers gjenstår push med tilgangstoken eller manuell opplasting. Ved en installasjon som vi hoster, finnes det ingen tilgang til mapper på serveren: push med tilgangstoken eller manuell opplasting.
+**Hvilken vei passer til hvilken installasjon?** På en kontor-PC (Windows-installasjon) er mappen den nærliggende veien; standardmappen er `C:\ProgramData\Klacks\ErpImport\erp\orders`. Den er beskyttet, og bare SYSTEM og administratorer får skrive der: En administrator må gi kontoen som ERP-eksporten kjører under, rettigheten «Endre» nøyaktig på mappen `erp\orders`, ikke på hele mappen `ProgramData\Klacks`. På en egen Docker-server er mappen en vanlig mappe på serveren: Compose-filen monterer mappen `erp-import` ved siden av `docker-compose.yml` (kan endres via `KLACKS_ERP_IMPORT_HOST_DIR`) på `/app/ErpImport`, og inne i containeren heter mappen `/app/ErpImport/erp/orders`. Installasjonen melder serverstien via `KLACKS_ERP_IMPORT_HOST_PATH` (installasjonsprogrammet setter den); et ERP på servermaskinen skriver direkte til denne mappen, og kontoen som eksporten kjører under, trenger skrivetilgang til nøyaktig denne mappen. Eldre installasjoner hadde et navngitt volum; innholdet kopieres én gang over til mappen (se On-Prem-README, avsnittet «Upgrading from a named volume»). På kortet står mappestien (på Docker serverens mappe, og under den stien i containeren) med en knapp for å kopiere den. Ved en installasjon som vi hoster, finnes det ingen tilgang til mapper på serveren: push med tilgangstoken eller manuell opplasting.
 
 **Tilgangstoken** trengs bare når et ERP-system leverer filer via push. Hver token starter med `klacks_erp_`, er gyldig i 1–730 dager (standard 365) og vises i klartekst **bare én gang ved opprettelsen**. En slik token gjelder utelukkende for importendepunktet, ikke for øvrig API-tilgang, og kan trekkes tilbake når som helst.
 

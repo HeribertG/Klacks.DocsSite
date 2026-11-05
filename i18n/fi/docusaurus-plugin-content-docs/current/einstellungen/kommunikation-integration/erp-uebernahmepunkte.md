@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP-siirtopisteet
 
-Kohdassa Asetukset > Tuonti (näkyy vain asiantuntijatilassa), kortissa ”ERP Drop Points”, määrität, miten ulkoisesta ERP-järjestelmästä tulevat tilaukset otetaan automaattisesti vastaan Klacksiin XML-tiedostoina.
+Kohdassa Asetukset > Tuonti (näkyy vain asiantuntijatilassa), kortissa ”ERP-pudotuspisteet”, määrität, miten ulkoisesta ERP-järjestelmästä tulevat tilaukset otetaan automaattisesti vastaan Klacksiin XML-tiedostoina.
 
 ## Näin se toimii
 
@@ -12,7 +12,7 @@ Kohdassa Asetukset > Tuonti (näkyy vain asiantuntijatilassa), kortissa ”ERP D
 
 **Vastaanottopiste** on Klacksin itse ylläpitämä keskitetty postilaatikko kaikille tuontitiedostoille — se näyttää kolme aluetta: Saapuvat (vastaanotettu tai parhaillaan tuonnissa), Käsitellyt (yhteenveto tiedostoa kohti) ja Virheet (lukukelvottomat tai virheelliset tiedostot syineen, mahdollisuudella tuoda uudelleen tai poistaa). Aikataulu (Cron-lauseke, oletus tunneittain) sekä käytössä-kytkin tauottamista varten ohjaavat automaattista hakua.
 
-**Mikä tapa sopii mihinkin asennukseen?** Toimisto-PC:llä (Windows-asennus) kansio on luontevin tapa; oletuskansio on `C:\ProgramData\Klacks\ErpImport\erp\orders`. Se on suojattu, ja vain SYSTEM ja ylläpitäjät saavat kirjoittaa sinne: ylläpitäjän on annettava tilille, jolla ERP-vienti ajetaan, ”Muokkaa”-oikeus täsmälleen kansioon `erp\orders`, ei koko kansioon `ProgramData\Klacks`. Omalla Docker-palvelimella kansio (`/app/ErpImport/erp/orders`) on kontin sisällä nimetyssä volumessa; palvelinkoneen ERP pääsee siihen vain, jos ylläpitäjä liittää palvelimen kansion polkuun `/app/ErpImport`, muuten jäljelle jäävät push käyttöoikeustunnuksella tai manuaalinen lataus. Meidän ylläpitämässämme asennuksessa palvelimen kansioihin ei ole pääsyä: push käyttöoikeustunnuksella tai manuaalinen lataus.
+**Mikä tapa sopii mihinkin asennukseen?** Toimisto-PC:llä (Windows-asennus) kansio on luontevin tapa; oletuskansio on `C:\ProgramData\Klacks\ErpImport\erp\orders`. Se on suojattu, ja vain SYSTEM ja ylläpitäjät saavat kirjoittaa sinne: ylläpitäjän on annettava tilille, jolla ERP-vienti ajetaan, ”Muokkaa”-oikeus täsmälleen kansioon `erp\orders`, ei koko kansioon `ProgramData\Klacks`. Omalla Docker-palvelimella kansio on palvelimen tavallinen kansio: Compose-tiedosto liittää tiedoston `docker-compose.yml` vieressä olevan kansion `erp-import` (muutettavissa asetuksella `KLACKS_ERP_IMPORT_HOST_DIR`) polkuun `/app/ErpImport`, ja kontin sisällä kansion polku on `/app/ErpImport/erp/orders`. Asennus ilmoittaa palvelimen polun asetuksella `KLACKS_ERP_IMPORT_HOST_PATH` (asennusohjelma asettaa sen); palvelinkoneen ERP kirjoittaa suoraan tähän kansioon, ja tilillä, jolla vienti ajetaan, on oltava kirjoitusoikeus täsmälleen tähän kansioon. Vanhemmissa asennuksissa oli nimetty volume; sen sisältö kopioidaan kerran kansioon (ks. On-Prem-README, kohta ”Upgrading from a named volume”). Kortissa näkyy kansion polku (Dockerissa palvelimen kansio, sen alla polku kontin sisällä) sekä painike kopiointia varten. Meidän ylläpitämässämme asennuksessa palvelimen kansioihin ei ole pääsyä: push käyttöoikeustunnuksella tai manuaalinen lataus.
 
 **Käyttöoikeustunnuksia** tarvitaan vain, jos ERP-järjestelmä toimittaa tiedostoja push-menetelmällä. Jokainen tunnus alkaa merkkijonolla `klacks_erp_`, on voimassa 1–730 päivää (oletus 365) ja näytetään selkokielisenä **vain kerran luonnin yhteydessä**. Tällainen tunnus koskee yksinomaan tuontirajapintaa, ei muuta API-käyttöä, ja se voidaan peruuttaa milloin tahansa.
 

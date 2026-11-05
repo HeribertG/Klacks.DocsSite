@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # ERP přebírací body
 
-V nastavení Nastavení > Import (viditelné pouze v expertním režimu), karta „ERP Drop Points“, konfigurujete, jak se objednávky z externího ERP systému automaticky přebírají do Klacks jako XML soubory.
+V nastavení Nastavení > Import (viditelné pouze v expertním režimu), karta „Předávací místa ERP“, konfigurujete, jak se objednávky z externího ERP systému automaticky přebírají do Klacks jako XML soubory.
 
 ## Jak to funguje
 
@@ -12,7 +12,7 @@ V nastavení Nastavení > Import (viditelné pouze v expertním režimu), karta 
 
 **Drop-point** je centrální schránka pro všechny importní soubory, kterou spravuje sám Klacks — zobrazuje tři oblasti: Příchozí (přijato nebo právě probíhá import), Zpracováno (se shrnutím pro každý soubor) a Chyby (nečitelné nebo neplatné soubory včetně důvodu chyby, s možností opětovného importu nebo smazání). Harmonogram (cron výraz, výchozí hodinově) a přepínač Aktivní pro pozastavení řídí automatické stahování.
 
-**Která cesta se hodí pro jakou instalaci?** Na kancelářském PC (instalace pro Windows) je nejpřirozenější cestou složka; výchozí složka je `C:\ProgramData\Klacks\ErpImport\erp\orders`. Je chráněná, zapisovat do ní smí pouze SYSTEM a administrátoři: administrátor musí účtu, pod kterým běží export z ERP, udělit oprávnění „Změnit“ přesně na složku `erp\orders`, nikoli na celou složku `ProgramData\Klacks`. Na vlastním serveru s Dockerem leží složka (`/app/ErpImport/erp/orders`) uvnitř kontejneru v pojmenovaném svazku (named volume); ERP na počítači serveru se k ní dostane jen tehdy, když administrátor připojí složku serveru na `/app/ErpImport`, jinak zbývá push s přístupovým tokenem nebo ruční nahrání. U instalace hostované námi neexistuje přístup ke složkám serveru: push s přístupovým tokenem nebo ruční nahrání.
+**Která cesta se hodí pro jakou instalaci?** Na kancelářském PC (instalace pro Windows) je nejpřirozenější cestou složka; výchozí složka je `C:\ProgramData\Klacks\ErpImport\erp\orders`. Je chráněná, zapisovat do ní smí pouze SYSTEM a administrátoři: administrátor musí účtu, pod kterým běží export z ERP, udělit oprávnění „Změnit“ přesně na složku `erp\orders`, nikoli na celou složku `ProgramData\Klacks`. Na vlastním serveru s Dockerem je složka běžnou složkou serveru: soubor Compose připojuje složku `erp-import` vedle `docker-compose.yml` (lze změnit přes `KLACKS_ERP_IMPORT_HOST_DIR`) na `/app/ErpImport`, uvnitř kontejneru má tato složka cestu `/app/ErpImport/erp/orders`. Instalace hlásí cestu na serveru přes `KLACKS_ERP_IMPORT_HOST_PATH` (nastavuje ji instalátor); ERP na počítači serveru zapisuje přímo do této složky a účet, pod kterým export běží, potřebuje oprávnění k zápisu přesně do této složky. Starší instalace měly pojmenovaný svazek (named volume); jeho obsah se jednorázově zkopíruje do složky (viz README k instalaci On-Prem, část „Upgrading from a named volume“). Na kartě je uvedena cesta ke složce (u Dockeru složka serveru, pod ní cesta v kontejneru) s tlačítkem pro zkopírování. U instalace hostované námi neexistuje přístup ke složkám serveru: push s přístupovým tokenem nebo ruční nahrání.
 
 **Přístupové tokeny** jsou potřeba pouze tehdy, když ERP systém dodává soubory formou push. Každý token začíná na `klacks_erp_`, je platný 1–730 dní (výchozí 365) a v čitelné podobě se zobrazí **pouze jednou při vytvoření**. Takový token platí výhradně pro importní endpoint, ne pro zbývající přístup k API, a lze jej kdykoli odvolat.
 
