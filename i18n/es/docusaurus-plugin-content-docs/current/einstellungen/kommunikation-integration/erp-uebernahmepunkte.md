@@ -4,13 +4,15 @@ sidebar_position: 5
 
 # Puntos de traspaso ERP
 
-En Configuración > Puntos de traspaso ERP configura cómo los pedidos de un sistema ERP externo se traspasan automáticamente a Klacks como archivos XML.
+En Configuración > Importación (visible solo en el modo experto), tarjeta «ERP Drop Points», configura cómo los pedidos de un sistema ERP externo se traspasan automáticamente a Klacks como archivos XML.
 
 ## Cómo funciona
 
-**Tres vías de entrega:** El sistema ERP puede depositar archivos en el almacenamiento del punto de traspaso (Klacks los recoge automáticamente según un plan horario), enviarlos directamente mediante HTTP-POST a un endpoint de importación (autenticado con un token de acceso), o una administradora puede subir el archivo XML manualmente en esta página mediante arrastrar y soltar.
+**Tres vías de entrega:** El sistema ERP puede depositar archivos XML en una carpeta del servidor de Klacks (Klacks los recoge automáticamente según un plan horario en cuanto un archivo lleva 10 segundos sin cambios), enviarlos directamente mediante HTTPS-POST a un endpoint de importación (autenticado con un token de acceso), o una administradora puede subir el archivo XML manualmente en esta página mediante arrastrar y soltar (la importación se inicia de inmediato). No hay SFTP; solo se importan archivos XML con el formato `ErpOrderImport`.
 
-**El punto de traspaso** es el buzón central, gestionado por el propio Klacks, para todos los archivos de importación — muestra tres áreas: Entrada (espera la próxima ejecución), Procesado (archivo) y Errores (archivos inválidos junto con el motivo del error, con posibilidad de reintentar la importación). Un plan horario (expresión cron, por defecto cada hora) y un interruptor de activación para pausar controlan la recogida automática.
+**El punto de traspaso** es el buzón central, gestionado por el propio Klacks, para todos los archivos de importación — muestra tres áreas: Entrada (recibido o en importación en este momento), Procesado (con un resumen por archivo) y Errores (archivos ilegibles o inválidos junto con el motivo del error, con posibilidad de reimportar o eliminar). Un plan horario (expresión cron, por defecto cada hora) y un interruptor de activación para pausar controlan la recogida automática.
+
+**¿Qué vía encaja con qué instalación?** En un PC de oficina (instalación en Windows), la vía más evidente es la carpeta; la carpeta estándar es `C:\ProgramData\Klacks\ErpImport\erp\orders`. Está protegida: solo SYSTEM y los administradores pueden escribir en ella. Un administrador debe conceder a la cuenta con la que se ejecuta la exportación del ERP el permiso «Modificar» exactamente sobre la carpeta `erp\orders`, no sobre toda la carpeta `ProgramData\Klacks`. En un servidor Docker propio, la carpeta (`/app/ErpImport/erp/orders`) está dentro del contenedor, en un volumen con nombre (named volume); un ERP situado en el equipo del servidor solo la alcanza si el administrador monta una carpeta del servidor en `/app/ErpImport`; de lo contrario quedan el push con token de acceso o la subida manual. En una instalación alojada por nosotros no hay acceso a las carpetas del servidor: push con token de acceso o subida manual.
 
 **Los tokens de acceso** solo son necesarios cuando un sistema ERP entrega archivos mediante push. Cada token comienza con `klacks_erp_`, es válido de 1 a 730 días (por defecto 365) y se muestra en texto plano **solo una vez, en el momento de la creación**. Un token de este tipo es válido exclusivamente para el endpoint de importación, no para el resto del acceso a la API, y puede revocarse en cualquier momento.
 
@@ -18,8 +20,8 @@ En Configuración > Puntos de traspaso ERP configura cómo los pedidos de un sis
 
 ## Es bueno saberlo
 
-- Los pedidos individuales incorrectos (p. ej., sin día de la semana o con referencia duplicada) se rechazan sin bloquear los demás pedidos válidos del mismo archivo; sin embargo, el archivo completo termina igualmente en el área de errores, para que nada pase desapercibido.
-- Los archivos procesados se archivan, no se eliminan.
+- Los pedidos individuales incorrectos (p. ej., sin día de la semana o con referencia duplicada) se rechazan sin bloquear los demás pedidos válidos del mismo archivo; aun así, el archivo aparece en Procesado, marcado con un símbolo de advertencia, y los pedidos rechazados pueden desplegarse con su motivo.
+- Los archivos no se mueven ni se archivan: permanecen en la carpeta y su estado figura en la base de datos. Los archivos procesados correctamente se eliminan automáticamente a los 90 días; los archivos de Errores permanecen hasta que se reimportan o se eliminan.
 - El formato XML exacto (campos obligatorios, formatos de fecha, lógica de días de la semana) está documentado en el manual, directamente en la página de configuración, así como mediante un archivo de ejemplo descargable.
 - Esta configuración se encuentra en el área de Configuración y, por tanto, está reservada a roles administrativos.
 

@@ -4,13 +4,15 @@ sidebar_position: 5
 
 # Pontos de integração ERP
 
-Em Definições > Pontos de Receção ERP configura como as encomendas de um sistema ERP externo são importadas automaticamente para o Klacks sob a forma de ficheiros XML.
+Em Definições > Importação (visível apenas no modo especialista), cartão «ERP Drop Points», configura como as encomendas de um sistema ERP externo são importadas automaticamente para o Klacks sob a forma de ficheiros XML.
 
 ## Como funciona
 
-**Três formas de entrega:** O sistema ERP pode disponibilizar ficheiros no repositório de ficheiros do ponto de receção (o Klacks recolhe-os automaticamente de acordo com um plano temporal), enviá-los diretamente por HTTP-POST para um endpoint de importação (autenticado com um token de acesso), ou um administrador carrega manualmente o ficheiro XML nesta página por arrastar e largar.
+**Três formas de entrega:** O sistema ERP pode colocar ficheiros XML numa pasta no servidor do Klacks (o Klacks recolhe-os automaticamente de acordo com um plano temporal, assim que um ficheiro esteja inalterado há 10 segundos), enviá-los diretamente por HTTPS-POST para um endpoint de importação (autenticado com um token de acesso), ou um administrador carrega manualmente o ficheiro XML nesta página por arrastar e largar (a importação começa de imediato). Não existe SFTP; só são importados ficheiros XML no formato `ErpOrderImport`.
 
-**O ponto de receção** é a caixa de entrada central para todos os ficheiros de importação, gerida pelo próprio Klacks — mostra três áreas: Entrada (aguarda a próxima execução), Processado (arquivo) e Erro (ficheiros inválidos com o respetivo motivo de erro, com possibilidade de nova importação). Um plano temporal (expressão cron, por defeito de hora a hora) e um interruptor de ativação para pausar controlam a recolha automática.
+**O ponto de receção** é a caixa de entrada central para todos os ficheiros de importação, gerida pelo próprio Klacks — mostra três áreas: Entrada (recebido ou em importação neste momento), Processado (com um resumo por ficheiro) e Erro (ficheiros ilegíveis ou inválidos com o respetivo motivo de erro, com possibilidade de nova importação ou eliminação). Um plano temporal (expressão cron, por defeito de hora a hora) e um interruptor de ativação para pausar controlam a recolha automática.
+
+**Que forma serve para que instalação?** Num PC de escritório (instalação Windows), a forma mais óbvia é a pasta; a pasta predefinida é `C:\ProgramData\Klacks\ErpImport\erp\orders`. Está protegida, e só o SYSTEM e os administradores podem escrever nela: um administrador tem de conceder à conta com a qual corre a exportação do ERP a permissão «Modificar» exatamente sobre a pasta `erp\orders`, e não sobre toda a pasta `ProgramData\Klacks`. Num servidor Docker próprio, a pasta (`/app/ErpImport/erp/orders`) encontra-se dentro do contentor, num volume nomeado (named volume); um ERP no computador do servidor só lhe chega se o administrador montar uma pasta do servidor em `/app/ErpImport`, caso contrário restam o push com token de acesso ou o carregamento manual. Numa instalação alojada por nós, não há acesso a pastas do servidor: push com token de acesso ou carregamento manual.
 
 **Os tokens de acesso** só são necessários quando um sistema ERP entrega ficheiros por push. Cada token começa por `klacks_erp_`, é válido entre 1 e 730 dias (por defeito 365) e é apresentado em texto simples **apenas uma vez, no momento da criação**. Um token deste tipo é válido exclusivamente para o endpoint de importação, não para o restante acesso à API, e pode ser revogado a qualquer momento.
 
@@ -18,8 +20,8 @@ Em Definições > Pontos de Receção ERP configura como as encomendas de um sis
 
 ## Bom saber
 
-- Encomendas individuais com erros (por exemplo, sem dia da semana ou com referência duplicada) são rejeitadas sem bloquear as restantes encomendas válidas do mesmo ficheiro; mesmo assim, o ficheiro completo acaba na área de erro, para que nada passe despercebido.
-- Os ficheiros processados são arquivados, não eliminados.
+- Encomendas individuais com erros (por exemplo, sem dia da semana ou com referência duplicada) são rejeitadas sem bloquear as restantes encomendas válidas do mesmo ficheiro; mesmo assim, o ficheiro aparece em Processado, assinalado com um símbolo de aviso, e as encomendas rejeitadas podem ser expandidas com o respetivo motivo.
+- Os ficheiros não são movidos nem arquivados: permanecem na pasta e o seu estado fica registado na base de dados. Os ficheiros processados com êxito são eliminados automaticamente ao fim de 90 dias; os ficheiros em Erro permanecem até serem novamente importados ou eliminados.
 - O formato XML exato (campos obrigatórios, formatos de data, lógica de dias da semana) está documentado diretamente no manual, na própria página de definições, bem como através de um ficheiro de exemplo disponível para download.
 - Esta configuração encontra-se na área de Definições, estando por isso reservada a perfis administrativos.
 

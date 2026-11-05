@@ -4,13 +4,15 @@ sidebar_position: 5
 
 # ERP-Übernahmepunkte
 
-Unter Einstellungen > ERP-Übernahmepunkte konfigurieren Sie, wie Bestellungen aus einem externen ERP-System als XML-Dateien automatisch in Klacks übernommen werden.
+Unter Einstellungen > Import (nur im Expertenmodus sichtbar), Karte „ERP Drop Points“, konfigurieren Sie, wie Bestellungen aus einem externen ERP-System als XML-Dateien automatisch in Klacks übernommen werden.
 
 ## So funktioniert es
 
-**Drei Wege der Anlieferung:** Das ERP-System kann Dateien in der Dateiablage des Drop-Points bereitstellen (Klacks holt sie nach Zeitplan automatisch ab), sie per HTTP-POST direkt an einen Import-Endpoint pushen (authentifiziert mit einem Zugriffstoken), oder eine Administratorin lädt die XML-Datei manuell auf dieser Seite per Drag-and-drop hoch.
+**Drei Wege der Anlieferung:** Das ERP-System kann XML-Dateien in einen Ordner auf dem Klacks-Server legen (Klacks holt sie nach Zeitplan automatisch ab, sobald eine Datei 10 Sekunden unverändert ist), sie per HTTPS-POST direkt an einen Import-Endpoint pushen (authentifiziert mit einem Zugriffstoken), oder eine Administratorin lädt die XML-Datei manuell auf dieser Seite per Drag-and-drop hoch (der Import startet sofort). Es gibt kein SFTP; importiert werden nur XML-Dateien im Format `ErpOrderImport`.
 
-**Der Drop-Point** ist der zentrale, von Klacks selbst verwaltete Briefkasten für alle Import-Dateien — er zeigt drei Bereiche: Eingang (wartet auf den nächsten Lauf), Verarbeitet (Archiv) und Fehler (ungültige Dateien samt Fehlergrund, mit Möglichkeit zum erneuten Import). Ein Zeitplan (Cron-Ausdruck, Standard stündlich) sowie ein Aktiv-Schalter zum Pausieren steuern den automatischen Abruf.
+**Der Drop-Point** ist der zentrale, von Klacks selbst verwaltete Briefkasten für alle Import-Dateien — er zeigt drei Bereiche: Eingang (empfangen oder gerade im Import), Verarbeitet (mit Zusammenfassung pro Datei) und Fehler (nicht lesbare oder ungültige Dateien samt Fehlergrund, mit Möglichkeit zum erneuten Import oder Löschen). Ein Zeitplan (Cron-Ausdruck, Standard stündlich) sowie ein Aktiv-Schalter zum Pausieren steuern den automatischen Abruf.
+
+**Welcher Weg passt zu welcher Installation?** Auf einem Büro-PC (Windows-Installation) ist die Ordner-Ablage der naheliegende Weg; der Standardordner ist `C:\ProgramData\Klacks\ErpImport\erp\orders`. Er ist geschützt, nur SYSTEM und Administratoren dürfen dort schreiben: Ein Administrator muss dem Konto, unter dem der ERP-Export läuft, das Recht „Ändern“ genau auf den Ordner `erp\orders` geben, nicht auf den ganzen Ordner `ProgramData\Klacks`. Auf einem eigenen Docker-Server liegt der Ordner (`/app/ErpImport/erp/orders`) in einem benannten Volume im Container; ein ERP auf dem Server-Rechner erreicht ihn nur, wenn der Administrator einen Ordner des Servers nach `/app/ErpImport` einbindet, sonst bleiben Push mit Zugriffstoken oder manueller Upload. Bei einer von uns gehosteten Installation gibt es keinen Zugriff auf Ordner des Servers: Push mit Zugriffstoken oder manueller Upload.
 
 **Zugriffstoken** werden nur benötigt, wenn ein ERP-System Dateien per Push anliefert. Jedes Token beginnt mit `klacks_erp_`, ist 1–730 Tage gültig (Standard 365) und wird im Klartext **nur einmal bei der Erstellung** angezeigt. Ein solches Token gilt ausschliesslich für den Import-Endpoint, nicht für den restlichen API-Zugriff, und kann jederzeit widerrufen werden.
 
@@ -18,8 +20,8 @@ Unter Einstellungen > ERP-Übernahmepunkte konfigurieren Sie, wie Bestellungen a
 
 ## Gut zu wissen
 
-- Fehlerhafte einzelne Bestellungen (z. B. ohne Wochentag oder mit doppelter Referenz) werden abgelehnt, ohne die übrigen gültigen Bestellungen derselben Datei zu blockieren; die gesamte Datei landet dann trotzdem im Fehler-Bereich, damit nichts übersehen wird.
-- Verarbeitete Dateien werden archiviert, nicht gelöscht.
+- Fehlerhafte einzelne Bestellungen (z. B. ohne Wochentag oder mit doppelter Referenz) werden abgelehnt, ohne die übrigen gültigen Bestellungen derselben Datei zu blockieren; die Datei erscheint trotzdem im Bereich Verarbeitet, markiert mit einem Warn-Symbol, und die abgelehnten Bestellungen lassen sich mit ihrem Grund aufklappen.
+- Dateien werden nicht verschoben oder archiviert: Sie bleiben im Ordner, ihr Status steht in der Datenbank. Erfolgreich verarbeitete Dateien werden nach 90 Tagen automatisch gelöscht; Dateien im Bereich Fehler bleiben, bis sie erneut importiert oder gelöscht werden.
 - Das genaue XML-Format (Pflichtfelder, Datumsformate, Wochentags-Logik) ist im Handbuch direkt auf der Einstellungsseite sowie über eine herunterladbare Beispieldatei dokumentiert.
 - Diese Konfiguration liegt im Einstellungen-Bereich und ist damit administrativen Rollen vorbehalten.
 

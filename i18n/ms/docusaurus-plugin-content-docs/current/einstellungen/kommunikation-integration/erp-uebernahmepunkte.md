@@ -4,13 +4,15 @@ sidebar_position: 5
 
 # Titik Pengambilalihan ERP
 
-Di bawah Tetapan > Titik Pengambilalihan ERP anda mengkonfigurasikan bagaimana pesanan daripada sistem ERP luaran diambil alih secara automatik ke dalam Klacks sebagai fail XML.
+Di bawah Tetapan > Import (hanya kelihatan dalam mod pakar), kad "ERP Drop Points", anda mengkonfigurasikan bagaimana pesanan daripada sistem ERP luaran diambil alih secara automatik ke dalam Klacks sebagai fail XML.
 
 ## Cara ia berfungsi
 
-**Tiga Cara Penghantaran:** Sistem ERP boleh menyediakan fail dalam simpanan fail Drop-Point (Klacks mengambilnya secara automatik mengikut jadual), menolaknya (push) terus melalui HTTP-POST kepada satu titik akhir import (disahkan dengan token akses), atau seorang pentadbir memuat naik fail XML secara manual pada halaman ini melalui seret dan lepas.
+**Tiga Cara Penghantaran:** Sistem ERP boleh meletakkan fail XML dalam satu folder pada pelayan Klacks (Klacks mengambilnya secara automatik mengikut jadual sebaik sahaja sesuatu fail tidak berubah selama 10 saat), menolaknya (push) terus melalui HTTPS-POST kepada satu titik akhir import (disahkan dengan token akses), atau seorang pentadbir memuat naik fail XML secara manual pada halaman ini melalui seret dan lepas (import bermula serta-merta). Tiada SFTP; hanya fail XML dalam format `ErpOrderImport` diimport.
 
-**Drop-Point** ialah peti mel pusat yang diuruskan sendiri oleh Klacks bagi semua fail import — ia memaparkan tiga bahagian: Masuk (menunggu larian seterusnya), Diproses (arkib) dan Ralat (fail tidak sah berserta sebab ralat, dengan kemungkinan untuk import semula). Satu jadual (ungkapan Cron, lalai setiap jam) serta suis Aktif untuk menjeda mengawal pengambilan automatik.
+**Drop-Point** ialah peti mel pusat yang diuruskan sendiri oleh Klacks bagi semua fail import — ia memaparkan tiga bahagian: Masuk (diterima atau sedang diimport), Diproses (dengan ringkasan bagi setiap fail) dan Ralat (fail yang tidak boleh dibaca atau tidak sah berserta sebab ralat, dengan kemungkinan untuk import semula atau memadam). Satu jadual (ungkapan Cron, lalai setiap jam) serta suis Aktif untuk menjeda mengawal pengambilan automatik.
+
+**Cara mana sesuai untuk pemasangan mana?** Pada PC pejabat (pemasangan Windows), folder ialah cara yang paling jelas; folder lalai ialah `C:\ProgramData\Klacks\ErpImport\erp\orders`. Ia dilindungi, hanya SYSTEM dan pentadbir dibenarkan menulis di situ: seorang pentadbir mesti memberikan kepada akaun yang menjalankan eksport ERP hak "Modify" tepat pada folder `erp\orders`, bukan pada keseluruhan folder `ProgramData\Klacks`. Pada pelayan Docker sendiri, folder (`/app/ErpImport/erp/orders`) berada di dalam kontena dalam satu named volume; ERP pada komputer pelayan hanya dapat mencapainya jika pentadbir memasang (mount) satu folder pelayan pada `/app/ErpImport`, jika tidak yang tinggal ialah push dengan token akses atau muat naik manual. Pada pemasangan yang kami hoskan, tiada akses kepada folder pelayan: push dengan token akses atau muat naik manual.
 
 **Token Akses** hanya diperlukan jika sistem ERP menghantar fail melalui push. Setiap token bermula dengan `klacks_erp_`, sah selama 1–730 hari (lalai 365) dan dipaparkan dalam teks biasa **hanya sekali semasa penciptaan**. Token sedemikian hanya sah untuk titik akhir import, bukan untuk akses API selebihnya, dan boleh dibatalkan pada bila-bila masa.
 
@@ -18,8 +20,8 @@ Di bawah Tetapan > Titik Pengambilalihan ERP anda mengkonfigurasikan bagaimana p
 
 ## Perkara yang perlu diketahui
 
-- Pesanan individu yang bermasalah (contohnya tanpa hari dalam minggu atau dengan rujukan berganda) ditolak, tanpa menghalang pesanan sah lain dalam fail yang sama; keseluruhan fail tetap mendarat dalam bahagian Ralat, supaya tiada apa-apa terlepas pandang.
-- Fail yang telah diproses diarkibkan, bukan dipadam.
+- Pesanan individu yang bermasalah (contohnya tanpa hari dalam minggu atau dengan rujukan berganda) ditolak, tanpa menghalang pesanan sah lain dalam fail yang sama; fail itu tetap muncul di bawah Diproses, ditandai dengan simbol amaran, dan pesanan yang ditolak boleh dikembangkan bersama sebabnya.
+- Fail tidak dialihkan atau diarkibkan: ia kekal dalam folder, dan statusnya disimpan dalam pangkalan data. Fail yang berjaya diproses dipadam secara automatik selepas 90 hari; fail di bawah Ralat kekal sehingga diimport semula atau dipadam.
 - Format XML yang tepat (medan wajib, format tarikh, logik hari dalam minggu) didokumentasikan dalam manual terus pada halaman tetapan serta melalui fail contoh yang boleh dimuat turun.
 - Konfigurasi ini terletak dalam bahagian Tetapan dan oleh itu dikhaskan untuk peranan pentadbiran.
 
