@@ -16,14 +16,15 @@ Playground-ul nu este o variantă de instalare, ci o instanță publică Klacks 
 
 ## Instalare: pe propriul server (On-Premise)
 
-Pachetul On-Premise include tot ce este necesar: imagini Docker, program de instalare, bază de date, HTTPS și actualizări automate.
+Pachetul On-Premise include tot ce este necesar: imagini Docker, program de instalare, bază de date, HTTPS și actualizări automate. Klacks se descarcă exclusiv din [Klacks Store](https://klacks-software.ch/store/?culture=ro).
+
+În Klacks Store alegeți, dacă doriți, domeniul, descărcați arhiva ZIP pentru țara dumneavoastră și dezarhivați-o pe mașina țintă. Alegeți un folder care să rămână în aceeași locație (de exemplu `~/klacks`): actualizările automate funcționează cu acest folder.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Sub Windows: `install.ps1` în loc de `install.sh`. Programul de instalare generează el însuși parolele și certificatele, descarcă imaginile Docker curente și așteaptă până când totul funcționează. Prima autentificare cu `admin@test.com` / `P@ssw0rt1` — **schimbați această parolă imediat după prima conectare.**
+Sub Windows: `install-*.ps1` în loc de `install-*.sh`. Programul de instalare generează el însuși parolele și certificatele, descarcă imaginile Docker curente și așteaptă până când totul funcționează. Prima autentificare cu `admin@test.com` / `P@ssw0rt1` — **schimbați această parolă imediat după prima conectare.**
 
 ## Bine de știut
 

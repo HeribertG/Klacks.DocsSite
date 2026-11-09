@@ -14,7 +14,7 @@ Wiki ini menerangkan cara Klacks berfungsi dalam bahagian-bahagian kecil. Setiap
 | | |
 |---|---|
 | 🎮 **Cuba** | [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1` (instans ujian awam, data ditetapkan semula setiap hari) |
-| 📦 **Pasang** | [Muat turun pakej On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — satu arahan, dan Klacks berjalan |
+| 📦 **Pasang** | [Dapatkan pakej pemasangan di Klacks Store](https://klacks-software.ch/store/?culture=ms) — satu arahan, dan Klacks berjalan |
 | 💬 **Soalan & Perbincangan** | [Komuniti Klacks di Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Laman Web** | [klacks-software.ch](https://klacks-software.ch) |
 

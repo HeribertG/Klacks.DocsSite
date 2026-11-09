@@ -16,14 +16,15 @@ Playground bukanlah satu pilihan pemasangan, sebaliknya satu instans Klacks awam
 
 ## Pemasangan: Di pelayan sendiri (On-Premise)
 
-Pakej On-Premise membawa segala-galanya: imej Docker, pemasang, pangkalan data, HTTPS dan kemas kini automatik.
+Pakej On-Premise membawa segala-galanya: imej Docker, pemasang, pangkalan data, HTTPS dan kemas kini automatik. Klacks hanya boleh dimuat turun dari [Klacks Store](https://klacks-software.ch/store/?culture=ms).
+
+Di Klacks Store, pilih industri Anda jika mahu, muat turun ZIP untuk negara Anda dan ekstrak pada mesin sasaran. Pilih folder yang kekal di tempatnya (contohnya `~/klacks`): kemas kini automatik berfungsi dengan folder ini.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Di Windows: `install.ps1` sebagai ganti `install.sh`. Pemasang menjana kata laluan dan sijil sendiri, memuat turun imej Docker terkini dan menunggu sehingga semuanya berjalan. Log masuk pertama dengan `admin@test.com` / `P@ssw0rt1` — **tukar kata laluan ini serta-merta selepas log masuk pertama.**
+Di Windows: `install-*.ps1` sebagai ganti `install-*.sh`. Pemasang menjana kata laluan dan sijil sendiri, memuat turun imej Docker terkini dan menunggu sehingga semuanya berjalan. Log masuk pertama dengan `admin@test.com` / `P@ssw0rt1` — **tukar kata laluan ini serta-merta selepas log masuk pertama.**
 
 ## Perkara Berguna
 

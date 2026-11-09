@@ -16,14 +16,15 @@ Playground không phải là một phương án cài đặt, mà là một phiê
 
 ## Cài đặt: Trên máy chủ riêng (On-Premise)
 
-Gói On-Premise bao gồm mọi thứ cần thiết: các Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS và cập nhật tự động.
+Gói On-Premise bao gồm mọi thứ cần thiết: các Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS và cập nhật tự động. Klacks chỉ được tải xuống từ [Klacks Store](https://klacks-software.ch/store/?culture=vi).
+
+Trong Klacks Store, chọn ngành nếu muốn, tải tệp ZIP cho quốc gia của bạn và giải nén trên máy đích. Hãy chọn một thư mục cố định (ví dụ: `~/klacks`): tính năng cập nhật tự động hoạt động với thư mục này.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Trên Windows: dùng `install.ps1` thay vì `install.sh`. Trình cài đặt sẽ tự tạo mật khẩu và chứng chỉ, tải về các Docker image mới nhất và chờ cho đến khi mọi thứ chạy xong. Đăng nhập lần đầu bằng `admin@test.com` / `P@ssw0rt1` — **hãy đổi mật khẩu này ngay sau lần đăng nhập đầu tiên.**
+Trên Windows: dùng `install-*.ps1` thay vì `install-*.sh`. Trình cài đặt sẽ tự tạo mật khẩu và chứng chỉ, tải về các Docker image mới nhất và chờ cho đến khi mọi thứ chạy xong. Đăng nhập lần đầu bằng `admin@test.com` / `P@ssw0rt1` — **hãy đổi mật khẩu này ngay sau lần đăng nhập đầu tiên.**
 
 ## Điều cần biết
 

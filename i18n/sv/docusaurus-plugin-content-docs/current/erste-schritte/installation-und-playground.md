@@ -16,14 +16,15 @@ Playground är inget installationsalternativ utan en publik Klacks-instans med e
 
 ## Installation: På egen server (on-premise)
 
-On-premise-paketet innehåller allt: Docker-images, installationsprogram, databas, HTTPS och automatiska uppdateringar.
+On-premise-paketet innehåller allt: Docker-images, installationsprogram, databas, HTTPS och automatiska uppdateringar. Klacks laddas endast ner från [Klacks Store](https://klacks-software.ch/store/?culture=sv).
+
+Välj vid behov din bransch i Klacks Store, ladda ner ZIP-filen för ditt land och packa upp den på målmaskinen. Välj en mapp som ligger kvar där den är (till exempel `~/klacks`): de automatiska uppdateringarna arbetar med den här mappen.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-I Windows: `install.ps1` istället för `install.sh`. Installationsprogrammet skapar lösenord och certifikat själv, laddar ner de aktuella Docker-images och väntar tills allt körs. Första inloggning med `admin@test.com` / `P@ssw0rt1` — **byt detta lösenord omedelbart efter första inloggningen.**
+I Windows: `install-*.ps1` istället för `install-*.sh`. Installationsprogrammet skapar lösenord och certifikat själv, laddar ner de aktuella Docker-images och väntar tills allt körs. Första inloggning med `admin@test.com` / `P@ssw0rt1` — **byt detta lösenord omedelbart efter första inloggningen.**
 
 ## Bra att veta
 

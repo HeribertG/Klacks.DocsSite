@@ -14,7 +14,7 @@ Tämä wiki selittää pienin palasin, miten Klacks toimii. Jokainen sivu on lue
 | | |
 |---|---|
 | 🎮 **Kokeile** | [Klacks Playground](https://play.klacks-software.ch) — kirjautuminen `admin@test.com` / `P@ssw0rt1` (julkinen testi-instanssi, tiedot nollataan päivittäin) |
-| 📦 **Asenna** | [Lataa On-Premise-paketti](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — yksi komento, ja Klacks on käynnissä |
+| 📦 **Asenna** | [Lataa asennuspaketti Klacks Storesta](https://klacks-software.ch/store/?culture=fi) — yksi komento, ja Klacks on käynnissä |
 | 💬 **Kysymykset ja keskustelu** | [Klacks-yhteisö Discordissa](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Verkkosivusto** | [klacks-software.ch](https://klacks-software.ch) |
 

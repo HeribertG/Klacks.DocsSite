@@ -16,14 +16,15 @@ Playground는 설치 방식이 아니라, 부담 없이 마음껏 써볼 수 있
 
 ## 설치: 자체 서버에서 (온프레미스)
 
-온프레미스 패키지에는 필요한 모든 것이 포함되어 있습니다: Docker 이미지, 설치 프로그램, 데이터베이스, HTTPS, 자동 업데이트.
+온프레미스 패키지에는 필요한 모든 것이 포함되어 있습니다: Docker 이미지, 설치 프로그램, 데이터베이스, HTTPS, 자동 업데이트. Klacks는 [Klacks Store](https://klacks-software.ch/store/?culture=ko)에서만 다운로드할 수 있습니다.
+
+Klacks Store에서 원하면 업종을 선택하고, 귀사 국가용 ZIP을 다운로드하여 대상 컴퓨터에서 압축을 해제합니다. 위치가 바뀌지 않는 폴더(예: `~/klacks`)를 선택하세요. 자동 업데이트는 이 폴더를 기준으로 작동합니다.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Windows에서는 `install.sh` 대신 `install.ps1`을 사용합니다. 설치 프로그램이 비밀번호와 인증서를 자체적으로 생성하고, 최신 Docker 이미지를 내려받은 뒤, 모든 것이 정상적으로 실행될 때까지 대기합니다. 최초 로그인은 `admin@test.com` / `P@ssw0rt1`이며, **첫 로그인 직후 이 비밀번호를 반드시 변경하십시오.**
+Windows에서는 `install-*.sh` 대신 `install-*.ps1`을 사용합니다. 설치 프로그램이 비밀번호와 인증서를 자체적으로 생성하고, 최신 Docker 이미지를 내려받은 뒤, 모든 것이 정상적으로 실행될 때까지 대기합니다. 최초 로그인은 `admin@test.com` / `P@ssw0rt1`이며, **첫 로그인 직후 이 비밀번호를 반드시 변경하십시오.**
 
 ## 알아두면 좋은 점
 

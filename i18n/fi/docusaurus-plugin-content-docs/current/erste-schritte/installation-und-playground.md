@@ -16,14 +16,15 @@ Playground ei ole asennusvaihtoehto, vaan julkinen Klacks-instanssi esimerkkitie
 
 ## Asennus: Omalla palvelimella (On-Premise)
 
-On-Premise-paketti sisältää kaiken: Docker-imaget, asennusohjelman, tietokannan, HTTPS:n ja automaattiset päivitykset.
+On-Premise-paketti sisältää kaiken: Docker-imaget, asennusohjelman, tietokannan, HTTPS:n ja automaattiset päivitykset. Klacks ladataan ainoastaan [Klacks Storesta](https://klacks-software.ch/store/?culture=fi).
+
+Valitse Klacks Storessa halutessasi toimiala, lataa maasi ZIP-paketti ja pura se kohdekoneella. Valitse kansio, joka pysyy paikallaan (esimerkiksi `~/klacks`): automaattiset päivitykset toimivat tämän kansion kanssa.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Windowsissa: `install.ps1` `install.sh`:n sijaan. Asennusohjelma luo salasanat ja varmenteet itse, lataa ajantasaiset Docker-imaget ja odottaa, että kaikki on käynnissä. Ensimmäinen kirjautuminen tunnuksilla `admin@test.com` / `P@ssw0rt1` — **vaihda tämä salasana heti ensimmäisen kirjautumisen jälkeen.**
+Windowsissa: `install-*.ps1` `install-*.sh`:n sijaan. Asennusohjelma luo salasanat ja varmenteet itse, lataa ajantasaiset Docker-imaget ja odottaa, että kaikki on käynnissä. Ensimmäinen kirjautuminen tunnuksilla `admin@test.com` / `P@ssw0rt1` — **vaihda tämä salasana heti ensimmäisen kirjautumisen jälkeen.**
 
 ## Hyvä tietää
 

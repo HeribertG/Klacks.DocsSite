@@ -16,14 +16,15 @@ sidebar_position: 1
 
 ## התקנה: על השרת שלכם (On-Premise)
 
-חבילת ה-On-Premise כוללת הכול: תמונות Docker, מתקין, מסד נתונים, HTTPS ועדכונים אוטומטיים.
+חבילת ה-On-Premise כוללת הכול: תמונות Docker, מתקין, מסד נתונים, HTTPS ועדכונים אוטומטיים. ניתן להוריד את Klacks אך ורק מ-[Klacks Store](https://klacks-software.ch/store/?culture=he).
+
+ב-Klacks Store בחרו לפי הצורך את הענף שלכם, הורידו את קובץ ה-ZIP של המדינה שלכם וחלצו אותו במחשב היעד. בחרו תיקייה שתישאר במקומה (למשל `~/klacks`): העדכונים האוטומטיים פועלים עם תיקייה זו.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-תחת Windows: `install.ps1` במקום `install.sh`. המתקין יוצר בעצמו סיסמאות ותעודות, טוען את תמונות ה-Docker העדכניות וממתין עד שהכול פועל. התחברות ראשונה עם `admin@test.com` / `P@ssw0rt1` - **שנו סיסמה זו מיד לאחר ההתחברות הראשונה.**
+תחת Windows: `install-*.ps1` במקום `install-*.sh`. המתקין יוצר בעצמו סיסמאות ותעודות, טוען את תמונות ה-Docker העדכניות וממתין עד שהכול פועל. התחברות ראשונה עם `admin@test.com` / `P@ssw0rt1` - **שנו סיסמה זו מיד לאחר ההתחברות הראשונה.**
 
 ## כדאי לדעת
 

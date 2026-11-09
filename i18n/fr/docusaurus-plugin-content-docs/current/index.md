@@ -14,7 +14,7 @@ Ce wiki explique le fonctionnement de Klacks par petites étapes. Chaque page se
 | | |
 |---|---|
 | 🎮 **Essayer** | [Playground Klacks](https://play.klacks-software.ch) — connexion `admin@test.com` / `P@ssw0rt1` (instance de test publique, les données sont réinitialisées quotidiennement) |
-| 📦 **Installer** | [Télécharger le paquet On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — une seule commande, et Klacks fonctionne |
+| 📦 **Installer** | [Télécharger le pack d'installation depuis le Klacks Store](https://klacks-software.ch/store/?culture=fr) — une seule commande, et Klacks fonctionne |
 | 💬 **Questions et échanges** | [Communauté Klacks sur Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Site web** | [klacks-software.ch](https://klacks-software.ch) |
 

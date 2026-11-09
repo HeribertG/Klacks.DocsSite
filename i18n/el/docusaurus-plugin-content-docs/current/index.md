@@ -14,7 +14,7 @@ slug: /
 | | |
 |---|---|
 | 🎮 **Δοκιμή** | [Klacks Playground](https://play.klacks-software.ch) — Σύνδεση `admin@test.com` / `P@ssw0rt1` (δημόσια δοκιμαστική εγκατάσταση, τα δεδομένα επαναφέρονται καθημερινά) |
-| 📦 **Εγκατάσταση** | [Λήψη πακέτου On-Premise](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — μία εντολή, και το Klacks τρέχει |
+| 📦 **Εγκατάσταση** | [Λήψη πακέτου εγκατάστασης από το Klacks Store](https://klacks-software.ch/store/?culture=el) — μία εντολή, και το Klacks τρέχει |
 | 💬 **Ερωτήσεις & ανταλλαγή απόψεων** | [Κοινότητα Klacks στο Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Ιστότοπος** | [klacks-software.ch](https://klacks-software.ch) |
 

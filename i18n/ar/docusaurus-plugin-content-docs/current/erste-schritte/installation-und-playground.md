@@ -16,14 +16,15 @@ sidebar_position: 1
 
 ## التثبيت: على خادمكم الخاص (On-Premise)
 
-توفر حزمة On-Premise كل ما تحتاجونه: صور Docker، برنامج التثبيت، قاعدة البيانات، HTTPS، والتحديثات التلقائية.
+توفر حزمة On-Premise كل ما تحتاجونه: صور Docker، برنامج التثبيت، قاعدة البيانات، HTTPS، والتحديثات التلقائية. لا يمكن تنزيل Klacks إلا من [Klacks Store](https://klacks-software.ch/store/?culture=ar).
+
+اختاروا في Klacks Store القطاع إن شئتم، ونزّلوا ملف ZIP الخاص ببلدكم وفكّوا ضغطه على الجهاز الهدف. اختاروا مجلدًا يبقى في مكانه (على سبيل المثال `~/klacks`): تعمل التحديثات التلقائية مع هذا المجلد.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-على أنظمة Windows: استخدموا `install.ps1` بدلًا من `install.sh`. يقوم برنامج التثبيت بإنشاء كلمات المرور والشهادات بنفسه، ويحمّل صور Docker الحالية، وينتظر حتى يعمل كل شيء. تسجيل الدخول الأول يتم عبر `admin@test.com` / `P@ssw0rt1` — **يُرجى تغيير كلمة المرور هذه فورًا بعد أول تسجيل دخول.**
+على أنظمة Windows: استخدموا `install-*.ps1` بدلًا من `install-*.sh`. يقوم برنامج التثبيت بإنشاء كلمات المرور والشهادات بنفسه، ويحمّل صور Docker الحالية، وينتظر حتى يعمل كل شيء. تسجيل الدخول الأول يتم عبر `admin@test.com` / `P@ssw0rt1` — **يُرجى تغيير كلمة المرور هذه فورًا بعد أول تسجيل دخول.**
 
 ## معلومات مفيدة
 

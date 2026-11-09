@@ -16,14 +16,15 @@ Playground 并不是一种安装方式，而是一个带有示例数据、供您
 
 ## 安装：部署在自己的服务器上（本地部署）
 
-本地部署套件包含所需的一切：Docker 镜像、安装程序、数据库、HTTPS 以及自动更新。
+本地部署套件包含所需的一切：Docker 镜像、安装程序、数据库、HTTPS 以及自动更新。Klacks 仅可从 [Klacks Store](https://klacks-software.ch/store/?culture=zh-CN) 下载。
+
+在 Klacks Store 中可按需选择行业，下载适用于您所在国家的 ZIP，并在目标机器上解压。请选择一个位置固定的文件夹（例如 `~/klacks`）：自动更新会使用这个文件夹。
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-在 Windows 下请使用 `install.ps1` 代替 `install.sh`。安装程序会自行生成密码和证书，拉取最新的 Docker 镜像，并等待所有服务就绪。首次登录使用 `admin@test.com` / `P@ssw0rt1` — **请在首次登录后立即修改该密码。**
+在 Windows 下请使用 `install-*.ps1` 代替 `install-*.sh`。安装程序会自行生成密码和证书，拉取最新的 Docker 镜像，并等待所有服务就绪。首次登录使用 `admin@test.com` / `P@ssw0rt1` — **请在首次登录后立即修改该密码。**
 
 ## 小贴士
 

@@ -16,14 +16,15 @@ Playgroundはインストール方法の一つではなく、気軽に触って�
 
 ## インストール: 自社サーバーで(オンプレミス)
 
-オンプレミスパッケージには、Dockerイメージ、インストーラー、データベース、HTTPS、自動アップデートまで、すべてが含まれています。
+オンプレミスパッケージには、Dockerイメージ、インストーラー、データベース、HTTPS、自動アップデートまで、すべてが含まれています。Klacksは[Klacks Store](https://klacks-software.ch/store/?culture=ja)からのみダウンロードできます。
+
+Klacks Storeで必要に応じて業種を選び、貴社の国向けのZIPをダウンロードして、対象マシン上で展開します。展開先には、移動しないフォルダー（例: `~/klacks`）を選んでください。自動アップデートはこのフォルダーを使って動作します。
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Windowsの場合は`install.sh`の代わりに`install.ps1`を使用します。インストーラーがパスワードと証明書を自動生成し、最新のDockerイメージを取得して、すべてが稼働するまで待機します。初回ログインは`admin@test.com` / `P@ssw0rt1`で行い ― **初回ログイン後、このパスワードはすぐに変更してください。**
+Windowsの場合は`install-*.sh`の代わりに`install-*.ps1`を使用します。インストーラーがパスワードと証明書を自動生成し、最新のDockerイメージを取得して、すべてが稼働するまで待機します。初回ログインは`admin@test.com` / `P@ssw0rt1`で行い ― **初回ログイン後、このパスワードはすぐに変更してください。**
 
 ## 知っておくと良いこと
 

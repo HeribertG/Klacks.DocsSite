@@ -14,7 +14,7 @@ Deze wiki legt in kleine hapjes uit hoe Klacks werkt. Elke pagina is in enkele m
 | | |
 |---|---|
 | 🎮 **Uitproberen** | [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1` (openbare test-omgeving, gegevens worden dagelijks gereset) |
-| 📦 **Installeren** | [On-premise-pakket downloaden](https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip) — één commando, en Klacks draait |
+| 📦 **Installeren** | [Installatiepakket downloaden via de Klacks Store](https://klacks-software.ch/store/?culture=nl) — één commando, en Klacks draait |
 | 💬 **Vragen & uitwisseling** | [Klacks-community op Discord](https://discord.gg/YRP8p2abVC) |
 | 🌐 **Website** | [klacks-software.ch](https://klacks-software.ch) |
 

@@ -16,14 +16,15 @@ Playground 並不是一種安裝方式，而是一個附帶範例資料的公開
 
 ## 安裝：架設在自己的伺服器上（On-Premise 私有部署）
 
-On-Premise 套件已包含所有必要元件：Docker 映像檔、安裝程式、資料庫、HTTPS 以及自動更新。
+On-Premise 套件已包含所有必要元件：Docker 映像檔、安裝程式、資料庫、HTTPS 以及自動更新。Klacks 僅可從 [Klacks Store](https://klacks-software.ch/store/?culture=zh-TW) 下載。
+
+在 Klacks Store 中可視需要選擇行業，下載適用於您所在國家的 ZIP，並在目標機器上解壓縮。請選擇一個位置固定的資料夾（例如 `~/klacks`）：自動更新會使用這個資料夾。
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Windows 下請改用 `install.ps1` 而非 `install.sh`。安裝程式會自行產生密碼與憑證，下載最新的 Docker 映像檔，並等待所有服務就緒。首次登入請使用 `admin@test.com` / `P@ssw0rt1` — **請在第一次登入後立即變更此密碼。**
+Windows 下請改用 `install-*.ps1` 而非 `install-*.sh`。安裝程式會自行產生密碼與憑證，下載最新的 Docker 映像檔，並等待所有服務就緒。首次登入請使用 `admin@test.com` / `P@ssw0rt1` — **請在第一次登入後立即變更此密碼。**
 
 ## 小提醒
 

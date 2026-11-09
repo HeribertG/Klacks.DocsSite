@@ -16,14 +16,15 @@ Der Playground ist keine Installationsvariante, sondern eine öffentliche Klacks
 
 ## Installation: Auf dem eigenen Server (On-Premise)
 
-Das On-Premise-Paket bringt alles mit: Docker-Images, Installer, Datenbank, HTTPS und automatische Updates.
+Das On-Premise-Paket bringt alles mit: Docker-Images, Installer, Datenbank, HTTPS und automatische Updates. Sie laden es ausschliesslich im [Klacks Store](https://klacks-software.ch/store/?culture=de) herunter.
+
+Wählen Sie im Klacks Store auf Wunsch die Branche, laden Sie das ZIP für Ihr Land herunter und entpacken Sie es auf dem Zielrechner in einen Ordner, der bestehen bleibt (zum Beispiel `~/klacks`): Die automatischen Updates arbeiten mit diesem Ordner.
 
 ```bash
-curl -fsSLO https://github.com/HeribertG/Klacks.Api/releases/latest/download/klacks-onprem.zip
-unzip klacks-onprem.zip && cd onprem && ./install.sh
+unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
 ```
 
-Unter Windows: `install.ps1` statt `install.sh`. Der Installer erzeugt Passwörter und Zertifikate selbst, lädt die aktuellen Docker-Images und wartet, bis alles läuft.
+Unter Windows: `install-*.ps1` statt `install-*.sh`. Der Installer erzeugt Passwörter und Zertifikate selbst, lädt die aktuellen Docker-Images und wartet, bis alles läuft.
 
 Mit optionalem Länderprofil richtet der Installer beim ersten Start gleich Sprache, Feiertage, Arbeitszeitgrenzen, Zuschläge und Branchen-Vorlagen ein:
 
@@ -34,6 +35,8 @@ SERVER_NAME=klacks.example.com REGION=de ./install.sh
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\install.ps1 -ServerName klacks.example.com -Region de
 ```
+
+Das Länderpaket aus dem Klacks Store enthält das Profil seines Landes. Die mitgelieferten Skripte `install-*.sh` und `install-*.ps1` setzen `REGION` bzw. `-Region` bereits auf dessen Ländercode — im Paket für Deutschland zum Beispiel `install-de.sh` und `install-de.ps1`. Rufen Sie `install.sh` oder `install.ps1` direkt auf, muss `REGION` bzw. `-Region` dieser Ländercode sein; ohne ihn richtet der Installer kein Länderprofil ein.
 
 ## Die erste Anmeldung: Klacks verlangt Ihr eigenes Admin-Konto
 
@@ -49,7 +52,7 @@ Nur im Playground und in einer lokalen Entwicklungsumgebung ist dieses Gate absi
 - Ein mitgelieferter Update-Dienst hält Ihre Installation automatisch aktuell — mit Backup vor jedem Update und automatischem Rollback bei Problemen. Wie das im Detail abläuft, steht unter [Updates und Rollback](../betrieb/updates-und-rollback.md).
 - Ihre Daten liegen in Ihrer eigenen Datenbank auf Ihrer Infrastruktur. Einige Funktionen rufen dabei externe Dienste auf — welche, steht im nächsten Abschnitt.
 - Ein erneuter Aufruf des Installers ist unschädlich: Er behält Passwörter und Zertifikat bei und zieht nur neu — so reparieren Sie einen Stack oder erzwingen ein Update der Images.
-- Bringen Sie ein eigenes Zertifikat mit, legen Sie `server.crt` und `server.key` vor der Installation in `onprem/nginx/certs/` ab; sonst erzeugt der Installer ein selbstsigniertes Zertifikat.
+- Bringen Sie ein eigenes Zertifikat mit, legen Sie `server.crt` und `server.key` vor der Installation in `nginx/certs/` im Installationsordner ab; sonst erzeugt der Installer ein selbstsigniertes Zertifikat.
 - Ihre Datenbank sichern Sie regelmässig selbst — wie das geht, steht unter [Backup und Wiederherstellung](../betrieb/backup-und-wiederherstellung.md).
 
 ## Welche externen Dienste Klacks aufruft
