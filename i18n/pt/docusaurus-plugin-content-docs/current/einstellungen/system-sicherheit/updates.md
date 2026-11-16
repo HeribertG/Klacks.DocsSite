@@ -27,6 +27,7 @@ Em Definições > Atualizações, vê a versão do Klacks atualmente instalada e
 - Se a verificação de integridade falhar após uma atualização, o Klacks reverte automaticamente para a versão anterior (restaurar cópia de segurança → ativar versão antiga → verificar novamente); só quando este próprio rollback falha é que é necessária uma intervenção manual.
 - Um rollback manual restaura especificamente a cópia de segurança associada à última operação bem-sucedida e ativa a respetiva versão de origem — não se trata simplesmente de "recuar uma versão".
 - Atualização e rollback são ações exclusivas de administrador.
+- Num PC de escritório com Windows, esta página é o único caminho para uma versão mais recente, mesmo quando o Klacks foi instalado a partir da Microsoft Store: um instalador mais recente executado sobre uma instalação existente é recusado.
 
 ---
 *Experimente diretamente: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, os dados são repostos diariamente.*

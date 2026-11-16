@@ -16,7 +16,7 @@ El Playground no es una variante de instalación, sino una instancia pública de
 
 ## Instalación: En su propio servidor (On-Premise)
 
-El paquete On-Premise lo incluye todo: imágenes Docker, instalador, base de datos, HTTPS y actualizaciones automáticas. Klacks se descarga exclusivamente desde el [Klacks Store](https://klacks-software.ch/store/?culture=es).
+El paquete On-Premise lo incluye todo: imágenes Docker, instalador, base de datos, HTTPS y actualizaciones automáticas. Este paquete solo está disponible en el [Klacks Store](https://klacks-software.ch/store/?culture=es).
 
 En el Klacks Store, elija su sector si lo desea, descargue el ZIP de su país y descomprímalo en la máquina de destino. Elija una carpeta que permanezca en su sitio (por ejemplo `~/klacks`): las actualizaciones automáticas funcionan con esta carpeta.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 En Windows: `install-*.ps1` en lugar de `install-*.sh`. El instalador genera contraseñas y certificados por sí mismo, descarga las imágenes Docker actuales y espera hasta que todo esté en funcionamiento. Primer inicio de sesión con `admin@test.com` / `P@ssw0rt1` — **cambie esta contraseña inmediatamente después del primer inicio de sesión.**
+
+## PC de oficina con Windows: también en Microsoft Store
+
+Para un único PC de oficina con Windows existe un instalador propio que funciona sin Docker. Se obtiene en el [Klacks Store](https://klacks-software.ch/store/?culture=es), en la página de su país, y también en [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (entrada «Klacks»). En ambas tiendas es el mismo instalador. Desde Microsoft Store aplica el país configurado en Windows; allí no se elige un sector y, si no existe un perfil para ese país, el instalador no configura ninguno. Las instalaciones en servidor, Docker y Linux, así como los paquetes por país y por sector, solo están disponibles en el Klacks Store.
+
+En el PC de oficina, las nuevas versiones llegan a través de Configuración > [Actualizaciones de software](../einstellungen/system-sicherheit/updates.md) en Klacks, también cuando Klacks se instaló desde Microsoft Store. Un instalador más reciente no se puede instalar sobre una instalación existente.
 
 ## Bueno saberlo
 

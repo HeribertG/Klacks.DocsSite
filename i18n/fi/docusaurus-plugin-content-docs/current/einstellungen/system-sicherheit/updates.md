@@ -27,6 +27,7 @@ Kohdassa Asetukset > Päivitykset näet tällä hetkellä asennetun ja uusimman 
 - Jos päivityksen jälkeinen terveystarkistus epäonnistuu, Klacks palauttaa automaattisesti edellisen version (varmuuskopion palautus → vanhan version aktivointi → uudelleentarkistus); vain jos tämä palautus itsessään epäonnistuu, tarvitaan manuaalista puuttumista.
 - Manuaalinen palautus palauttaa täsmällisesti viimeisimpään onnistuneeseen toimintoon liittyvän varmuuskopion ja aktivoi sen lähtöversion — ei vain "yhtä versiota taaksepäin".
 - Päivitys ja palautus ovat toimintoja, jotka on rajattu vain Adminille.
+- Windows-toimisto-PC:llä tämä sivu on ainoa tie uudempaan versioon, myös silloin kun Klacks on asennettu Microsoft Storesta: olemassa olevan asennuksen päälle ajettu uudempi asennusohjelma hylätään.
 
 ---
 *Kokeile suoraan: [Klacks Playground](https://play.klacks-software.ch) — kirjaudu tunnuksilla `admin@test.com` / `P@ssw0rt1`, tiedot nollataan päivittäin.*

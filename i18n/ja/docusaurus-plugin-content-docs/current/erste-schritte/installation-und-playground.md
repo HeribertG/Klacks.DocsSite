@@ -16,7 +16,7 @@ Playgroundはインストール方法の一つではなく、気軽に触って�
 
 ## インストール: 自社サーバーで(オンプレミス)
 
-オンプレミスパッケージには、Dockerイメージ、インストーラー、データベース、HTTPS、自動アップデートまで、すべてが含まれています。Klacksは[Klacks Store](https://klacks-software.ch/store/?culture=ja)からのみダウンロードできます。
+オンプレミスパッケージには、Dockerイメージ、インストーラー、データベース、HTTPS、自動アップデートまで、すべてが含まれています。このパッケージは[Klacks Store](https://klacks-software.ch/store/?culture=ja)でのみ入手できます。
 
 Klacks Storeで必要に応じて業種を選び、貴社の国向けのZIPをダウンロードして、対象マシン上で展開します。展開先には、移動しないフォルダー（例: `~/klacks`）を選んでください。自動アップデートはこのフォルダーを使って動作します。
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Windowsの場合は`install-*.sh`の代わりに`install-*.ps1`を使用します。インストーラーがパスワードと証明書を自動生成し、最新のDockerイメージを取得して、すべてが稼働するまで待機します。初回ログインは`admin@test.com` / `P@ssw0rt1`で行い ― **初回ログイン後、このパスワードはすぐに変更してください。**
+
+## Windowsのオフィス用PC：Microsoft Storeでも入手可能
+
+Windowsのオフィス用PC 1台向けに、Dockerなしで動作する専用のセットアップがあります。[Klacks Store](https://klacks-software.ch/store/?culture=ja)のお住まいの国のページと、[Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26)（「Klacks」）で入手できます。どちらのストアでも同じセットアップです。Microsoft Storeからインストールした場合は、Windowsで設定されている国が適用されます。業種はそこでは選択せず、その国の国別プロファイルがない場合、セットアップはプロファイルを設定しません。サーバー、Docker、Linuxへのインストール、および国別・業種別パッケージはKlacks Storeでのみ入手できます。
+
+オフィス用PCでは、新しいバージョンはKlacksの「設定 > [ソフトウェアアップデート](../einstellungen/system-sicherheit/updates.md)」から適用します。KlacksをMicrosoft Storeからインストールした場合も同じです。既存のインストールに新しいセットアップを上書きインストールすることはできません。
 
 ## 知っておくと良いこと
 

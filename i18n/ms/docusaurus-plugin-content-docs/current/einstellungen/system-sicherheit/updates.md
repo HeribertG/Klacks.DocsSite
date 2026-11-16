@@ -27,6 +27,7 @@ Di bawah Tetapan > Kemas Kini, anda melihat versi Klacks yang dipasang pada masa
 - Jika pemeriksaan kesihatan gagal selepas kemas kini, Klacks secara automatik kembali ke versi sebelumnya (memulihkan sandaran → mengaktifkan versi lama → memeriksa semula); hanya jika rollback ini sendiri gagal, campur tangan manual diperlukan.
 - Rollback manual memulihkan secara khusus sandaran yang berkaitan dengan operasi berjaya yang terakhir dan mengaktifkan versi asal sandaran tersebut — bukan sekadar "kembali satu versi".
 - Kemas kini dan rollback adalah tindakan khas Admin sahaja.
+- Pada PC pejabat dengan Windows, halaman ini ialah satu-satunya cara untuk mendapatkan versi yang lebih baharu, walaupun Klacks dipasang dari Microsoft Store: pemasang yang lebih baharu yang dijalankan di atas pemasangan sedia ada akan ditolak.
 
 ---
 *Cuba sendiri: [Klacks Playground](https://play.klacks-software.ch) — Log masuk `admin@test.com` / `P@ssw0rt1`, data ditetapkan semula setiap hari.*

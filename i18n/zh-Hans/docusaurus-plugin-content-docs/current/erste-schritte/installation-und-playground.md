@@ -16,7 +16,7 @@ Playground 并不是一种安装方式，而是一个带有示例数据、供您
 
 ## 安装：部署在自己的服务器上（本地部署）
 
-本地部署套件包含所需的一切：Docker 镜像、安装程序、数据库、HTTPS 以及自动更新。Klacks 仅可从 [Klacks Store](https://klacks-software.ch/store/?culture=zh-CN) 下载。
+本地部署套件包含所需的一切：Docker 镜像、安装程序、数据库、HTTPS 以及自动更新。此套件仅可从 [Klacks Store](https://klacks-software.ch/store/?culture=zh-CN) 获取。
 
 在 Klacks Store 中可按需选择行业，下载适用于您所在国家的 ZIP，并在目标机器上解压。请选择一个位置固定的文件夹（例如 `~/klacks`）：自动更新会使用这个文件夹。
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 在 Windows 下请使用 `install-*.ps1` 代替 `install-*.sh`。安装程序会自行生成密码和证书，拉取最新的 Docker 镜像，并等待所有服务就绪。首次登录使用 `admin@test.com` / `P@ssw0rt1` — **请在首次登录后立即修改该密码。**
+
+## Windows 办公电脑：也可从 Microsoft Store 获取
+
+针对单台 Windows 办公电脑，另有一个无需 Docker 的安装程序。您可以在 [Klacks Store](https://klacks-software.ch/store/?culture=zh-CN) 的本国页面获取，也可以在 [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26)（条目“Klacks”）获取。两个商店提供的是同一个安装程序。从 Microsoft Store 安装时，它会采用 Windows 中设置的国家/地区；在那里无需选择行业，如果该国家/地区没有国家配置文件，安装程序不会设置任何配置文件。服务器、Docker 和 Linux 安装以及国家和行业套件仅在 Klacks Store 提供。
+
+在办公电脑上，新版本通过 Klacks 中的“设置 > [软件更新](../einstellungen/system-sicherheit/updates.md)”获取，即使 Klacks 是从 Microsoft Store 安装的也是如此。较新的安装程序无法覆盖安装到现有安装之上。
 
 ## 小贴士
 

@@ -27,6 +27,7 @@ Under Settings > Updates you see the currently installed and the latest availabl
 - If the health check fails after an update, Klacks automatically rolls back to the previous version (restore backup → activate old version → check again); only if this rollback itself fails is manual intervention needed.
 - A manual rollback specifically restores the backup belonging to the last successful operation and activates its starting version — not simply "one version back."
 - Update and rollback are admin-only actions.
+- On an office PC with Windows, this page is the only way to a newer version, also when Klacks was installed from the Microsoft Store: a newer setup run over an existing installation is refused.
 
 ---
 *Try it yourself: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, data resets daily.*

@@ -27,6 +27,7 @@ Trong mục Cài đặt > Cập nhật, bạn xem phiên bản Klacks hiện đa
 - Nếu kiểm tra tình trạng sức khỏe sau một cập nhật thất bại, Klacks sẽ tự động rollback về phiên bản trước đó (khôi phục bản sao lưu → kích hoạt phiên bản cũ → kiểm tra lại); chỉ khi bản thân rollback này thất bại thì mới cần can thiệp thủ công.
 - Một rollback thủ công khôi phục có mục tiêu bản sao lưu thuộc về thao tác thành công gần nhất và kích hoạt phiên bản gốc của nó — không đơn giản là "lùi lại một phiên bản".
 - Cập nhật và rollback là các hành động chỉ dành cho Admin.
+- Trên máy tính văn phòng chạy Windows, trang này là cách duy nhất để lên phiên bản mới hơn, kể cả khi Klacks được cài từ Microsoft Store: chạy một trình cài đặt mới hơn đè lên bản cài đặt hiện có sẽ bị từ chối.
 
 ---
 *Dùng thử ngay: [Klacks Playground](https://play.klacks-software.ch) — Đăng nhập `admin@test.com` / `P@ssw0rt1`, dữ liệu được đặt lại mỗi ngày.*

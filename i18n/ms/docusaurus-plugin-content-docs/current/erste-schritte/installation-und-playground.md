@@ -16,7 +16,7 @@ Playground bukanlah satu pilihan pemasangan, sebaliknya satu instans Klacks awam
 
 ## Pemasangan: Di pelayan sendiri (On-Premise)
 
-Pakej On-Premise membawa segala-galanya: imej Docker, pemasang, pangkalan data, HTTPS dan kemas kini automatik. Klacks hanya boleh dimuat turun dari [Klacks Store](https://klacks-software.ch/store/?culture=ms).
+Pakej On-Premise membawa segala-galanya: imej Docker, pemasang, pangkalan data, HTTPS dan kemas kini automatik. Pakej ini hanya tersedia di [Klacks Store](https://klacks-software.ch/store/?culture=ms).
 
 Di Klacks Store, pilih industri Anda jika mahu, muat turun ZIP untuk negara Anda dan ekstrak pada mesin sasaran. Pilih folder yang kekal di tempatnya (contohnya `~/klacks`): kemas kini automatik berfungsi dengan folder ini.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Di Windows: `install-*.ps1` sebagai ganti `install-*.sh`. Pemasang menjana kata laluan dan sijil sendiri, memuat turun imej Docker terkini dan menunggu sehingga semuanya berjalan. Log masuk pertama dengan `admin@test.com` / `P@ssw0rt1` — **tukar kata laluan ini serta-merta selepas log masuk pertama.**
+
+## PC pejabat dengan Windows: juga di Microsoft Store
+
+Untuk satu PC pejabat dengan Windows, terdapat pemasang tersendiri yang berfungsi tanpa Docker. Anda boleh mendapatkannya di [Klacks Store](https://klacks-software.ch/store/?culture=ms) pada halaman negara anda dan juga di [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (entri "Klacks"). Di kedua-dua kedai, ia adalah pemasang yang sama. Dari Microsoft Store, pemasang menggunakan negara yang ditetapkan dalam Windows; di sana anda tidak memilih industri, dan jika tiada profil negara untuk negara tersebut, pemasang tidak menyediakan sebarang profil. Pemasangan pelayan, Docker dan Linux serta pakej negara dan industri hanya tersedia di Klacks Store.
+
+Pada PC pejabat, versi baharu datang melalui Tetapan > [Kemas Kini Perisian](../einstellungen/system-sicherheit/updates.md) dalam Klacks, walaupun Klacks dipasang dari Microsoft Store. Pemasang yang lebih baharu tidak boleh dipasang di atas pemasangan sedia ada.
 
 ## Perkara Berguna
 

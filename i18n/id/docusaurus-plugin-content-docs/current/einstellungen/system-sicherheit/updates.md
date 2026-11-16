@@ -27,6 +27,7 @@ Di Pengaturan > Pembaruan, Anda melihat versi Klacks yang saat ini terpasang dan
 - Jika pemeriksaan kesehatan gagal setelah pembaruan, Klacks akan secara otomatis melakukan rollback ke versi sebelumnya (memulihkan backup → mengaktifkan versi lama → memeriksa kembali); hanya jika rollback ini sendiri gagal, diperlukan intervensi manual.
 - Rollback manual secara spesifik memulihkan backup yang terkait dengan operasi terakhir yang berhasil dan mengaktifkan versi awalnya — bukan sekadar "mundur satu versi".
 - Pembaruan dan rollback adalah aksi khusus Admin.
+- Di PC kantor dengan Windows, halaman ini adalah satu-satunya jalan ke versi yang lebih baru, juga jika Klacks diinstal dari Microsoft Store: setup yang lebih baru yang dijalankan di atas instalasi yang sudah ada akan ditolak.
 
 ---
 *Coba langsung: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data direset setiap hari.*

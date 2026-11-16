@@ -27,6 +27,7 @@ Unter Einstellungen > Updates sehen Sie die aktuell installierte und die neueste
 - Schlägt die Gesundheitsprüfung nach einem Update fehl, rollt Klacks automatisch auf die vorherige Version zurück (Backup wiederherstellen → alte Version aktivieren → erneut prüfen); nur wenn dieser Rollback selbst fehlschlägt, bleibt ein manueller Eingriff nötig.
 - Ein manueller Rollback stellt gezielt das zur letzten erfolgreichen Operation gehörende Backup wieder her und aktiviert deren Ausgangsversion — nicht einfach "eine Version zurück".
 - Update und Rollback sind Admin-only-Aktionen.
+- Auf einem Büro-PC mit Windows ist diese Seite der einzige Weg zu einer neueren Version, auch wenn Klacks aus dem Microsoft Store installiert wurde: Ein neueres Setup, das über eine bestehende Installation läuft, wird abgelehnt.
 
 ---
 *Direkt ausprobieren: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, Daten werden täglich zurückgesetzt.*

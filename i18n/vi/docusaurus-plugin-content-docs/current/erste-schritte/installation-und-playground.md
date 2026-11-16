@@ -16,7 +16,7 @@ Playground không phải là một phương án cài đặt, mà là một phiê
 
 ## Cài đặt: Trên máy chủ riêng (On-Premise)
 
-Gói On-Premise bao gồm mọi thứ cần thiết: các Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS và cập nhật tự động. Klacks chỉ được tải xuống từ [Klacks Store](https://klacks-software.ch/store/?culture=vi).
+Gói On-Premise bao gồm mọi thứ cần thiết: các Docker image, trình cài đặt, cơ sở dữ liệu, HTTPS và cập nhật tự động. Gói này chỉ có trên [Klacks Store](https://klacks-software.ch/store/?culture=vi).
 
 Trong Klacks Store, chọn ngành nếu muốn, tải tệp ZIP cho quốc gia của bạn và giải nén trên máy đích. Hãy chọn một thư mục cố định (ví dụ: `~/klacks`): tính năng cập nhật tự động hoạt động với thư mục này.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Trên Windows: dùng `install-*.ps1` thay vì `install-*.sh`. Trình cài đặt sẽ tự tạo mật khẩu và chứng chỉ, tải về các Docker image mới nhất và chờ cho đến khi mọi thứ chạy xong. Đăng nhập lần đầu bằng `admin@test.com` / `P@ssw0rt1` — **hãy đổi mật khẩu này ngay sau lần đăng nhập đầu tiên.**
+
+## Máy tính văn phòng chạy Windows: cũng có trên Microsoft Store
+
+Cho một máy tính văn phòng đơn lẻ chạy Windows có một trình cài đặt riêng hoạt động không cần Docker. Bạn có thể tải trình cài đặt này trên [Klacks Store](https://klacks-software.ch/store/?culture=vi) tại trang của quốc gia bạn và cả trên [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (mục "Klacks"). Ở cả hai cửa hàng đây là cùng một trình cài đặt. Khi cài từ Microsoft Store, trình cài đặt áp dụng quốc gia được thiết lập trong Windows; ở đó bạn không chọn ngành, và nếu quốc gia đó không có hồ sơ quốc gia thì trình cài đặt không thiết lập hồ sơ nào. Cài đặt trên máy chủ, Docker và Linux cũng như các gói theo quốc gia và theo ngành chỉ có trên Klacks Store.
+
+Trên máy tính văn phòng, các phiên bản mới được cập nhật qua Cài đặt > [Cập nhật phần mềm](../einstellungen/system-sicherheit/updates.md) trong Klacks, kể cả khi Klacks được cài từ Microsoft Store. Không thể cài một trình cài đặt mới hơn đè lên một bản cài đặt hiện có.
 
 ## Điều cần biết
 

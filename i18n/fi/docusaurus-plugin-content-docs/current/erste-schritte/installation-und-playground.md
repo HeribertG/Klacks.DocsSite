@@ -16,7 +16,7 @@ Playground ei ole asennusvaihtoehto, vaan julkinen Klacks-instanssi esimerkkitie
 
 ## Asennus: Omalla palvelimella (On-Premise)
 
-On-Premise-paketti sisältää kaiken: Docker-imaget, asennusohjelman, tietokannan, HTTPS:n ja automaattiset päivitykset. Klacks ladataan ainoastaan [Klacks Storesta](https://klacks-software.ch/store/?culture=fi).
+On-Premise-paketti sisältää kaiken: Docker-imaget, asennusohjelman, tietokannan, HTTPS:n ja automaattiset päivitykset. Tämä paketti on saatavilla ainoastaan [Klacks Storesta](https://klacks-software.ch/store/?culture=fi).
 
 Valitse Klacks Storessa halutessasi toimiala, lataa maasi ZIP-paketti ja pura se kohdekoneella. Valitse kansio, joka pysyy paikallaan (esimerkiksi `~/klacks`): automaattiset päivitykset toimivat tämän kansion kanssa.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Windowsissa: `install-*.ps1` `install-*.sh`:n sijaan. Asennusohjelma luo salasanat ja varmenteet itse, lataa ajantasaiset Docker-imaget ja odottaa, että kaikki on käynnissä. Ensimmäinen kirjautuminen tunnuksilla `admin@test.com` / `P@ssw0rt1` — **vaihda tämä salasana heti ensimmäisen kirjautumisen jälkeen.**
+
+## Toimisto-PC Windowsilla: myös Microsoft Storessa
+
+Yksittäiselle Windows-toimisto-PC:lle on oma asennusohjelma, joka toimii ilman Dockeria. Saat sen [Klacks Storesta](https://klacks-software.ch/store/?culture=fi) oman maasi sivulta ja myös [Microsoft Storesta](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (kohde "Klacks"). Molemmissa kaupoissa se on sama asennusohjelma. Microsoft Storesta asennettuna se ottaa käyttöön Windowsissa asetetun maan; toimialaa et valitse siellä, ja jos maalle ei ole maaprofiilia, asennus ei ota sellaista käyttöön. Palvelin-, Docker- ja Linux-asennukset sekä maa- ja toimialapaketit ovat saatavilla vain Klacks Storesta.
+
+Toimisto-PC:llä uudet versiot tulevat Klacksissa kohdan Asetukset > [Ohjelmistopäivitykset](../einstellungen/system-sicherheit/updates.md) kautta, myös silloin kun Klacks on asennettu Microsoft Storesta. Uudempaa asennusohjelmaa ei voi asentaa olemassa olevan asennuksen päälle.
 
 ## Hyvä tietää
 

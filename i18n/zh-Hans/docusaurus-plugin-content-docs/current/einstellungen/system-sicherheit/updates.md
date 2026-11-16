@@ -27,6 +27,7 @@ sidebar_position: 4
 - 如果更新后的健康检查失败，Klacks 会自动回滚到之前的版本（恢复备份 → 启用旧版本 → 再次检查）；只有当这个回滚过程本身失败时，才需要人工介入。
 - 手动回滚会精确恢复与上一次成功操作对应的备份，并启用该操作的起始版本 — 而不是简单地「回退一个版本」。
 - 更新和回滚仅限管理员操作。
+- 在 Windows 办公电脑上，即使 Klacks 是从 Microsoft Store 安装的，此页面也是升级到新版本的唯一途径：在现有安装上运行较新的安装程序会被拒绝。
 
 ---
 *立即体验：[Klacks Playground](https://play.klacks-software.ch) — 登录 `admin@test.com` / `P@ssw0rt1`，数据每日自动重置。*

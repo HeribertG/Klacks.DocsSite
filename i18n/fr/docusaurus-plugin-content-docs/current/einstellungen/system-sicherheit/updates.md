@@ -27,6 +27,7 @@ Sous Paramètres > Mises à jour, vous consultez la version actuellement install
 - Si le contrôle de santé échoue après une mise à jour, Klacks revient automatiquement à la version précédente (restauration de la sauvegarde → activation de l'ancienne version → nouvelle vérification) ; ce n'est que si ce rollback lui-même échoue qu'une intervention manuelle devient nécessaire.
 - Un rollback manuel restaure spécifiquement la sauvegarde correspondant à la dernière opération réussie et active la version d'origine correspondante — pas simplement « une version en arrière ».
 - La mise à jour et le rollback sont des actions réservées aux administrateurs.
+- Sur un PC de bureau sous Windows, cette page est le seul moyen de passer à une version plus récente, même si Klacks a été installé depuis le Microsoft Store : un programme d'installation plus récent lancé sur une installation existante est refusé.
 
 ---
 *À essayer directement : [Klacks Playground](https://play.klacks-software.ch) — Identifiant `admin@test.com` / `P@ssw0rt1`, les données sont réinitialisées chaque jour.*

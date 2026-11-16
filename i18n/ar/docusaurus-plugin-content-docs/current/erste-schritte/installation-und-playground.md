@@ -16,7 +16,7 @@ sidebar_position: 1
 
 ## التثبيت: على خادمكم الخاص (On-Premise)
 
-توفر حزمة On-Premise كل ما تحتاجونه: صور Docker، برنامج التثبيت، قاعدة البيانات، HTTPS، والتحديثات التلقائية. لا يمكن تنزيل Klacks إلا من [Klacks Store](https://klacks-software.ch/store/?culture=ar).
+توفر حزمة On-Premise كل ما تحتاجونه: صور Docker، برنامج التثبيت، قاعدة البيانات، HTTPS، والتحديثات التلقائية. هذه الحزمة متوفرة حصرياً في [Klacks Store](https://klacks-software.ch/store/?culture=ar).
 
 اختاروا في Klacks Store القطاع إن شئتم، ونزّلوا ملف ZIP الخاص ببلدكم وفكّوا ضغطه على الجهاز الهدف. اختاروا مجلدًا يبقى في مكانه (على سبيل المثال `~/klacks`): تعمل التحديثات التلقائية مع هذا المجلد.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 على أنظمة Windows: استخدموا `install-*.ps1` بدلًا من `install-*.sh`. يقوم برنامج التثبيت بإنشاء كلمات المرور والشهادات بنفسه، ويحمّل صور Docker الحالية، وينتظر حتى يعمل كل شيء. تسجيل الدخول الأول يتم عبر `admin@test.com` / `P@ssw0rt1` — **يُرجى تغيير كلمة المرور هذه فورًا بعد أول تسجيل دخول.**
+
+## حاسوب مكتبي بنظام Windows: متوفر أيضاً في Microsoft Store
+
+لحاسوب مكتبي واحد بنظام Windows يوجد برنامج تثبيت مستقل يعمل دون Docker. تحصلون عليه من [Klacks Store](https://klacks-software.ch/store/?culture=ar) في صفحة بلدكم، وكذلك من [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (إدخال "Klacks"). وهو برنامج التثبيت نفسه في المتجرين. عند التثبيت من Microsoft Store يطبّق البلد المضبوط في Windows؛ ولا تختارون هناك قطاعاً، وإذا لم يوجد ملف تعريف لذلك البلد فلا يُعدّ برنامج التثبيت أي ملف تعريف للبلد. أما التثبيت على الخادم وفي Docker وعلى Linux، وكذلك حزم البلدان والقطاعات، فمتوفرة في Klacks Store فقط.
+
+على الحاسوب المكتبي تصل الإصدارات الجديدة عبر الإعدادات > [تحديثات البرنامج](../einstellungen/system-sicherheit/updates.md) في Klacks، حتى لو ثُبّت Klacks من Microsoft Store. ولا يمكن تثبيت برنامج تثبيت أحدث فوق تثبيت قائم.
 
 ## معلومات مفيدة
 

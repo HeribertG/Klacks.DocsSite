@@ -16,7 +16,7 @@ Playground är inget installationsalternativ utan en publik Klacks-instans med e
 
 ## Installation: På egen server (on-premise)
 
-On-premise-paketet innehåller allt: Docker-images, installationsprogram, databas, HTTPS och automatiska uppdateringar. Klacks laddas endast ner från [Klacks Store](https://klacks-software.ch/store/?culture=sv).
+On-premise-paketet innehåller allt: Docker-images, installationsprogram, databas, HTTPS och automatiska uppdateringar. Det här paketet finns endast i [Klacks Store](https://klacks-software.ch/store/?culture=sv).
 
 Välj vid behov din bransch i Klacks Store, ladda ner ZIP-filen för ditt land och packa upp den på målmaskinen. Välj en mapp som ligger kvar där den är (till exempel `~/klacks`): de automatiska uppdateringarna arbetar med den här mappen.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 I Windows: `install-*.ps1` istället för `install-*.sh`. Installationsprogrammet skapar lösenord och certifikat själv, laddar ner de aktuella Docker-images och väntar tills allt körs. Första inloggning med `admin@test.com` / `P@ssw0rt1` — **byt detta lösenord omedelbart efter första inloggningen.**
+
+## Kontorsdator med Windows: även i Microsoft Store
+
+För en enskild kontorsdator med Windows finns ett eget installationsprogram som fungerar utan Docker. Du hittar det i [Klacks Store](https://klacks-software.ch/store/?culture=sv) på ditt lands sida och även i [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (posten "Klacks"). Det är samma installationsprogram i båda butikerna. Från Microsoft Store tillämpar det landet som är inställt i Windows; där väljer du ingen bransch, och finns det ingen landsprofil för landet konfigurerar installationsprogrammet ingen. Server-, Docker- och Linux-installationer samt lands- och branschpaketen finns endast i Klacks Store.
+
+På kontorsdatorn kommer nya versioner via Inställningar > [Programuppdateringar](../einstellungen/system-sicherheit/updates.md) i Klacks, även när Klacks installerades från Microsoft Store. Ett nyare installationsprogram kan inte installeras ovanpå en befintlig installation.
 
 ## Bra att veta
 

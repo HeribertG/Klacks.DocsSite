@@ -27,6 +27,7 @@ sidebar_position: 4
 - Dacă verificarea de sănătate eșuează după o actualizare, Klacks revine automat la versiunea anterioară (restaurează backup-ul → activează versiunea veche → verifică din nou); doar dacă acest rollback în sine eșuează, este necesară o intervenție manuală.
 - Un rollback manual restaurează în mod țintit backup-ul aferent ultimei operații finalizate cu succes și activează versiunea de plecare a acesteia — nu pur și simplu „o versiune înapoi".
 - Actualizarea și rollback-ul sunt acțiuni exclusive pentru Admin.
+- Pe un PC de birou cu Windows, această pagină este singura cale către o versiune mai nouă, chiar și atunci când Klacks a fost instalat din Microsoft Store: un program de instalare mai nou rulat peste o instalare existentă este refuzat.
 
 ---
 *Încercați direct: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, datele sunt resetate zilnic.*

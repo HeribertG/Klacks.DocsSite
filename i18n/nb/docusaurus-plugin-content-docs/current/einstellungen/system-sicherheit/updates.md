@@ -27,6 +27,7 @@ Under Innstillinger > Oppdateringer ser du den installerte versjonen og den nyes
 - Hvis helsesjekken feiler etter en oppdatering, ruller Klacks automatisk tilbake til forrige versjon (gjenopprette sikkerhetskopi → aktivere gammel versjon → sjekke på nytt); bare hvis denne tilbakerullingen selv feiler, kreves manuell inngripen.
 - En manuell tilbakerulling gjenoppretter målrettet sikkerhetskopien som hører til den siste vellykkede operasjonen, og aktiverer utgangsversjonen for denne — ikke bare «én versjon tilbake».
 - Oppdatering og tilbakerulling er handlinger som bare kan utføres av admin.
+- På en kontor-PC med Windows er denne siden den eneste veien til en nyere versjon, også når Klacks er installert fra Microsoft Store: et nyere installasjonsprogram som kjøres over en eksisterende installasjon, avvises.
 
 ---
 *Prøv det direkte: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, data tilbakestilles daglig.*

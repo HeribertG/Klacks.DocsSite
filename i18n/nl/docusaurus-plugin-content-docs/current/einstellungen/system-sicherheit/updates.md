@@ -27,6 +27,7 @@ Onder Instellingen > Updates ziet u de momenteel geïnstalleerde en de nieuwste 
 - Als de gezondheidscontrole na een update mislukt, draait Klacks automatisch terug naar de vorige versie (back-up herstellen → oude versie activeren → opnieuw controleren); alleen wanneer deze rollback zelf mislukt, blijft handmatig ingrijpen nodig.
 - Een handmatige rollback herstelt gericht de back-up die bij de laatst geslaagde operatie hoort en activeert de bijbehorende uitgangsversie — niet zomaar "één versie terug".
 - Update en rollback zijn acties die alleen voor admins beschikbaar zijn.
+- Op een kantoor-pc met Windows is deze pagina de enige weg naar een nieuwere versie, ook als Klacks uit de Microsoft Store is geïnstalleerd: een nieuwere setup over een bestaande installatie heen wordt geweigerd.
 
 ---
 *Direct uitproberen: [Klacks Playground](https://play.klacks-software.ch) — Login `admin@test.com` / `P@ssw0rt1`, gegevens worden dagelijks teruggezet.*

@@ -27,6 +27,7 @@ sidebar_position: 4
 - 若更新後的健康檢查失敗，Klacks 會自動回復到先前版本（還原備份 → 啟用舊版本 → 再次檢查）；只有在這次回復本身失敗時，才需要人工介入。
 - 手動回復會針對性地還原最近一次成功作業所對應的備份，並啟用該作業的起始版本 — 而不是單純「退回上一版」。
 - 更新與回復僅限管理員操作。
+- 在 Windows 辦公室電腦上，即使 Klacks 是從 Microsoft Store 安裝的，此頁面也是升級到新版本的唯一途徑：在現有安裝上執行較新的安裝程式會遭到拒絕。
 
 ---
 *立即體驗：[Klacks Playground](https://play.klacks-software.ch) — 登入 `admin@test.com` / `P@ssw0rt1`，資料每日自動重置。*

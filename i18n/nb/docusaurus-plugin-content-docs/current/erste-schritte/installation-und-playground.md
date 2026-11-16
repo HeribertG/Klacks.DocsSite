@@ -16,7 +16,7 @@ Playground er ikke et installasjonsalternativ, men en offentlig Klacks-instans m
 
 ## Installasjon: På egen server (On-Premise)
 
-On-Premise-pakken har alt med seg: Docker-images, installer, database, HTTPS og automatiske oppdateringer. Klacks lastes kun ned fra [Klacks Store](https://klacks-software.ch/store/?culture=nb).
+On-Premise-pakken har alt med seg: Docker-images, installer, database, HTTPS og automatiske oppdateringer. Denne pakken finnes kun i [Klacks Store](https://klacks-software.ch/store/?culture=nb).
 
 Velg eventuelt bransjen din i Klacks Store, last ned ZIP-filen for landet ditt og pakk den ut på målmaskinen. Velg en mappe som blir værende der den er (for eksempel `~/klacks`): de automatiske oppdateringene arbeider med denne mappen.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 På Windows: `install-*.ps1` i stedet for `install-*.sh`. Installasjonsprogrammet genererer selv passord og sertifikater, laster ned de nyeste Docker-images og venter til alt kjører. Første innlogging med `admin@test.com` / `P@ssw0rt1` — **bytt dette passordet umiddelbart etter første innlogging.**
+
+## Kontor-PC med Windows: også i Microsoft Store
+
+For én enkelt kontor-PC med Windows finnes det et eget installasjonsprogram som fungerer uten Docker. Du får det i [Klacks Store](https://klacks-software.ch/store/?culture=nb) på siden for ditt land og også i [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (oppføringen «Klacks»). Det er det samme installasjonsprogrammet i begge butikkene. Fra Microsoft Store bruker det landet som er angitt i Windows; der velger du ingen bransje, og finnes det ingen landprofil for landet, setter installasjonen ikke opp noen. Server-, Docker- og Linux-installasjoner samt lande- og bransjepakkene finnes kun i Klacks Store.
+
+På kontor-PC-en kommer nye versjoner via Innstillinger > [Programvareoppdateringer](../einstellungen/system-sicherheit/updates.md) i Klacks, også når Klacks er installert fra Microsoft Store. Et nyere installasjonsprogram kan ikke installeres over en eksisterende installasjon.
 
 ## Greit å vite
 

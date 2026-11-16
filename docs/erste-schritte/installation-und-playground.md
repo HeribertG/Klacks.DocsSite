@@ -38,6 +38,12 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1 -ServerName klacks.exampl
 
 Das Länderpaket aus dem Klacks Store enthält das Profil seines Landes. Die mitgelieferten Skripte `install-*.sh` und `install-*.ps1` setzen `REGION` bzw. `-Region` bereits auf dessen Ländercode — im Paket für Deutschland zum Beispiel `install-de.sh` und `install-de.ps1`. Rufen Sie `install.sh` oder `install.ps1` direkt auf, muss `REGION` bzw. `-Region` dieser Ländercode sein; ohne ihn richtet der Installer kein Länderprofil ein.
 
+## Büro-PC mit Windows: auch im Microsoft Store
+
+Für einen einzelnen Büro-PC mit Windows gibt es ein eigenes Setup, das ohne Docker auskommt. Sie erhalten es im [Klacks Store](https://klacks-software.ch/store/?culture=de) auf der Seite Ihres Landes und auch im [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (Eintrag «Klacks»). In beiden Stores ist es dasselbe Setup. Aus dem Microsoft Store übernimmt es das in Windows eingestellte Land; eine Branche wählen Sie dort nicht, und gibt es für das Land kein Länderprofil, richtet das Setup keines ein. Server-, Docker- und Linux-Installationen sowie die Länder- und Branchenpakete gibt es nur im Klacks Store.
+
+Neue Versionen kommen auf dem Büro-PC über Einstellungen > [Software-Updates](../einstellungen/system-sicherheit/updates.md) in Klacks, auch wenn Klacks aus dem Microsoft Store stammt. Ein neueres Setup lässt sich nicht über eine bestehende Installation installieren.
+
 ## Die erste Anmeldung: Klacks verlangt Ihr eigenes Admin-Konto
 
 Ein frisch installiertes Klacks startet mit einem mitgelieferten Konto, dessen Passwort öffentlich bekannt ist: `admin@test.com` / `P@ssw0rt1`. Damit melden Sie sich **genau einmal** an — Klacks führt Sie dann unmittelbar durch die Anlage Ihres eigenen Admin-Kontos.

@@ -27,6 +27,7 @@ W sekcji Ustawienia > Aktualizacje widzą Państwo aktualnie zainstalowaną oraz
 - Jeśli kontrola stanu (health check) po aktualizacji zakończy się niepowodzeniem, Klacks automatycznie wycofuje się do poprzedniej wersji (przywrócenie kopii zapasowej → aktywacja starej wersji → ponowne sprawdzenie); tylko jeśli to wycofanie samo w sobie zawiedzie, konieczna jest ręczna interwencja.
 - Ręczne wycofanie przywraca celowo kopię zapasową należącą do ostatniej zakończonej powodzeniem operacji i aktywuje jej wersję wyjściową — nie jest to po prostu "cofnięcie o jedną wersję".
 - Aktualizacja i wycofanie zmian są akcjami dostępnymi wyłącznie dla administratora.
+- Na komputerze biurowym z systemem Windows ta strona jest jedyną drogą do nowszej wersji, także wtedy, gdy Klacks został zainstalowany z Microsoft Store: nowszy instalator uruchomiony na istniejącej instalacji zostaje odrzucony.
 
 ---
 *Wypróbuj bezpośrednio: [Klacks Playground](https://play.klacks-software.ch) — login `admin@test.com` / `P@ssw0rt1`, dane są codziennie resetowane.*

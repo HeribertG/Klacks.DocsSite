@@ -16,7 +16,7 @@ O Playground não é uma variante de instalação, mas sim uma instância públi
 
 ## Instalação: No seu próprio servidor (on-premise)
 
-O pacote on-premise traz tudo o que é necessário: imagens Docker, instalador, base de dados, HTTPS e atualizações automáticas. O Klacks só é transferido a partir do [Klacks Store](https://klacks-software.ch/store/?culture=pt).
+O pacote on-premise traz tudo o que é necessário: imagens Docker, instalador, base de dados, HTTPS e atualizações automáticas. Este pacote só está disponível no [Klacks Store](https://klacks-software.ch/store/?culture=pt).
 
 No Klacks Store, escolha o seu setor, se quiser, transfira o ZIP do seu país e extraia-o na máquina de destino. Escolha uma pasta que permaneça no mesmo local (por exemplo `~/klacks`): as atualizações automáticas funcionam com esta pasta.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 No Windows: `install-*.ps1` em vez de `install-*.sh`. O instalador gera as palavras-passe e os certificados por si próprio, transfere as imagens Docker atuais e aguarda até tudo estar a funcionar. Primeiro início de sessão com `admin@test.com` / `P@ssw0rt1` — **altere esta palavra-passe imediatamente após o primeiro login.**
+
+## PC de escritório com Windows: também na Microsoft Store
+
+Para um único PC de escritório com Windows existe um instalador próprio que funciona sem Docker. Obtém-no no [Klacks Store](https://klacks-software.ch/store/?culture=pt), na página do seu país, e também na [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (entrada "Klacks"). Nas duas lojas é o mesmo instalador. A partir da Microsoft Store, aplica o país definido no Windows; aí não escolhe um setor e, se não existir um perfil para esse país, o instalador não configura nenhum. As instalações em servidor, Docker e Linux, bem como os pacotes por país e por setor, só estão disponíveis no Klacks Store.
+
+No PC de escritório, as novas versões chegam através de Definições > [Atualizações de software](../einstellungen/system-sicherheit/updates.md) no Klacks, mesmo quando o Klacks foi instalado a partir da Microsoft Store. Um instalador mais recente não pode ser instalado sobre uma instalação existente.
 
 ## Bom saber
 

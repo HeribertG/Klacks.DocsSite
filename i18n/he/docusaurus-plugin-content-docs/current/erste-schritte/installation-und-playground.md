@@ -16,7 +16,7 @@ sidebar_position: 1
 
 ## התקנה: על השרת שלכם (On-Premise)
 
-חבילת ה-On-Premise כוללת הכול: תמונות Docker, מתקין, מסד נתונים, HTTPS ועדכונים אוטומטיים. ניתן להוריד את Klacks אך ורק מ-[Klacks Store](https://klacks-software.ch/store/?culture=he).
+חבילת ה-On-Premise כוללת הכול: תמונות Docker, מתקין, מסד נתונים, HTTPS ועדכונים אוטומטיים. חבילה זו זמינה אך ורק ב-[Klacks Store](https://klacks-software.ch/store/?culture=he).
 
 ב-Klacks Store בחרו לפי הצורך את הענף שלכם, הורידו את קובץ ה-ZIP של המדינה שלכם וחלצו אותו במחשב היעד. בחרו תיקייה שתישאר במקומה (למשל `~/klacks`): העדכונים האוטומטיים פועלים עם תיקייה זו.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 תחת Windows: `install-*.ps1` במקום `install-*.sh`. המתקין יוצר בעצמו סיסמאות ותעודות, טוען את תמונות ה-Docker העדכניות וממתין עד שהכול פועל. התחברות ראשונה עם `admin@test.com` / `P@ssw0rt1` - **שנו סיסמה זו מיד לאחר ההתחברות הראשונה.**
+
+## מחשב משרדי עם Windows: גם ב-Microsoft Store
+
+למחשב משרדי יחיד עם Windows קיימת תוכנת התקנה נפרדת שפועלת ללא Docker. ניתן לקבל אותה ב-[Klacks Store](https://klacks-software.ch/store/?culture=he) בעמוד של המדינה שלכם וגם ב-[Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (הערך "Klacks"). בשתי החנויות זו אותה תוכנת התקנה. בהתקנה מ-Microsoft Store היא מחילה את המדינה שמוגדרת ב-Windows; שם אינכם בוחרים ענף, ואם אין פרופיל למדינה זו, ההתקנה אינה מגדירה פרופיל. התקנות על שרת, ב-Docker וב-Linux, וכן חבילות המדינות והענפים, זמינות רק ב-Klacks Store.
+
+במחשב המשרדי גרסאות חדשות מגיעות דרך הגדרות > [עדכוני תוכנה](../einstellungen/system-sicherheit/updates.md) ב-Klacks, גם אם Klacks הותקן מ-Microsoft Store. לא ניתן להתקין תוכנת התקנה חדשה יותר מעל התקנה קיימת.
 
 ## כדאי לדעת
 

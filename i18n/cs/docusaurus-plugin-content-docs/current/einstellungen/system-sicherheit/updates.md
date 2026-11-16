@@ -27,6 +27,7 @@ V části Nastavení > Aktualizace vidíte aktuálně nainstalovanou a nejnověj
 - Pokud po aktualizaci selže kontrola stavu, Klacks automaticky provede rollback na předchozí verzi (obnovení zálohy → aktivace staré verze → opětovná kontrola); pouze pokud tento rollback samotný selže, je nutný ruční zásah.
 - Ruční rollback cíleně obnoví zálohu patřící k poslední úspěšné operaci a aktivuje její výchozí verzi — nejde jednoduše o „vrácení o verzi zpět".
 - Aktualizace a rollback jsou akce vyhrazené pouze pro administrátory.
+- Na kancelářském počítači s Windows je tato stránka jedinou cestou k novější verzi, i když byl Klacks nainstalován z Microsoft Store: novější instalátor spuštěný přes stávající instalaci je odmítnut.
 
 ---
 *Vyzkoušejte přímo: [Klacks Playground](https://play.klacks-software.ch) — přihlášení `admin@test.com` / `P@ssw0rt1`, data se denně resetují.*

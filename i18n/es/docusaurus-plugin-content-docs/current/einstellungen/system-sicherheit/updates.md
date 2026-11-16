@@ -27,6 +27,7 @@ En Configuración > Actualizaciones se ve la versión de Klacks instalada actual
 - Si la comprobación de estado falla tras una actualización, Klacks revierte automáticamente a la versión anterior (restaurar copia de seguridad → activar versión anterior → volver a comprobar); solo si esta reversión falla por sí misma es necesaria una intervención manual.
 - Una reversión manual restaura específicamente la copia de seguridad correspondiente a la última operación exitosa y activa su versión de origen — no simplemente "una versión hacia atrás".
 - Actualizar y revertir son acciones exclusivas para administradores.
+- En un PC de oficina con Windows, esta página es la única vía hacia una versión más reciente, también cuando Klacks se instaló desde Microsoft Store: un instalador más reciente ejecutado sobre una instalación existente se rechaza.
 
 ---
 *Pruébelo directamente: [Klacks Playground](https://play.klacks-software.ch) — inicio de sesión `admin@test.com` / `P@ssw0rt1`, los datos se restablecen diariamente.*

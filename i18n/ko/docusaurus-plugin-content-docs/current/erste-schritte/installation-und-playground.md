@@ -16,7 +16,7 @@ Playground는 설치 방식이 아니라, 부담 없이 마음껏 써볼 수 있
 
 ## 설치: 자체 서버에서 (온프레미스)
 
-온프레미스 패키지에는 필요한 모든 것이 포함되어 있습니다: Docker 이미지, 설치 프로그램, 데이터베이스, HTTPS, 자동 업데이트. Klacks는 [Klacks Store](https://klacks-software.ch/store/?culture=ko)에서만 다운로드할 수 있습니다.
+온프레미스 패키지에는 필요한 모든 것이 포함되어 있습니다: Docker 이미지, 설치 프로그램, 데이터베이스, HTTPS, 자동 업데이트. 이 패키지는 [Klacks Store](https://klacks-software.ch/store/?culture=ko)에서만 받을 수 있습니다.
 
 Klacks Store에서 원하면 업종을 선택하고, 귀사 국가용 ZIP을 다운로드하여 대상 컴퓨터에서 압축을 해제합니다. 위치가 바뀌지 않는 폴더(예: `~/klacks`)를 선택하세요. 자동 업데이트는 이 폴더를 기준으로 작동합니다.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Windows에서는 `install-*.sh` 대신 `install-*.ps1`을 사용합니다. 설치 프로그램이 비밀번호와 인증서를 자체적으로 생성하고, 최신 Docker 이미지를 내려받은 뒤, 모든 것이 정상적으로 실행될 때까지 대기합니다. 최초 로그인은 `admin@test.com` / `P@ssw0rt1`이며, **첫 로그인 직후 이 비밀번호를 반드시 변경하십시오.**
+
+## Windows 사무용 PC: Microsoft Store에서도 제공
+
+Windows 사무용 PC 한 대를 위해 Docker 없이 동작하는 별도의 설치 프로그램이 있습니다. [Klacks Store](https://klacks-software.ch/store/?culture=ko)의 해당 국가 페이지와 [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26)('Klacks' 항목)에서 받을 수 있습니다. 두 스토어의 설치 프로그램은 동일합니다. Microsoft Store에서 설치하면 Windows에 설정된 국가가 적용됩니다. 그곳에서는 업종을 선택하지 않으며, 해당 국가의 국가 프로필이 없으면 설치 프로그램은 프로필을 설정하지 않습니다. 서버, Docker, Linux 설치와 국가별·업종별 패키지는 Klacks Store에서만 제공됩니다.
+
+사무용 PC에서 새 버전은 Klacks의 설정 > [소프트웨어 업데이트](../einstellungen/system-sicherheit/updates.md)를 통해 받습니다. Klacks를 Microsoft Store에서 설치한 경우에도 마찬가지입니다. 기존 설치 위에 더 새로운 설치 프로그램을 설치할 수는 없습니다.
 
 ## 알아두면 좋은 점
 

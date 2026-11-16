@@ -16,7 +16,7 @@ Playground bukan varian instalasi, melainkan instance Klacks publik dengan data 
 
 ## Instalasi: di server sendiri (On-Premise)
 
-Paket On-Premise membawa semua yang dibutuhkan: image Docker, installer, database, HTTPS, dan pembaruan otomatis. Klacks hanya dapat diunduh dari [Klacks Store](https://klacks-software.ch/store/?culture=id).
+Paket On-Premise membawa semua yang dibutuhkan: image Docker, installer, database, HTTPS, dan pembaruan otomatis. Paket ini hanya tersedia di [Klacks Store](https://klacks-software.ch/store/?culture=id).
 
 Di Klacks Store, pilih industri Anda jika diinginkan, unduh ZIP untuk negara Anda, lalu ekstrak di mesin tujuan. Pilih folder yang lokasinya tidak berubah (misalnya `~/klacks`): pembaruan otomatis bekerja dengan folder ini.
 
@@ -25,6 +25,12 @@ unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.
 ```
 
 Di Windows: gunakan `install-*.ps1` bukan `install-*.sh`. Installer akan membuat kata sandi dan sertifikat sendiri, mengunduh image Docker terbaru, dan menunggu hingga semuanya berjalan. Login pertama dengan `admin@test.com` / `P@ssw0rt1` — **segera ubah kata sandi ini setelah login pertama.**
+
+## PC kantor dengan Windows: juga di Microsoft Store
+
+Untuk satu PC kantor dengan Windows tersedia setup tersendiri yang berjalan tanpa Docker. Anda mendapatkannya di [Klacks Store](https://klacks-software.ch/store/?culture=id) pada halaman negara Anda dan juga di [Microsoft Store](https://apps.microsoft.com/store/detail/XPFFW8HDX0KX26) (entri "Klacks"). Di kedua toko, setup-nya sama. Dari Microsoft Store, setup menerapkan negara yang diatur di Windows; di sana Anda tidak memilih bidang usaha, dan jika tidak ada profil negara untuk negara tersebut, setup tidak menyiapkan profil apa pun. Instalasi server, Docker, dan Linux serta paket negara dan bidang usaha hanya tersedia di Klacks Store.
+
+Di PC kantor, versi baru datang melalui Pengaturan > [Pembaruan perangkat lunak](../einstellungen/system-sicherheit/updates.md) di Klacks, juga jika Klacks diinstal dari Microsoft Store. Setup yang lebih baru tidak dapat diinstal di atas instalasi yang sudah ada.
 
 ## Yang perlu diketahui
 
