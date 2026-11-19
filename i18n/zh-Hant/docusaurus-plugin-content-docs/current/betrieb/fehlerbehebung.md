@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | 您的架構沒有對應的映像檔 | 開發商必須以多架構方式發布映像檔（amd64 **與** arm64） |
 | `pull access denied` | 套件登錄庫中的套件是私有的 | 帶著存取憑證重新安裝：Windows 使用 `-GhcrUser`／`-GhcrToken`，Linux 使用 `GHCR_USER`／`GHCR_TOKEN` |
-| `errorCode: SETUP_REQUIRED`，HTTP `403` | 管理員設定關卡已啟用 | 以 `admin@test.com` 登入並建立您自己的管理員帳號 — 請見[安裝與 Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`，HTTP `403` | 管理員設定關卡已啟用：您自己的管理員帳戶尚不存在 | 在瀏覽器中開啟 Klacks 並建立您自己的管理員帳戶，在伺服器上需使用設定代碼（安裝程式的輸出，在 `.env` 中為 `KLACKS_SETUP_CODE`） — 請見[安裝與 Playground](../../erste-schritte/installation-und-playground/) |
 | 容器結束，沒有受控堆疊追蹤，結束代碼為 `-1`（`0xffffffff`） | C/C++ 函式庫中發生**原生**當機，任何 C# `try/catch` 都攔截不到 | 查看容器在 **stderr** 的輸出 — 真正的起因在那裡，而不是在應用程式日誌中 |
 | 容器被終止，但日誌中沒有任何應用程式錯誤 | 核心因記憶體不足而終止了程序（OOM） | 檢查記憶體上限 — 請見[系統需求與架構](../systemvoraussetzungen/) |
 | 更新失敗後出現 `42P07: relation "…" already exists` | 遷移建立了資料表，而還原並未將其移除 | 請見[備份與還原](../backup-und-wiederherstellung/)中的常見陷阱 |

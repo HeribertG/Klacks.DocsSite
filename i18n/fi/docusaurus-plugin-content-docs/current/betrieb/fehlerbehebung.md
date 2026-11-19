@@ -33,7 +33,7 @@ Jos koko pysyy samana (kasvu 0 tavua), prosessi ei enää kirjoita — se ei ole
 |---|---|---|
 | `no matching manifest for linux/amd64` | Imagea ei ole arkkitehtuurillenne | Valmistajan on julkaistava image usealle arkkitehtuurille (amd64 **ja** arm64) |
 | `pull access denied` | Pakettiarkiston paketti on yksityinen | Toistakaa asennus tunnuksilla: `-GhcrUser`/`-GhcrToken` Windowsissa, `GHCR_USER`/`GHCR_TOKEN` Linuxissa |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Adminin asennusportti on aktiivinen | Kirjautukaa tunnuksella `admin@test.com` ja luokaa oma Admin-tili — katso [Asennus ja Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Adminin asennusportti on aktiivinen: oma Admin-tili puuttuu vielä | Avatkaa Klacks selaimessa ja luokaa oma Admin-tili, palvelimella asennuskoodilla (asennusohjelman tuloste, `.env`-tiedostossa nimellä `KLACKS_SETUP_CODE`) — katso [Asennus ja Playground](../../erste-schritte/installation-und-playground/) |
 | Kontti päättyy ilman managed-stacktracea poistumiskoodilla `-1` (`0xffffffff`) | **Natiivi** kaatuminen C/C++-kirjastossa, jota mikään C#-`try/catch` ei voi napata | Katsokaa kontin tulostetta **stderr**-kanavalla — varsinainen laukaisija on siellä, ei sovelluslokissa |
 | Kontti päättyy, vaikka lokissa ei ole sovellusvirhettä | Ydin on päättänyt prosessin muistin loppumisen vuoksi (OOM) | Tarkistakaa muistirajat — katso [Järjestelmävaatimukset](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` epäonnistuneen päivityksen jälkeen | Migraatio on luonut tauluja, joita palautus ei poistanut | Katso kompastuskivi kohdassa [Varmuuskopiointi ja palautus](../backup-und-wiederherstellung/) |

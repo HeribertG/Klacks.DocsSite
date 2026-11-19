@@ -33,7 +33,7 @@ Forbliver størrelsen den samme (tilvækst 0 byte), skriver processen ikke læng
 |---|---|---|
 | `no matching manifest for linux/amd64` | Imaget findes ikke til din arkitektur | Producenten skal udgive imaget til flere arkitekturer (amd64 **og** arm64) |
 | `pull access denied` | Pakken i pakkearkivet er privat | Gentag installationen med adgangsdata: `-GhcrUser`/`-GhcrToken` under Windows, `GHCR_USER`/`GHCR_TOKEN` under Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-setup-gaten er aktiv | Log ind med `admin@test.com`, og opret din egen admin-konto — se [Installation og Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-setup-gaten er aktiv: din egen admin-konto mangler endnu | Åbn Klacks i browseren, og opret din egen admin-konto, på en server med opsætningskoden (installerens output, i `.env` som `KLACKS_SETUP_CODE`) — se [Installation og Playground](../../erste-schritte/installation-und-playground/) |
 | Containeren afsluttes uden managed stacktrace med exitkode `-1` (`0xffffffff`) | Et **nativt** nedbrud i et C/C++-bibliotek, som ingen C#-`try/catch` kan fange | Se containerens output på **stderr** — dér står den egentlige årsag, ikke i applikationsloggen |
 | Containeren afsluttes, selvom der ikke står nogen applikationsfejl i loggen | Kernen har afsluttet processen på grund af hukommelsesmangel (OOM) | Kontroller hukommelsesgrænserne — se [Systemkrav](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` efter en mislykket opdatering | En migration har oprettet tabeller, som gendannelsen ikke fjernede | Se faldgruben under [Backup og gendannelse](../backup-und-wiederherstellung/) |

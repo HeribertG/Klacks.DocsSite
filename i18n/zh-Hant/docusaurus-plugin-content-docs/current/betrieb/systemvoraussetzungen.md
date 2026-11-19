@@ -22,7 +22,7 @@ On-Premise 套件只啟動運行所需的內容：
 ## 主機需要具備什麼
 
 - 至少 **8 GB RAM 與 4 vCPU**（請見下方的計算）。
-- Docker Desktop（Windows／macOS）或具備 Compose v2 的 Docker Engine（Linux），**amd64 或 arm64**。
+- Docker Desktop（Windows）或具備 Compose v2 的 Docker Engine（Linux），**amd64 或 arm64**。
 - 空閒的連接埠 **80 與 443** — 可透過 `HTTP_PORT` 與 `HTTPS_PORT` 覆寫。
 - **對外**的 HTTPS 連線至 `ghcr.io`（映像檔）與 `github.com`（已簽署的更新資訊清單）。
 - 選用：連線至 `klacks-software.ch:7553`，以便從市集取得國家套件與語言外掛。
@@ -66,7 +66,7 @@ KLACKS_API_CPU_LIMIT=1.5
 - **`COMPOSE_PROJECT_NAME=klacks`** 是寫死的，讓主機與更新服務無論資料夾名稱為何，都指向同一個 Compose 專案。安裝後請勿再更改。
 - **`KnowledgeIndex__WarmupEnabled=false` 不是節省記憶體的選項。** 它只是把搜尋的建置從啟動階段延後到第一次聊天請求；在持續運作中，這些工作階段同樣會常駐。只有在主機於啟動時因記憶體不足而失敗時才有用。
 - **不只一個 API 執行個體？** 那麼您需要 SignalR 背板。Klacks 並未隨附：請自行提供一個與 RESP 相容的服務（例如 Valkey — 自 7.4 起採用 BSD-3 授權，與 Redis 不同），並啟用 nginx 範本中預先準備好的黏著上游（`ip_hash`）。沒有背板時，只會運行一個 `klacks-api` 執行個體，就像目前所有的安裝一樣。
-- **國家設定檔：** 安裝程式支援 30 種設定檔：`ae`、`at`、`ch`、`cn`、`cz`、`de`、`dk`、`es`、`fi`、`fr`、`gb`、`gr`、`id`、`il`、`it`、`jp`、`kr`、`li`、`my`、`nl`、`no`、`pl`、`pt`、`ro`、`sa`、`se`、`th`、`tw`、`us`、`vn`。設定檔會在首次啟動時設定語言、國家／地區與時區、假日日曆、週末與每週起始日、工時上限、休假額度、加給、預設的薪資匯出目標系統（例如瑞士為 `abaconnect-ch`），以及產業範本 — 例如 Spitex 的排班規則範本「CH Spitex Standard」。沒有設定檔時，Klacks 以中性狀態啟動，所有項目都需由您手動設定。
+- **國家設定檔：** 安裝程式支援 32 種設定檔：`ae`、`at`、`be`、`ch`、`cn`、`cz`、`de`、`dk`、`es`、`fi`、`fr`、`gb`、`gr`、`id`、`ie`、`il`、`it`、`jp`、`kr`、`li`、`my`、`nl`、`no`、`pl`、`pt`、`ro`、`sa`、`se`、`th`、`tw`、`us`、`vn`。設定檔會在首次啟動時設定語言、國家／地區與時區、假日日曆、週末與每週起始日、工時上限、休假額度、加給、預設的薪資匯出目標系統（例如瑞士為 `abaconnect-ch`），以及產業範本 — 例如 Spitex 的排班規則範本「CH Spitex Standard」。沒有設定檔時，Klacks 以中性狀態啟動，所有項目都需由您手動設定。
 
 ---
 

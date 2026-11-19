@@ -33,7 +33,7 @@ Nếu kích thước giữ nguyên (tăng 0 byte), tiến trình không còn ghi
 |---|---|---|
 | `no matching manifest for linux/amd64` | Image không có cho kiến trúc của bạn | Nhà sản xuất phải phát hành image đa kiến trúc (amd64 **và** arm64) |
 | `pull access denied` | Gói trong kho gói ở chế độ riêng tư | Cài đặt lại kèm thông tin đăng nhập: `-GhcrUser`/`-GhcrToken` trên Windows, `GHCR_USER`/`GHCR_TOKEN` trên Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Cổng thiết lập Admin đang hoạt động | Đăng nhập bằng `admin@test.com` và tạo tài khoản Admin của riêng bạn — xem [Cài đặt và Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Cổng thiết lập Admin đang hoạt động: tài khoản Admin của riêng bạn vẫn chưa có | Mở Klacks trong trình duyệt và tạo tài khoản Admin của riêng bạn, trên máy chủ thì dùng mã thiết lập (kết quả đầu ra của trình cài đặt, trong `.env` là `KLACKS_SETUP_CODE`) — xem [Cài đặt và Playground](../../erste-schritte/installation-und-playground/) |
 | Container kết thúc mà không có managed stack trace với mã thoát `-1` (`0xffffffff`) | Một sự cố **native** trong thư viện C/C++ mà không `try/catch` C# nào bắt được | Xem đầu ra của container trên **stderr** — nguyên nhân thật nằm ở đó, không phải trong nhật ký ứng dụng |
 | Container bị kết thúc dù trong nhật ký không có lỗi ứng dụng nào | Kernel đã dừng tiến trình do thiếu bộ nhớ (OOM) | Kiểm tra giới hạn bộ nhớ — xem [Yêu cầu hệ thống](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` sau một bản cập nhật thất bại | Một migration đã tạo các bảng mà việc khôi phục không xóa đi | Xem cái bẫy tại [Sao lưu và khôi phục](../backup-und-wiederherstellung/) |

@@ -33,7 +33,7 @@ Jika saiznya kekal sama (pertambahan 0 bait), proses itu tidak lagi menulis — 
 |---|---|---|
 | `no matching manifest for linux/amd64` | Imej itu tidak wujud untuk seni bina anda | Pengeluar mesti menerbitkan imej itu untuk pelbagai seni bina (amd64 **dan** arm64) |
 | `pull access denied` | Pakej dalam arkib pakej bersifat peribadi | Ulangi pemasangan dengan bukti kelayakan akses: `-GhcrUser`/`-GhcrToken` pada Windows, `GHCR_USER`/`GHCR_TOKEN` pada Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Gerbang persediaan Admin aktif | Log masuk dengan `admin@test.com` dan cipta akaun Admin anda sendiri — lihat [Pemasangan dan Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Gerbang persediaan Admin aktif: akaun Admin anda sendiri belum ada | Buka Klacks dalam pelayar dan cipta akaun Admin anda sendiri; pada pelayan dengan kod persediaan (output pemasang, dalam `.env` sebagai `KLACKS_SETUP_CODE`) — lihat [Pemasangan dan Playground](../../erste-schritte/installation-und-playground/) |
 | Bekas tamat tanpa stack trace terurus dengan kod keluar `-1` (`0xffffffff`) | Ranap **natif** dalam pustaka C/C++ yang tidak dapat ditangkap oleh `try/catch` C# | Lihat output bekas pada **stderr** — di sanalah pencetus sebenar, bukan dalam log aplikasi |
 | Bekas ditamatkan walaupun tiada ralat aplikasi dalam log | Kernel menamatkan proses kerana kekurangan memori (OOM) | Semak had memori — lihat [Keperluan Sistem](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` selepas kemas kini yang gagal | Migrasi mencipta jadual yang tidak dibuang oleh pemulihan | Lihat perangkap di bawah [Sandaran dan Pemulihan](../backup-und-wiederherstellung/) |

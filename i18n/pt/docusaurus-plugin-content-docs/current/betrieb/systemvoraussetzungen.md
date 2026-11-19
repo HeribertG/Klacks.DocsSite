@@ -22,7 +22,7 @@ Os serviços internos do fabricante (base de conhecimento de desenvolvimento, ma
 ## O que o host tem de oferecer
 
 - **8 GB de RAM e 4 vCPU** como mínimo (veja o cálculo abaixo).
-- Docker Desktop (Windows/macOS) ou Docker Engine com Compose v2 (Linux), **amd64 ou arm64**.
+- Docker Desktop (Windows) ou Docker Engine com Compose v2 (Linux), **amd64 ou arm64**.
 - Portas livres **80 e 443** — substituíveis através de `HTTP_PORT` e `HTTPS_PORT`.
 - Acesso HTTPS **de saída** a `ghcr.io` (imagens) e `github.com` (manifesto de atualização assinado).
 - Opcional: acesso a `klacks-software.ch:7553` para pacotes de país e plugins de idioma do marketplace.
@@ -66,7 +66,7 @@ As quotas de CPU do stack somam propositadamente 4,75 com 4 vCPU: uma quota é u
 - **`COMPOSE_PROJECT_NAME=klacks`** está fixado de forma rígida, para que o host e o serviço de atualização apontem para o mesmo projeto Compose, independentemente do nome da pasta. Não o altere após a instalação.
 - **`KnowledgeIndex__WarmupEnabled=false` não é uma opção de memória.** Apenas desloca a construção da pesquisa do arranque para o primeiro pedido de chat; em funcionamento contínuo, as sessões estão igualmente presentes. Só é útil se o host falhar por memória no arranque.
 - **Mais do que uma instância de API?** Nesse caso, precisa de um backplane SignalR. O Klacks não fornece nenhum: disponibilize por si um serviço compatível com RESP (por exemplo, o Valkey — licenciado sob BSD-3 desde a versão 7.4, ao contrário do Redis) e ative o upstream sticky (`ip_hash`) preparado no modelo do nginx. Sem backplane, corre exatamente uma instância do `klacks-api`, como em qualquer instalação atual.
-- **Perfis de país:** o instalador conhece 30 perfis: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Um perfil define, no primeiro arranque, o idioma, o país/região e o fuso horário, o calendário de feriados, o fim de semana e o início da semana, os limites do tempo de trabalho, o direito a férias, os suplementos, o sistema de destino predefinido da exportação salarial (para a Suíça, por exemplo, `abaconnect-ch`), bem como modelos setoriais — para a Spitex, por exemplo, o modelo de regras de planeamento «CH Spitex Standard». Sem perfil, o Klacks arranca de forma neutra e configura tudo manualmente.
+- **Perfis de país:** o instalador conhece 32 perfis: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Um perfil define, no primeiro arranque, o idioma, o país/região e o fuso horário, o calendário de feriados, o fim de semana e o início da semana, os limites do tempo de trabalho, o direito a férias, os suplementos, o sistema de destino predefinido da exportação salarial (para a Suíça, por exemplo, `abaconnect-ch`), bem como modelos setoriais — para a Spitex, por exemplo, o modelo de regras de planeamento «CH Spitex Standard». Sem perfil, o Klacks arranca de forma neutra e configura tudo manualmente.
 
 ---
 

@@ -23,7 +23,7 @@ Interní služby výrobce (vývojové úložiště znalostí, marketing, tržiš
 ## Co musí hostitel splňovat
 
 - **8 GB RAM a 4 vCPU** jako minimum (viz výpočet níže).
-- Docker Desktop (Windows/macOS) nebo Docker Engine s Compose v2 (Linux), **amd64 nebo arm64**.
+- Docker Desktop (Windows) nebo Docker Engine s Compose v2 (Linux), **amd64 nebo arm64**.
 - Volné porty **80 a 443** — lze přepsat pomocí `HTTP_PORT` a `HTTPS_PORT`.
 - **Odchozí** přístup HTTPS na `ghcr.io` (images) a `github.com` (podepsaný manifest aktualizací).
 - Volitelně: přístup na `klacks-software.ch:7553` pro balíčky zemí a jazykové pluginy z tržiště.
@@ -67,7 +67,7 @@ Kvóty CPU stacku se záměrně sčítají na 4,75 při 4 vCPU: kvóta je horní
 - **`COMPOSE_PROJECT_NAME=klacks`** je pevně zadrátováno, aby hostitel a aktualizační služba ukazovaly nezávisle na názvu složky na stejný projekt Compose. Po instalaci už neměňte.
 - **`KnowledgeIndex__WarmupEnabled=false` není volba pro úsporu paměti.** Pouze přesune sestavení vyhledávání ze startu do prvního dotazu v chatu; v trvalém provozu jsou relace přítomny stejně. Užitečné jen tehdy, když hostitel při startu selhává na paměti.
 - **Více než jedna instance API?** Pak potřebujete SignalR backplane. Klacks žádný nedodává: zprovozněte si sami službu kompatibilní s RESP (například Valkey — od verze 7.4 pod licencí BSD-3, na rozdíl od Redis) a odblokujte sticky upstream (`ip_hash`) připravený v šabloně nginx. Bez backplane běží přesně jedna instance `klacks-api`, jako u každé dnešní instalace.
-- **Profily zemí:** Instalátor zná 30 profilů: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Profil při prvním startu nastaví jazyk, zemi/region a časové pásmo, kalendář svátků, víkend a začátek týdne, limity pracovní doby, nárok na dovolenou, příplatky, výchozí cílový systém mzdového exportu (pro Švýcarsko například `abaconnect-ch`) a oborové šablony — pro Spitex například šablonu plánovacího pravidla „CH Spitex Standard". Bez profilu Klacks startuje neutrálně a vše nastavujete ručně.
+- **Profily zemí:** Instalátor zná 32 profilů: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Profil při prvním startu nastaví jazyk, zemi/region a časové pásmo, kalendář svátků, víkend a začátek týdne, limity pracovní doby, nárok na dovolenou, příplatky, výchozí cílový systém mzdového exportu (pro Švýcarsko například `abaconnect-ch`) a oborové šablony — pro Spitex například šablonu plánovacího pravidla „CH Spitex Standard". Bez profilu Klacks startuje neutrálně a vše nastavujete ručně.
 
 ---
 

@@ -33,7 +33,7 @@ Förblir storleken densamma (tillväxt 0 byte) skriver processen inte längre �
 |---|---|---|
 | `no matching manifest for linux/amd64` | Imagen finns inte för din arkitektur | Tillverkaren måste publicera imagen för flera arkitekturer (amd64 **och** arm64) |
 | `pull access denied` | Paketet i paketarkivet är privat | Upprepa installationen med inloggningsuppgifter: `-GhcrUser`/`-GhcrToken` under Windows, `GHCR_USER`/`GHCR_TOKEN` under Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-setup-gaten är aktiv | Logga in med `admin@test.com` och skapa ditt eget adminkonto — se [Installation och Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-setup-gaten är aktiv: ditt eget adminkonto saknas ännu | Öppna Klacks i webbläsaren och skapa ditt eget adminkonto, på en server med installationskoden (installationsprogrammets utskrift, i `.env` som `KLACKS_SETUP_CODE`) — se [Installation och Playground](../../erste-schritte/installation-und-playground/) |
 | Containern avslutas utan managed stacktrace med exitkod `-1` (`0xffffffff`) | En **nativ** krasch i ett C/C++-bibliotek som ingen C#-`try/catch` kan fånga | Titta på containerns utdata på **stderr** — där står den egentliga orsaken, inte i applikationsloggen |
 | Containern avslutas fast inget applikationsfel står i loggen | Kärnan avslutade processen på grund av minnesbrist (OOM) | Kontrollera minnesgränserna — se [Systemkrav](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` efter en misslyckad uppdatering | En migrering skapade tabeller som återställningen inte tog bort | Se fallgropen under [Säkerhetskopiering och återställning](../backup-und-wiederherstellung/) |

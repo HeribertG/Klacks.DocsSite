@@ -22,7 +22,7 @@ Interne diensten van de fabrikant (ontwikkelkennisbank, marketing, marktplaats, 
 ## Wat de host moet meebrengen
 
 - **8 GB RAM en 4 vCPU** als minimum (zie de berekening hieronder).
-- Docker Desktop (Windows/macOS) of Docker Engine met Compose v2 (Linux), **amd64 of arm64**.
+- Docker Desktop (Windows) of Docker Engine met Compose v2 (Linux), **amd64 of arm64**.
 - Vrije poorten **80 en 443** — te overschrijven via `HTTP_PORT` en `HTTPS_PORT`.
 - **Uitgaande** HTTPS-toegang tot `ghcr.io` (images) en `github.com` (ondertekend updatemanifest).
 - Optioneel: toegang tot `klacks-software.ch:7553` voor landenpakketten en taalplugins uit de marktplaats.
@@ -66,7 +66,7 @@ De CPU-quota van de stack tellen bewust op tot 4,75 bij 4 vCPU: een quotum is ee
 - **`COMPOSE_PROJECT_NAME=klacks`** is vast ingesteld, zodat host en updateservice ongeacht de mapnaam naar hetzelfde Compose-project wijzen. Na de installatie niet meer wijzigen.
 - **`KnowledgeIndex__WarmupEnabled=false` is geen geheugenoptie.** Het verschuift alleen de opbouw van de zoekfunctie van de start naar de eerste chatvraag; in continu gebruik zijn de sessies even aanwezig. Alleen nuttig als de host bij de start op geheugen strandt.
 - **Meer dan één API-instantie?** Dan hebt u een SignalR-backplane nodig. Klacks levert er geen mee: zet zelf een RESP-compatibele service neer (bijvoorbeeld Valkey — sinds 7.4 onder BSD-3 gelicentieerd, anders dan Redis) en schakel de in het nginx-sjabloon voorbereide sticky-upstream (`ip_hash`) in. Zonder backplane draait precies één `klacks-api`-instantie, zoals bij elke huidige installatie.
-- **Landenprofielen:** De installer kent 30 profielen: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Een profiel stelt bij de eerste start taal, land/regio en tijdzone, feestdagenkalender, weekend en begin van de week, arbeidstijdgrenzen, vakantierecht, toeslagen, het standaarddoelsysteem voor de loonexport (voor Zwitserland bijvoorbeeld `abaconnect-ch`) en branchesjablonen in — voor de thuiszorg bijvoorbeeld het planningsregelsjabloon „CH Spitex Standard". Zonder profiel start Klacks neutraal en configureert u alles met de hand.
+- **Landenprofielen:** De installer kent 32 profielen: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Een profiel stelt bij de eerste start taal, land/regio en tijdzone, feestdagenkalender, weekend en begin van de week, arbeidstijdgrenzen, vakantierecht, toeslagen, het standaarddoelsysteem voor de loonexport (voor Zwitserland bijvoorbeeld `abaconnect-ch`) en branchesjablonen in — voor de thuiszorg bijvoorbeeld het planningsregelsjabloon „CH Spitex Standard". Zonder profiel start Klacks neutraal en configureert u alles met de hand.
 
 ---
 

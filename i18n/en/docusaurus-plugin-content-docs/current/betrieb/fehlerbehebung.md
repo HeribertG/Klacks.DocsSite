@@ -33,7 +33,7 @@ If the size stays the same (growth of 0 bytes), the process is no longer writing
 |---|---|---|
 | `no matching manifest for linux/amd64` | The image does not exist for your architecture | The manufacturer has to publish the image for multiple architectures (amd64 **and** arm64) |
 | `pull access denied` | The package in the package registry is private | Repeat the installation with credentials: `-GhcrUser`/`-GhcrToken` on Windows, `GHCR_USER`/`GHCR_TOKEN` on Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | The admin setup gate is active | Log in with `admin@test.com` and create your own admin account — see [Installation and Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | The admin setup gate is active: your own admin account is still missing | Open Klacks in the browser and create your own admin account, on a server with the setup code (output of the installer, in `.env` as `KLACKS_SETUP_CODE`) — see [Installation and Playground](../../erste-schritte/installation-und-playground/) |
 | Container ends without a managed stack trace with exit code `-1` (`0xffffffff`) | A **native** crash in a C/C++ library that no C# `try/catch` can catch | Look at the container's output on **stderr** — the actual trigger is there, not in the application log |
 | Container is terminated although there is no application error in the log | The kernel killed the process because of a lack of memory (OOM) | Check the memory limits — see [System Requirements](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` after a failed update | A migration created tables that the restore did not remove | See the stumbling block under [Backup and Restore](../backup-und-wiederherstellung/) |

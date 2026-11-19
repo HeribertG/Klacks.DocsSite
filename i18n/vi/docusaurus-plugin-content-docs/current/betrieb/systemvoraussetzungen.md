@@ -22,7 +22,7 @@ Các dịch vụ nội bộ của nhà sản xuất (kho tri thức phát triể
 ## Máy chủ cần đáp ứng những gì
 
 - **8 GB RAM và 4 vCPU** là mức tối thiểu (xem phép tính bên dưới).
-- Docker Desktop (Windows/macOS) hoặc Docker Engine với Compose v2 (Linux), **amd64 hoặc arm64**.
+- Docker Desktop (Windows) hoặc Docker Engine với Compose v2 (Linux), **amd64 hoặc arm64**.
 - Các cổng **80 và 443** còn trống — có thể ghi đè qua `HTTP_PORT` và `HTTPS_PORT`.
 - Truy cập HTTPS **đi ra** tới `ghcr.io` (image) và `github.com` (manifest cập nhật có chữ ký).
 - Tùy chọn: truy cập `klacks-software.ch:7553` để lấy gói quốc gia và plugin ngôn ngữ từ marketplace.
@@ -66,7 +66,7 @@ Hạn mức CPU của stack được cố ý cộng lại thành 4,75 với 4 vC
 - **`COMPOSE_PROJECT_NAME=klacks`** được ghi cứng để máy chủ và dịch vụ cập nhật cùng trỏ đến một dự án Compose, bất kể tên thư mục. Không thay đổi nữa sau khi cài đặt.
 - **`KnowledgeIndex__WarmupEnabled=false` không phải là tùy chọn về bộ nhớ.** Nó chỉ dời việc xây dựng chỉ mục tìm kiếm từ lúc khởi động sang yêu cầu chat đầu tiên; khi vận hành liên tục, các phiên vẫn hiện diện như nhau. Chỉ hữu ích nếu máy chủ bị thiếu bộ nhớ lúc khởi động.
 - **Có nhiều hơn một instance API?** Khi đó bạn cần một SignalR backplane. Klacks không kèm sẵn: hãy tự triển khai một dịch vụ tương thích RESP (ví dụ Valkey — được cấp phép BSD-3 từ phiên bản 7.4, khác với Redis) và bật sticky upstream (`ip_hash`) đã được chuẩn bị sẵn trong mẫu nginx. Không có backplane thì chỉ chạy đúng một instance `klacks-api`, như mọi bản cài đặt hiện nay.
-- **Hồ sơ quốc gia:** Trình cài đặt biết 30 hồ sơ: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Một hồ sơ đặt ở lần khởi động đầu tiên ngôn ngữ, quốc gia/vùng và múi giờ, lịch ngày lễ, cuối tuần và ngày bắt đầu tuần, giới hạn thời gian làm việc, quyền lợi nghỉ phép, phụ cấp, hệ thống đích xuất lương mặc định (với Thụy Sĩ chẳng hạn là `abaconnect-ch`) cùng các mẫu theo ngành — với Spitex chẳng hạn là mẫu quy tắc lập kế hoạch "CH Spitex Standard". Không có hồ sơ, Klacks khởi động ở trạng thái trung tính và bạn tự cấu hình mọi thứ bằng tay.
+- **Hồ sơ quốc gia:** Trình cài đặt biết 32 hồ sơ: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Một hồ sơ đặt ở lần khởi động đầu tiên ngôn ngữ, quốc gia/vùng và múi giờ, lịch ngày lễ, cuối tuần và ngày bắt đầu tuần, giới hạn thời gian làm việc, quyền lợi nghỉ phép, phụ cấp, hệ thống đích xuất lương mặc định (với Thụy Sĩ chẳng hạn là `abaconnect-ch`) cùng các mẫu theo ngành — với Spitex chẳng hạn là mẫu quy tắc lập kế hoạch "CH Spitex Standard". Không có hồ sơ, Klacks khởi động ở trạng thái trung tính và bạn tự cấu hình mọi thứ bằng tay.
 
 ---
 

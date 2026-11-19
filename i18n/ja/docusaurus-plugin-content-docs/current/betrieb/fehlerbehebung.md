@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | お使いのアーキテクチャ向けのイメージが存在しません | 開発元がイメージをマルチアーキテクチャ(amd64**と**arm64)で公開する必要があります |
 | `pull access denied` | パッケージレジストリ上のパッケージが非公開です | 認証情報付きでインストールをやり直します: Windowsでは`-GhcrUser`/`-GhcrToken`、Linuxでは`GHCR_USER`/`GHCR_TOKEN` |
-| `errorCode: SETUP_REQUIRED`、HTTP `403` | 管理者セットアップゲートが有効です | `admin@test.com`でログインし、自分の管理者アカウントを作成します — [インストールとPlayground](../../erste-schritte/installation-und-playground/)を参照 |
+| `errorCode: SETUP_REQUIRED`、HTTP `403` | 管理者セットアップゲートが有効です。ご自身の管理者アカウントがまだありません | ブラウザーでKlacksを開き、ご自身の管理者アカウントを作成します。サーバーでは、セットアップコード(インストーラーの出力、`.env`の`KLACKS_SETUP_CODE`)を使います — [インストールとPlayground](../../erste-schritte/installation-und-playground/)を参照 |
 | コンテナがマネージドのスタックトレースなしで終了コード`-1`(`0xffffffff`)で終了する | C/C++ライブラリ内の**ネイティブ**クラッシュで、C#の`try/catch`では捕捉できません | コンテナの**stderr**出力を確認します — 本当の原因はアプリケーションログではなくそこにあります |
 | アプリケーションエラーがログにないのにコンテナが終了する | メモリ不足のためカーネルがプロセスを終了させました(OOM) | メモリ上限を確認します — [システム要件](../systemvoraussetzungen/)を参照 |
 | 失敗したアップデート後の`42P07: relation "…" already exists` | マイグレーションが作成したテーブルを、書き戻しが削除しませんでした | [バックアップと復元](../backup-und-wiederherstellung/)の落とし穴を参照 |

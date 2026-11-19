@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | لا توجد الصورة (image) لمعماريتكم | يجب على الشركة المصنّعة نشر الصورة متعددة المعماريات (amd64 **و** arm64) |
 | `pull access denied` | الحزمة في سجل الحزم خاصة | أعيدوا التثبيت مع بيانات الدخول: ‏`-GhcrUser`/‏`-GhcrToken` على Windows، و`GHCR_USER`/‏`GHCR_TOKEN` على Linux |
-| ‏`errorCode: SETUP_REQUIRED`، ‏HTTP ‏`403` | بوابة إعداد المدير مفعّلة | سجّلوا الدخول بـ `admin@test.com` وأنشئوا حساب المدير الخاص بكم — راجعوا [التثبيت وبيئة التجربة](../../erste-schritte/installation-und-playground/) |
+| ‏`errorCode: SETUP_REQUIRED`، ‏HTTP ‏`403` | بوابة إعداد المدير مفعّلة: حساب المدير الخاص بكم غير موجود بعد | افتحوا Klacks في المتصفح وأنشئوا حساب المدير الخاص بكم، وعلى الخادم باستخدام رمز الإعداد (من مخرجات برنامج التثبيت، وفي `.env` باسم `KLACKS_SETUP_CODE`) — راجعوا [التثبيت وبيئة التجربة](../../erste-schritte/installation-und-playground/) |
 | تنتهي الحاوية دون Managed Stacktrace برمز الخروج `-1` ‏(`0xffffffff`) | انهيار **أصلي** (Native) في مكتبة C/C++ لا يستطيع أي `try/catch` في C# التقاطه | انظروا إلى مخرجات الحاوية على **stderr** — فهناك السبب الفعلي، وليس في سجل التطبيق |
 | تُنهى الحاوية رغم عدم وجود خطأ تطبيق في السجل | أنهى النواة (Kernel) العملية بسبب نقص الذاكرة (OOM) | افحصوا حدود الذاكرة — راجعوا [متطلبات النظام والبنية](../systemvoraussetzungen/) |
 | ‏`42P07: relation "…" already exists` بعد تحديث فاشل | أنشأ ترحيل جداول لم تُزلها الاستعادة | راجعوا العقبة في [النسخ الاحتياطي والاستعادة](../backup-und-wiederherstellung/) |

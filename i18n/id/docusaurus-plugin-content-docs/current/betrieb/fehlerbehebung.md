@@ -34,7 +34,7 @@ Jika ukurannya tetap sama (pertambahan 0 byte), proses tidak lagi menulis — ia
 |---|---|---|
 | `no matching manifest for linux/amd64` | Image tidak tersedia untuk arsitektur Anda | Pembuat harus menerbitkan image multi-arsitektur (amd64 **dan** arm64) |
 | `pull access denied` | Paket di arsip paket bersifat privat | Ulangi instalasi dengan kredensial: `-GhcrUser`/`-GhcrToken` di Windows, `GHCR_USER`/`GHCR_TOKEN` di Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-Setup-Gate aktif | Masuk dengan `admin@test.com` dan buat akun Admin Anda sendiri — lihat [Instalasi dan Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Gate penyiapan Admin aktif: akun Admin Anda sendiri belum ada | Buka Klacks di browser dan buat akun Admin Anda sendiri, di server dengan kode penyiapan (keluaran installer, di `.env` sebagai `KLACKS_SETUP_CODE`) — lihat [Instalasi dan Playground](../../erste-schritte/installation-und-playground/) |
 | Container berakhir tanpa managed stacktrace dengan exit code `-1` (`0xffffffff`) | Crash **native** di pustaka C/C++ yang tidak dapat ditangkap oleh `try/catch` C# mana pun | Lihat output container di **stderr** — pemicu sebenarnya ada di sana, bukan di log aplikasi |
 | Container dihentikan padahal tidak ada kesalahan aplikasi di log | Kernel menghentikan proses karena kekurangan memori (OOM) | Periksa batas memori — lihat [Persyaratan Sistem](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` setelah pembaruan yang gagal | Sebuah migrasi membuat tabel yang tidak dihapus oleh pemulihan | Lihat jebakan di [Backup dan Pemulihan](../backup-und-wiederherstellung/) |

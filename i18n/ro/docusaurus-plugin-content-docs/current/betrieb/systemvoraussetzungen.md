@@ -22,7 +22,7 @@ Serviciile interne ale producătorului (baza de cunoștințe de dezvoltare, mark
 ## Ce trebuie să ofere gazda
 
 - **8 GB RAM și 4 vCPU** ca minim (vezi calculul de mai jos).
-- Docker Desktop (Windows/macOS) sau Docker Engine cu Compose v2 (Linux), **amd64 sau arm64**.
+- Docker Desktop (Windows) sau Docker Engine cu Compose v2 (Linux), **amd64 sau arm64**.
 - Porturi libere **80 și 443** — se pot suprascrie prin `HTTP_PORT` și `HTTPS_PORT`.
 - Acces HTTPS **de ieșire** către `ghcr.io` (imagini) și `github.com` (manifestul de actualizare semnat).
 - Opțional: acces la `klacks-software.ch:7553` pentru pachetele de țară și plugin-urile lingvistice din marketplace.
@@ -66,7 +66,7 @@ Cotele de CPU ale stack-ului însumează în mod intenționat 4,75 la 4 vCPU: o 
 - **`COMPOSE_PROJECT_NAME=klacks`** este fixat rigid, astfel încât gazda și serviciul de actualizare să indice același proiect Compose, indiferent de numele folderului. Nu-l mai modificați după instalare.
 - **`KnowledgeIndex__WarmupEnabled=false` nu este o opțiune de memorie.** Mută doar construirea căutării de la pornire la prima solicitare de chat; în funcționarea de durată, sesiunile sunt la fel de prezente. Util doar dacă gazda eșuează la pornire din lipsă de memorie.
 - **Mai multe instanțe API?** Atunci aveți nevoie de un backplane SignalR. Klacks nu livrează unul: puneți singuri la dispoziție un serviciu compatibil RESP (de exemplu Valkey — licențiat sub BSD-3 începând cu versiunea 7.4, spre deosebire de Redis) și activați upstream-ul sticky (`ip_hash`) pregătit în șablonul nginx. Fără backplane rulează exact o instanță `klacks-api`, ca în orice instalare de astăzi.
-- **Profiluri de țară:** programul de instalare cunoaște 30 de profiluri: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Un profil stabilește la prima pornire limba, țara/regiunea și fusul orar, calendarul de sărbători, weekendul și începutul săptămânii, limitele timpului de lucru, dreptul la concediu, sporurile, sistemul-țintă implicit al exportului salarial (pentru Elveția, de exemplu, `abaconnect-ch`), precum și șabloane pe domenii de activitate — pentru Spitex, de exemplu, șablonul de reguli de planificare „CH Spitex Standard”. Fără profil, Klacks pornește neutru, iar dumneavoastră configurați totul manual.
+- **Profiluri de țară:** programul de instalare cunoaște 32 de profiluri: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Un profil stabilește la prima pornire limba, țara/regiunea și fusul orar, calendarul de sărbători, weekendul și începutul săptămânii, limitele timpului de lucru, dreptul la concediu, sporurile, sistemul-țintă implicit al exportului salarial (pentru Elveția, de exemplu, `abaconnect-ch`), precum și șabloane pe domenii de activitate — pentru Spitex, de exemplu, șablonul de reguli de planificare „CH Spitex Standard”. Fără profil, Klacks pornește neutru, iar dumneavoastră configurați totul manual.
 
 ---
 

@@ -18,23 +18,52 @@ Der Playground ist keine Installationsvariante, sondern eine öffentliche Klacks
 
 Das On-Premise-Paket bringt alles mit: Docker-Images, Installer, Datenbank, HTTPS und automatische Updates. Sie laden es ausschliesslich im [Klacks Store](https://klacks-software.ch/store/?culture=de) herunter.
 
-Wählen Sie im Klacks Store auf Wunsch die Branche, laden Sie das ZIP für Ihr Land herunter und entpacken Sie es auf dem Zielrechner in einen Ordner, der bestehen bleibt (zum Beispiel `~/klacks`): Die automatischen Updates arbeiten mit diesem Ordner.
+Wählen Sie im Klacks Store auf Wunsch die Branche und laden Sie das ZIP für Ihr Land herunter. Der Installer erzeugt Passwörter und Zertifikate selbst, lädt die aktuellen Docker-Images und wartet, bis alles läuft.
 
-```bash
-unzip 'klacks-onprem-*.zip' -d ~/klacks && cd ~/klacks && sudo bash ./install-*.sh
-```
+### Linux: Schritt für Schritt
 
-Unter Windows: `install-*.ps1` statt `install-*.sh`. Der Installer erzeugt Passwörter und Zertifikate selbst, lädt die aktuellen Docker-Images und wartet, bis alles läuft.
+Sie brauchen einen Rechner mit mindestens 8 GB RAM, freien Ports 80 und 443, Internetzugang und ein Konto mit `sudo`-Rechten. Docker muss nicht schon installiert sein (siehe Schritt 4).
+
+1. **ZIP im Klacks Store laden.** Auf der Seite Ihres Landes im [Klacks Store](https://klacks-software.ch/store/?culture=de), auf Wunsch mit Ihrer Branche.
+2. **In einen festen Ordner entpacken**, zum Beispiel `~/klacks`, nicht in `Downloads` oder `/tmp`. Die automatischen Updates arbeiten später mit genau diesem Ordner; wird er gelöscht oder verschoben, brechen sie. Der Installer warnt, wenn er in `Downloads` oder `/tmp` läuft.
+
+   ```bash
+   unzip 'klacks-onprem-*.zip' -d ~/klacks
+   ```
+
+3. **Im Ordner ein Terminal öffnen.** Im Dateimanager geht das meist per Rechtsklick in den Ordner (die Beschriftung hängt von der Desktop-Umgebung ab), oder Sie geben `cd ~/klacks` ein.
+4. **Installer starten:**
+
+   ```bash
+   sudo bash ./install-de.sh
+   ```
+
+   Im Paket für Deutschland heisst das Skript `install-de.sh`; in anderen Länderpaketen steht der jeweilige Ländercode im Namen, allgemein also `sudo bash ./install-*.sh`. `sudo` braucht der Installer, damit er Docker ansprechen und bei Bedarf installieren darf. Ohne `sudo` geht es nur, wenn Docker schon installiert ist und Ihr Benutzer zur Gruppe `docker` gehört.
+
+   **Fehlt Docker**, bietet der Installer an, Docker Engine mit dem offiziellen Skript von `get.docker.com` zu installieren. Das passiert nur nach Ihrer Rückfrage (`[y/N]`, Standard ist Nein) und nur auf Ubuntu, Debian, Fedora, CentOS und RHEL; dafür braucht der Rechner `curl` oder `wget` und Internetzugang. Auf anderen Distributionen installieren Sie Docker Engine mit dem Compose-Plugin selbst nach der [Anleitung von Docker](https://docs.docker.com/engine/install/). Läuft der Installer ohne Terminal, beantwortet `INSTALL_DOCKER=yes` die Rückfrage mit Ja. Docker selbst empfiehlt dieses Skript nicht für den Produktivbetrieb; für einen produktiven Server installieren Sie Docker besser selbst. Das ältere `docker-compose` (Version 1) wird nicht unterstützt, nötig ist das Plugin `docker compose`.
+5. **Warten.** Der Installer erzeugt Passwörter und ein selbstsigniertes Zertifikat, lädt die Images und startet den Stack. Beim ersten Start migriert die API die Datenbank; der Installer wartet dafür bis zu zehn Minuten. Am Ende steht `Klacks is up at https://…` und darunter **Ihr Einrichtungscode** (`Your setup code`, zwölf Zeichen in drei Vierergruppen). Notieren Sie ihn; er steht auch in der Datei `.env` im Installationsordner als `KLACKS_SETUP_CODE`.
+6. **Klacks öffnen:** `https://localhost` (bei einem anderen Servernamen oder HTTPS-Port die Adresse aus der Meldung des Installers). Der Browser warnt vor dem selbstsignierten Zertifikat; bestätigen Sie die Warnung. Danach legen Sie mit dem Einrichtungscode Ihr eigenes Admin-Konto an, siehe [Die erste Anmeldung](#first-login).
+7. **Updates** laufen danach automatisch über den mitgelieferten Update-Dienst. Den Installer müssen Sie dafür nicht erneut starten.
+
+Sieht Docker weniger als 7 GiB Arbeitsspeicher, bricht eine Erstinstallation ab. Wie Sie einen kleineren Host einrichten, steht unter [Systemvoraussetzungen](../betrieb/systemvoraussetzungen.md).
+
+### Windows
+
+Unter Windows starten Sie `install-*.ps1` statt `install-*.sh`.
+
+### Optionen: Servername und Länderprofil
 
 Mit optionalem Länderprofil richtet der Installer beim ersten Start gleich Sprache, Feiertage, Arbeitszeitgrenzen, Zuschläge und Branchen-Vorlagen ein:
 
 ```bash
-SERVER_NAME=klacks.example.com REGION=de ./install.sh
+sudo SERVER_NAME=klacks.example.com REGION=de bash ./install.sh
 ```
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\install.ps1 -ServerName klacks.example.com -Region de
 ```
+
+Unter Linux gehören die Variablen **hinter** `sudo`: `sudo` reicht Variablen, die davor stehen, in der Regel nicht an den Installer weiter. Mit dem Skript des Länderpakets sieht der Aufruf so aus: `sudo SERVER_NAME=klacks.example.com bash ./install-de.sh`.
 
 Das Länderpaket aus dem Klacks Store enthält das Profil seines Landes. Die mitgelieferten Skripte `install-*.sh` und `install-*.ps1` setzen `REGION` bzw. `-Region` bereits auf dessen Ländercode — im Paket für Deutschland zum Beispiel `install-de.sh` und `install-de.ps1`. Rufen Sie `install.sh` oder `install.ps1` direkt auf, muss `REGION` bzw. `-Region` dieser Ländercode sein; ohne ihn richtet der Installer kein Länderprofil ein.
 
@@ -44,20 +73,28 @@ Für einen einzelnen Büro-PC mit Windows gibt es ein eigenes Setup, das ohne Do
 
 Neue Versionen kommen auf dem Büro-PC über Einstellungen > [Software-Updates](../einstellungen/system-sicherheit/updates.md) in Klacks, auch wenn Klacks aus dem Microsoft Store stammt. Ein neueres Setup lässt sich nicht über eine bestehende Installation installieren.
 
-## Die erste Anmeldung: Klacks verlangt Ihr eigenes Admin-Konto
+## Die erste Anmeldung: Ihr eigenes Admin-Konto {#first-login}
 
-Ein frisch installiertes Klacks startet mit einem mitgelieferten Konto, dessen Passwort öffentlich bekannt ist: `admin@test.com` / `P@ssw0rt1`. Damit melden Sie sich **genau einmal** an — Klacks führt Sie dann unmittelbar durch die Anlage Ihres eigenen Admin-Kontos.
+Ein frisch installiertes Klacks hat noch kein Konto von Ihnen. Beim ersten Öffnen im Browser erscheint deshalb gleich die Seite «Eigenes Admin-Konto einrichten», noch vor jeder Anmeldung: Vor- und Nachname, E-Mail-Adresse (sie wird Ihr Anmeldename) und ein Passwort, zweimal eingegeben; die Passwortregeln stehen live daneben.
 
-Bis dieses Konto angelegt ist, blockiert der Server jeden weiteren Aufruf mit dem Fehlercode `SETUP_REQUIRED` (HTTP 403). Mit dem Standardkonto können Sie also nicht versehentlich weiterarbeiten. Sobald Sie Ihr eigenes Konto anlegen, erhält es die Admin-Rolle und das mitgelieferte Konto wird im selben Vorgang abgeschaltet. Danach melden Sie sich mit Ihrem eigenen Konto an — ein automatisches Weiteranmelden gibt es bewusst nicht.
+Auf einem Server (Docker) verlangt die Seite zusätzlich den **Einrichtungscode**, auch wenn Sie Klacks im Browser auf dem Server selbst öffnen. Den Code hat der Installer am Ende der Installation angezeigt; er steht auch in der Datei `.env` im Installationsordner als `KLACKS_SETUP_CODE`. Er gilt nur für diese eine Einrichtung. Ein falscher Code wird abgelehnt («Der Einrichtungscode stimmt nicht. Bitte prüfen Sie ihn und versuchen Sie es erneut.»).
 
-Nur im Playground und in einer lokalen Entwicklungsumgebung ist dieses Gate absichtlich ausgeschaltet; dort bleibt `admin@test.com` bestehen.
+Sobald Sie speichern, erhält Ihr Konto die Admin-Rolle und das mitgelieferte Testkonto wird im selben Vorgang endgültig abgeschaltet; Klacks meldet Sie danach automatisch mit Ihrem eigenen Konto an; scheitert das, melden Sie sich mit den neuen Zugangsdaten an. Solange ein Einrichtungscode gesetzt ist, lässt sich das mitgelieferte Testkonto im Browser ohnehin nicht für die Anmeldung verwenden. Als Nächstes folgt die Seite «Land und Branche».
+
+Bis Ihr eigenes Konto angelegt ist, blockiert der Server jeden weiteren Aufruf mit dem Fehlercode `SETUP_REQUIRED` (HTTP 403). Dahinter steckt keine Störung: Es fehlt nur noch die Einrichtung.
+
+- Auf dem Büro-PC mit Windows brauchen Sie keinen Einrichtungscode, wenn Sie Klacks im Browser auf demselben PC öffnen. Von einem anderen Rechner aus erscheint nur die Anmeldeseite.
+- Zeigt Klacks stattdessen die Anmeldeseite, etwa bei einer Installation ohne Einrichtungscode, nennt die Ausgabe des Installers das mitgelieferte Konto; Klacks führt Sie auch dann unmittelbar zur Anlage Ihres eigenen Admin-Kontos.
+- Reichen zwei Personen gleichzeitig ein, wird nur die erste Administrator; die zweite landet auf der Anmeldeseite.
+
+Nur im Playground und in einer lokalen Entwicklungsumgebung ist dieses Gate absichtlich ausgeschaltet; dort bleibt das mitgelieferte Konto bestehen.
 
 ## Gut zu wissen
 
-- **Voraussetzungen:** mindestens 8 GB RAM und 4 vCPU, Docker mit Compose v2, freie Ports 80 und 443 sowie ausgehender HTTPS-Zugriff auf `ghcr.io` und `github.com`. Details und die Rechenbeispiele für kleinere Hosts stehen unter [Systemvoraussetzungen](../betrieb/systemvoraussetzungen.md).
+- **Voraussetzungen:** mindestens 8 GB RAM und 4 vCPU, Docker mit Compose v2 (unter Linux installiert der Installer Docker auf Rückfrage), freie Ports 80 und 443 sowie ausgehender HTTPS-Zugriff auf `ghcr.io` und `github.com`. Details und die Rechenbeispiele für kleinere Hosts stehen unter [Systemvoraussetzungen](../betrieb/systemvoraussetzungen.md).
 - Ein mitgelieferter Update-Dienst hält Ihre Installation automatisch aktuell — mit Backup vor jedem Update und automatischem Rollback bei Problemen. Wie das im Detail abläuft, steht unter [Updates und Rollback](../betrieb/updates-und-rollback.md).
 - Ihre Daten liegen in Ihrer eigenen Datenbank auf Ihrer Infrastruktur. Einige Funktionen rufen dabei externe Dienste auf — welche, steht im nächsten Abschnitt.
-- Ein erneuter Aufruf des Installers ist unschädlich: Er behält Passwörter und Zertifikat bei und zieht nur neu — so reparieren Sie einen Stack oder erzwingen ein Update der Images.
+- Ein erneuter Aufruf des Installers ist unschädlich, aber kein Update: Er behält Passwörter, Zertifikat und die bei der Erstinstallation festgelegte Version bei und startet den Stack neu (unter Linux wieder mit `sudo`, wenn Sie zuerst mit `sudo` installiert haben). So reparieren Sie einen Stack, der nicht mehr läuft. Neue Versionen spielt der Update-Dienst ein, nicht der Installer.
 - Bringen Sie ein eigenes Zertifikat mit, legen Sie `server.crt` und `server.key` vor der Installation in `nginx/certs/` im Installationsordner ab; sonst erzeugt der Installer ein selbstsigniertes Zertifikat.
 - Ihre Datenbank sichern Sie regelmässig selbst — wie das geht, steht unter [Backup und Wiederherstellung](../betrieb/backup-und-wiederherstellung.md).
 

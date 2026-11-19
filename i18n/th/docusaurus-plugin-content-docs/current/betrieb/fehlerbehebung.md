@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | ไม่มีอิมเมจสำหรับสถาปัตยกรรมของคุณ | ผู้พัฒนาต้องเผยแพร่อิมเมจแบบหลายสถาปัตยกรรม (amd64 **และ** arm64) |
 | `pull access denied` | แพ็กเกจในคลังแพ็กเกจเป็นแบบส่วนตัว | ติดตั้งซ้ำพร้อมข้อมูลเข้าสู่ระบบ: `-GhcrUser`/`-GhcrToken` บน Windows, `GHCR_USER`/`GHCR_TOKEN` บน Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | ด่านตั้งค่า Admin กำลังทำงานอยู่ | เข้าสู่ระบบด้วย `admin@test.com` และสร้างบัญชี Admin ของคุณเอง — ดู[การติดตั้งและ Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | ด่านตั้งค่า Admin กำลังทำงานอยู่: ยังไม่มีบัญชี Admin ของคุณเอง | เปิด Klacks ในเบราว์เซอร์แล้วสร้างบัญชี Admin ของคุณเอง บนเซิร์ฟเวอร์ให้ใช้รหัสการตั้งค่า (ผลลัพธ์ของตัวติดตั้ง ใน `.env` คือ `KLACKS_SETUP_CODE`) — ดู[การติดตั้งและ Playground](../../erste-schritte/installation-und-playground/) |
 | คอนเทนเนอร์จบการทำงานโดยไม่มี managed stack trace พร้อมรหัสออก `-1` (`0xffffffff`) | การขัดข้องแบบ **เนทีฟ** ในไลบรารี C/C++ ซึ่ง `try/catch` ของ C# ดักไม่ได้ | ดูเอาต์พุตของคอนเทนเนอร์บน **stderr** — สาเหตุที่แท้จริงอยู่ที่นั่น ไม่ได้อยู่ในบันทึกของแอปพลิเคชัน |
 | คอนเทนเนอร์ถูกยุติทั้งที่ไม่มีข้อผิดพลาดของแอปพลิเคชันในบันทึก | เคอร์เนลยุติกระบวนการเพราะหน่วยความจำไม่พอ (OOM) | ตรวจสอบขีดจำกัดหน่วยความจำ — ดู[ความต้องการของระบบ](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` หลังการอัปเดตที่ล้มเหลว | การย้ายข้อมูลสร้างตารางไว้ซึ่งการกู้คืนไม่ได้ลบออก | ดูจุดสะดุดที่[การสำรองข้อมูลและการกู้คืน](../backup-und-wiederherstellung/) |

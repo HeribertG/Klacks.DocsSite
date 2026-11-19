@@ -22,7 +22,7 @@ Wewnętrzne usługi producenta (rozwojowa baza wiedzy, marketing, marketplace, p
 ## Czego wymaga host
 
 - **8 GB RAM i 4 vCPU** jako minimum (zob. wyliczenie poniżej).
-- Docker Desktop (Windows/macOS) lub Docker Engine z Compose v2 (Linux), **amd64 lub arm64**.
+- Docker Desktop (Windows) lub Docker Engine z Compose v2 (Linux), **amd64 lub arm64**.
 - Wolne porty **80 i 443** — można je zmienić za pomocą `HTTP_PORT` i `HTTPS_PORT`.
 - **Wychodzący** dostęp HTTPS do `ghcr.io` (obrazy) i `github.com` (podpisany manifest aktualizacji).
 - Opcjonalnie: dostęp do `klacks-software.ch:7553` dla pakietów krajowych i wtyczek językowych z marketplace.
@@ -66,7 +66,7 @@ Przydziały CPU stosu sumują się celowo do 4,75 przy 4 vCPU: przydział jest g
 - **`COMPOSE_PROJECT_NAME=klacks`** jest na stałe zdefiniowane, aby host i usługa aktualizacji niezależnie od nazwy folderu wskazywały ten sam projekt Compose. Po instalacji nie należy tego zmieniać.
 - **`KnowledgeIndex__WarmupEnabled=false` nie jest opcją oszczędzania pamięci.** Przesuwa tylko budowę wyszukiwania ze startu do pierwszego zapytania czatu; w trybie ciągłym sesje są obecne tak samo. Przydatne tylko wtedy, gdy host przy starcie zawodzi z powodu pamięci.
 - **Więcej niż jedna instancja API?** Wtedy potrzebny jest backplane SignalR. Klacks go nie dostarcza: należy samodzielnie przygotować usługę zgodną z RESP (na przykład Valkey — od wersji 7.4 na licencji BSD-3, w przeciwieństwie do Redis) i włączyć przygotowany w szablonie nginx sticky upstream (`ip_hash`). Bez backplane działa dokładnie jedna instancja `klacks-api`, jak w każdej dzisiejszej instalacji.
-- **Profile krajów:** Instalator zna 30 profili: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Profil ustawia przy pierwszym uruchomieniu język, kraj/region i strefę czasową, kalendarz świąt, weekend i początek tygodnia, limity czasu pracy, wymiar urlopu, dodatki, domyślny system docelowy eksportu płacowego (dla Szwajcarii na przykład `abaconnect-ch`) oraz szablony branżowe — dla Spitex na przykład szablon reguł planowania „CH Spitex Standard". Bez profilu Klacks startuje neutralnie, a wszystko konfigurują Państwo ręcznie.
+- **Profile krajów:** Instalator zna 32 profili: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Profil ustawia przy pierwszym uruchomieniu język, kraj/region i strefę czasową, kalendarz świąt, weekend i początek tygodnia, limity czasu pracy, wymiar urlopu, dodatki, domyślny system docelowy eksportu płacowego (dla Szwajcarii na przykład `abaconnect-ch`) oraz szablony branżowe — dla Spitex na przykład szablon reguł planowania „CH Spitex Standard". Bez profilu Klacks startuje neutralnie, a wszystko konfigurują Państwo ręcznie.
 
 ---
 

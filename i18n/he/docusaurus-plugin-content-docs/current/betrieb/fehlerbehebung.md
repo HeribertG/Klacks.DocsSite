@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | אין תמונה (image) לארכיטקטורה שלכם | היצרן צריך לפרסם את התמונה למספר ארכיטקטורות (amd64 **וגם** arm64) |
 | `pull access denied` | החבילה במאגר החבילות פרטית | חזרו על ההתקנה עם פרטי גישה: ‏`-GhcrUser`/‏`-GhcrToken` ב-Windows, ‏`GHCR_USER`/‏`GHCR_TOKEN` ב-Linux |
-| ‏`errorCode: SETUP_REQUIRED`, ‏HTTP ‏`403` | שער ההגדרה של ה-Admin פעיל | התחברו עם `admin@test.com` וצרו את חשבון ה-Admin שלכם — ראו [התקנה ו-Playground](../../erste-schritte/installation-und-playground/) |
+| ‏`errorCode: SETUP_REQUIRED`, ‏HTTP ‏`403` | שער ההגדרה של ה-Admin פעיל: חשבון ה-Admin שלכם עדיין חסר | פתחו את Klacks בדפדפן וצרו את חשבון ה-Admin שלכם; בשרת עם קוד ההגדרה (פלט המתקין, ב-`.env` בשם `KLACKS_SETUP_CODE`) — ראו [התקנה ו-Playground](../../erste-schritte/installation-und-playground/) |
 | הקונטיינר מסתיים ללא Managed Stacktrace עם קוד יציאה `-1` ‏(`0xffffffff`) | קריסה **נייטיבית** בספריית C/C++ שאף `try/catch` ב-C# אינו יכול לתפוס | הסתכלו בפלט הקונטיינר ב-**stderr** — שם נמצא הגורם האמיתי, לא בלוג האפליקציה |
 | הקונטיינר נסגר אף שאין שגיאת אפליקציה בלוג | הליבה (Kernel) סיימה את התהליך עקב מחסור בזיכרון (OOM) | בדקו את מגבלות הזיכרון — ראו [דרישות מערכת וארכיטקטורה](../systemvoraussetzungen/) |
 | ‏`42P07: relation "…" already exists` לאחר עדכון שנכשל | מיגרציה יצרה טבלאות שהשחזור לא הסיר | ראו את המכשול ב[גיבוי ושחזור](../backup-und-wiederherstellung/) |

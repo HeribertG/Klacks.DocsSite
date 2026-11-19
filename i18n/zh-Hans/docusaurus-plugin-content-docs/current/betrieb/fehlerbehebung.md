@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | 没有适用于您的架构的镜像 | 厂商必须以多架构方式发布镜像（amd64 **和** arm64） |
 | `pull access denied` | 软件包仓库中的该包是私有的 | 带上访问凭据重新安装：Windows 下用 `-GhcrUser`/`-GhcrToken`，Linux 下用 `GHCR_USER`/`GHCR_TOKEN` |
-| `errorCode: SETUP_REQUIRED`，HTTP `403` | 管理员设置关卡处于激活状态 | 用 `admin@test.com` 登录并创建您自己的管理员账号 — 参见[安装与 Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`，HTTP `403` | 管理员设置关卡处于激活状态：您自己的管理员账户还不存在 | 在浏览器中打开 Klacks 并创建您自己的管理员账户，在服务器上需使用设置代码（安装程序的输出，在 `.env` 中为 `KLACKS_SETUP_CODE`） — 参见[安装与 Playground](../../erste-schritte/installation-und-playground/) |
 | 容器退出，没有托管堆栈跟踪，退出码为 `-1`（`0xffffffff`） | C/C++ 库中发生**原生**崩溃，C# 的 `try/catch` 无法捕获 | 查看容器的 **stderr** 输出 — 真正的原因在那里，而不在应用日志中 |
 | 日志中没有应用错误，容器却被终止 | 内核因内存不足而终止了该进程（OOM） | 检查内存限制 — 参见[系统要求](../systemvoraussetzungen/) |
 | 更新失败后出现 `42P07: relation "…" already exists` | 某次迁移创建了表，恢复过程没有将其移除 | 参见[备份与恢复](../backup-und-wiederherstellung/)中的陷阱 |

@@ -33,7 +33,7 @@ wc -c klacks-api.log; sleep 10; wc -c klacks-api.log
 |---|---|---|
 | `no matching manifest for linux/amd64` | 사용 중인 아키텍처용 이미지가 없습니다 | 제조사가 이미지를 멀티 아키텍처(amd64 **및** arm64)로 게시해야 합니다 |
 | `pull access denied` | 패키지 레지스트리의 패키지가 비공개입니다 | 접속 정보를 지정해 설치를 다시 실행합니다: Windows에서는 `-GhcrUser`/`-GhcrToken`, Linux에서는 `GHCR_USER`/`GHCR_TOKEN` |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | 관리자 설정 게이트가 활성화되어 있습니다 | `admin@test.com`으로 로그인하여 자신의 관리자 계정을 만듭니다 — [설치 및 Playground](../../erste-schritte/installation-und-playground/) 참조 |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | 관리자 설정 게이트가 활성화되어 있습니다. 본인의 관리자 계정이 아직 없습니다 | 브라우저에서 Klacks를 열고 본인의 관리자 계정을 만듭니다. 서버에서는 설정 코드(설치 프로그램의 출력, `.env`의 `KLACKS_SETUP_CODE`)를 사용합니다 — [설치 및 Playground](../../erste-schritte/installation-und-playground/) 참조 |
 | 컨테이너가 관리형 스택 트레이스 없이 종료 코드 `-1`(`0xffffffff`)로 종료됨 | C/C++ 라이브러리에서 발생한 **네이티브** 충돌로, C#의 `try/catch`로는 잡을 수 없습니다 | 컨테이너의 **stderr** 출력을 확인합니다 — 실제 원인은 애플리케이션 로그가 아니라 그곳에 있습니다 |
 | 로그에 애플리케이션 오류가 없는데 컨테이너가 종료됨 | 메모리 부족으로 커널이 프로세스를 종료했습니다(OOM) | 메모리 한도를 확인합니다 — [시스템 요구 사항](../systemvoraussetzungen/) 참조 |
 | 실패한 업데이트 후 `42P07: relation "…" already exists` | 마이그레이션이 만든 테이블이 복원 과정에서 제거되지 않았습니다 | [백업 및 복원](../backup-und-wiederherstellung/)의 함정 항목 참조 |

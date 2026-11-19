@@ -22,7 +22,7 @@ Tillverkarens interna tjänster (kunskapslager för utveckling, marknadsföring,
 ## Vad värden måste ha
 
 - **8 GB RAM och 4 vCPU** som minimum (se beräkningen nedan).
-- Docker Desktop (Windows/macOS) eller Docker Engine med Compose v2 (Linux), **amd64 eller arm64**.
+- Docker Desktop (Windows) eller Docker Engine med Compose v2 (Linux), **amd64 eller arm64**.
 - Lediga portar **80 och 443** — kan åsidosättas via `HTTP_PORT` och `HTTPS_PORT`.
 - **Utgående** HTTPS-åtkomst till `ghcr.io` (images) och `github.com` (signerat uppdateringsmanifest).
 - Valfritt: åtkomst till `klacks-software.ch:7553` för landspaket och språk-plugins från marknadsplatsen.
@@ -66,7 +66,7 @@ Stackens CPU-kvoter summerar medvetet till 4,75 vid 4 vCPU: en kvot är ett tak,
 - **`COMPOSE_PROJECT_NAME=klacks`** är hårdkodat så att värd och uppdateringstjänst pekar på samma Compose-projekt oavsett mappnamn. Ändra det inte efter installationen.
 - **`KnowledgeIndex__WarmupEnabled=false` är inget minnesalternativ.** Det flyttar bara uppbyggnaden av sökningen från starten till den första chattfrågan; i kontinuerlig drift är sessionerna lika närvarande. Bara användbart om värden vid starten stupar på minnet.
 - **Mer än en API-instans?** Då behöver du en SignalR-backplane. Klacks levererar ingen: ställ själv upp en RESP-kompatibel tjänst (till exempel Valkey — licensierad under BSD-3 sedan 7.4, till skillnad från Redis) och slå på den sticky-upstream (`ip_hash`) som är förberedd i nginx-mallen. Utan backplane körs exakt en `klacks-api`-instans, som vid varje installation idag.
-- **Landsprofiler:** Installationsprogrammet känner till 30 profiler: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. En profil sätter vid första starten språk, land/region och tidszon, helgdagskalender, helg och veckostart, arbetstidsgränser, semesterrätt, tillägg, standardmålsystemet för löneexport (för Schweiz till exempel `abaconnect-ch`) samt branschmallar — för hemtjänsten till exempel planeringsregelmallen ”CH Spitex Standard”. Utan profil startar Klacks neutralt och du konfigurerar allt för hand.
+- **Landsprofiler:** Installationsprogrammet känner till 32 profiler: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. En profil sätter vid första starten språk, land/region och tidszon, helgdagskalender, helg och veckostart, arbetstidsgränser, semesterrätt, tillägg, standardmålsystemet för löneexport (för Schweiz till exempel `abaconnect-ch`) samt branschmallar — för hemtjänsten till exempel planeringsregelmallen ”CH Spitex Standard”. Utan profil startar Klacks neutralt och du konfigurerar allt för hand.
 
 ---
 

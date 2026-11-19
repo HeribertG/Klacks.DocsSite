@@ -22,7 +22,7 @@ Klacks는 사용자의 서버에서 Docker 스택으로 실행됩니다. 이 페
 ## 호스트가 갖춰야 할 것
 
 - 최소 **RAM 8 GB와 4 vCPU**(아래 계산 참조).
-- Docker Desktop(Windows/macOS) 또는 Compose v2가 포함된 Docker Engine(Linux), **amd64 또는 arm64**.
+- Docker Desktop(Windows) 또는 Compose v2가 포함된 Docker Engine(Linux), **amd64 또는 arm64**.
 - 사용 가능한 포트 **80과 443** — `HTTP_PORT`와 `HTTPS_PORT`로 변경할 수 있습니다.
 - `ghcr.io`(이미지)와 `github.com`(서명된 업데이트 매니페스트)에 대한 **아웃바운드** HTTPS 접근.
 - 선택 사항: 마켓플레이스의 국가 패키지와 언어 플러그인을 위한 `klacks-software.ch:7553` 접근.
@@ -66,7 +66,7 @@ KLACKS_API_CPU_LIMIT=1.5
 - **`COMPOSE_PROJECT_NAME=klacks`**는 호스트와 업데이트 서비스가 폴더 이름과 관계없이 같은 Compose 프로젝트를 가리키도록 고정되어 있습니다. 설치 후에는 더 이상 바꾸지 마십시오.
 - **`KnowledgeIndex__WarmupEnabled=false`는 메모리 절약 옵션이 아닙니다.** 검색 구축 시점을 시작 단계에서 첫 번째 채팅 요청으로 미룰 뿐이며, 상시 운영에서는 세션이 동일하게 존재합니다. 호스트가 시작할 때 메모리 부족으로 실패하는 경우에만 유용합니다.
 - **API 인스턴스를 둘 이상 쓰시나요?** 그렇다면 SignalR 백플레인이 필요합니다. Klacks에는 포함되어 있지 않습니다: RESP 호환 서비스를 직접 준비하고(예: Valkey — Redis와 달리 7.4부터 BSD-3 라이선스), nginx 템플릿에 준비된 스티키 업스트림(`ip_hash`)을 활성화하십시오. 백플레인이 없으면 현재의 모든 설치와 마찬가지로 `klacks-api` 인스턴스는 정확히 하나만 실행됩니다.
-- **국가 프로필:** 설치 프로그램은 30개의 프로필을 지원합니다: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. 프로필은 첫 시작 시 언어, 국가/지역과 시간대, 공휴일 캘린더, 주말과 한 주의 시작일, 근로 시간 한도, 휴가 부여 일수, 할증, 기본 급여 내보내기 대상 시스템(스위스의 경우 예를 들어 `abaconnect-ch`), 그리고 업종 템플릿을 설정합니다 — 예를 들어 스피텍스에는 계획 규칙 템플릿 "CH Spitex Standard"가 있습니다. 프로필이 없으면 Klacks는 중립 상태로 시작하며 모든 것을 직접 구성합니다.
+- **국가 프로필:** 설치 프로그램은 32개의 프로필을 지원합니다: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. 프로필은 첫 시작 시 언어, 국가/지역과 시간대, 공휴일 캘린더, 주말과 한 주의 시작일, 근로 시간 한도, 휴가 부여 일수, 할증, 기본 급여 내보내기 대상 시스템(스위스의 경우 예를 들어 `abaconnect-ch`), 그리고 업종 템플릿을 설정합니다 — 예를 들어 스피텍스에는 계획 규칙 템플릿 "CH Spitex Standard"가 있습니다. 프로필이 없으면 Klacks는 중립 상태로 시작하며 모든 것을 직접 구성합니다.
 
 ---
 

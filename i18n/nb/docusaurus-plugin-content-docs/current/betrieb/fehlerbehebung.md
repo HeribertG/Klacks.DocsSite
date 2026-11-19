@@ -33,7 +33,7 @@ Forblir størrelsen den samme (økning 0 byte), skriver ikke prosessen lenger �
 |---|---|---|
 | `no matching manifest for linux/amd64` | Imaget finnes ikke for din arkitektur | Produsenten må publisere imaget for flere arkitekturer (amd64 **og** arm64) |
 | `pull access denied` | Pakken i pakkearkivet er privat | Gjenta installasjonen med tilgangsdata: `-GhcrUser`/`-GhcrToken` under Windows, `GHCR_USER`/`GHCR_TOKEN` under Linux |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-oppsettsporten er aktiv | Logg inn med `admin@test.com` og opprett din egen Admin-konto — se [Installasjon og Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Admin-oppsettsporten er aktiv: din egen admin-konto mangler ennå | Åpne Klacks i nettleseren og opprett din egen admin-konto, på en server med oppsettskoden (utdata fra installasjonsprogrammet, i `.env` som `KLACKS_SETUP_CODE`) — se [Installasjon og Playground](../../erste-schritte/installation-und-playground/) |
 | Containeren avsluttes uten managed stacktrace med exit-kode `-1` (`0xffffffff`) | En **nativ** krasj i et C/C++-bibliotek som ingen C#-`try/catch` kan fange | Se på containerens utdata på **stderr** — der står den egentlige utløseren, ikke i applikasjonsloggen |
 | Containeren avsluttes selv om det ikke står noen applikasjonsfeil i loggen | Kjernen har avsluttet prosessen på grunn av minnemangel (OOM) | Kontroller minnegrensene — se [Systemkrav](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` etter en mislykket oppdatering | En migrering har opprettet tabeller som gjenopprettingen ikke fjernet | Se snublesteinen under [Sikkerhetskopi og gjenoppretting](../backup-und-wiederherstellung/) |

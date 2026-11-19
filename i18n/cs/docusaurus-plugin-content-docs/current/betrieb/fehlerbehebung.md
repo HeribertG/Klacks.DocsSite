@@ -34,7 +34,7 @@ Zůstane-li velikost stejná (přírůstek 0 bajtů), proces už nezapisuje — 
 |---|---|---|
 | `no matching manifest for linux/amd64` | Image pro vaši architekturu neexistuje | Výrobce musí image publikovat vícearchitekturně (amd64 **i** arm64) |
 | `pull access denied` | Balíček v archivu balíčků je soukromý | Zopakujte instalaci s přístupovými údaji: `-GhcrUser`/`-GhcrToken` ve Windows, `GHCR_USER`/`GHCR_TOKEN` v Linuxu |
-| `errorCode: SETUP_REQUIRED`, HTTP `403` | Je aktivní Admin-Setup-Gate | Přihlaste se pomocí `admin@test.com` a založte vlastní účet Admina — viz [Instalace a Playground](../../erste-schritte/installation-und-playground/) |
+| `errorCode: SETUP_REQUIRED`, HTTP `403` | Je aktivní Admin-Setup-Gate: váš vlastní účet Admina ještě chybí | Otevřete Klacks v prohlížeči a založte vlastní účet Admina, na serveru pomocí instalačního kódu (výstup instalátoru, v `.env` jako `KLACKS_SETUP_CODE`) — viz [Instalace a Playground](../../erste-schritte/installation-und-playground/) |
 | Kontejner skončí bez managed stacktrace s exit kódem `-1` (`0xffffffff`) | **Nativní** pád v knihovně C/C++, který žádné C# `try/catch` nezachytí | Podívejte se na výstup kontejneru na **stderr** — skutečná příčina je tam, ne v aplikačním protokolu |
 | Kontejner je ukončen, přestože v protokolu není žádná aplikační chyba | Jádro ukončilo proces pro nedostatek paměti (OOM) | Zkontrolujte limity paměti — viz [Systémové požadavky](../systemvoraussetzungen/) |
 | `42P07: relation "…" already exists` po neúspěšné aktualizaci | Migrace vytvořila tabulky, které obnova neodstranila | Viz úskalí v části [Záloha a obnovení](../backup-und-wiederherstellung/) |

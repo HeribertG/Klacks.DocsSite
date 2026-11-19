@@ -22,7 +22,7 @@ Klacks 以 Docker 服务栈的形式运行在您自己的服务器上。本页�
 ## 主机需要具备什么
 
 - 最低 **8 GB 内存和 4 vCPU**（见下方的计算）。
-- Docker Desktop（Windows/macOS）或带 Compose v2 的 Docker Engine（Linux），**amd64 或 arm64**。
+- Docker Desktop（Windows）或带 Compose v2 的 Docker Engine（Linux），**amd64 或 arm64**。
 - 空闲的端口 **80 和 443** — 可通过 `HTTP_PORT` 和 `HTTPS_PORT` 覆盖。
 - 对 `ghcr.io`（镜像）和 `github.com`（签名的更新清单）的**出站** HTTPS 访问。
 - 可选：访问 `klacks-software.ch:7553`，用于获取市场中的国家包和语言插件。
@@ -66,7 +66,7 @@ KLACKS_API_CPU_LIMIT=1.5
 - **`COMPOSE_PROJECT_NAME=klacks`** 是写死的，这样主机与更新服务无论文件夹叫什么，都指向同一个 Compose 项目。安装之后请不要再更改。
 - **`KnowledgeIndex__WarmupEnabled=false` 不是节省内存的选项。** 它只是把搜索的构建从启动阶段推迟到第一次聊天请求；在持续运行中，会话同样常驻。仅当主机在启动时因内存不足而失败时才有用。
 - **需要多个 API 实例？** 那就需要 SignalR 背板。Klacks 不附带：请自行部署一个兼容 RESP 的服务（例如 Valkey — 与 Redis 不同，自 7.4 起采用 BSD-3 许可），并启用 nginx 模板中预置的粘性上游（`ip_hash`）。没有背板时，与现有所有安装一样，只运行一个 `klacks-api` 实例。
-- **国家配置文件：** 安装程序提供 30 个配置文件：`ae`、`at`、`ch`、`cn`、`cz`、`de`、`dk`、`es`、`fi`、`fr`、`gb`、`gr`、`id`、`il`、`it`、`jp`、`kr`、`li`、`my`、`nl`、`no`、`pl`、`pt`、`ro`、`sa`、`se`、`th`、`tw`、`us`、`vn`。配置文件会在首次启动时设置语言、国家/地区与时区、节假日日历、周末与每周起始日、工时上限、休假额度、附加津贴、默认的工资导出目标系统（例如瑞士为 `abaconnect-ch`），以及行业模板 — 比如 Spitex 的排班规则模板「CH Spitex Standard」。没有配置文件时，Klacks 以中立状态启动，一切都由您手动配置。
+- **国家配置文件：** 安装程序提供 32 个配置文件：`ae`、`at`、`be`、`ch`、`cn`、`cz`、`de`、`dk`、`es`、`fi`、`fr`、`gb`、`gr`、`id`、`ie`、`il`、`it`、`jp`、`kr`、`li`、`my`、`nl`、`no`、`pl`、`pt`、`ro`、`sa`、`se`、`th`、`tw`、`us`、`vn`。配置文件会在首次启动时设置语言、国家/地区与时区、节假日日历、周末与每周起始日、工时上限、休假额度、附加津贴、默认的工资导出目标系统（例如瑞士为 `abaconnect-ch`），以及行业模板 — 比如 Spitex 的排班规则模板「CH Spitex Standard」。没有配置文件时，Klacks 以中立状态启动，一切都由您手动配置。
 
 ---
 

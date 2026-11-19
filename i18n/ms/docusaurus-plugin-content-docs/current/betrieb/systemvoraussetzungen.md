@@ -22,7 +22,7 @@ Perkhidmatan dalaman pengeluar (stor pengetahuan pembangunan, pemasaran, pasar, 
 ## Apa yang mesti disediakan oleh hos
 
 - **8 GB RAM dan 4 vCPU** sebagai minimum (lihat pengiraan di bawah).
-- Docker Desktop (Windows/macOS) atau Docker Engine dengan Compose v2 (Linux), **amd64 atau arm64**.
+- Docker Desktop (Windows) atau Docker Engine dengan Compose v2 (Linux), **amd64 atau arm64**.
 - Port **80 dan 443** yang bebas — boleh ditimpa melalui `HTTP_PORT` dan `HTTPS_PORT`.
 - Capaian HTTPS **keluar** ke `ghcr.io` (imej) dan `github.com` (manifes kemas kini bertandatangan).
 - Pilihan: capaian ke `klacks-software.ch:7553` untuk pakej negara dan plugin bahasa daripada pasar.
@@ -66,7 +66,7 @@ Kuota CPU stack sengaja berjumlah 4,75 pada 4 vCPU: kuota ialah had atas, bukan 
 - **`COMPOSE_PROJECT_NAME=klacks`** dipateri tetap supaya hos dan perkhidmatan kemas kini menunjuk kepada projek Compose yang sama tanpa mengira nama folder. Jangan ubah lagi selepas pemasangan.
 - **`KnowledgeIndex__WarmupEnabled=false` bukan pilihan memori.** Ia hanya mengalihkan pembinaan carian daripada permulaan ke permintaan sembang pertama; dalam operasi berterusan, sesi-sesi itu sama-sama hadir. Berguna hanya jika hos gagal kerana memori semasa permulaan.
 - **Lebih daripada satu instans API?** Maka anda memerlukan backplane SignalR. Klacks tidak menyertakannya: sediakan sendiri perkhidmatan serasi RESP (contohnya Valkey — berlesen BSD-3 sejak 7.4, berbeza daripada Redis) dan aktifkan upstream melekit (`ip_hash`) yang telah disediakan dalam templat nginx. Tanpa backplane, tepat satu instans `klacks-api` berjalan, seperti pada setiap pemasangan hari ini.
-- **Profil negara:** Pemasang mengenali 30 profil: `ae`, `at`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Sesuatu profil menetapkan semasa permulaan pertama bahasa, negara/wilayah dan zon waktu, kalendar cuti umum, hujung minggu dan permulaan minggu, had waktu kerja, kelayakan cuti, elaun tambahan, sistem sasaran eksport gaji lalai (untuk Switzerland contohnya `abaconnect-ch`) serta templat industri — untuk Spitex contohnya templat peraturan perancangan "CH Spitex Standard". Tanpa profil, Klacks bermula secara neutral dan anda mengkonfigurasi semuanya secara manual.
+- **Profil negara:** Pemasang mengenali 32 profil: `ae`, `at`, `be`, `ch`, `cn`, `cz`, `de`, `dk`, `es`, `fi`, `fr`, `gb`, `gr`, `id`, `ie`, `il`, `it`, `jp`, `kr`, `li`, `my`, `nl`, `no`, `pl`, `pt`, `ro`, `sa`, `se`, `th`, `tw`, `us`, `vn`. Sesuatu profil menetapkan semasa permulaan pertama bahasa, negara/wilayah dan zon waktu, kalendar cuti umum, hujung minggu dan permulaan minggu, had waktu kerja, kelayakan cuti, elaun tambahan, sistem sasaran eksport gaji lalai (untuk Switzerland contohnya `abaconnect-ch`) serta templat industri — untuk Spitex contohnya templat peraturan perancangan "CH Spitex Standard". Tanpa profil, Klacks bermula secara neutral dan anda mengkonfigurasi semuanya secara manual.
 
 ---
 
