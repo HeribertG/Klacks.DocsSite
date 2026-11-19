@@ -11,7 +11,7 @@ Pachetul On-Premise pornește exclusiv ce este necesar pentru funcționare:
 
 | Serviciu | Imagine | Rol |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Baza de date; extensia vectorială este deja inclusă |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Baza de date; extensia vectorială este deja inclusă |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migrează și completează baza de date la pornire |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Interfața Angular, livrată prin nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | aplică actualizări semnate (api și ui împreună) |

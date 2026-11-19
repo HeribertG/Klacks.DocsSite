@@ -11,7 +11,7 @@ The on-premise package starts only what is needed for operation:
 
 | Service | Image | Purpose |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Database; the vector extension is already included |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Database; the vector extension is already included |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migrates and populates the database at start-up |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular interface, served via nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installs signed updates (api and ui together) |

@@ -11,7 +11,7 @@ Klacks ทำงานเป็น Docker stack บนเซิร์ฟเว�
 
 | บริการ | อิมเมจ | หน้าที่ |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | ฐานข้อมูล ส่วนขยายเวกเตอร์รวมมาให้แล้ว |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | ฐานข้อมูล ส่วนขยายเวกเตอร์รวมมาให้แล้ว |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | แบ็กเอนด์ ย้ายข้อมูลและเติมข้อมูลลงฐานข้อมูลตอนเริ่มต้น |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | หน้าจอใช้งาน Angular ให้บริการผ่าน nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | ติดตั้งการอัปเดตที่มีลายเซ็น (api และ ui พร้อมกัน) |

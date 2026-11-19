@@ -11,7 +11,7 @@ Klacks רצה כסטאק Docker על השרת שלכם. עמוד זה מתאר �
 
 | שירות | תמונה (Image) | תפקיד |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | מסד נתונים; הרחבת הווקטורים כלולה כבר |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | מסד נתונים; הרחבת הווקטורים כלולה כבר |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; מבצע מיגרציה ומאכלס את מסד הנתונים בעת ההפעלה |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | ממשק Angular, מוגש באמצעות nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | מחיל עדכונים חתומים (api ו-ui יחד) |

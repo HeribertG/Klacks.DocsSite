@@ -11,7 +11,7 @@ Pakiet On-Premise uruchamia wyłącznie to, co jest potrzebne do działania:
 
 | Usługa | Obraz | Zadanie |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Baza danych; rozszerzenie wektorowe jest już wbudowane |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Baza danych; rozszerzenie wektorowe jest już wbudowane |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; przy starcie migruje i wypełnia bazę danych |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Interfejs Angular, udostępniany przez nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | instaluje podpisane aktualizacje (api i ui razem) |

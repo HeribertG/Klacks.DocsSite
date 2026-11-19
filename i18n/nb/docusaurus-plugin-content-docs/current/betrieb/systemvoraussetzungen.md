@@ -11,7 +11,7 @@ On-Premise-pakken starter utelukkende det som trengs for driften:
 
 | Tjeneste | Image | Oppgave |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Database; vektorutvidelsen er allerede inkludert |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Database; vektorutvidelsen er allerede inkludert |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migrerer og fyller databasen ved oppstart |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular-grensesnitt, levert via nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installerer signerte oppdateringer (api og ui sammen) |

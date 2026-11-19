@@ -11,7 +11,7 @@ On-premise-paketet startar uteslutande det som behövs för driften:
 
 | Tjänst | Image | Uppgift |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Databas; vektortillägget ingår redan |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Databas; vektortillägget ingår redan |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migrerar och fyller databasen vid start |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular-gränssnitt, levereras via nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installerar signerade uppdateringar (api och ui tillsammans) |

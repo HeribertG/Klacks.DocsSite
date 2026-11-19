@@ -11,7 +11,7 @@ Le paquet on-premise ne démarre que ce qui est nécessaire à l'exploitation :
 
 | Service | Image | Rôle |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Base de données ; l'extension vectorielle est déjà incluse |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Base de données ; l'extension vectorielle est déjà incluse |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend ; migre et remplit la base de données au démarrage |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Interface Angular, servie via nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installe les mises à jour signées (api et ui ensemble) |

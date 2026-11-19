@@ -12,7 +12,7 @@ On-Premise balíček spouští výhradně to, co je pro provoz nutné:
 
 | Služba | Image | Úloha |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Databáze; vektorové rozšíření je již součástí |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Databáze; vektorové rozšíření je již součástí |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; při startu migruje a plní databázi |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular rozhraní, servírované přes nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | nasazuje podepsané aktualizace (api a ui společně) |

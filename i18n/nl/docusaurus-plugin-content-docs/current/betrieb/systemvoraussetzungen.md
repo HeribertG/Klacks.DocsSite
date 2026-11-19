@@ -11,7 +11,7 @@ Het on-premise-pakket start uitsluitend wat voor de werking nodig is:
 
 | Service | Image | Taak |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Database; de vectorextensie is al inbegrepen |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Database; de vectorextensie is al inbegrepen |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migreert en vult de database bij het starten |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular-interface, geleverd via nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installeert ondertekende updates (api en ui samen) |

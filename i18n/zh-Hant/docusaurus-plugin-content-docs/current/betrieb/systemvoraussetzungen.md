@@ -11,7 +11,7 @@ On-Premise 套件只啟動運行所需的內容：
 
 | 服務 | 映像檔 | 職責 |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | 資料庫；向量擴充功能已內建 |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | 資料庫；向量擴充功能已內建 |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | 後端；啟動時執行遷移並填入資料庫 |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular 介面，透過 nginx 提供 |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | 套用已簽署的更新（api 與 ui 一併更新） |

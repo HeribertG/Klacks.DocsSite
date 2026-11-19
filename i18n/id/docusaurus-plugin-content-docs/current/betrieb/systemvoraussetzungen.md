@@ -12,7 +12,7 @@ Paket On-Premise hanya memulai apa yang diperlukan untuk operasional:
 
 | Layanan | Image | Tugas |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Basis data; ekstensi vektor sudah termasuk |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Basis data; ekstensi vektor sudah termasuk |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; memigrasi dan mengisi basis data saat start |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Antarmuka Angular, disajikan melalui nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | memasang pembaruan bertanda tangan (api dan ui bersamaan) |

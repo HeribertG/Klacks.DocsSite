@@ -11,7 +11,7 @@ Gói On-Premise chỉ khởi động đúng những gì cần thiết cho vận 
 
 | Dịch vụ | Image | Nhiệm vụ |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Cơ sở dữ liệu; phần mở rộng vector đã được tích hợp sẵn |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Cơ sở dữ liệu; phần mở rộng vector đã được tích hợp sẵn |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; thực hiện migration và nạp dữ liệu vào cơ sở dữ liệu khi khởi động |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Giao diện Angular, được phân phối qua nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | cài đặt các bản cập nhật có chữ ký (api và ui cùng nhau) |

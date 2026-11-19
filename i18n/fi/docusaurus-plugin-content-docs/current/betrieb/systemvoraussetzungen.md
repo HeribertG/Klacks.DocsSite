@@ -11,7 +11,7 @@ On-Premise-paketti käynnistää yksinomaan sen, mitä käyttö vaatii:
 
 | Palvelu | Image | Tehtävä |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Tietokanta; vektorilaajennus sisältyy jo |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Tietokanta; vektorilaajennus sisältyy jo |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migroi ja täyttää tietokannan käynnistyksessä |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular-käyttöliittymä, jaellaan nginxin kautta |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | asentaa allekirjoitetut päivitykset (api ja ui yhdessä) |

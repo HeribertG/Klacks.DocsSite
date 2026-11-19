@@ -11,7 +11,7 @@ Il pacchetto on-premise avvia esclusivamente ciò che serve per l'esercizio:
 
 | Servizio | Immagine | Compito |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Database; l'estensione vettoriale è già inclusa |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Database; l'estensione vettoriale è già inclusa |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend; migra e popola il database all'avvio |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Interfaccia Angular, servita tramite nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | installa gli aggiornamenti firmati (api e ui insieme) |

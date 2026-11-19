@@ -11,7 +11,7 @@ Klacks는 사용자의 서버에서 Docker 스택으로 실행됩니다. 이 페
 
 | 서비스 | 이미지 | 역할 |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | 데이터베이스. 벡터 확장이 이미 포함되어 있습니다 |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | 데이터베이스. 벡터 확장이 이미 포함되어 있습니다 |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | 백엔드. 시작 시 데이터베이스를 마이그레이션하고 초기 데이터를 채웁니다 |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular 화면. nginx를 통해 제공됩니다 |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | 서명된 업데이트를 적용합니다(api와 ui를 함께) |

@@ -11,7 +11,7 @@ Klacks 以 Docker 服务栈的形式运行在您自己的服务器上。本页�
 
 | 服务 | 镜像 | 职责 |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | 数据库；向量扩展已内置 |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | 数据库；向量扩展已内置 |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | 后端；启动时迁移并填充数据库 |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angular 界面，通过 nginx 提供 |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | 应用签名更新（api 和 ui 一起） |

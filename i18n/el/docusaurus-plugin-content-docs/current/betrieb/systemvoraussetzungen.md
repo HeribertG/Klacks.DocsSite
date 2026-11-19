@@ -12,7 +12,7 @@ sidebar_position: 1
 
 | Υπηρεσία | Image | Ρόλος |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | Βάση δεδομένων· η επέκταση διανυσμάτων περιλαμβάνεται ήδη |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | Βάση δεδομένων· η επέκταση διανυσμάτων περιλαμβάνεται ήδη |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | Backend· εκτελεί migration και πληροί τη βάση δεδομένων κατά την εκκίνηση |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Διεπαφή Angular, που σερβίρεται μέσω nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | εφαρμόζει υπογεγραμμένες ενημερώσεις (api και ui μαζί) |

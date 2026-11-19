@@ -11,7 +11,7 @@ Klacksは、お客様自身のサーバー上でDockerスタックとして動�
 
 | サービス | イメージ | 役割 |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | データベース。ベクトル拡張は最初から含まれています |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | データベース。ベクトル拡張は最初から含まれています |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | バックエンド。起動時にデータベースのマイグレーションと初期データ投入を行います |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | Angularの画面。nginx経由で配信されます |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | 署名付きアップデートを適用します(apiとuiをまとめて) |

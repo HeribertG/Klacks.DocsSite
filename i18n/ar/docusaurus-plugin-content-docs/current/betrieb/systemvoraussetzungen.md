@@ -11,7 +11,7 @@ sidebar_position: 1
 
 | الخدمة | الصورة (Image) | المهمة |
 |---|---|---|
-| `klacks-postgres` | `pgvector/pgvector:pg17` | قاعدة البيانات؛ وامتداد المتجهات مضمَّن مسبقًا |
+| `klacks-postgres` | `ghcr.io/heribertg/klacks-postgres:19` | قاعدة البيانات؛ وامتداد المتجهات مضمَّن مسبقًا |
 | `klacks-api` | `ghcr.io/heribertg/klacks-api` | الواجهة الخلفية؛ تُرحِّل قاعدة البيانات وتعبئها عند البدء |
 | `klacks-ui` | `ghcr.io/heribertg/klacks-ui` | واجهة Angular، تُقدَّم عبر nginx |
 | `klacks-updater` | `ghcr.io/heribertg/klacks-updater` | يطبّق التحديثات الموقَّعة (api وui معًا) |
